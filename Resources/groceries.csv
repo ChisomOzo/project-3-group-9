@@ -1,0 +1,347 @@
+grocery_id,grocery_name,grocery_address,grocery_ratings,latitude,longitude
+1,H-E-B,"1000 E 41st St, Austin, TX 78751",3.5,30.300643,-97.719963
+2,TinyGrocer,"1718 S Congress Ave, Austin, TX 78704",5.0,30.246388,-97.751148
+3,Central Market - North Lamar,"4001 N Lamar Blvd, Austin, TX 78756",4.0,30.307620202110332,-97.739877
+4,ATX Food Mart,"3002 S Congress Ave, Austin, TX 78704",5.0,30.2324791,-97.7589722
+5,Dia's Market,"812 Justin Ln, Austin, TX 78757",4.5,30.3376016840199,-97.7205597010859
+6,Trader Joe's,"211 Walter Seaholm Dr, Ste 100, Austin, TX 78701",4.0,30.267503,-97.752792
+7,Trader Joe's,"9722 Great Hills Trl, Ste 200, Austin, TX 78759",4.5,30.395591,-97.751774
+8,Thom's Market,"1418 Barton Springs Rd, Austin, TX 78704",4.5,30.26165,-97.7596499
+9,Sprouts Farmers Market,"1201 Barbara Jordan Blvd, Bldg 7, Austin, TX 78723",5.0,30.30481807881571,-97.70957292775824
+10,Lake Austin H-E-B,"2652 Lake Austin Blvd, Austin, TX 78703",4.0,30.283790870543083,-97.77582070052492
+11,Wheatsville Food Co-op,"3101 Guadalupe St, Austin, TX 78705",4.5,30.297615041948,-97.7411398883378
+12,Whole Foods Market,"525 N Lamar Blvd, Austin, TX 78703",4.0,30.270598,-97.753388
+13,Fresh Plus Grocery,"2401 San Gabriel St, Ste 200, Austin, TX 78705",3.5,30.288525,-97.747467
+14,Central Market - Westgate,"4477 S Lamar Blvd, Austin, TX 78745",4.0,30.2312452493901,-97.7971665716953
+15,Native Grocery,"705 Tillery St, Austin, TX 78702",4.5,30.261115,-97.704171
+16,Royal Blue Grocery,"301 Brazos St, Ste 110, Austin, TX 78701",4.0,30.2649403,-97.742363
+17,Whole Foods Market,"901 E 5th St, Ste 100, Austin, TX 78702",3.5,30.26435,-97.73387
+18,H-E-B,"701 S Capital Of Texas Hwy, Bld C, West Lake Hills, TX 78746",4.0,30.291634,-97.824984
+19,Sprouts Farmers Market,"4006 S Lamar Blvd, Ste 400, Austin, TX 78704",3.5,30.237778,-97.7931274473668
+20,Wheatsville Food Co-op,"4001 S Lamar Blvd, Austin, TX 78704",4.0,30.235157,-97.791267
+21,H-E-B,"12400 W Hwy 71, Bee Cave, TX 78738",4.0,30.30475403415485,-97.9323213783832
+22,Fresh Plus Grocery,"2917 W Anderson Ln, Austin, TX 78757",4.0,30.35836,-97.739096
+23,Walmart Supercenter,"710 E Ben White Blvd, Austin, TX 78704",2.0,30.22093712901866,-97.75406387287777
+24,RiverCity Market,"2209 S Congress Ave, Austin, TX 78704",4.0,30.240873,-97.752353
+25,Natural Grocers,"4615 N Lamar Blvd, Ste 304, Austin, TX 78751",4.0,30.315320145152388,-97.73479321647704
+26,Tiny Grocer / Hyde Park,"4300 Speedway, Ste 101, Austin, TX 78751",4.5,30.30714615686456,-97.72995881534244
+27,H-E-B,"1801 E 51st St, Austin, TX 78723",3.5,30.3010001366711,-97.6986417777853
+28,Royal Blue Grocery - Rainey St,"51 Rainey St, Ste 120, Austin, TX 78701",4.0,30.257268944284256,-97.73922682394203
+29,Borinken Roots,"11800 N Lamar Blvd, Bldg 2, Austin, TX 78753",4.5,30.38835,-97.68406
+30,La Michoacana Meat Market,"9308 N Lamar Blvd, Austin, TX 78753",4.5,30.36222,-97.69832
+31,Fresh Plus Grocery,"1221 W Lynn St, Austin, TX 78703",4.0,30.28084,-97.75843
+32,Foxtrot,"4818 Burnet Rd, Austin, TX 78756",4.0,30.31950292313329,-97.73948736368708
+33,Trader Joe's,"2805 Bee Cave Rd, Austin, TX 78746",4.5,30.270137,-97.789814
+34,The Corner Market,"11010 Domain Dr, Ste 112, Austin, TX 78758",3.0,30.39678,-97.72702
+35,Madina Market Halal Meat and Grocery,"9200 N Lamar Blvd, Austin, TX 78753",4.0,30.3612270355225,-97.6985549926758
+36,H-E-B,"7015 Village Center Dr, Austin, TX 78731",3.5,30.3521976470947,-97.7553100585938
+37,Natural Grocers,"10515 N Mo-Pac Expy, Bldg L, Austin, TX 78759",4.0,30.3877438,-97.7330983
+38,Randalls,"2727 Exposition Blvd, Austin, TX 78703",3.0,30.3042649,-97.7638905
+39,Brookshire Brothers,"8087 Bronco Ln, Lago Vista, TX 78645",5.0,30.4816151,-97.9758133
+40,Fresh Plus Grocery,"408 E 43rd St, Ste B, Austin, TX 78751",4.0,30.3049913366415,-97.7263676075461
+41,West Campus Market,"714 W 22nd St, Austin, TX 78705",4.0,30.2851556436028,-97.7463495118539
+42,David's Food,"912 W Mary St, Austin, TX 78704",4.5,30.24835672074111,-97.76179740000065
+43,Kin's Market,"2605 Whitis Ave, Austin, TX 78705",4.0,30.29034,-97.73961
+44,H-E-B plus!,"2508 E Riverside Dr, Austin, TX 78741",2.5,30.236235761778573,-97.72225964451393
+45,Sprouts Farmers Market,"10225 Research Blvd, Ste 1000, Austin, TX 78759",3.5,30.39500642,-97.74473222
+46,Randalls,"10900 Research Blvd, Austin, TX 78759",3.0,30.40169,-97.74737
+47,Randalls,"5311 Balcones Dr, Austin, TX 78731",3.0,30.335611861849145,-97.75793716794732
+48,Randalls,"2025 W Ben White Blvd, Austin, TX 78704",2.5,30.22940247408598,-97.79002763306104
+49,Asahi Imports,"3005 S Lamar Blvd, Ste B-105B, Austin, TX 78704",5.0,30.2418,-97.78441
+50,Bluebonnet Food Mart,"1701 Bluebonnet Ln, Austin, TX 78704",4.5,30.254449,-97.771911
+51,Royal Blue Grocery - Congress Ave,"609 Congress Ave, Austin, TX 78701",4.5,30.26831,-97.74227
+52,El Rancho Supermercado,"8752 Research Blvd, Austin, TX 78757",3.5,30.365017,-97.719646
+53,The Shuk,"13450 Research Blvd, Ste 229, Austin, TX 78750",5.0,30.44693620307468,-97.79143117390431
+54,HEB Grocery,"7112 Ed Bluestein, Ste 125, Austin, TX 78723",1.5,30.3121048602258,-97.6647942750076
+55,H-E-B,"5808 Burnet Rd, Austin, TX 78756",3.5,30.33439,-97.74072
+56,Maha Market,"5212 Manchaca Rd, Austin, TX 78745",4.5,30.21887,-97.79554
+57,Randalls,"3300 Bee Caves Rd, West Lake Hills, TX 78746",3.5,30.274805,-97.799185
+58,Mlk Food Store,"2915 E Mlk Jr Blvd, Austin, TX 78702",4.5,30.281837683301937,-97.70782537374392
+59,Sprouts Farmers Market,"6920 Menchaca Rd, Austin, TX 78745",3.5,30.20237755,-97.80828067
+60,ALDI,"1415 Fm 685 Rd, Pflugerville, TX 78660",3.5,30.450123937095544,-97.6046932786744
+61,Quickie Pickie,"1208 E 11th St, Austin, TX 78702",4.0,30.268796,-97.727235
+62,H-E-B,"7301 N FM 620, Austin, TX 78726",3.5,30.40424,-97.851632
+63,Randalls,"1500 W 35th St, Austin, TX 78703",2.5,30.306604324216536,-97.7490172716112
+64,Whole Foods Market,"11920 Domain Dr, Austin, TX 78758",3.5,30.406373,-97.720033
+65,H-E-B,"6900 Brodie Ln, Austin, TX 78745",3.5,30.2172832489014,-97.8318252563477
+66,Hyridge Mart,"3503 Hyridge Dr, Austin, TX 78759",4.5,30.373924,-97.740928
+67,Avenue B Grocery & Market,"4403 Ave B, Austin, TX 78751",4.0,30.30904,-97.73142
+68,Quinta Caporales Meat Market,"730 W Stassney Ln, Ste 105, Austin, TX 78745",4.5,30.209724,-97.782669
+69,H-E-B,"10710 Research Blvd, Ste 200, Austin, TX 78759",3.0,30.39854444097272,-97.74835100237826
+70,Whole Foods Market,"9607 Research Blvd, Ste 300, Austin, TX 78759",3.5,30.3892321344632,-97.7415479392868
+71,Lamar Food Store,"1222 S Lamar Blvd, Austin, TX 78704",5.0,30.2542095184326,-97.7630615234375
+72,Whole Foods Market,"4301 W William Cannon, Austin, TX 78749",4.0,30.221506266265507,-97.84118178279492
+73,Walmart Supercenter,"2525 W Anderson Ln, Austin, TX 78757",2.5,30.355767639615067,-97.7345188735814
+74,Mosaic Market,"4600 Mueller Blvd, Ste 1031, Austin, TX 78723",4.5,30.2988211,-97.7072839
+75,Royal Blue Grocery - Austin,"1629 E 6th St, Austin, TX 78702",3.0,30.2624118564119,-97.7251811367381
+76,H-E-B,"12407 N Mopac Expy, Austin, TX 78758",3.0,30.417433713029823,-97.70290144112263
+77,H-E-B,"1434 Wells Branch Pkwy, Pflugerville, TX 78660",2.5,30.442713,-97.664119
+78,Walmart Supercenter,"1030 Norwood Park Blvd, Austin, TX 78753",1.5,30.338866127942687,-97.6898898729522
+79,Jester Market,"6507 Jester Blvd, Ste 101, Austin, TX 78750",4.0,30.370190810060443,-97.8001067674292
+80,Brew Market & Cafe,"3842 Airport Blvd, Austin, TX 78722",4.5,30.2889345304199,-97.7077427841472
+81,JD's Market,"7310 E Riverside Dr, Austin, TX 78741",3.0,30.220845912882385,-97.69375906869702
+82,Lamexicana Supermercado,"14236 Fm 969, Austin, TX 78728",3.0,30.24872,-97.584159
+83,H-E-B,"500 Canyon Ridge Dr, Austin, TX 78753",3.0,30.4054180035294,-97.6717526259497
+84,The Grove Market,"2601 Perseverance Dr, Austin, TX 78731",4.0,30.317860216411745,-97.7524503
+85,Randalls,"8040 Mesa Dr, Austin, TX 78731",3.0,30.3714899,-97.75810218451456
+86,H-E-B,"6607 S Ih 35, Austin, TX 78744",2.0,30.4935772114271,-97.922945022583
+87,Arlan's Market,"7108 Woodrow Ave, Austin, TX 78757",3.5,30.3430110486039,-97.7256112720475
+88,Mom's Taste,"6613 Airport Blvd, Austin, TX 78752",4.5,30.33096,-97.71514
+89,Orange Market 2,"2401 San Gabriel St, Ste 200, Austin, TX 78705",3.0,30.28842,-97.74746
+90,The Austinite Market - Barton Springs,"1017 Barton Springs Rd, Austin, TX 78704",4.0,30.25994,-97.75542
+91,H-E-B,"7901 US-290, Austin, TX 78736",3.5,30.22762706275207,-97.88786125604952
+92,Barton Hills Market,"1220 Barton Hills Dr, Austin, TX 78704",4.0,30.26169,-97.77508
+93,Marigold Market and Cafe,"7415 Southwest Pkwy, Bldg 6, Ste 100, Austin, TX 78735",4.5,30.254819093355863,-97.86695657169489
+94,épicerie ,"2307 Hancock Dr, Austin, TX 78756",4.0,30.3245258331299,-97.7436752319336
+95,Shahi Foods,"12410 N Lamar Blvd, Austin, TX 78753",3.0,30.4073207886441,-97.6791121229315
+96,La Michoacana,"6908 Cameron Rd, Austin, TX 78752",3.5,30.32472277880486,-97.69358092514764
+97,Cork & Brew Market,"2700 S Congress Ave, Austin, TX 78704",4.5,30.23542,-97.75681
+98,Royal Blue Grocery,"241 W 3rd St, Austin, TX 78701",4.0,30.265616,-97.7459139
+99,Westlake Grocery,"96 Redbud Trl, West Lake Hills, TX 78746",3.5,30.29225,-97.79779
+100,JD's Super Market,"9111 Fm 812, Austin, TX 78719",2.0,30.160302360267284,-97.68677093286686
+101,H-E-B Plus,"11521 FM-620 N, Austin, TX 78726",3.5,30.4546576970921,-97.8260099887848
+102,Foxtrot,"1804 S 1st St, Austin, TX 78704",3.5,30.24716,-97.75617
+103,Walmart Supercenter,"5017 W Hwy 290, Austin, TX 78735",2.5,30.232229820563504,-97.82327077434115
+104,Speedway Foodmart,"104 E 31st St, Austin, TX 78705",4.0,30.29519,-97.73654
+105,Mí Casa Market,"11700 Dessau Rd, Austin, TX 78754",3.5,30.376633,-97.659807
+106,Second Street Market,"200 San Jacinto Blvd, Austin, TX 78701",3.0,30.26369,-97.74193
+107,H-E-B,"8801 S Congress Ave, Austin, TX 78745",3.5,30.169096,-97.786775
+108,JD's Market,"14300 Dessau Rd, Pflugerville, TX 78660",4.0,30.415746,-97.633445
+109,Midtown Grocery,"7010 Easy Wind Dr, Ste A-180, Austin, TX 78752",3.5,30.3391595,-97.7183757
+110,Walmart Supercenter,"3701 N Main St, Taylor, TX 76574",1.5,30.598614879660783,-97.4181982728735
+111,Lucky Food Stores,"4327 S 1st St, Austin, TX 78745",5.0,30.2214,-97.77217
+112,Natural Grocers,"1335 E Whitestone Blvd, Bldg G-17, Cedar Park, TX 78613",4.5,30.527759,-97.815767
+113,H-E-B,"2701 E 7th St, Austin, TX 78702",2.5,30.26048,-97.71157
+114,Barton Creek,"2700 Barton Creek Blvd, Austin, TX 78735",4.5,30.28949,-97.871467
+115,H-E-B plus!,"5000 Gattis School Rd, Hutto, TX 78634",3.0,30.502584,-97.582422
+116,Royal Blue Grocery,"360 Nueces St, Austin, TX 78701",4.0,30.267680023868,-97.749376
+117,Randalls,"5145 N FM 620 Rd, Austin, TX 78732",3.0,30.389089,-97.886448
+118,Speedway Grocery,"3707 Speedway, Austin, TX 78705",4.0,30.30017,-97.73347
+119,Red River Market,"3213 Red River St, Austin, TX 78705",3.0,30.29173,-97.72658
+120,Los Hermanos Supermercado,"1200 W Howard Ln, Ste K, Austin, TX 78753",5.0,30.4240151,-97.6696899
+121,H-E-B,"2000 Ranch Rd 620 S, Lakeway, TX 78734",3.5,30.344884773798288,-97.9675808389914
+122,Lonestar Souvenir & Food Mart,"502 E 6th St, Austin, TX 78701",2.0,30.26703,-97.73792
+123,Brookshire Brothers,"14100 Ranch Road 12, Ste 1, Wimberley, TX 78676",3.5,29.99866,-98.09967
+124,General Store,"11003 Harris Branch Pkwy, Austin, TX 78754",2.5,30.3427238464355,-97.6127395629883
+125,El Milagro Tortillas,"905 E 7th St, Austin, TX 78702",5.0,30.26606176854099,-97.73281660561382
+126,West Gate Grocery,"2623 Jones Rd, Austin, TX 78745",4.0,30.2250328063965,-97.8033447265625
+127,Say Hi,"5249 Burnet Rd, Austin, TX 78756",4.5,30.32538,-97.7393
+128,Star Market Shell,"7930 Thaxton Rd, Austin, TX 78747",3.5,30.157529118847,-97.7444822341204
+129,Walmart Supercenter,"12900 No I-35 Svc Rd Sb, Austin, TX 78753",2.0,30.4133978063362,-97.6759532600842
+130,J & H Metromart,"4400 E Ben White Blvd, Austin, TX 78741",5.0,30.21571,-97.73414
+131,Mi Tienda,"8007 Gessner Dr, Austin, TX 78753",3.0,30.34361,-97.70195
+132,Whole Foods Market,"12601 Hill Country Blvd, Bee Cave, TX 78738",3.5,30.307525,-97.937572
+133,Angie's Discount Grocery,"206 W Bowman Rd, Round Rock, TX 78664",4.5,30.52491,-97.687192
+134,Mtm Indian Grocery & Fish Store,"9225 W Parmer Ln, Austin, TX 78717",4.0,30.47826,-97.76638
+135,Amazon Fresh Grocery Delivery,"Austin, TX 73301",5.0,30.21927071,-97.74898529
+136,ALDI,"926 W University Ave, Georgetown, TX 78626",4.0,30.632332,-97.6874081
+137,H-E-B,"598 E Hwy 290, Dripping Springs, TX 78620",3.5,30.19004425742985,-98.081732343508
+138,Any Day Grocery,"919 Springdale Rd, Austin, TX 78702",2.5,30.2609462738037,-97.6980667114258
+139,H E B Plus,"5401 S FM 1626, Kyle, TX 78640",3.5,30.01653293061912,-97.86163506831494
+140,Lakeway Market & Deli,"2114 Lakeway Blvd, Lakeway, TX 78734",4.5,30.3585357666016,-97.9784469604492
+141,Sprouts Farmers Market,"1530 Cypress Creek Rd, Cedar Park, TX 78613",3.5,30.47900754,-97.83212096
+142,JD'S Supermarket,"6214 E Riverside Dr, Austin, TX 78741",4.0,30.225308,-97.703578
+143,Walnut Market 1,"1900 E Anderson Ln, Austin, TX 78752",5.0,30.33033,-97.67983
+144,The Bread Basket Food Store,"2213 Justin Ln, Austin, TX 78757",3.5,30.344621,-97.736396
+145,H-E-B plus!,"14028 N US Hwy 183, Austin, TX 78717",3.5,30.478008,-97.803313
+146,Walmart Supercenter,"13201 Ranch Rd 620 N, Austin, TX 78717",2.0,30.467399989850815,-97.7894659037776
+147,Lowe's Market - Lago Vista,"7708 Lohman Ford Rd, Lago Vista, TX 78645",2.5,30.474688692106664,-97.9767413
+148,Tomgro Grocery,"1313 Montopolis Dr, Austin, TX 78741",3.5,30.23016,-97.69963
+149,Walnut Market 2,"5517 Cameron Rd, Austin, TX 78723",5.0,30.3259633026473,-97.7113136893267
+150,H-E-B,"5800 W Slaughter Ln, Austin, TX 78749",3.5,30.202543258667,-97.8768997192383
+151,H-E-B,"9414 N Lamar Blvd, Austin, TX 78753",2.0,30.364689,-97.69807
+152,Lone Star Family Food Market,"7110 Cameron Rd, Austin, TX 78752",1.0,30.32587,-97.693233
+153,Quality Halal Market,"12920 W Parmer Ln, Cedar Park, TX 78613",3.5,30.53189,-97.780044
+154,Rancho Grande Supermercado,"4604 Teri Rd, Austin, TX 78744",2.0,30.196730577056712,-97.74304959923028
+155,H-E-B,"2110 W Slaughter Ln, Austin, TX 78748",3.0,30.1752585669302,-97.8251713969868
+156,H-E-B plus!,"1700 E Palm Valley Blvd, Round Rock, TX 78664",3.0,30.519377467713024,-97.65853663181709
+157,Supermercado El Rancho,"6800 Berkman Dr, Austin, TX 78723",3.5,30.320284,-97.690481
+158,H-e-b,"12021 W US 290, Austin, TX 78737",4.5,30.21032,-97.96969
+159,Jd's Market,"11720 F M 1826, Austin, TX 78737",3.5,30.1926570255652,-97.9255728341071
+160,Walmart Supercenter,"1320 W Hwy 290, Elgin, TX 78621",1.5,30.34958959640761,-97.39009654360366
+161,H-E-B,"3750 Gattis School Rd, Round Rock, TX 78664",3.5,30.499733,-97.615318
+162,Thom's Market,"5901 Burnet Rd, Austin, TX 78757",4.0,30.334944460529233,-97.7393197963012
+163,H-E-B,"6001 W Parmer Ln, Austin, TX 78727",3.5,30.4420668,-97.7437162
+164,H-E-B,"12400 W Hwy 71, Bee Cave, TX 78738",4.0,30.304753904241608,-97.93232275688597
+165,Hamilton Market,"18901 Hamilton Pool Rd, Dripping Springs, TX 78620",3.5,30.286217,-98.065871
+166,Texas Market,"720 Lamar Pl, Austin, TX 78752",2.5,30.33172,-97.72229
+167,Cuban Groceries,"15424 Farm To Market Rd 1825, Ste 250, Pflugerville, TX 78660",5.0,30.44883344447064,-97.66305556276724
+168,H-E-B,"1080 Hwy 290 E, Elgin, TX 78621",3.0,30.346357578087,-97.384018823919
+169,Randalls,"2051 Gattis School Rd, Round Rock, TX 78664",3.0,30.4950044,-97.6541185
+170,Hudson Bend Grocery,"5001 Hudson Bend Rd, Austin, TX 78734",4.5,30.4125366210938,-97.9267196655273
+171,Randalls,"2301 Ranch Rd 620 S, Lakeway, TX 78734",3.0,30.34142069660365,-97.96638250239988
+172,Walmart Supercenter,"9300 S Interstate 35, Ste B, Austin, TX 78748",1.5,30.164974529308523,-97.78997620378522
+173,Sprouts Farmers Market,"110 N Interstate 35 Frontage Rd, Ste 299, Round Rock, TX 78681",3.5,30.50799677,-97.6870205
+174,H-E-B,"2800 E Whitestone Blvd, Cedar Park, TX 78613",4.0,30.53228259320416,-97.7851818262293
+175,E-Z Stop Grocery,"5029 Manor Rd, Austin, TX 78723",4.0,30.2977,-97.68693
+176,Apple Mart,"2101 Wickersham Ln, Ste A, Austin, TX 78741",2.5,30.23178,-97.72016
+177,Cedar Valley Grocery,"12009 W Highway 290, Austin, TX 78737",2.5,30.211083,-97.967911
+178,H-E-B,"12860 Research Blvd, Austin, TX 78750",3.0,30.43409,-97.77229
+179,Mom's Grocery,"1425 E Rundberg Ln, Ste 100, Austin, TX 78753",4.0,30.35066,-97.67648
+180,Paleface Grocery,"3611 Pace Bend Rd S, Spicewood, TX 78669",3.0,30.385257,-98.085196
+181,Mets Food Mart,"2800 W William Cannon Dr, Austin, TX 78745",4.0,30.2082996368408,-97.8174819946289
+182,Dollar General,"5000 Springdale Rd, Austin, TX 78723",3.0,30.2934404,-97.6781693
+183,Sambass Market,"2111 Sam Bass Rd, Round Rock, TX 78681",4.5,30.525602,-97.710561
+184,Oskis Food Store,"20602 Fm 1431, Lago Vista, TX 78645",4.0,30.4745693,-97.9738922
+185,Marshall Ford Food Mart,"4610 Ranch Road 620 N, Austin, TX 78732",4.0,30.38983,-97.89069
+186,H-E-B,"7301 N Fm 620, Austin, TX 78726",3.5,30.404463,-97.851482
+187,Double R Grocery,"4501 E Martin Luther King Jr Blvd, Austin, TX 78721",2.0,30.28523,-97.68431
+188,Lytton Springs General Store,"8573 Fm 1854, Dale, TX 78616",5.0,30.00333,-97.61209
+189,H-E-B,"2000 Ranch Road 620 S, Lakeway, TX 78734",4.0,30.344881779589507,-97.96757921215492
+190,Afriqmart,"2700 W Pecan St, Ste 203, Pflugerville, TX 78660",3.5,30.45068738385273,-97.65685725952213
+191,Slr Grocery & Center,"2024 Lohman Ford Rd, Leander, TX 78645",4.0,30.451278,-97.97936
+192,Speedy Stop,"6111 Bee Cave Rd, Austin, TX 78746",3.0,30.295724,-97.82994
+193,JD's Supermarket,"9111 Farm To Market 1327, Austin, TX 78719",1.0,30.1402359008789,-97.6727981567383
+194,Super Mercado Mexicana,"701 Masterson Pass, Austin, TX 78753",4.0,30.370516,-97.691676
+195,Viva Food Mart,"8610 N Lamar Blvd, Austin, TX 78753",1.0,30.35503,-97.7038
+196,Webberville Grocery,"19111 Fm 969, Manor, TX 78653",2.5,30.22881,-97.51613
+197,Taj Grocery,"1601 S Interstate 35, Ste 310, Round Rock, TX 78664",3.5,30.495260259996375,-97.67689811348976
+198,Hill Country Food Mart,"13908 W Highway 71, Austin, TX 78738",4.0,30.3095417022705,-97.9614028930664
+199,Minimax Food Store,"10412 Fm 969, Austin, TX 78724",3.0,30.26353,-97.62145
+200,Pleasant Valley Market,"5405 S Pleasant Valley Rd, # E, Austin, TX 78744",3.0,30.19345,-97.74415
+201,H-E-B Pharmacy,"6607 S Ih 35, Austin, TX 78744",2.0,30.188711,-97.768688
+202,TXB,"21024 Hwy 71 W, Spicewood, TX 78669",3.5,30.35217,-98.06309
+203,H-E-B,"651 N Hwy 183, Leander, TX 78641",3.0,30.58426802719467,-97.8577989
+204,Zoe Market,"200 Main St, Buda, TX 78610",4.5,30.08198476027864,-97.84304207991414
+205,Walmart Supercenter,"11923 US Hwy 290 E, Manor, TX 78653",2.5,30.347653605515553,-97.54390017433688
+206,Randalls,"9911 Brodie Ln, Austin, TX 78748",3.0,30.18407805382066,-97.84757407807112
+207,All Star Grocery,"4619 S Congress Ave, Ste I, Austin, TX 78745",1.0,30.21522,-97.76809
+208,JD's Super Market #12,"6759 FM 535, Cedar Creek, TX 78612",1.0,30.14016,-97.56724
+209,H-E-B,"7112 Ed Bluestein Blvd, Austin, TX 78723",2.0,30.312379601321357,-97.66523975515224
+210,Los Amigos Meat Market,"15812 Windermere Dr, Pflugerville, TX 78660",4.5,30.4475727081299,-97.6491012573242
+211,H-E-B,"1010 W University Ave, Georgetown, TX 78628",3.0,30.63566552774988,-97.6949850728694
+212,Al's Food Mart,"3503 Webberville Rd, Austin, TX 78702",3.0,30.27034,-97.70583
+213,Aapka Bazaar,"1601 S I-35 Frontage Rd, Round Rock, TX 78664",5.0,30.494454,-97.676671
+214,H-E-B,"100 Carlos G Parker Blvd NW, Ste 100, Taylor, TX 76574",2.0,30.602274103725232,-97.4185963334406
+215,La Hacienda Market,"1812 Payton Gin Rd, Austin, TX 78758",3.5,30.36621,-97.71707
+216,Creedmoor Country Grocery,"12510 F M 1625, Austin, TX 73301",3.0,30.0862580537796,-97.7350247651339
+217,Teri Food Mart,"2008 Teri Rd, Austin, TX 78744",5.0,30.2025241851807,-97.7523422241211
+218,Whole Foods Market,"5001 183 Toll Rd, Cedar Park, TX 78613",3.5,30.535625382580942,-97.81767839
+219,Fuel Food & More,"4415 Manchaca Rd, Austin, TX 78745",1.5,30.2283763885498,-97.7888717651367
+220,Hutto Food Mart,"206 Highway 79, Hutto, TX 78634",5.0,30.54318,-97.54794
+221,H-E-B,"603 Louis Henna Blvd, Bldg A, Round Rock, TX 78664",3.5,30.4807934,-97.659244
+222,La Plaza Market,"2100 S Austin Ave, Georgetown, TX 78626",4.0,30.6240637439288,-97.6797910407186
+223,Rolling In Thyme & Dough,"333 W Hwy 290, Dripping Springs, TX 78620",4.5,30.1912259316863,-98.0904798510681
+224,Walmart Supercenter,"4700 E Palm Valley Blvd, Round Rock, TX 78665",2.0,30.533879,-97.611333
+225,La Hacienda Market,"9717 N Lamar Blvd, Ste A4, Austin, TX 78753",4.0,30.366718,-97.694134
+226,Leander Grocery,"307 S Hwy 183, Leander, TX 78641",5.0,30.575435163513024,-97.85192117611795
+227,La Mexicana Store,"2790 Goforth Rd, Kyle, TX 78640",2.0,30.0025196,-97.8257904
+228,Minis Food Mart,"4429 Duval St, Austin, TX 78751",1.0,30.30669,-97.72445
+229,T M Capital Food Mart,"8911 N Lamar Blvd, Austin, TX 78753",4.0,30.35792,-97.69955
+230,H-E-B,"16900 N Ranch Rd 620, Round Rock, TX 78681",3.5,30.500585,-97.722806
+231,H-E-B Foods,"15300 S I H 35, Buda, TX 78610",3.5,30.08842,-97.820113
+232,Alfason African Market,"13010 West Parmer Ln, Ste 400, Cedar Park, TX 78613",5.0,30.53364339812088,-97.7810355
+233,Duron Grocery Store,"135 Stony Creek Dr, Del Valle, TX 78617",5.0,30.1342277526855,-97.5677185058594
+234,Hutto Grocery Store,"550 S Fm 1660, Hutto, TX 78634",1.5,30.5353483557701,-97.5433541089296
+235,Conoco,"310 E Rundberg Ln, Austin, TX 78753",1.0,30.36019,-97.69153
+236,Dana Bazaar,"14900 Avery Ranch Blvd, Ste A 150, Austin, TX 78717",3.5,30.49835,-97.77783
+237,Harris Branch General Store,"11003 Harris Branch Pkwy, Manor, TX 78653",1.5,30.3427238464355,-97.6127395629883
+238,U-Pak-M,"11940 Manchaca Rd, Ste 101, Austin, TX 78748",4.0,30.1457974460149,-97.8335337619955
+239,Randalls,"1400 Cypress Creek Rd, Cedar Park, TX 78613",2.5,30.482772320500175,-97.82958953720846
+240,Haven Food Mart,"614 E Saint Johns Ave, Austin, TX 78752",1.5,30.33381,-97.70557
+241,Oak Farms Dairy,"1819 Rutland Dr, Austin, TX 78758",1.5,30.3783,-97.71177
+242,Lone Star Family Food Market,"2009 Airport blvd, Austin, TX 78721",3.0,30.2837346,-97.7042287
+243,Cedar Market,"18900 A Heatherwild, Pflugerville, TX 78660",2.0,30.4806240594953,-97.6163903054524
+244,Walmart Supercenter,"2801 E Whitestone Blvd, Cedar Park, TX 78613",3.0,30.53544,-97.786669
+245,Randalls,"3441 N Lakeline Blvd, Leander, TX 78641",2.5,30.543047,-97.865239
+246,Dripping Springs Grocery,"601 W Highway 290, Dripping Springs, TX 78620",3.5,30.191607554394263,-98.0943225
+247,Carters Grocery,"1301 N Avenue C, Elgin, TX 78621",1.0,30.35616,-97.38388
+248,H-E-B,"170 E Whitestone Blvd, Cedar Park, TX 78613",3.0,30.5220691521835,-97.8285845410004
+249,Yager Food Store,"1006 E Yager Ln, Ste 201B, Austin, TX 78753",3.0,30.391294353161715,-97.65938748542376
+250,Anand Bazar,"2121 W Parmer Ln, Ste 108, Austin, TX 78727",2.5,30.41578,-97.69728
+251,Dollar General,"1500 S Heatherwilde Blvd, Pflugerville, TX 78660",4.0,30.43370212311945,-97.6507813434362
+252,Hayley's Grains,"120 W 2nd St, Ste G, Taylor, TX 76574",4.0,30.5690420259714,-97.41054019264828
+253,Walmart Supercenter,"12900 N 135 Svc Rd Sb, Austin, TX 78701",2.0,30.2221917410368,-97.7591969694336
+254,Crystal Food Mart,"18801 Weis Ln, Pflugerville, TX 78660",3.0,30.4496648726117,-97.5592382385784
+255,La Mexicana Market,"5717 S Ih C180, Austin, TX 78744",4.0,30.1970299196838,-97.7625804394484
+256,Manor Grocery,"101 N Main, Manor, TX 78653",2.0,30.3487242758274,-97.3707948625088
+257,Wag-A-Bag,"2499 Sunrise Rd, Round Rock, TX 78664",4.5,30.53837,-97.66788
+258,Walmart Supercenter,"2701 S Interstate 35, Round Rock, TX 78664",1.5,30.483114,-97.669778
+259,H-E-B,"15300 S IH-35, Buda, TX 78610",3.0,30.08746,-97.82029
+260,Double R Grocery,"1149 Airport Blvd, Austin, TX 78702",2.0,30.2730407714844,-97.6973190307617
+261,Shadowgen Food Mart,"14001 Shadow Glen Blvd, Ste I, Manor, TX 78653",2.5,30.35021,-97.5471
+262,E-Z Stop Groceries & Gas,"5029 Manor Rd, Austin, TX 78723",4.0,30.2977009,-97.6869278
+263,Texaco Hamilton Market,"18703-18999 Hamilton Pool Rd, Dripping Springs, TX 78620",1.5,30.2862594480121,-98.0657076657156
+264,Quikie Pickie Stores,"13000 Fm 812, Del Valle, TX 78617",1.0,30.129997253418,-97.643310546875
+265,Natural Grocers,"1301 W University Ave, Georgetown, TX 78628",3.0,30.63216,-97.70087
+266,Wag-A-Bag,"705 E Palm Valley Blvd, Round Rock, TX 78664",5.0,30.5180816650391,-97.671257019043
+267,H-E-B,"19348 Ronald W Reagan Blvd, Leander, TX 78641",2.5,30.632552219118637,-97.82529808888349
+268,La Hacienda,"6425 S I H 35, Austin, TX 78744",2.5,30.1906470306342,-97.7679589390755
+269,Ez Stop,"1200 Kramer Ln, Austin, TX 78758",2.5,30.3829,-97.69435
+270,Arlan's Market,"6305 Cameron Rd, Austin, TX 78723",2.5,30.3208332061768,-97.689826965332
+271,Walmart,"5754 Kyle Pkwy, Kyle, TX 78640",1.5,30.010039,-97.859129
+272,Cavalier Food Market,"509 S F M 620, Austin, TX 78733",1.0,30.32178,-97.8951
+273,Mr Jims Grocery,"302 Loop 212 Murray Avew, Manor, TX 78653",1.0,30.347733,-97.558546
+274,Saritas Meat Market,"1724 N Mays St, Round Rock, TX 78664",5.0,30.52396,-97.6865
+275,Dollar General,"6800 W Gate Blvd, Ste 115, Austin, TX 78745",2.5,30.20919,-97.8158
+276,High Country Market & GastroPub,"3701 Gattis School Rd, Round Rock, TX 78664",3.5,30.4968062,-97.6163901
+277,Walmart Supercenter,"690 Old San Antonio Rd, Buda, TX 78610",2.0,30.08638484646935,-97.82489837288432
+278,Dollar General,"1147 Hwy 21 W, Cedar Creek, TX 78612",1.0,30.085926,-97.49624
+279,Valero,"1779 Wells Branch Pkwy, Austin, TX 78728",2.0,30.4354548880131,-97.6749103335894
+280,Prince Food Mart,"1101 N Main St, Taylor, TX 76574",4.0,30.5773334503174,-97.410758972168
+281,Hollingsworth Corner Exxon & General Store,"9418 E State Hwy 71, Spicewood, TX 78669",1.5,30.461981,-98.159584
+282,Wag-A-Bag Grocery No 3,"602 E University Ave, Georgetown, TX 78626",4.5,30.6332590430975,-97.6716569066048
+283,H-E-B,"598 EHwy Us 290, Dripping Springs, TX 78620",3.5,30.189511,-98.081328
+284,H-E-B,"1080 US 290, Elgin, TX 78621",1.5,30.346150259699,-97.384050978081
+285,Dollar General,"4800 ROSS RD, Del Valle, TX 78617",1.5,30.182456,-97.613009
+286,Dollar General,"6729 Manor Road, Austin, TX 78723",2.0,30.311161,-97.66567
+287,Red Rock General Store & Feed,"106 Lentz Main St, Red Rock, TX 78662",3.5,29.95932,-97.4468799
+288,Dollar General,"108 ROYAL RD, Cedar Creek, TX 78612",1.0,30.046892,-97.544153
+289,Step-In Grocery,"7309 Cameron Rd, Austin, TX 78752",4.5,30.328454,-97.69016
+290,Kountry Kitchen At Hollingsworth Corner,"9418 E State Highway 71, Spicewood, TX 78669",2.5,30.462226,-98.15969
+291,Dollar General,"501 W FRONT ST, Hutto, TX 78634",3.0,30.5411,-97.5498
+292,Dollar General,"8017 BRONCO LN, Lago Vista, TX 78645",2.5,30.478683,-97.97374
+293,Dollar General,"9600 Manchaca Rd, Austin, TX 78748",2.5,30.176622,-97.823044
+294,Dollar General,"9616 N Lamar Blvd, Ste 120, Austin, TX 78753",2.0,30.367004,-97.696081
+295,Crystal Food Mart,"1320 Chisholm Valley Dr, Round Rock, TX 78681",3.0,30.488571,-97.695518
+296,Walmart Supercenter,"620 S Interstate 35, Georgetown, TX 78628",2.0,30.64509647354915,-97.69195117287084
+297,Dollar General,"850 VETERANS DR, Kyle, TX 78640",2.5,29.996379,-97.88441
+298,MP Halal Meat Market & Mediterranean Grocery,"13945 US-183, Austin, TX 78717",4.0,30.471985144130983,-97.79692434111077
+299,Kwik Chek,"14620 Ranch Rd 12, Wimberley, TX 78676",4.5,30.0045592443297,-98.1024182784975
+300,Dollar General,"709 W STASSNEY LN, Austin, TX 78745",3.0,30.208337,-97.783273
+301,Dollar General,"11801 OLD 2243 W, Leander, TX 78641",2.0,30.577376,-97.868187
+302,Mi Rancho Meat Market Kyle Texas,"1095 Windy Hill Rd, Kyle, TX 78640",3.0,30.0321754158793,-97.8302750279368
+303,Calkins Country Store,"22657 Nameless Rd, Leander, TX 78641",1.0,30.5695343017578,-97.9432525634766
+304,Sac-N-Pac Stores,"6200 Jack C Hays Trl, Kyle, TX 78640",1.0,30.0129871368408,-97.891731262207
+305,Dollar General,"2400A W Hwy 290, Dripping Springs, TX 78620",2.5,30.2061862,-98.123419
+306,Dollar General,"6010 E RIVERSIDE DR, Austin, TX 78741",3.0,30.226938,-97.70643
+307,Family Grocery,"618 Fm 685, Pflugerville, TX 78660",1.0,30.44241,-97.6105
+308,Dollar General,"6600 FM 969, Austin, TX 78724",2.5,30.28466,-97.6572
+309,Walmart Supercenter,"1548 Fm 685, Pflugerville, TX 78660",2.0,30.453396991685327,-97.60671297432933
+310,Dollar General,"1401 S. Pleasant Valley Rd., Austin, TX 78741",1.0,30.239464,-97.718258
+311,Dollar General,"825 E Rundberg Ln, Ste G1, Austin, TX 78753",2.0,30.35667,-97.68704
+312,Dollar General,"13712 FM 969, Austin, TX 78724",1.0,30.2502322716997,-97.58798739888216
+313,La Hacineda Meat Market,"730 W Stassney Ln, Ste 105, Austin, TX 78745",2.0,30.209817,-97.78204
+314,Dollar General,"13903 Fm 812 Rd, Del Valle, TX 78617",1.0,30.12034,-97.63628
+315,Un Dollar Y Mas,"2798 Goforth Rd, Kyle, TX 78640",2.5,30.0028685005984,-97.8252419367844
+316,Schwans,"1200 N Industrial Blvd, Round Rock, TX 78681",1.0,30.52219,-97.69473
+317,Hemisphere Market Pl & Cafe,"28000 Ranch Rd 12, Dripping Springs, TX 78620",2.0,30.19918,-98.08646
+318,Dollar General,"5002 Nuckols Crossing Rd, Austin, TX 78744",3.0,30.195462,-97.738213
+319,Dollar General,"12320 Dessau Rd, Austin, TX 78754",1.5,30.389364,-97.648032
+320,Dollar General,"7916 DECKER LANE, Austin, TX 78724",3.0,30.305067,-97.619675
+321,Quick Trip,"100 Pecan St W, Pflugerville, TX 78660",3.0,30.44026,-97.62102
+322,Walmart Grocery Pickup,"13201 Ranch Road 620 N, Austin, TX 78717",1.0,30.46944,-97.79008
+323,Woody's Market,"1251 University Blvd, Round Rock, TX 78665",1.5,30.56729,-97.66269
+324,Dollar General,"116 W LAKE DR, Taylor, TX 76574",1.0,30.58397,-97.41272
+325,Dollar General,"2205 W PECAN STREET, Pflugerville, TX 78660",3.0,30.445314,-97.650769
+326,La Hacienda Market-Cameron,"7517 Cameron Rd, Austin, TX 78752",1.0,30.32908,-97.68926
+327,Wag-A-Bag,"1200 S Interstate 35, Round Rock, TX 78681",4.0,30.498183,-97.681734
+328,Wag-A-Bag No 7,"1490 E Old Settlers Blvd, Round Rock, TX 78664",5.0,30.5391998291016,-97.6689910888672
+329,Dollar General,"13903 FM 812 RD, Del Valle, TX 78617",1.0,30.12093,-97.63596
+330,Dollar General,"19301 FM 969, Webberville, TX 78653",1.0,30.2251,-97.512775
+331,Wag-A-Bag,"2704 Sunrise Rd, Round Rock, TX 78664",4.5,30.53961629218432,-97.6691564609222
+332,Dollar General,"2802 S BAGDAD RD, Leander, TX 78641",1.5,30.53988,-97.84845
+333,Dollar General,"4010 F M RD 1327 BLDG B, Creedmoor, TX 78610",2.0,30.0966,-97.74659
+334,Dollar General,"100 W 2ND ST, Elgin, TX 78621",3.5,30.349568,-97.371538
+335,Dollar General,"3100 WINDY HILL RD, Buda, TX 78610",1.5,30.04159,-97.803773
+336,Dollar General,"12750 La Poynor St, Manor, TX 78653",1.5,30.335771611156677,-97.55967064112896
+337,Dollar General,"770 WINDY HILL ROAD, Kyle, TX 78640",1.0,30.031059,-97.836095
+338,Park N Sak II,"1410 W Whitestone Blvd, Cedar Park, TX 78613",2.0,30.51467,-97.8492799
+339,Wag A Bag,"1200 S Interstate 35, Round Rock, TX 78681",5.0,30.498186,-97.681735
+340,Dollar General,"17545 CAMINO REAL, Mustang Ridge, TX 78610",1.0,30.030912,-97.676214
+341,Shop N Carry,"8514 S Congress Ave, Austin, TX 78745",2.5,30.173422,-97.785505
+342,Dollar General,"801 E FM 150, Kyle, TX 78640",2.0,29.977259,-97.863857
+343,Wag-A-Bag,"408 Hwy 79 West, Hutto, TX 78634",1.5,30.543047,-97.550041
+344,Dollar General,"2132 N Mays St, Ste 910, Round Rock, TX 78664",2.0,30.531393,-97.690269
+345,Wag-A-Bag,"801 S Mays St, Round Rock, TX 78664",4.0,30.50217,-97.6761
+346,Dollar General,"1351 CHRIS KELLEY BLVD, Hutto, TX 78634",2.5,30.521302,-97.569248

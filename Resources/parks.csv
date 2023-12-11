@@ -1,0 +1,471 @@
+park_id,park_name,park_address,park_ratings,latitude,longitude
+1,Pease Park,"1100 Kingsburry St, Austin, TX 78799",4.5,30.2814184854499,-97.7519342775779
+2,Zilker Park,"2100 Barton Springs Rd, Austin, TX 78704",4.5,30.266852457650774,-97.77584897644836
+3,Town Lake Metropolitan Parks,"Austin, TX 78701",5.0,30.2708947256967,-97.7648599185516
+4,Mueller Lake Park,"4550 Mueller Blvd, Austin, TX 78723",4.5,30.3051045,-97.7034921
+5,Barton Creek Greenbelt,"3755-B Capital Of Texas Hwy, Austin, TX 78704",4.5,30.24718379864387,-97.8126878589384
+6,Mount Bonnell,"3800 Mt Bonnell Rd, Austin, TX 78731",4.5,30.32104,-97.7735299
+7,McKinney Falls State Park,"5808 Mckinney Falls Pkwy, Austin, TX 78744",4.0,30.183657949062724,-97.72219172161893
+8,Tom Hughes Park,"12714 Hughes Park Rd, Austin, TX 78732",4.5,30.397140424988013,-97.88055499078057
+9,Northwest District Park,"7000 Ardath St, Austin, TX 78757",4.5,30.3491338250166,-97.7399307005363
+10,Mayfield Park,"3505 W 35th St, Austin, TX 78703",4.5,30.3124609,-97.77061702270184
+11,Walnut Creek Metropolitan Park,"12138 N Lamar Blvd, Austin, TX 78758",4.5,30.3991227,-97.6794893
+12,Alliance Children’s Garden,"1000 Barton Springs Rd, Butler Park, Austin, TX 78704",5.0,30.26188388845148,-97.7543280467874
+13,Hippie Hollow Park,"7000 Comanche Trl, Austin, TX 78732",4.0,30.414265696199134,-97.88651177462158
+14,Lou Neff Point,"Ann And Roy Butler Hike And Bike Trl, Austin, TX 78746",4.5,30.2671341668385,-97.7619591727853
+15,Emma Long Metropolitan Park,"1600 City Park Rd, Austin, TX 78730",4.0,30.3318538,-97.8368792
+16,Jacobs Well Natural Area,"1699 Mt Sharp Rd, Wimberley, TX 78676",4.5,30.039093,-98.126352
+17,Commons Ford Ranch Metropolitan Park,"614 Commons Ford Rd, Austin, TX 78733",4.0,30.336394,-97.89123
+18,St Edwards Park,"7301 Spicewood Springs Rd, Austin, TX 78798",4.0,30.407987,-97.791113
+19,Roy G Guerrero Colorado River Park,"400 Grove Blvd, Austin, TX 78741",4.5,30.241888,-97.701233
+20,Dick Nichols District Park,"8011 Beckett Rd, Austin, TX 78749",4.5,30.21241178551917,-97.85989020429074
+21,Ramsey Park and Pool,"4301 Rosedale Ave, Austin, TX 78756",4.5,30.31329,-97.74388
+22,Waterloo Greenway,"1111 Red River, Austin, TX 78701",5.0,30.2715314,-97.7349442
+23,Shipe Park,"4400 Avenue G, Austin, TX 78751",4.0,30.30709,-97.72748
+24,Arboretum Duck Pond,"10000 Research Blvd, Austin, TX 78759",3.5,30.39282,-97.74701
+25,East Metropolitan Park,"18701 Blake Manor Rd, Manor, TX 78653",4.5,30.2883655,-97.5230464
+26,Rollingwood Municipal Park,"403 Nixon Dr, Austin, TX 78746",4.5,30.2753506052199,-97.7882679431099
+27,Little Stacy Park,"1400 Alameda Dr, Austin, TX 78704",4.5,30.2466114390986,-97.7433443069458
+28,Mansfield Dam Park,"4370 Mansfield Dam Rd, Austin, TX 78734",3.5,30.3963945060968,-97.9112076759338
+29,Lindshire Park,"10228 Lindshire Ln, Austin, TX 78748",4.5,30.1748806,-97.8409345
+30,Walter E Long Park,"6614 Blue Buff Rd, Austin, TX 78724",4.0,30.2823591,-97.6088665
+31,Katherine Fleischer Park,"2106 Klattenhoff Dr, Austin, TX 78728",4.5,30.44278874357317,-97.67894364417756
+32,Adams-Hemphill Park,"201 W 30th St, Austin, TX 78705",4.0,30.29469,-97.73864
+33,Pace Bend Park,"2805 Pace Bend Rd, Spicewood, TX 78734",4.0,30.45965090180453,-98.0192471
+34,Brushy Creek Lake Park,"3300 Brushy Creek Rd, Austin, TX 78717",4.5,30.508243709805516,-97.77223421165657
+35,Mary Moore Searight Metropolitan Park,"907 Slaughter Ln, Austin, TX 78748",4.5,30.16397902944643,-97.80756535751914
+36,Bull Creek Greenbelt,"7806 N Capital Of Texas Hwy, Austin, TX 78731",4.5,30.3781,-97.78014
+37,Dittmar Recreation Center,"1009 W Dittmar Rd, Austin, TX 78745",4.0,30.18466,-97.80232
+38,Lost Creek Park,"1305 Quaker Ridge Dr, Austin, TX 78746",4.5,30.283480465604953,-97.8335876735587
+39,West Enfield Park,"2008 Enfield Rd, Austin, TX 78703",4.0,30.2865030616522,-97.7649716287851
+40,Bull Creek District Park,"6701 Lakewood Dr, Austin, TX 78731",4.0,30.368684794097824,-97.7844607
+41,Butler District Park,"1000 Barton Springs Rd, Austin, TX 78701",4.5,30.2621783273936,-97.7544393968658
+42,Springwoods MUD Park,"9117 Anderson Mill Rd, Austin, TX 78729",4.5,30.45143,-97.7806
+43,Wooldridge Park,"400-498 W 9th St, Austin, TX 78701",4.0,30.2723690475155,-97.7456134967568
+44,Balcones District Park,"12017 Amherst Dr, Austin, TX 78759",4.0,30.41304,-97.72032
+45,Stone Hill Park,"1124 Town Center Dr, Pflugerville, TX 78660",4.5,30.4684249,-97.6041399
+46,Allen Park,"6413 Westside Dr, Austin, TX 78731",4.0,30.34397,-97.75432
+47,Hatley Park,"2603 Rollingwood Dr, Rollingwood, TX 78746",4.5,30.271889,-97.78359
+48,Bailey Park,"1101 W 33rd St, Austin, TX 78705",4.0,30.3022117124396,-97.7471015389525
+49,Old Baldy,"33 La Toya Cir, Wimberley, TX 78676",4.5,30.009812,-98.11615
+50,Garrison District Park,"6001 Manchaca Rd, Austin, TX 78745",4.0,30.21202181251046,-97.80052203025328
+51,Wildflower Park,"5000 Tiger Lily Way, Austin, TX 78739",5.0,30.1902988603591,-97.8698381117615
+52,Hamilton Pool Preserve,"24300 Hamilton Pool Rd, Dripping Springs, TX 78620",4.0,30.343271647936,-98.1319464997651
+53,Green Meadows Park,"2357 Green Meadows Ln, Buda, TX 78610",4.5,30.06273,-97.81535
+54,Stillhouse Hollow Nature Preserve,"7810 Sterling Dr, Austin, TX 78731",5.0,30.3691037365812,-97.762094
+55,Elizabeth Milburn Park,"1901 Sun Chase Blvd, Cedar Park, TX 78613",4.5,30.4774985,-97.8403927203
+56,Cat Hollow Park,"8600 O'Connor Dr, Austin, TX 78717",5.0,30.504081,-97.731652
+57,Lakeline Park,"1510 Alexis Dr, Cedar Park, TX 78613",5.0,30.48969,-97.81463
+58,Rosewood Park and Pool,"2300 Rosewood Ave, Austin, TX 78702",4.0,30.2705428,-97.7145276
+59,John Gaines Park,"2708 Sorin St, Austin, TX 78723",5.0,30.2931710731307,-97.696601204226
+60,Windy Point Park,"6506 Bob Wentz Park Rd, Austin, TX 78732",3.5,30.41633304802673,-97.89892541165828
+61,Nicholas Dawson Park,"614 Gibson St, Austin, TX 78704",4.5,30.252552,-97.754851
+62,Sparky Park,"3701 Grooms St, Austin, TX 78705",4.0,30.2990341186523,-97.7321929931641
+63,Domain Central Park,"11100 Alterra Pkwy, Austin, TX 78758",4.0,30.3972453487487,-97.7222218821128
+64,Blue Hole Regional Park,"100 Blue Hole Ln, Wimberley, TX 78676",4.0,30.001188,-98.090703
+65,Lake Pflugerville,"18216 Weiss Ln, Pflugerville, TX 78660",4.0,30.44303,-97.56444
+66,Old Settlers Park,"3300 E Palm Valley Blvd, Round Rock, TX 78665",4.0,30.526409956727115,-97.63493634110452
+67,The Turtle Pond,"2300-2328 University Ave, Austin, TX 78712",4.5,30.2866077,-97.7394791
+68,Mueller Southwest Greenway,"2501 Tom Miller St, Austin, TX 78723",4.5,30.289279241971126,-97.70235728222475
+69,Gracywoods Park,"12133 Metric Blvd, Austin, TX 78758",4.5,30.404962,-97.696346
+70,Govalle Park,"Bolm Rd, Austin, TX 78721",3.5,30.2594931990192,-97.6918485760689
+71,Muleshoe Bend Recreation Area,"2820 County Rd 414, Spicewood, TX 78669",4.5,30.4869654579569,-98.0988333129059
+72,Triangle Park,"4800 Guadalupe St, Austin, TX 78798",3.5,30.3148412704468,-97.7304073423147
+73,South Austin Park,"1100 Cumberland Rd, Austin, TX 78704",4.5,30.24174,-97.76846
+74,Central Park Walking Track,"Guadalupe St And 38th St, Austin, TX 78798",5.0,30.3041805787233,-97.7379122580948
+75,Seiders Springs Park,"1380 W 34th St, Austin, TX 78705",4.5,30.305336778918655,-97.7480234411137
+76,Westcave Outdoor Discovery Center,"24814 Hamilton Pool Rd, Round Mountain, TX 78663",5.0,30.337367270297474,-98.1409062415466
+77,Play For All Abilities Park,"151 N A W Grimes Blvd, Round Rock, TX 78664",5.0,30.5148488600734,-97.6530837440019
+78,Onion Creek District Park,"7001 Onion Creek Dr, Austin, TX 78744",4.0,30.1682681709167,-97.7462654282485
+79,Oak Parke Greenbelt,"100 Idalia Dr, Austin, TX 78749",4.5,30.18133,-97.86078
+80,Eastwoods Park,"3001 Harris Park Ave, Austin, TX 78705",4.0,30.290519,-97.731825
+81,Longhorn Cavern State Park,"6211 Park Rd 4 S, Burnet, TX 78611",4.5,30.682868272769,-98.3508683248674
+82,Windmill Run Park,"8102 Kirkham Dr, Austin, TX 78736",4.5,30.2375409014045,-97.8921890437169
+83,Cypress Falls Swimming Hole,"50 Marina Cir, Wimberley, TX 78676",4.0,30.020376,-98.115953
+84,Blue Hole Park,"101 S Rock St, Georgetown, TX 78626",4.0,30.6421546303387,-97.6790418140127
+85,Colorado River Wildlife Sanctuary,"5827 Levander Lp, Austin, TX 78702",4.0,30.24677393299978,-97.69528400231806
+86,Mabel Davis District Park,"3427 Parker Ln, Austin, TX 78741",4.0,30.22010905999559,-97.74081871409746
+87,Fiesta Gardens,"2101 Jesse E Segovia St, Austin, TX 78702",4.0,30.24964,-97.7248199
+88,Pepe's Park,"414 Attayac St, Austin, TX 78702",5.0,30.26330915,-97.72989687
+89,Bee Cave Sculpture Park,"13333 Hwy 71, Bee Cave, TX 78738",4.0,30.306413,-97.947273
+90,Waterloo Park,"403 E 15th St, Austin, TX 78701",3.5,30.27266595883256,-97.73763293368214
+91,Wilbarger Creek Park,"1211 Kingston Lacy Blvd, Pflugerville, TX 78660",5.0,30.46986779829039,-97.61508585892234
+92,Dottie Jordan Park,"2803 Loyola Ln, Austin, TX 78723",4.5,30.3140751550169,-97.6739394664764
+93,Bartholomew District Park,"1701-1723 Greenbrook Pkwy, Austin, TX 78723",3.5,30.305597,-97.696883
+94,The Tom Lasseter South Lamar Neighborhood Park,"3000 Del Curto, Austin, TX 78704",4.0,30.241325378418,-97.7790451049805
+95,Lake Creek Trail,"Lake Creek Trl, Austin, TX 78729",4.0,30.4676785447377,-97.7775059267879
+96,Swede Hill Pocket Park,"907 E 14th St, Austin, TX 78702",3.0,30.27409237366813,-97.72961386798056
+97,Bob Wentz Park At Windy Point,"7144 Comanche Trl, Austin, TX 78732",4.0,30.415069190349517,-97.896579806555
+98,Riata Park,"12501 Riata Trace Pkwy, Austin, TX 78727",4.0,30.4307966500117,-97.7397234991338
+99,Pierce Park,"326 Porter St., Taylor, TX 76574",5.0,30.570043390394893,-97.40863326812288
+100,West Austin Park & Wading Pool,"1317 W 10th St, Austin, TX 78703",4.0,30.276538807718197,-97.75796584263736
+101,Webberville Park,"2305 Park Ln, Webberville, TX 78621",4.5,30.212627,-97.495872
+102,Selma Hughes Park,"12021 Selma Hughes Park Rd, Austin, TX 78732",4.5,30.337266,-97.907218
+103,Patterson Park and Pool,"4200 Brookview Rd, Austin, TX 78722",4.0,30.296127,-97.709425
+104,Veterans Park,"600 Pecan Ave, Round Rock, TX 78664",4.5,30.5148892061826,-97.675747552848
+105,Balcones Canyonlands National Wildlife Refuge,"24518 Fm 1431, Marble Falls, TX 78654",4.5,30.585831,-98.039918
+106,Covert Park At Mount Bonnell,"3800 Mt Bonnell Rd, Austin, TX 78731",4.5,30.32161673113133,-97.77321444332968
+107,Texas Skateboarding Club,"13317 Fitzhugh Rd, Austin, TX 78737",5.0,30.23191,-98.00219
+108,Milton Reimers Ranch Park,"23610 Hamilton Pool Rd, Dripping Springs, TX 78620",4.5,30.333724,-98.12231011147148
+109,Benbrook Ranch Park,"1100 Halsey Dr, Leander, TX 78641",5.0,30.5901791,-97.8763045
+110,McKinney Roughs Nature Park,"1884 Hwy 71 W, Cedar Creek, TX 78612",4.5,30.1355520013441,-97.4582576751709
+111,Rattan Creek Park,"7614 Elkhorn Mountain Trl, Austin, TX 78729",4.5,30.448421,-97.757151
+112,Duncan Park,"900 W 9th St, Austin, TX 78703",4.0,30.274702,-97.75172
+113,Republic Square,"422 Guadalupe St, Austin, TX 78701",4.0,30.26775,-97.74694
+114,Gregg Hill Pocket Park,"4105 Jefferson St, Austin, TX 78731",3.0,30.3139929952622,-97.74923643910536
+115,Colorado River,"1 Riverside Dr, Austin, TX 78701",5.0,30.2636394500732,-97.7545700073242
+116,Lakewood Park,"2040 Artesian Springs Crossing, Leander, TX 78641",5.0,30.560449,-97.814255
+117,Slaughter Creek Trail,"9901 Fm 1826, Austin, TX 78737",4.5,30.206884,-97.904842
+118,Little Webberville Park,"910 Water St, Manor, TX 78653",4.0,30.23041,-97.517512
+119,Bright Leaf Preserve,"Ranch Rd 2222 & Creek Mountain Rd, Austin, TX 78731",4.5,30.34131,-97.77145
+120,Alderbrook Pocket Park,"12444 Lamplight Village Ave, Austin, TX 78758",4.0,30.41483269317374,-97.69738066099698
+121,Auditorium Shores - Leash-free Dog Zone,"Town Lake - South Side, Austin, TX 78704",4.5,30.2615136855724,-97.7498245239258
+122,Robinson Playground Park,"13340 Humphrey Dr, Austin, TX 78729",4.0,30.457159,-97.76133
+123,Jessica Hollis Park,"Low Water Crossing Rd, Austin, TX 78732",3.5,30.38739,-97.911661
+124,Round Rock West Park,"500 Round Rock W Dr, Round Rock, TX 78681",4.5,30.503228,-97.690816
+125,Bohls Park,"200 Immanuel Rd, Pflugerville, TX 78691",4.0,30.4344844471394,-97.6117658615112
+126,Walnut Creek Greenbelt,"2611 Park Bend Dr, Austin, TX 78757",4.5,30.409623352856055,-97.7080609
+127,Alamo Pocket Park,"2100 Alamo St, Austin, TX 78722",3.5,30.2825558660773,-97.72032164251536
+128,Convict Hill Quarry Park,"6511 Convict Hill Rd, Austin, TX 78749",4.0,30.22712,-97.87224
+129,Playground At The Grove,"4511 Lacey Cup Dr, Austin, TX 78731",2.0,30.317372335694177,-97.75110729038715
+130,Big Stacy Park,"700 E Live Oak St, Austin, TX 78704",4.0,30.240218,-97.747114
+131,The Watering Bowl,"820 FM-1626, Austin, TX 78748",4.5,30.1409257,-97.82916790241356
+132,Georgian Acres Neighborhood Park,"500 E Powell Ln, Austin, TX 78753",4.0,30.34691253394119,-97.6986687319877
+133,Ella Wooten Park,"4015 Pinckney St, Austin, TX 78723",4.0,30.2920676162183,-97.7026931099853
+134,River Ranch County Park,"194 Reveille Way, Liberty Hill, TX 78642",5.0,30.634984497383172,-97.91471221404964
+135,Veloway,"4900 La Crosse Ave, Austin, TX 78739",4.5,30.188088,-97.8712591
+136,Comal Pocket Park,"300 Comal St, Austin, TX 78702",5.0,30.260715,-97.728226
+137,Lakeway City Park,"502 Hurst Creek Rd, Lakeway, TX 78734",3.0,30.3779,-97.9671
+138,Chestnut Community Park,"2207 E 16th St, Austin, TX 78702",4.0,30.277022588731263,-97.71696637444776
+139,Northeast Metropolitan Park,"15500 Sun Light Near Way, Pflugerville, TX 78660",3.5,30.420534,-97.603115
+140,Yard Bar,"6700 Burnet Rd, Austin, TX 78757",4.0,30.34303,-97.73921
+141,Mt Bonnell Shores,"Austin, TX 78731",3.5,30.3382873983619,-97.7832984924316
+142,Scofield Farms Park,"12901 Scofield Farms Dr, Austin, TX 78727",5.0,30.4155311584473,-97.6823272705078
+143,Godzilla Preserve Trail,"303 Shea Dr, Cedar Park, TX 78613",4.0,30.494035,-97.852241
+144,Red Bud Dog Park,"3569 Lake Austin Blvd, Austin, TX 78703",4.0,30.2908759832291,-97.787139415741
+145,Creekside Park,"4300 Brushy Creek Rd, Round Rock, TX 78681",4.0,30.519736805819417,-97.73825882947251
+146,Lott Pocket Park,"1180 Curve St, Austin, TX 78702",4.0,30.271084998940538,-97.7298509588956
+147,Franklin Park,"4800 Copperbend Blvd, Austin, TX 78744",4.0,30.1989,-97.73979
+148,Ricky Guerrero Splash Pad,"1100 Brodie St, Austin, TX 78704",3.5,30.247444,-97.76438
+149,Wells Branch Park,"14676 Wells Port Dr, Austin, TX 78728",4.5,30.4403337836266,-97.6760952919722
+150,Reed Park,"2614 Pecos St, Austin, TX 78703",4.0,30.30492,-97.7704
+151,Mills Pond,"15108 Wells Port Dr, Austin, TX 78728",4.5,30.44963086406908,-97.67942413014794
+152,Brushy Creek Sports Park,"2300 Brushy Creek Rd, Cedar Park, TX 78613",5.0,30.5054208266769,-97.7797215045455
+153,Lake Kyle Park,"700 Lehman Rd, Kyle, TX 78640",4.5,29.9867824,-97.8627729
+154,Ann & Roy Butler Hike & Bike Trail,"900 W Riverside Dr, Austin, TX 78704",4.5,30.2630281339301,-97.7506835983654
+155,Grelle Recreation Area,"640 County Rd 412, Spicewood, TX 78669",4.5,30.4761937,-98.143626
+156,Richard Moya Park,"10001 Burleson Rd, Austin, TX 78617",4.5,30.169961,-97.6699
+157,Boulder Trail Park,"Whitemarsh Valley Walk, Lost Creek, TX 78746",4.0,30.2884950828998,-97.8320503234863
+158,Little Walnut Creek Greenbelt,"5100 E 51st St, Austin, TX 78723",3.0,30.29771674368297,-97.67494792213635
+159,Loop 360 Boat Ramp,"5001-5099 N Capital Of Texas Hwy, Austin, TX 78746",3.0,30.3493002959217,-97.7978942766283
+160,Pioneer Crossing Park,"1628 Payton Falls Dr, Austin, TX 78754",3.0,30.37188183819369,-97.661320848
+161,Northwest Greenway,"1311 Philomena St, Austin, TX 78723",4.0,30.301147984737774,-97.70916353723376
+162,Woodlands Park,"8820 Big View Dr, Austin, TX 78730",5.0,30.356997700613583,-97.8637204589106
+163,Cedar Bark Park,"2525 W New Hope Dr, Cedar Park, TX 78613",4.5,30.519943,-97.869379
+164,Chandler Creek Recreation Center,"2323 Agarita Trl, Round Rock, TX 78665",5.0,30.5300102233887,-97.6495132446289
+165,Clarksville Park And Splash Pad,"1811 W 11th St, Austin, TX 78703",4.0,30.281888516001,-97.7643359869691
+166,Doug Sahm Hill,"836-898 W Riverside Dr, Austin, TX 78704",5.0,30.26254,-97.754054
+167,North Acres Greenbelt,"1112 Hermitage Dr, Austin, TX 78753",3.0,30.34775872053289,-97.68606114959869
+168,Bee Cave Central Park,"13676 Bee Cave Pkwy, Bee Cave, TX 78738",4.0,30.3147861249031,-97.9519296181604
+169,Legend Oaks Neighborhood park,"7724 Escarpment Blvd, Austin, TX 78749",4.0,30.22299469069616,-97.8739678751566
+170,Circle C Metropolitan Park,"6301 W Slaughter Ln, Austin, TX 78749",4.0,30.20105023160136,-97.8872505612988
+171,Wuthrich Park,"99 Mountain View Dr, Pflugerville, TX 78660",4.0,30.42981575808096,-97.62441265013294
+172,Cherrywood Pocket Park,"1600 E 34th St, Austin, TX 78722",3.5,30.28994826851675,-97.71546325949416
+173,Ponciana park,"5201 Freidrich Ln, Austin, TX 78744",4.0,30.2013659,-97.7552024
+174,Charro Ranch Park,"22690 Ranch To Market Rd 150, Driftwood, TX 78619",5.0,30.159702,-98.0753275
+175,Shaylah Dame Skatepark,"1600 Gattis School Rd, Round Rock, TX 78664",4.0,30.4982365235866,-97.6606678962708
+176,Johnson Creek Greenbelt,"2100 Enfield Rd, Austin, TX 78703",4.5,30.286153887949347,-97.76459846190254
+177,Trailhead Park,"11021 Boulder Ln, Austin, TX 78726",4.0,30.439101369349824,-97.82239497355584
+178,Barkley Meadows Park,"4529 County Rd 130, Del Valle, TX 78617",4.0,30.1845150023613,-97.6264209580444
+179,Tarrytown Park,"2106 Tower Dr, Austin, TX 78703",4.0,30.2969394329816,-97.7602174133062
+180,Springdale Park,"1175 Nickols Ave, Austin, TX 78721",2.0,30.27783866217029,-97.6836987728693
+181,Bruning Green park,"E 52nd St & Bruning Ave, Austin, TX 78751",3.0,30.314579,-97.717706
+182,Jessie Andrews Park,"2601 Philomena St, Austin, TX 78723",4.0,30.29950876,-97.69626097
+183,Onion Creek Soccer Complex,"5600 E William Cannon, Austin, TX 78744",4.5,30.177199,-97.740316
+184,Barton Creek Greenbelt,"200 S Lamar Blvd, Austin, TX 78704",4.5,30.2489652616368,-97.7956369891763
+185,Heritage Square city park,"400 N Main St, Taylor, TX 76574",4.0,30.571399662536148,-97.40887894913566
+186,Festival Beach Park,"2101 Bergman St, Austin, TX 78702",4.0,30.249758801955984,-97.7253972
+187,Sendero Springs Pool,"4203 Pasada Ln, Round Rock, TX 78681",4.0,30.5460647920487,-97.7357451879448
+188,Heritage Oak Park,"875 Quest Pkwy, Cedar Park, TX 78613",3.0,30.52126756610658,-97.82393622224934
+189,Barton Creek Habitat Preserve,"1700 Bee Cave Rd, Austin, TX 78738",5.0,30.30833,-97.9268699
+190,San Gabriel Park,"Lower Park Rd, Georgetown, TX 78626",4.5,30.6506870615781,-97.6724770687866
+191,Nelson Park,"905 Nelson Ranch Rd, Cedar Park, TX 78613",4.0,30.49447,-97.83425
+192,Anderson Mill West Park,"2702 Dagama Ct, Cedar Park, TX 78613",4.5,30.4662422604551,-97.8375355775981
+193,Chris Mosqueda Hike and Bike trail,"1041 Mearns Meadow Blvd, Austin, TX 78758",4.0,30.3682370747614,-97.7000856399536
+194,Ben E Fisher Park,"600 W Carrie Manor St, Manor, TX 78653",4.0,30.3402259005198,-97.56431699333334
+195,Flower Hill Community Park,"3002 Hill St, Round Rock, TX 78664",3.0,30.48986753780683,-97.62026827466669
+196,Colony Park District Park,"7201 Colony Loop Dr, Austin, TX 78724",4.0,30.30027673263105,-97.63866631552864
+197,Pepper Rock Park,"8609 Pepper Rock Park Dr, Austin, TX 78746",3.5,30.4980660343014,-97.740378408698
+198,Fritz Hughes Park,"3100 Fritz Hughes Park Rd, Austin, TX 78732",4.0,30.382546,-97.911917
+199,Fern Bluff park,"17829 Park Valley Dr, Round Rock, TX 78681",4.0,30.516026002280277,-97.72217622588788
+200,Neighbors,"5609 S Congress Ave, Austin, TX 78745",4.5,30.20396,-97.77479
+201,Wooten Park,"1406 Dale Dr, Austin, TX 78757",3.5,30.353479012547837,-97.71883273137242
+202,Jennie Lane Park,"102 E Rector St, Manor, TX 78653",4.0,30.346167230928376,-97.55599929728076
+203,Buda City Park,"204 San Antonio St, Buda, TX 78610",4.5,30.085203202081605,-97.84279346677864
+204,Veterans Memorial Park,"17813 Park Valley Dr, Round Rock, TX 78681",4.0,30.514234770274907,-97.7194669834958
+205,Ortega Playground,"1135 Garland Ave, Austin, TX 78721",3.0,30.26997402061411,-97.6842761057963
+206,North Oaks Neighborhood Park,"820 Plaza Dr, Austin, TX 78753",4.0,30.379811308322523,-97.67135510253908
+207,Stage Coach Park,"880 Main St, Buda, TX 78610",4.5,30.081723327352,-97.842893153429
+208,Timmerman Park,"12616 Skimmer Run, Manor, TX 78653",4.0,30.343005,-97.5374128
+209,Alexander Neighborhood Park,"2901 E 16th St, Austin, TX 78702",4.0,30.278462056054323,-97.70851699999989
+210,Mayfield Ranch Owners Association,"3817 Bram Cv, Round Rock, TX 78681",4.0,30.55696809540931,-97.74581167547764
+211,Arrowhead Park Disc Golf Course,"21606 Arrowhead Point, Lago Vista, TX 78645",4.0,30.44802,-98.01015
+212,Battle Bend Park,"4600 Suburban Dr, Austin, TX 78745",3.5,30.2132624939776,-97.768714206322
+213,Murphy Park,"1600 Veterans Dr, Taylor, TX 76574",4.5,30.5810710134578,-97.4151777238492
+214,Meadowview Triangle,"7501 Meadowview Ln, Austin, TX 78752",3.0,30.33982409719641,-97.71142506611676
+215,Cambridge Heights park,"17500 Marfa Lights Trl, Round Rock, TX 78664",3.0,30.473092830580175,-97.64701451411818
+216,Settlement Park,"1401 David Curry Dr, Round Rock, TX 78664",5.0,30.5362099118184,-97.6707167923451
+217,Southeast Metropolitan Park,"4511 Hwy 71 E, Dell Valley, TX 78617",4.0,30.188510333423572,-97.60988427277884
+218,Heroes Memorial Park,"4100 S FM 1626, Kyle, TX 78640",5.0,30.0288943,-97.8729397
+219,North Meadow Park,"14943 Doria Dr, Austin, TX 78728",4.0,30.448176,-97.681687
+220,Tanglewood Park,"11406 Rustic Rock Dr, Austin, TX 78750",4.5,30.431011355709,-97.7814218090389
+221,Fannie Robinson Park,"206 S Dolan St, Taylor, TX 76574",4.5,30.565904729208132,-97.39810107287256
+222,Piney Bend Neighborhood Park,"8601 Piney Creek Bend, Austin, TX 78745",3.0,30.1939744550202,-97.83205172242953
+223,Shadow Glen,"11525 Shadowglen Trce, The Clubhouse, Manor, TX 78653",4.0,30.3578674,-97.546452
+224,Kendra Page park,"2203 Blue Meadow Dr, Austin, TX 78744",4.0,30.18155146303241,-97.76437664902784
+225,Cherry Creek Neighborhood Park,"3403 Silk Oak Dr, Austin, TX 78748",3.0,30.188767,-97.844877
+226,Kinningham Park,"1000 Southcreek Dr, Round Rock, TX 78664",4.0,30.49999,-97.65472
+227,Chisholm Trail Crossing Park,"500 Chisholm Trail Rd, Round Rock, TX 78681",3.0,30.511796,-97.689419
+228,North Star Greenbelt,"11701 Tallow Field Way, Austin, TX 78758",5.0,30.3948803,-97.7040329
+229,Hutto Lake Park,"805 Estate Dr, Hutto, TX 78634",4.0,30.5129908297904,-97.5705622644257
+230,Gabriel's Overlook Park,"517 Lake Side Dr, Georgetown, TX 78628",4.0,30.6141682875972,-97.7969592618568
+231,Buda Sportsplex Dog Park,"465 Buda Sportsplex Dr, Buda, TX 78610",4.0,30.10118,-97.8814699
+232,Tanglewood Forest Park,"9801 Curlew Dr, Austin, TX 78748",4.0,30.1774203307703,-97.8332459181547
+233,Champion Park,"3830 Brushy Creek Rd, Cedar Park, TX 78613",4.5,30.510639,-97.7586141
+234,Founders Memorial Park,"480 Founders Park Rd, Dripping Springs, TX 78620",5.0,30.1983664189015,-98.0819511081577
+235,Water Tower Park,"200 Round Rock Ave, Round Rock, TX 78664",3.0,30.50901829345145,-97.67966627964834
+236,Brush Square Park,"409 E 5th St, Austin, TX 78701",4.0,30.2657627083747,-97.7391361149069
+237,Sarah's Creek HOA Park,"15336 Sarah's Creek Dr, Pflugerville, TX 78660",3.0,30.444399367701337,-97.65755794110125
+238,Edward Rendon Sr Park at Festival Beach,"2101 Jesse E Segovia St, Austin, TX 78702",4.0,30.24964,-97.72482
+239,Davis White Northeast Neighborhood Park,"6705 Crystalbrook Dr, Austin, TX 78724",4.0,30.303516,-97.654133
+240,JJ Seabrook Greenbelt Park,"2000 Pershing Dr, Austin, TX 78723",3.0,30.28499411813537,-97.70077180636557
+241,Harris Branch neighborhood Park,"11200 Farmhaven Rd, Austin, TX 78754",4.0,30.34998119206428,-97.61954784364418
+242,Williamson County Parks,"219 Perry Mayfield, Round Rock, TX 78681",5.0,30.56136,-97.76726
+243,Settlers Valley Greenbelt,"553 10th St, Pflugerville, TX 78660",4.0,30.438428473386615,-97.6306439
+244,Northtown Park and Disc Golf Course,"14508 Harris Ridge Blvd, Pflugerville, TX 78660",4.5,30.4214649200439,-97.644287109375
+245,Barking Springs,"2206 William Barton Dr, Austin, TX 78746",5.0,30.264511,-97.772438
+246,Vic Mathias Shores,"900 West Riverside Dr, Town Lake Metropolitan Park, Austin, TX 78701",5.0,30.2619154817751,-97.7494957385355
+247,Hidden Lake Park,"4317 Hidden Park Dr, Pflugerville, TX 78660",3.0,30.449582,-97.566885
+248,Gillis Park,"2526 Durwood St, Austin, TX 78704",3.0,30.2407814047703,-97.75843940557282
+249,Oakview Neighborhood Park,"10902 Oak View Dr, Austin, TX 78759",4.0,30.417613125127723,-97.7691502907672
+250,J Lorraine TX Ghost Town,"14219 Littig Rd, Manor, TX 78653",4.5,30.33287,-97.50916
+251,Shenandoah Soccer park and Greenbelt,"1486 N Ave C, Elgin, TX 78621",3.0,30.360753,-97.3982149
+252,Rivery Park,"1125 Woodlawn Ave, Georgetown, TX 78628",4.0,30.64891492088295,-97.68499813225168
+253,Cambridge Estates Linear Park,"700 E Oxford Dr, Pflugerville, TX 78660",3.0,30.428446773209867,-97.61458666930284
+254,Pan American Recreation Center,"2100 E 3rd St, Austin, TX 78702",4.5,30.25799,-97.72069
+255,Austin BMX & Skate Park,"1213 Shoal Creek Blvd, Austin, TX 78701",5.0,30.27707,-97.74981
+256,Texas State Cemetery,"909 Navasota St, Austin, TX 78702",4.5,30.2670932,-97.7266103
+257,Givens Recreation Center and District Park,"3811 E 12th St, Austin, TX 78721",4.0,30.276680512723992,-97.69028061462892
+258,Twin Creeks Historic Park,"2900 King Monument Lane, Cedar Park, TX 78613",4.0,30.5374076,-97.7861757
+259,Sandy Creek Park,"9500 Lime Creek Rd, Leander, TX 78641",3.5,30.469866,-97.9054932
+260,Garey Park,"6450 RM 2243, Georgetown, TX 78628",4.0,30.595118,-97.78892
+261,Sunset park,"2013 Union St, Leander, TX 78641",3.0,30.552640473239453,-97.8393854314468
+262,Brookfield Park 3,"Whittard Of Chelsea Ln, Pflugerville, TX 78660",2.0,30.42014140936564,-97.63361866673392
+263,Bark Park,"151 Holly St, Georgetown, TX 78626",4.5,30.6431675213221,-97.6692375956972
+264,Westcreek Pocket Park,"6044 Westcreek Dr, Austin, TX 78749",3.0,30.22901053009545,-97.84337758962153
+265,Brookfield Pool and Park,"1041 Tudor House Rd, Pflugerville, TX 78660",4.0,30.419814007379312,-97.63962023323737
+266,Lake Travis,"Austin, TX 78732",4.5,30.3752899169922,-97.8936920166016
+267,Longview Park,"7609 Longview Rd, Austin, TX 78745",3.0,30.201694,-97.827164
+268,Rabb Park,"151 N Aw Grimes Blvd, Round Rock, TX 78664",5.0,30.51514548135631,-97.65381852926986
+269,Ellen Higgins Pocket park,"2711 Cameron Lp, Austin, TX 78745",3.0,30.191922,-97.826779
+270,Bee Cave Dog Park,"13676 Bee Cave Pkwy, Bee Cave, TX 78738",4.0,30.3159168050439,-97.9516191495999
+271,Fritz Park,"100 Park St, Hutto, TX 78634",3.5,30.5480331821435,-97.5422546816432
+272,Thomas Memorial park,"411 Madison St, Elgin, TX 78621",4.0,30.34347967284493,-97.36278711108396
+273,Huffstickler Green,"3801 Duval St, Austin, TX 78751",5.0,30.298661,-97.7294302
+274,Stoney Creek Park,"14101 Maricella Ln, Pflugerville, TX 78660",4.0,30.419586296612,-97.6444082878993
+275,Northwest Balcones Park,"10225 Talleyran Dr, Austin, TX 78750",4.5,30.4268779754639,-97.8031997680664
+276,Black Locust Park,"608 Black Locust Dr W, Pflugerville, TX 78660",3.0,30.460542047802154,-97.63704571217626
+277,Schroeter Park,"11701 Big Trl, Austin, TX 78759",4.0,30.41386,-97.73841
+278,Mcneil park,"N Interstate 35 Frontage Rd, Round Rock, TX 78665",1.0,30.554282440370436,-97.69188077353736
+279,VFW Park,"401 E. 2nd St, Georgetown, TX 78626",5.0,30.641706,-97.6741469
+280,T A Brown Neighborhood Park,"520 Northway Dr, Austin, TX 78752",3.0,30.34472952108945,-97.70954465509269
+281,Windemere Park,"16800 Gower St, Pflugerville, TX 78660",4.0,30.45797212223949,-97.6417770201538
+282,Dove Springs District Park,"5401 Ainez Dr, Austin, TX 78744",4.5,30.18751,-97.73964
+283,Williamson County Regional Park,"3005 County Rd 175, Leander, TX 78641",4.5,30.55998,-97.77017
+284,Memorial Park,"N Lee St, Round Rock, TX 78664",4.0,30.512293084638852,-97.68541166251552
+285,Splash Jam Milburn Park,"1901 Sunchase Blvd, Elizabeth Milburn Park, Cedar Park, TX 78613",5.0,30.4774985,-97.8403927203
+286,Bell Farms Park,"12633 Bella Pkwy, Manor, TX 78653",3.0,30.34124445009592,-97.5301891696951
+287,North Austin Optimist,"1105 Morrow St, Austin, TX 78757",4.0,30.345804,-97.72047
+288,Doak Park,"200 N Doak St, Taylor, TX 76574",3.0,30.568194079917124,-97.41602037417634
+289,Brushy Creek Trail East,"151 N Aw Grimes Blvd, Round Rock, TX 78664",5.0,30.5153538584036,-97.6553121194396
+290,Somerset Park,"1600 Somerset Dr, Round Rock, TX 78681",3.0,30.522926754183,-97.699796
+291,Carriage Hills Park #1,"1613 Carriage Hills Trl, Cedar Park, TX 78613",3.0,30.52206,-97.85993
+292,Carriage Hills park #2,"1600 Country Squire Dr, Cedar Park, TX 78613",3.0,30.52181,-97.85734
+293,Prize Oaks park,"1407 Cedar Park Dr, Cedar Park, TX 78613",3.0,30.50923,-97.84543
+294,Saxony Linear Park,"1104 Split Oak Cv, Pflugerville, TX 78660",3.0,30.44655672366426,-97.60891074570831
+295,Springbrook Glen Community Park,"1100 Springbrook Rd, Pflugerville, TX 78660",3.0,30.475086806291575,-97.63443184340584
+296,Creekmont West Park,"1100 Oakridge Dr, Round Rock, TX 78681",3.0,30.498610381686063,-97.7034159
+297,Mary Quinlan Park,"1601 Quinlan Park Rd S, Austin, TX 78732",4.0,30.3276988,-97.9268374
+298,Lakeline Oaks Park & Pavilion,"1000 Old Mill Rd, Cedar Park, TX 78613",4.0,30.47494483235207,-97.8239886782106
+299,Robin Bledsoe Park,"601 S Bagdad Rd, Leander, TX 78641",4.0,30.565942,-97.866796
+300,"Northeast District Park, Leash-Free Dog Park","5909 Crystalbrook Dr, Austin, TX 78724",2.0,30.3040409088135,-97.6531982421875
+301,Meadow Lake Park,"2901 Settlement Dr, Round Rock, TX 78664",3.5,30.543727766520583,-97.66464407907092
+302,Western Oaks Karst Preserve,"Davis Ln At La Cresada, Austin, TX 78749",5.0,30.2084524540459,-97.8645668673285
+303,Devine Lake Park,"1807 Waterfall Dr, Leander, TX 78641",4.0,30.5817749692531,-97.8839148929923
+304,Harris Ridge Owners Association Park,"1001 Weatherford Dr, Austin, TX 78753",3.0,30.40772492035721,-97.64933510257718
+305,Olson Meadows Park,"4200 Brushy Creek Rd, Cedar Park, TX 78613",4.0,30.5188691627199,-97.7418924898726
+306,Laurel Ridge park,"751 Satellite View, Round Rock, TX 78665",3.0,30.563483439848383,-97.67067976898328
+307,Century Oaks Park,"11410 Century Oaks Ter, Ste 104, Austin, TX 78758",3.0,30.4021948649811,-97.7262371778488
+308,Highland Neighborhood Park and Reznicek Field,"401 West Saint Johns Ave, Austin, TX 78752",3.0,30.3359516338603,-97.7142352983356
+309,Elgin Memorial Park,"Hwy 95 And Main St, Elgin, TX 78621",3.5,30.35649,-97.3832
+310,Brush Square Triangle,"4621 Lake View, Austin, TX 78731",2.0,30.3322194,-97.7667647
+311,Old Stage Park - Anderson Mill Limited District,"12819 Hymeadow Dr, Austin, TX 78729",1.5,30.4611809565898,-97.7877829292914
+312,Mountain View Park,"9000 Middlebie Dr, Austin, TX 78750",5.0,30.4306801335874,-97.7915403758013
+313,Lakeline Village Pud Park,"902 S Lakeline Blvd, Cedar Park, TX 78613",5.0,30.492447332091427,-97.81511019357504
+314,Highland Park Linear Park,"Badlands Dr, Pflugerville, TX 78660",3.0,30.4660293,-97.6109089
+315,Bark Park,"19417 Murchison Ridge Trl, Pflugerville, TX 78660",2.5,30.4728200286627,-97.585241496563
+316,Oak View Park,"10800 Oak View Dr, Austin, TX 78759",5.0,30.4178773,-97.7710476
+317,Mountain Creek Park,"1108 S 10th St, Pflugerville, TX 78660",3.0,30.431803263897283,-97.633957471655
+318,Yett Creek Park,"12520 Riata Vista Cir, Austin, TX 78727",3.0,30.4301756992629,-97.7327746079346
+319,1849 Park,"16430 Cameron Rd, Pflugerville, TX 78660",4.5,30.411850294911368,-97.55584200239822
+320,Kensington  Park,"1891 Oxford St, Round Rock, TX 78664",4.5,30.493170146585,-97.6669298484921
+321,Davis Spring,"14814 Thatcher Dr, Austin, TX 78717",4.5,30.4888192708096,-97.7679490723663
+322,Central Park,"18720 Falcon Pointe Blvd, Pflugerville, TX 78660",4.5,30.45997224172613,-97.5864945866666
+323,Mesa village park,"1403 N Georgetown St, Round Rock, TX 78664",4.0,30.52182283936351,-97.67107221076176
+324,Doghouse Drinkery Dog Park,"3800 County Rd 175, Leander, TX 78641",4.5,30.551958,-97.765327
+325,Willow Bend Dog Park,"2801 Sauls Dr, Austin, TX 78728",4.5,30.45525193869348,-97.6805839
+326,Shadow Brook park,"Round Rock, TX 78681",3.0,30.49255262197833,-97.70439207642764
+327,Joslin Park,"Austin, TX 78745",4.5,30.2070636749268,-97.7970275878906
+328,Greenlawn park,"211 Greenlawn Blvd, Round Rock, TX 78664",3.0,30.5085739259107,-97.6616889025921
+329,Morris Memorial park,"802 N Avenue C, Elgin, TX 78621",4.0,30.35041932893917,-97.37698080204903
+330,HYSA Riverwalk Fields,"1 Riverwalk Dr, Hutto, TX 78634",4.0,30.52584809999999,-97.5650512
+331,Moose Park,"1218 Settlers Valley Dr, Pflugerville, TX 78660",4.0,30.44057711,-97.63447572
+332,Work and Woof,"4930 S Congress, Bldg A, Austin, TX 78745",4.5,30.2127493,-97.77155160796823
+333,East View RV Ranch,"552 Eastview Dr, Georgetown, TX 78626",5.0,30.65213,-97.62422
+334,Bauerle Ranch at Slaughter Creek Greenbelt,"2700 Lynnbrook Dr, Austin, TX 78748",4.0,30.16844863781658,-97.83926166441768
+335,Hutto Community Park,"514 S Pauley Dr, Hutto, TX 78634",4.0,30.53267924756132,-97.55522793440002
+336,Rosemary Denny Park,"2400 E Riviera Dr, Cedar Park, TX 78613",3.5,30.4785749859288,-97.8123986780129
+337,Presidential Glen Playground and Gazebo Rules,"19513 Smith Gin St, Manor, TX 78653",3.0,30.35462441846416,-97.51110344342842
+338,Royal Pointe Park,"18712 Candace Lp, Pflugerville, TX 78660",3.0,30.47837999999997,-97.62340390719996
+339,MUTTS Canine Cantina® - Austin,"9825 N Lake Creek Pkwy, Austin, TX 78717",4.5,30.472930437584143,-97.79261024342782
+340,Veteran's Park,"Ranch Rd 1431 & Ridgeway St, Jonestown, TX 78645",4.0,30.4955,-97.92434
+341,Falcon Pointe Public Park,"2809 Barley Field Pass, Pflugerville, TX 78660",3.0,30.460415944611302,-97.5809102309993
+342,Silverado Ranch Park,"2210 Kasdan Pass, Cedar Park, TX 78613",5.0,30.52253326981096,-97.79170523910533
+343,Forest North neighborhood park,"13320 Lyndhurst St, Austin, TX 78729",4.0,30.46815787685862,-97.78337838332422
+344,Paggi Square,"2101 Robert Browning, Austin, TX 78723",4.5,30.3007713,-97.7074924
+345,Quest village park,"614 Stallion Dr, Cedar Park, TX 78613",4.0,30.51957724788425,-97.82001120420752
+346,Crestland Triangle,"700 W Crestland Dr, Austin, TX 78752",2.0,30.34161678909516,-97.7153226088979
+347,Oakmont Forest Park,"1414 Colby Ln, Cedar Park, TX 78613",4.0,30.50181694778188,-97.8419253256256
+348,Georgetown Park & Recreation,"1101 N College St, Georgetown, TX 78626",4.5,30.6505,-97.66467
+349,River Ranch County Park,"219 Perry Mayfield, Leander, TX 78641",3.0,30.56138789260516,-97.7672911
+350,Dayna Lawson Park,"1704 Continental Pass, Cedar Park, TX 78613",3.0,30.51707783655263,-97.85395266666669
+351,Park Central,"12400 N Ih 35, Austin, TX 78753",3.5,30.4021650800823,-97.6761281490326
+352,North Park,"1407 Suzi Ln, Pflugerville, TX 78660",3.0,30.45848979697514,-97.65337660803398
+353,Ricky Guerrero Park,"2006 South 6th St, Austin, TX 78704",4.0,30.2474714713213,-97.7643228084366
+354,Texas Parks & Wildlife,"4200 Smith School Rd, Austin, TX 78744",4.0,30.1968321204185,-97.7139808237553
+355,Zola Park,"17403 Zola Ln, Round Rock, TX 78664",3.0,30.47513266996494,-97.65373288221036
+356,Mary Elizabeth Branch Park,"2006 Philomena St, Austin, TX 78723",5.0,30.30018,-97.70265
+357,Gaines Creek Park,"4801 Republic Of Texas Blvd, Austin, TX 78735",2.5,30.2495790299014,-97.8421663423475
+358,Butler Pitch & Putt,"201 Lee Barton Dr, Austin, TX 78704",4.0,30.2631999198181,-97.7565364123423
+359,Heron Hollow Pocket park,"801 Payton Gin Rd, Austin, TX 78758",2.0,30.357918239197566,-97.700734351542
+360,Mueller Dog Park,"2201 Aldrich St, Austin, TX 78723",2.5,30.3011627309129,-97.702842473466
+361,Plaza Saltillo,"412 Comal St, Austin, TX 78702",4.0,30.2619933024971,-97.7274477626281
+362,Round Rock Dog Depot,"800 Deerfoot Dr, Round Rock, TX 78683",3.5,30.5100754241534,-97.6656810492592
+363,Veteran's Memorial Park,"2525 W New Hope Dr, Cedar Park, TX 78613",4.5,30.5212002,-97.868988
+364,Silk Oak Park Community Garden,"3204 Silk Oak Dr, Austin, TX 78748",3.0,30.185925708951466,-97.839845049249
+365,Rivery Park  & Disc Golf Course,"Georgetown, TX 78628",4.5,30.6395797729492,-97.7498016357422
+366,Oakwood Glen park,"2600 Oakwood Glen Dr, Cedar Park, TX 78613",3.0,30.47126,-97.83153
+367,Margret Hoffman Oaks Park,"100 S 1st St, Austin, TX 78704",3.0,30.2640074068739,-97.7475795976001
+368,Lake Forest Park,"3590 Gattis School Rd, Round Rock, TX 78664",3.0,30.49688111512007,-97.62057100301476
+369,Del Curto Neighborhood Park,"3000 Del Curto, Austin, TX 78704",4.0,30.241325378418,-97.7790451049805
+370,Northcreek ranch park,"1001 N Creek Blvd, Leander, TX 78641",3.0,30.58069923395183,-97.87198882992932
+371,Mallard Pond Park,"19500 Mallard Pond Trail, Pflugerville, TX 78660",3.5,30.47312421562718,-97.582336
+372,Lone Tree Park,"2500 Stapleford Dr, Cedar Park, TX 78613",3.0,30.53912,-97.84305
+373,Old Town park,"300 2nd St S, Pflugerville, TX 78660",3.0,30.43821838661901,-97.62342201509286
+374,Harris Ridge Dog Park,"14400 Harris Ridge Blvd, Pflugerville, TX 78660",4.0,30.42048,-97.64474
+375,Houston School park,"5506 Tallow Tree Dr, Austin, TX 78744",3.0,30.1964787,-97.7554729
+376,Jester Farms Neighborhood Park,"2539 Vernell Way, Round Rock, TX 78664",3.0,30.53579042984645,-97.66172569060332
+377,Veterans Memorial park,"110 Depot St, Elgin, TX 78621",3.0,30.3476858,-97.3710493
+378,Little Village Park,"16810 Whitebrush Lp, Austin, TX 78717",4.0,30.508337,-97.738243
+379,San Jose Splash Pad,"1707 San Jose St, Georgetown, TX 78626",4.5,30.6293933093548,-97.6687353104353
+380,Creekside Park,"418 Settlers Valley Dr, Pflugerville, TX 78660",4.0,30.4342277,-97.6259948
+381,Park at Blackhawk at Lakeside,"3111 Speidel Dr, Pflugerville, TX 78660",4.5,30.47637,-97.5658
+382,Hanging Rock Park,"2001 Hanging Rock Dr, Pflugerville, TX 78660",3.0,30.47112362759888,-97.58598100333042
+383,Founders park,"814 S Church St, Georgetown, TX 78626",3.0,30.63596584098774,-97.676198659457
+384,Far West Dog Park,"7099 Great Northern Blvd, Austin, TX 78757",2.5,30.3522377429314,-97.7471114695072
+385,Family Viewing Area,"3600 Presidential Blvd, Austin, TX 78719",4.5,30.2006454112877,-97.6547852014027
+386,Hidden Glen park,"1001 Hidden Glen Dr, Round Rock, TX 78681",3.0,30.545268864170495,-97.70286806187636
+387,Chisholm Valley Park,"1201 Trey St, Round Rock, TX 78681",4.0,30.4965547557573,-97.68762743496968
+388,Edwards park,"704 Ash St, Georgetown, TX 78626",3.0,30.63693944094344,-97.67337881534364
+389,Lago Vista City Pool,"8012 Bar K Ranch Rd, Lago Vista, TX 78645",3.0,30.4819765126546,-97.9792790228312
+390,Springbrook Nieghborhood park,"17910 Wilke Ridge Lane, Pflugerville, TX 78664",3.0,30.468693,-97.6244907
+391,Old Town Park,"1262 S Austin Ave, Georgetown, TX 78626",3.0,30.630501180503856,-97.67871987135042
+392,Ninth Street BMX Jumps,"800 9th St, Austin, TX 78701",5.0,30.2730544,-97.7495581
+393,Ridgewood North park,"1402 Ridgewood Dr, Leander, TX 78641",3.0,30.564807551955475,-97.83244037294686
+394,Highland Park North,"18805 Huntingtower Castle Blvd, Pflugerville, TX 78660",5.0,30.4751238059917,-97.6114281163153
+395,Norwood Estate Dog Park,"1009 Edgecliff Ter, Austin, TX 78704",3.5,30.249328,-97.737106
+396,Wells Creek Greenbelt,"13120 Metric Blvd, Austin, TX 78727",2.0,30.42050260200793,-97.68388466681589
+397,Heppner Bend park,"1208 Heppner Dr, Cedar Park, TX 78613",3.0,30.46651,-97.82488
+398,Narrows Recreation Area,"2550 Cr 411, Spicewood, TX 78669",2.0,30.522394,-98.155943
+399,Cedar Creek Park,"5540 Fm 535, Cedar Creek, TX 78612",5.0,30.0819206,-97.4969864
+400,Buttercup Creek Park,"411 Twin Oak Trl, Cedar Park, TX 78613",5.0,30.502298193188203,-97.82611426153396
+401,Secluded Willow Park,"1701 Secluded Willow Cv, Pflugerville, TX 78660",3.0,30.47167070765456,-97.58987351298488
+402,Mason Creek park,"801 Eagles Way, Leander, TX 78641",3.0,30.566677596221485,-97.86066829775298
+403,Sarita Valley,"3009 Silver Fountain Dr, Leander, TX 78641",2.0,30.581278,-97.802422
+404,myrtle pfluger teer park,"Willow St & E Pecan St, Pflugerville, TX 78660",3.0,30.43778107296512,-97.61556411515556
+405,Kelley Park,"805 W 17th St, Georgetown, TX 78626",3.0,30.6294210440029,-97.6837095753934
+406,Earl J. Pomerleau Pocket Park,"1906 Patton Ln, Austin, TX 78723",3.0,30.318343,-97.686881
+407,Hancock Dog Park,"3307 Kim Ln, Austin, TX 78705",3.5,30.29174,-97.72402
+408,Calla Lilly park,"1350 Calla Lily Blvd, Leander, TX 78641",4.0,30.56596777171777,-97.83067034902136
+409,San Gabriel Park - Disc Golf Course,"1003 N Austin Ave, Georgetown, TX 78626",4.0,30.65117,-97.67388
+410,Brownie Nieghborhood park,"10000 Brownie Dr, Austin, TX 78753",2.0,30.363972796126603,-97.68679577290813
+411,Oak Ridge Park,"808 Birch Brook Ln, Leander, TX 78641",4.0,30.563103389172,-97.83377753255112
+412,Anderson Mill Limited District,"11500 El Salido Pkwy, Austin, TX 78750",3.5,30.4498418907349,-97.8110787846131
+413,Hatch Pond,"3301 Hatch Rd, Cedar Park, TX 78613",2.0,30.462911,-97.8239849
+414,Creekside Park,"305 Orchard Way, Hutto, TX 78634",4.0,30.538794921770062,-97.54011738895538
+415,Quail Creek Nieghborhood Park,"1101 Mearns Meadow Blvd, Austin, TX 78758",3.0,30.368963566831525,-97.7012809
+416,Town Center Park,"1906 Big Bend Dr, Cedar Park, TX 78613",4.0,30.534031795736865,-97.82845517935536
+417,Pfennig Park,"400 Immanuel Road, Pflugerville, TX 78660",3.0,30.4325319,-97.6129043
+418,Leander Veterans Park,"1011 Bagdad Rd, Leander, TX 78641",5.0,30.5600365022472,-97.8624749556184
+419,Katmai Circle Park,"Katmai Cir, Pflugerville, TX 78660",2.0,30.464702087585916,-97.6233295839541
+420,Chautauqua Park,"602 Rucker St, Georgetown, TX 78626",3.5,30.637352880675,-97.6843805128479
+421,Heritage Park,"901 Old Austin Hutto Rd, Pflugerville, TX 78660",3.0,30.4426134588855,-97.6068139744495
+422,Turkey Bend Recreation Area,"4906 Shaw Dr, Marble Falls, TX 78654",3.5,30.5034152872674,-98.1102449186856
+423,Pflugerville Heights Park,"18301 Stevie Ray Dr, Pflugerville, TX 78660",3.0,30.48089704875477,-97.6371530528
+424,Plumbago Greenbelt,"505 Plumbago Dr, Pflugerville, TX 78660",1.0,30.43686394139981,-97.6034139537732
+425,Carriage Hills Park,"1801 Lakeline Blvd, Cedar Park, TX 78613",2.0,30.525542985143115,-97.85519873128956
+426,Treeline Park,"1400 Treeline Dr, Cedar Park, TX 78613",2.0,30.516338066276127,-97.84921957765526
+427,Zilker Park Kite Festival,"Austin, TX 78704",4.0,30.243501663208,-97.7655715942383
+428,St John Park,"901 Wilks Ave, Austin, TX 78752",1.0,30.3324741125107,-97.7000769227743
+429,New Hope Park,"1900 N Lakeline Blvd, Cedar Park, TX 78613",1.0,30.52651332196408,-97.85427941401672
+430,Timberwood park,"1914 Ascot Ln, Cedar Park, TX 78613",1.0,30.52902190672701,-97.84719932690588
+431,Millrun Park,"12100 Millwright Pkwy, Austin, TX 78750",3.5,30.4516620635986,-97.8031921386719
+432,Springbrook Apts Parkland,"1201 New Meister Ln, Pflugerville, TX 78660",2.0,30.4808227889872,-97.63019748941676
+433,Chandler Park,"106 Spring Valley Rd, Georgetown, TX 78628",4.5,30.6535069038292,-97.6976752752944
+434,Morris Park & Pool,"803 N Avenue C, Elgin, TX 78621",4.0,30.3508563236003,-97.3765850951466
+435,"Lakeview Pavillion, Old Settlers Park","3300 E Palm Valley Blvd, Round Rock, TX 78665",5.0,30.526414,-97.634935
+436,Memorial Park,"11400 Lake Creek Pkwy, Austin, TX 78750",2.0,30.46009,-97.81505
+437,Janet Bartles Park,"1111 Buttercup Creek Blvd, Cedar Park, TX 78613",4.0,30.497892115330497,-97.83527918984284
+438,River Chase Park,"878 Memorial Dr, Georgetown, TX 78628",2.0,30.634664936990873,-97.70615867442288
+439,House Park,"1212 Rio Grande St, Austin, TX 78701",4.5,30.27652,-97.74761
+440,Wells Branch MUD,"2106 Klattenhoff Dr, Austin Tx, TX 78728",4.5,30.442169085145,-97.679570093751
+441,Ron Rigsby Park,"1110 Little Elm Park, Austin, TX 78758",1.0,30.36435,-97.70514
+442,East Fourth Street park,"217 N Dolan St, Taylor, TX 76574",1.0,30.57128160697113,-97.4004786663826
+443,Hidalgo park,"1403 Welch St, Taylor, TX 76574",1.0,30.564753031002443,-97.42292881760606
+444,Bowman Park,"950 E Bowman Rd, Round Rock, TX 78664",3.0,30.52942929226096,-97.67157420431604
+445,Plum Creek Dog Park,"Fairway, Kyle, TX 78640",2.5,30.015539,-97.882793
+446,Agave Neighborhood park,"5900 Sendero Hills Pkwy, Austin, TX 78724",3.0,30.29148662591339,-97.64693109324656
+447,Williams School park,"605 Blue Valley Dr, Austin, TX 78748",3.0,30.18232828964128,-97.7907889144317
+448,City of Elgin,"802 N Avenue C, Elgin, TX 78621",4.0,30.35071,-97.37681
+449,Buck Egger Park,"900 S Mays St, Round Rock, TX 78664",4.0,30.50195,-97.67714
+450,Hunters Chase Park,"12400 Hunters Chase Dr, Austin, TX 78729",3.0,30.44491989636819,-97.77030050754549
+451,Buttermilk Branch Greenbelt,"7500 Meador Ave, Austin, TX 78752",2.0,30.33249,-97.69438
+452,City of Round Rock,"301 Deepwood Dr, Round Rock, TX 78681",4.0,30.507309,-97.69892
+453,Amber Oaks Park,"13601 Briarwick Dr, Austin, TX 78729",3.0,30.46931000142602,-97.769658
+454,St.John's Park,"889 Wilks Ave, Austin, TX 78752",2.0,30.33268781922016,-97.70019132501666
+455,Wells Point Park,"800 S Heatherwilde Blvd, Pflugerville, TX 78660",3.5,30.4405876087557,-97.6459253403571
+456,Austin Affordable Fitness,"708 Robert E Lee Rd, Austin, TX 78704",5.0,30.262825,-97.7670593
+457,Wild Rose park,"700 Cluck Creek Trl, Cedar Park, TX 78613",3.0,30.498465,-97.827108
+458,Wells Branch Dog Park,"3000 Shoreline Dr, Austin, TX 78728",2.5,30.4544459,-97.6829712
+459,Harper Park,"Deerbrook Trail & Lake Creek Pkwy, Austin, TX 78750",4.0,30.45855864156687,-97.81045372669136
+460,Schieffer Tract,"3404 Hycreek Dr, Austin, TX 78723",1.0,30.307179135587237,-97.67091901660228
+461,Del Valle Adult Softball Fields,"3614 FM 973, Austin, TX 78617",3.5,30.200602,-97.643523
+462,El Salido Park,"11449 Morning Glory Trl, Austin, TX 78750",4.5,30.45546,-97.81957
+463,Horizon park,"300 Presidio Dr, Leander, TX 78641",4.0,30.5553629274106,-97.83949380233108
+464,City of Hutto,"306 E Live Oak St, Hutto, TX 78634",4.0,30.5468611,-97.5423962
+465,Gilleland Creek Park,"700 N Railroad Ave, Pflugerville, TX 78660",4.0,30.4445788201472,-97.6188700273633
+466,Sunchase Park,"2450 Sunchase Blvd, Cedar Park, TX 78613",3.5,30.4809,-97.84039
+467,Westview Meadow Park,"903 Municipal Dr, Leander, TX 78641",4.0,30.570956258738786,-97.86607593471844
+468,Spectrum Trail Racing,"410 Pressler, Austin, TX 78703",5.0,30.2719498,-97.7613983
+469,Lennar Walsh Trails,"503 Walsh Hill Trl, Cedar Park, TX 78613",3.0,30.52435,-97.75535
+470,Old Mill Gazebo,"1215 Old Mill Rd, Cedar Park, TX 78613",4.0,30.473325,-97.829126
