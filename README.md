@@ -13,7 +13,7 @@
 - [References](#references)
 
 ## Project Overview
-Welcome to the Housing Market Analysis Project! This project aims to provide insights into the housing market by analyzing housing prices, amenities, and surrounding features. The project utilizes a Flask API to serve data to the frontend, which is built using HTML, CSS, and JavaScript. The frontend incorporates data visualizations to showcase trends in housing prices and amenity patterns.
+Welcome to the Housing Market Analysis Project! This comprehensive project offers insights into the housing market by analyzing housing prices, amenities, and surrounding features. Leveraging a Flask API to serve data to the frontend, the project's user interface is developed using HTML, CSS, and JavaScript. Rich data visualizations are integrated to highlight trends in housing prices and amenity patterns.
 
 ## Project Structure
 The project is structured as follows:
@@ -27,9 +27,9 @@ The project is structured as follows:
 To run the project locally, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/housing-market-analysis.git
-cd housing-market-analysis
-pip install -r requirements.txt
+git clone https://github.com/ChisomOzo/project-3-group-9
+cd project-3-group-9
+pip install Flask pandas requests seaborn matplotlib numpy geopy
 python flask_app.py
 ```
 
@@ -41,23 +41,22 @@ The project utilizes data from the following sources:
 - Databases for schools, grocery stores, and other amenities.
 
 ## Data Cleanup and Analysis
-Data cleanup and analysis are performed in Jupyter notebooks located in the `data_analysis` directory. Explore, clean, and reformat data to prepare it for analysis. Detailed steps are documented in the notebooks.
-
-- Data Analysis Notebook 1
-- Data Analysis Notebook 2
+Data cleanup and analysis are performed in Jupyter notebooks 'properties_analysis' and 'amenities_analysis'. Explore, clean, and reformat data to prepare it for analysis. Detailed steps are documented in the notebooks.
 
 ## Flask API
-The Flask API (`flask_app.py`) serves as the backend for the project. It handles data retrieval and user-driven interactions. API documentation can be found in the code comments.
+The Flask API (`flask_app.py`) serves as the backend for the project. It handles data retrieval and user-driven interactions. 
 
 ## Frontend Development
 The frontend is built using HTML, CSS, and JavaScript. User-driven interactions are implemented using a JS library. Explore the `templates` and `static` directories for frontend code.
 
 ## Data Visualization
-Data visualizations are integrated using a library like Leaflet or Plotly. The visualizations tell a compelling story about housing prices and amenity patterns. Check the `static` directory for JavaScript files related to visualization.
+Data visualizations are seamlessly integrated using libraries like Leaflet or Plotly. These visualizations weave a compelling narrative about housing prices and amenity patterns. Check the static directory for JavaScript files related to visualization.
 
 ## Contributors
-- Names
-- Names
+- Chisom Ozo
+- Jorge Nardy
+- Muhammad Kashif
+- Omar Salloum 
 
 ## References
 - [Flask Documentation](https://flask.palletsprojects.com/)
