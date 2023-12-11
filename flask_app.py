@@ -8,7 +8,7 @@ from sqlalchemy import create_engine, func
 from flask import Flask, jsonify
 
 # Database Setup
-engine = create_engine("postgresql://postgres:Grapefruit579@localhost:5433/housing_api")
+engine = create_engine("postgresql://postgres:'password'@localhost:5433/housing_api")
 
 # reflect an existing database into a new model
 Base = automap_base()
