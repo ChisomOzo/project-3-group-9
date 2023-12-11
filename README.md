@@ -21,7 +21,7 @@ The project is structured as follows:
 - `flask_app.py`: Contains the Flask API implementation.
 - `templates`: Directory for HTML templates.
 - `static`: Directory for static files such as CSS and JavaScript.
-- `data_analysis`: Jupyter notebooks for data exploration and analysis.
+- `properties_analysis`, `amenities_analysis`: Jupyter notebooks for data exploration and analysis.
 
 ## Getting Started
 To run the project locally, follow these steps:
