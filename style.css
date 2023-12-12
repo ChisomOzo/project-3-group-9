@@ -1,0 +1,84 @@
+.container {
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 1fr .8fr 1fr 1fr;
+    grid-template-rows: 0.2fr 1.5fr
+    1.2fr 0.8fr;
+    grid-template-areas: 
+    "nav nav nav nav"
+    "sideBar map map map"
+    "sideBar PropertyInfo barChart barChart "
+    "sideBar recommendations recommendations recommendations";
+    grid-gap: 0.2rem;
+    
+}
+nav {
+    background-color: palegoldenrod;
+    grid-area: nav;
+    border-radius: 0.5rem;
+}
+#details {
+    text-align: center;
+    background-color: goldenrod;
+    grid-area: PropertyInfo;
+    border-radius: 0.5rem;
+}
+.property-details {
+    text-align: center;
+    background-color: goldenrod;
+    grid-area: PropertyInfo;
+    border-radius: 0.5rem;
+
+}
+#barChart {
+    background-color: goldenrod;
+    grid-area: barChart;
+    border-radius: 0.5rem;
+}
+
+#sideBar {
+    background-color: gold;
+    grid-area: sideBar;
+    border-radius: 0.5rem;
+    overflow-y: auto;
+}
+.search-container {
+    background-color: gold;
+    grid-area: nav;
+    border-radius: 0.5rem;
+}
+#results {
+    text-align: center;
+    background-color:gold;
+    grid-area: sideBar;
+    border-radius: 0.5rem;
+    overflow-y: auto;
+}
+#result-box{
+    text-align: center;
+    background-color:gold;
+    grid-area: sideBar;
+    border-radius: 0.5rem;
+    overflow-y: auto;
+}
+#salesHistory {
+    background-color: goldenrod;
+    grid-area: salesHistory;
+    border-radius: 0.5rem;
+}
+#map {
+    background-color: goldenrod;
+    grid-area: map;
+    border-radius: 0.5rem;
+}
+#barChart {
+    background-color: goldenrod;
+    grid-area: barChart;
+    border-radius: 0.5rem;
+}
+
+#recommendations {
+    background-color: goldenrod;
+    grid-area: recommendations;
+    border-radius: 0.5rem;
+}
