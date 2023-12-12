@@ -19,8 +19,8 @@ Welcome to the Housing Market Analysis Project! This comprehensive project offer
 The project is structured as follows:
 
 - `flask_app.py`: Contains the Flask API implementation.
-- `templates`: Directory for HTML templates.
-- `static`: Directory for static files such as CSS and JavaScript.
+- `index.html`: For HTML templates.
+- `logic.js`: For JavaScript.
 - `properties_analysis`, `amenities_analysis`: Jupyter notebooks for data exploration and analysis.
 
 ## Getting Started
@@ -44,13 +44,13 @@ The project utilizes data from the following sources:
 Data cleanup and analysis are performed in Jupyter notebooks 'properties_analysis' and 'amenities_analysis'. Explore, clean, and reformat data to prepare it for analysis. Detailed steps are documented in the notebooks.
 
 ## Flask API
-The Flask API (`flask_app.py`) serves as the backend for the project. It handles data retrieval and user-driven interactions. 
+The Flask API (`flask_apps.py`) serves as the backend for the project. It handles data retrieval and user-driven interactions. 
 
 ## Frontend Development
-The frontend is built using HTML, CSS, and JavaScript. User-driven interactions are implemented using a JS library. Explore the `templates` and `static` directories for frontend code.
+The frontend is built using HTML, and JavaScript. User-driven interactions are implemented using a JS library. 
 
 ## Data Visualization
-Data visualizations are seamlessly integrated using libraries like Leaflet or Plotly. These visualizations weave a compelling narrative about housing prices and amenity patterns. Check the static directory for JavaScript files related to visualization.
+Data visualizations are seamlessly integrated. These visualizations weave a compelling narrative about housing prices and amenity patterns. 
 
 ## Contributors
 - Chisom Ozo
