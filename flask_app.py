@@ -9,11 +9,12 @@ from flask import Flask, jsonify
 
 # Database Setup
 engine = create_engine("postgresql://postgres:Grapefruit579@localhost:5433/housing_api")
+conn = engine.connect()
 
 # reflect an existing database into a new model
 Base = automap_base()
 # reflect the tables
-Base.prepare(autoload_with=engine)
+# Base.prepare(autoload_with=engine)
 
 # Save reference to the table
 Property = Base.classes.property
@@ -21,9 +22,16 @@ Restaurants = Base.classes.restaurants
 Grocery = Base.classes.grocery
 PublicTransport = Base.classes.publictransport
 Schools = Base.classes.schools
+Gyms =Base.classes.gyms
+Parks= Base.classes.parks
+# session = Session(conn)
 
 # Flask Setup
 app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return render_template('index.html')
 
 # Flask Routes
 @app.route("/")
@@ -35,7 +43,9 @@ def welcome():
         "/api/v1.0/restaurants<br/>"
         "/api/v1.0/groceries<br/>"
         "/api/v1.0/publictransport<br/>"
-        "/api/v1.0/schools"
+        "/api/v1.0/schools<br/>"
+        "/api/v1.0/gyms<br/>"
+        "/api/v1.0/parks"
     )
 
 @app.route("/api/v1.0/properties")
@@ -144,6 +154,42 @@ def schools():
         }
         all_school.append(schools)
     return jsonify(all_school)
+
+@app.route("/api/v1.0/gyms")
+def gyms():
+    session=Session(engine)
+    results=session.query(Gyms.gym_id, Gyms.gym_name, Gyms.gym_address,Gyms.gym_ratings, Gyms.latitude, Gyms.longitude).all()
+    session.close()
+    all_gyms=[]
+    for gyms in results:
+        gyms={
+           "gym_id": gyms[0],
+           "gym_name":gyms[1],
+           "gym_address":gyms[2],
+           "gym_ratings":gyms[3],
+           "latitude":gyms[4],
+           "longitude":gyms[5]
+        }
+        all_gyms.append(gyms)
+    return jsonify(all_gyms)
+
+@app.route("/api/v1.0/parks")
+def parks():
+    session=Session(engine)
+    results=session.query(Parks.park_id, Parks.park_name, Parks.park_address, Parks.park_ratings, Parks.latitude, Parks.longitude).all()
+    session.close()
+    all_parks=[]
+    for parks in results:
+        parks={
+           "park_id": parks[0],
+           "park_name":parks[1],
+           "park_address":parks[2],
+           "park_ratings":parks[3],
+           "latitude":parks[4],
+           "longitude":parks[5]
+        }
+        all_parks.append(parks)
+    return jsonify(all_parks)
 
 if __name__ == '__main__':
     app.run(debug=True)
