@@ -9,7 +9,6 @@ from flask import Flask, jsonify
 
 # Database Setup
 engine = create_engine("postgresql://postgres:Grapefruit579@localhost:5433/housing_api")
-conn = engine.connect()
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -17,36 +16,36 @@ Base = automap_base()
 # Base.prepare(autoload_with=engine)
 
 # Save reference to the table
-Property = Base.classes.property
-Restaurants = Base.classes.restaurants
-Grocery = Base.classes.grocery
-PublicTransport = Base.classes.publictransport
-Schools = Base.classes.schools
-Gyms =Base.classes.gyms
-Parks= Base.classes.parks
+
+property = Base.classes.property
+restaurants = Base.classes.restaurants
+grocery = Base.classes.grocery
+publictransport = Base.classes.publictransport
+schools = Base.classes.schools
+gyms = Base.classes.gyms
+parks = Base.classes.parks
+
 # session = Session(conn)
 
 # Flask Setup
 app = Flask(__name__)
 
-@app.route('/')
-def index():
-    return render_template('index.html')
 
 # Flask Routes
 @app.route("/")
 def welcome():
     """List all available API routes."""
-    return (
-        "Available Routes:<br/>"
-        "/api/v1.0/properties<br/>"
-        "/api/v1.0/restaurants<br/>"
-        "/api/v1.0/groceries<br/>"
-        "/api/v1.0/publictransport<br/>"
-        "/api/v1.0/schools<br/>"
-        "/api/v1.0/gyms<br/>"
-        "/api/v1.0/parks"
-    )
+    return ('index.html')
+    # return (
+    #     "Available Routes:<br/>"
+    #     "/api/v1.0/properties<br/>"
+    #     "/api/v1.0/restaurants<br/>"
+    #     "/api/v1.0/groceries<br/>"
+    #     "/api/v1.0/publictransport<br/>"
+    #     "/api/v1.0/schools<br/>"
+    #     "/api/v1.0/gyms<br/>"
+    #     "/api/v1.0/parks"
+    # )
 
 @app.route("/api/v1.0/properties")
 def properties():
@@ -55,7 +54,7 @@ def properties():
 
     """Return a list of all property data"""
     # Query all properties
-    results = session.query(Property.property_id, Property.city, Property.state, Property.zipcode, Property.address, Property.price, Property.bedrooms, Property.bathrooms, Property.square_foot, Property.latitude, Property.longitude, Property.sale_amount, Property.sale_transction_date).all()
+    results = session.query(property.property_id, property.city, property.state, property.zipcode, property.address, property.price, property.bedrooms, property.bathrooms, property.square_foot, property.latitude, property.longitude, property.sale_amount, property.sale_transction_date).all()
 
     session.close()
 
@@ -86,7 +85,7 @@ def properties():
 @app.route("/api/v1.0/restaurants")
 def restaurants():
     session= Session(engine)
-    results= session.query(Restaurants.rest_id, Restaurants.rest_name, Restaurants.rest_address, Restaurants.rest_ratings, Restaurants.latitude, Restaurants.longitude).all()
+    results= session.query(restaurants.rest_id, restaurants.rest_name, restaurants.rest_address, restaurants.rest_ratings, restaurants.latitude, restaurants.longitude).all()
     session.close()
     all_restaurants=[]
     for rest in results:
@@ -104,7 +103,7 @@ def restaurants():
 @app.route("/api/v1.0/groceries")
 def groceries():
     session= Session(engine)
-    results= session.query(Grocery.gro_id, Grocery.gro_name, Grocery.gro_address, Grocery.gro_ratings, Grocery.latitude, Grocery.longitude).all()
+    results= session.query(grocery.gro_id, grocery.gro_name, grocery.gro_address, grocery.gro_ratings, grocery.latitude, grocery.longitude).all()
     session.close()
     all_groceries=[]
     for gro in results:
@@ -122,7 +121,7 @@ def groceries():
 @app.route("/api/v1.0/publictransport")
 def publictransport():
     session= Session(engine)
-    results = session.query(PublicTransport.pub_id, PublicTransport.pub_name, PublicTransport.pub_address, PublicTransport.pub_ratings, PublicTransport.latitude, PublicTransport.longitude).all()
+    results = session.query(publictransport.pub_id, publictransport.pub_name, publictransport.pub_address, publictransport.pub_ratings, publictransport.latitude, publictransport.longitude).all()
     session.close()
     all_publictransport=[]
     for pub in results:
@@ -140,7 +139,7 @@ def publictransport():
 @app.route("/api/v1.0/schools")
 def schools():
     session=Session(engine)
-    results=session.query(Schools.school_id, Schools.school_name, Schools.school_address, Schools.school_ratings, Schools.latitude, Schools.longitude).all()
+    results=session.query(schools.school_id, schools.school_name, schools.school_address, schools.school_ratings, schools.latitude, schools.longitude).all()
     session.close()
     all_school=[]
     for school in results:
@@ -158,7 +157,7 @@ def schools():
 @app.route("/api/v1.0/gyms")
 def gyms():
     session=Session(engine)
-    results=session.query(Gyms.gym_id, Gyms.gym_name, Gyms.gym_address,Gyms.gym_ratings, Gyms.latitude, Gyms.longitude).all()
+    results=session.query(gyms.gym_id, gyms.gym_name, gyms.gym_address,gyms.gym_ratings, gyms.latitude, gyms.longitude).all()
     session.close()
     all_gyms=[]
     for gyms in results:
@@ -176,7 +175,7 @@ def gyms():
 @app.route("/api/v1.0/parks")
 def parks():
     session=Session(engine)
-    results=session.query(Parks.park_id, Parks.park_name, Parks.park_address, Parks.park_ratings, Parks.latitude, Parks.longitude).all()
+    results=session.query(parks.park_id, parks.park_name, parks.park_address, parks.park_ratings, parks.latitude, parks.longitude).all()
     session.close()
     all_parks=[]
     for parks in results:
