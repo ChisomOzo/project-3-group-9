@@ -1,38 +1,4 @@
-# import pandas as pd
-# from flask import Flask, jsonify, render_template
 
-# app = Flask(__name__)
-
-# # Load CSV files into pandas dataframes
-# properties_df = pd.read_csv('Resources/parks.csv')
-# restaurants_df = pd.read_csv('Resources/restaurants.csv')
-# groceries_df = pd.read_csv('Resources/groceries.csv')
-# # Add more dataframes for other entities as needed
-
-# # Flask Routes
-# @app.route('/')
-# def index():
-#     return render_template('index.html')
-
-# @app.route("/api/v1.0/parks")
-# def get_properties():
-#     properties_data = properties_df.to_dict(orient='records')
-#     return jsonify(properties_data)
-
-# @app.route("/api/v1.0/restaurants")
-# def get_restaurants():
-#     restaurants_data = restaurants_df.to_dict(orient='records')
-#     return jsonify(restaurants_data)
-
-# @app.route("/api/v1.0/groceries")
-# def get_groceries():
-#     groceries_data = groceries_df.to_dict(orient='records')
-#     return jsonify(groceries_data)
-
-# # Add similar routes for other entities...
-
-# if __name__ == '__main__':
-#     app.run(debug=True)
 import pandas as pd
 from flask import Flask, jsonify, render_template
 
@@ -97,7 +63,7 @@ def parks_html():
 # Routes to serve JSON data
 @app.route("/api/v1.0/properties")
 def get_properties():
-    properties_data = parks_df.to_dict(orient='records')
+    properties_data = properties_df.to_dict(orient='records')
     return jsonify(properties_data)
 
 @app.route("/api/v1.0/restaurants")
@@ -110,10 +76,15 @@ def get_groceries():
     groceries_data = groceries_df.to_dict(orient='records')
     return jsonify(groceries_data)
 
-@app.route("/api/v1.0//publictransport")
+@app.route("/api/v1.0/publictransport")
 def get_publictransports():
     publictransport_data = publictransport_df.to_dict(orient='records')
     return jsonify(publictransport_data)
+
+@app.route("/api/v1.0/schools")
+def get_school():
+    school_data = schools_df.to_dict(orient='records')
+    return jsonify(school_data)
 
 @app.route("/api/v1.0/gyms")
 def get_gyms():
