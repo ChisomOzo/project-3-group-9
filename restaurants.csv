@@ -1,0 +1,1001 @@
+rest_id,rest_name,rest_address,rest_ratings,latitude,longitude
+1,Qi Austin,"835 West 6th St, Unit 114, Austin, TX 78703",4.5,30.27058605281438,-97.75251467522534
+2,1618 Asian Fusion,"1618 E Riverside Dr, AMLI South Shore Bldg, Austin, TX 78741",4.5,30.245474,-97.730411
+3,Aba - Austin,"1011 S Congress Ave, Bldg 2, Ste 180, Austin, TX 78704",4.5,30.25357,-97.74803
+4,Anthem,"91 Rainey St, Ste 120, Austin, TX 78701",4.5,30.260499502500732,-97.7379465429382
+5,Moonshine Patio Bar & Grill,"303 Red River St, Austin, TX 78701",4.5,30.26375388334444,-97.738076861816
+6,Salty Sow,"1917 Manor Rd, Austin, TX 78722",4.5,30.2836497259461,-97.7213180065155
+7,Suerte,"1800 E 6th St, Austin, TX 78702",4.5,30.26228,-97.72331
+8,Odd Duck,"1201 S Lamar Blvd, Austin, TX 78704",4.5,30.25452,-97.762064
+9,Higher Ground,"720 Congress Ave, Austin, TX 78701",4.0,30.26978,-97.7424
+10,Gather & Forge,"2823 Hancock Dr, Austin, TX 78731",5.0,30.3277447,-97.7498273
+11,Loro,"2115 S Lamar Blvd, Austin, TX 78704",4.5,30.24775,-97.77127
+12,La Plancha,"1701 E Martin Luther King Jr Blvd, Austin, TX 78702",4.5,30.27927,-97.72297
+13,Patrizi's,"2307 Manor Rd, Austin, TX 78722",4.5,30.2839715080976,-97.7172101465576
+14,SOHA,"911 W Anderson Ln, Ste 114, Austin, TX 78757",4.5,30.348158799999464,-97.71484877057412
+15,Vic & Al's,"2406 Manor Rd, Ste D, Austin, TX 78722",4.5,30.2849835,-97.7168484
+16,TenTen,"501 W 6th St, Austin, TX 78701",4.5,30.26916,-97.74771
+17,Electric Shuffle Austin,"91 Red River St, Ste 102, Austin, TX 78701",4.5,30.2609598795566,-97.73882820000132
+18,La Piscina,"600 W 2nd St, Proper Hotel, Austin, TX 78701",4.5,30.2660716,-97.7499454
+19,Estelle's,"400 Colorado St, Austin, TX 78701",4.0,30.266896536904493,-97.7449805
+20,Launderette,"2115 Holly St, Austin, TX 78702",4.0,30.25193,-97.72273
+21,Wax Myrtle's,"506 San Jacinto Blvd, Austin, TX 78701",4.0,30.266940030373213,-97.740851
+22,Canje,"1914 E 6th St, Ste C, Austin, TX 78702",4.5,30.26177,-97.72232
+23,Este,"2113 Manor Rd, Austin, TX 78722",4.5,30.28420740251809,-97.71961013910531
+24,Irene's,"506 W Ave, Austin, TX 78701",4.0,30.269838,-97.751213
+25,Gràcia Mediterranean,"4800 Burnet Rd, Ste 450, Austin, TX 78756",4.5,30.319075,-97.739501
+26,Red Ash,"303 Colorado St, Austin, TX 78701",4.5,30.26588,-97.744672
+27,Franklin Barbecue,"900 E 11th St, Austin, TX 78702",4.5,30.2701348,-97.7313451068641
+28,The Peacock,"600 W 2nd St, Austin, TX 78701",4.0,30.266299,-97.7501055
+29,Seoulju,"9515 N Lamar Blvd, Ste 230, Austin, TX 78753",4.5,30.3647897512989,-97.694497822839
+30,Quince Lakehouse,"3825 Lake Austin Blvd, Ste 201, Austin, TX 78703",4.5,30.29547127448907,-97.7841556
+31,Smash ATX,"213 W 5th St, Austin, TX 78701",4.5,30.26751,-97.74546
+32,Phoebe's Diner,"533 W Oltorf St, Austin, TX 78704",4.5,30.2416132,-97.7588755
+33,Acre 41,"1901 San Antonio St, Austin, TX 78705",4.0,30.28223,-97.74291
+34,Eureka!,"200 E 6th St, Austin, TX 78701",4.0,30.267842749166107,-97.74124011397362
+35,J Carver’s,"509 Rio Grande St, Austin, TX 78701",4.5,30.26952488348901,-97.74944737360416
+36,Roaring Fork,"701 Congress Ave, Austin, TX 78701",4.0,30.2691239366193,-97.74220162455124
+37,Nido,"1211 W Riverside Dr, Austin, TX 78704",4.0,30.26410527121516,-97.7566834256152
+38,Khon Thai Kitchen By Seeda,"5800 Burnet Rd, Ste 400, Austin, TX 78756",4.5,30.3334,-97.74101
+39,Kemuri Tatsu-ya,"2713 E 2nd St, Austin, TX 78702",4.0,30.25386,-97.7129
+40,Laurel Restaurant,"320 S Capital Of Texas Hwy, West Lake Hills, TX 78746",4.0,30.3022045,-97.8298978
+41,Swift's Attic,"315 Congress Ave, Ste 200, Austin, TX 78701",4.0,30.26563,-97.74337
+42,Garrison,"101 Red River St, Austin, TX 78701",4.5,30.262286708775857,-97.7385593922303
+43,Apt 115,"2025 E 7th St, Austin, TX 78702",5.0,30.2616,-97.71982
+44,Phoebe's Diner,"408 W 11th St, Unit 100, Austin, TX 78701",4.5,30.27404,-97.74493
+45,DipDipDip Tatsu-Ya,"7301 Burnet Rd, Ste 101, Austin, TX 78757",4.0,30.348670620044125,-97.73501060379088
+46,Dean's Italian Steakhouse,"110 East 2nd St, Austin, TX 78701",4.5,30.26438,-97.7434
+47,June's,"1722 S Congress Ave, Austin, TX 78704",4.0,30.2463083255216,-97.7511458576444
+48,Barley Swine,"6555 Burnet Rd, Ste 400, Austin, TX 78757",4.5,30.3412737661652,-97.7383886364151
+49,Caroline,"621 Congress Ave, Ste 101, Austin, TX 78701",4.0,30.26882841579826,-97.74229820378147
+50,Hestia,"607 West 3rd St, Ste 105, Austin, TX 78701",4.5,30.266775,-97.74998
+51,Paperboy,"1203 E 11th St, Austin, TX 78702",4.5,30.2684012,-97.7275558531846
+52,Lin Asian Bar And Dim Sum,"1203 W 6th St, Austin, TX 78703",4.0,30.27281,-97.75799
+53,FTG ATX,"4301 Duval St, Austin, TX 78751",5.0,30.3047766206252,-97.7257366
+54,Corinne Austin,"304 E Cesar Chavez St, Unit 100, Austin, TX 78701",4.5,30.26273,-97.74158
+55,Perla's,"1400 S Congress Ave, Ste B100, Austin, TX 78704",4.0,30.24995731632653,-97.75009197444392
+56,Comedor,"501 Colorado St, Austin, TX 78701",4.0,30.267721,-97.744204
+57,Intero Restaurant,"2612 E Cesar Chavez St, Austin, TX 78702",4.5,30.2538078303281,-97.7146533178121
+58,Toshokan,"807 E 4th St, Austin, TX 78702",5.0,30.263418335809813,-97.7346683
+59,El Raval,"1500 South Lamar Blvd, Austin, TX 78704",4.5,30.25209,-97.76445
+60,Yamas Greek Kitchen + Bar,"5308 Balcones Dr, Austin, TX 78731",4.0,30.33557610922092,-97.75912693123576
+61,Péché,"208 W 4th St, Austin, TX 78701",4.0,30.26699,-97.74524
+62,Rose Gose,"5201 Airport Blvd, Austin, TX 78751",4.5,30.313105,-97.714725
+63,Las Perlas,"405 E 7th St, Austin, TX 78701",4.5,30.26766,-97.73864
+64,Boteco,"1720 Barton Springs Rd, Austin, TX 78704",4.5,30.263624,-97.763001
+65,Jewboy Burgers,"5111 Airport Blvd, Austin, TX 78751",4.5,30.3127408,-97.71508227214272
+66,Gus's World Famous Fried Chicken - Austin,"117 San Jacinto Blvd, Austin, TX 78701",4.5,30.2634862,-97.7417305
+67,Gabriela's Downtown,"900 E 7th St, Austin, TX 78702",4.0,30.2666,-97.73302
+68,Emmer & Rye,"51 Rainey St, Austin, TX 78701",4.0,30.256941357994524,-97.73933237013148
+69,Summer House on Music Lane,"1101 Music Ln, Austin, TX 78704",4.0,30.252617768292083,-97.74769522897344
+70,Uncle Nicky's,"4222 Duval St, Austin, TX 78751",4.0,30.30489,-97.72621
+71,North Italia,"500 W 2nd St, Ste 120, Austin, TX 78701",4.0,30.26579507333844,-97.748924
+72,La Popular - Austin,"5 SW Pkwy Building, Ste 100, Austin, TX 78735",4.0,30.255240230184153,-97.86736997742383
+73,Lutie’s Garden Restaurant,"4100 Red River St, Austin, TX 78751",4.0,30.300784,-97.722215
+74,Velvet Taco,"522 Congress Ave, Ste 100, Austin, TX 78701",4.5,30.267959079138866,-97.7431730552339
+75,Baretto Bistro,"1206B W 38th St, Austin, TX 78705",4.5,30.306547964744833,-97.74520127279808
+76,Bar Peached,"1315 W 6th St, Austin, TX 78703",4.5,30.27354,-97.76001
+77,Ember Kitchen,"800 W Cesar Chavez St, Ste PP110, Austin, TX 78701",4.5,30.266578,-97.752637
+78,Oseyo,"1628 E Cesar Chavez St, Austin, TX 78702",4.0,30.25831,-97.72757
+79,The Peached Tortilla,"5520 Burnet Rd, Ste 100, Austin, TX 78756",4.0,30.33075,-97.74021
+80,Olamaie,"1610 San Antonio St, Austin, TX 78701",4.0,30.2799,-97.74367
+81,Bird Bird Biscuit,"2701 Manor Rd, Austin, TX 78722",4.5,30.284804,-97.713964
+82,Wu Chow,"500 W 5th St, Austin, TX 78701",4.0,30.268592660232244,-97.74788224956195
+83,Terry Black's Barbecue,"1003 Barton Springs Rd, Austin, TX 78704",4.5,30.2596915716907,-97.7548013627529
+84,Arlo Grey by Kristen Kish,"111 E Cesar Chavez St, Austin, TX 78701",4.0,30.262724161102867,-97.74410642632972
+85,CARVE American Grille - Central Austin ,"2613 Perseverance Dr, Austin, TX 78731",4.0,30.3181159,-97.7528127
+86,Olive & June,"3411 Glenview Ave, Austin, TX 78703",4.0,30.30726,-97.75113
+87,Bar 508 Mezcalerita,"508 E 8th St, Austin, TX 78701",4.5,30.2686,-97.73665
+88,Soupleaf Hot Pot,"6929 Airport Blvd, Ste 127, Austin, TX 78752",4.5,30.33867074286145,-97.7182056039015
+89,Tiki Tatsu-Ya,"1300 S Lamar Blvd, Austin, TX 78704",4.0,30.25382,-97.76331
+90,Ezov,"2708 E Cesar Chavez St, Austin, TX 78702",4.0,30.25345964298245,-97.7135189705522
+91,Nomade,"1506 South 1st St, Austin, TX 78704",4.5,30.24973495377611,-97.7553113
+92,Cooper's Old Time Pit Bar-B-Que,"217 Congress Ave, Austin, TX 78701",4.0,30.26489,-97.74361
+93,Austin Rotisserie,"111 Congress Ave, P400, Austin, TX 78701",4.5,30.263536,-97.7435761
+94,Hopfields,"3110 Guadalupe St, Ste 400, Austin, TX 78705",4.0,30.2985538576336,-97.7409893637848
+95,Proud Mary,"2043 S Lamar Blvd, Austin, TX 78704",4.5,30.248300392180276,-97.76938270254324
+96,Sawyer & Co,"4827 E Cesar Chavez St, Austin, TX 78702",4.0,30.2513332366943,-97.7017822265625
+97,Flo's Wine Bar & Bottle Shop,"3111 W 35th St, Austin, TX 78703",4.5,30.31326371700297,-97.7669042
+98,Bufalina,"2215 E Cesar Chavez St, Austin, TX 78702",4.0,30.25518,-97.719656
+99,Veracruz Fonda & Bar,"1905 Aldrich St, Ste 125, Austin, TX 78723",4.5,30.29819578727444,-97.70524985715171
+100,POCHA IS BACK,"6808N N Lamar Blvd, Ste B-110, Austin, TX 78752",4.5,30.336184,-97.720611
+101,Bouldin Creek Cafe,"1900 S 1st St, Austin, TX 78704",4.5,30.24646,-97.75677
+102,TLC Austin,"1100 S Lamar Blvd, Ste 1150, Austin, TX 78704",4.0,30.25576,-97.76252
+103,Goldy’s,"2401 Winsted Ln, Austin, TX 78703",5.0,30.29289370116596,-97.760492688529
+104,El Alma,"1025 Barton Springs Rd, Austin, TX 78704",4.0,30.2601,-97.75562
+105,Salt Traders Zilker,"1101 S MoPac Expy, Austin, TX 78746",4.5,30.26297,-97.784594
+106,Vamonos,"4807 Airport Blvd, Austin, TX 78751",4.5,30.30854,-97.71537
+107,District Kitchen - Anderson Lane,"7858 Shoal Creek Blvd, Bldg B, Austin, TX 78757",4.5,30.36068,-97.74139
+108,Jack Allen's Kitchen,"3600 North Capital Of Texas Hwy, Bldg D, Austin, TX 78746",4.5,30.3352434572574,-97.8075081023773
+109,Ling Kitchen,"8423 Research Blvd, Austin, TX 78758",4.5,30.35927,-97.71592
+110,The Diner Bar - Austin,"500 San Jacinto Blvd, Austin, TX 78701",4.5,30.26661947438517,-97.7408417
+111,House of Three Gorges,"8557 Research Blvd, Ste 144, Austin, TX 78758",4.5,30.3617280827925,-97.7153496770409
+112,Juniper,"2400 E Cesar Chavez St, Ste 304, Austin, TX 78702",4.0,30.254867,-97.717182
+113,Lee’s Kitchen + Cocktails,"701 S Capital Of Tx Hwy, Ste G700, West Lake Hills, TX 78746",5.0,30.289920378066597,-97.82719318462529
+114,Pecan Square Cafe,"1200 W 6th St, Ste B, Austin, TX 78703",4.0,30.27311679089706,-97.75724507865488
+115,Numero28,"452 W 2nd St, Austin, TX 78701",4.0,30.26566,-97.74841
+116,Titaya's Thai Cuisine,"5501 N Lamar Blvd, Ste C101, Austin, TX 78751",4.0,30.3236051867619,-97.7273681944428
+117,TraphouseATX,"310 Colorado St, Austin, TX 78701",4.0,30.266269,-97.745228
+118,Tweedy's,"2908 Fruth St, Austin, TX 78705",5.0,30.295514,-97.74173
+119,Golden Tiger,"1816 E 6th St, Austin, TX 78702",4.0,30.261993,-97.7226715
+120,Jjim Korean Braised BBQ,"1100 S Lamar Blvd, Ste 2140, Austin, TX 78704",4.5,30.25576,-97.76252
+121,Hold Out Brewing,"1208 W 4th St, Austin, TX 78703",4.0,30.271378,-97.758904
+122,Holiday on 7th,"5020 E 7th St, Austin, TX 78702",4.5,30.2537018,-97.6976313
+123,Meat & Bread,"360 Nueces St, Ste 20, Austin, TX 78701",5.0,30.26707465829323,-97.74983827055262
+124,Domo Alley Gato Tatsu-Ya,"1606 E 6th St, Austin, TX 78702",4.0,30.263105516749416,-97.7262606294488
+125,Uchibā,"601 W 2nd St, Austin, TX 78701",4.5,30.2658,-97.74998
+126,Prim and Proper,"1007 S Congress Ave, Ste 120, Austin, TX 78704",4.5,30.254224644988437,-97.74761894020668
+127,Picnik - Burnet Road,"4801 Burnet Rd, Austin, TX 78756",4.0,30.3189,-97.73897
+128,Revelry Kitchen + Bar,"1410 E 6th St, Austin, TX 78702",4.0,30.2637173006037,-97.7277220894538
+129,Fabrik - Austin,"1701 E Martin Luther King Jr Blvd, Ste 102, Austin, TX 78702",5.0,30.279202,-97.722964
+130,RedFarm,"201 W 3rd St, Austin, TX 78701",4.0,30.26563383411864,-97.74543608944488
+131,Hula Hut,"3825 Lake Austin Blvd, Austin, TX 78703",3.5,30.2947120806306,-97.7843958519819
+132,Bat City Pies,"1505 Town Creek Dr, Austin, TX 78741",5.0,30.241716,-97.726887
+133,Jeffrey's,"1204 W Lynn St, Austin, TX 78703",4.0,30.2803621441126,-97.7590721100569
+134,Sammie’s Italian,"807 W 6th St, Austin, TX 78703",4.0,30.27019,-97.75102
+135,888 Pan Asian Restaurant,"2400 E Oltorf St, Ste 1A, Austin, TX 78741",4.0,30.22965591773423,-97.73000411554916
+136,Dai Due,"2406 Manor Rd, Ste A, Austin, TX 78722",4.0,30.2848871297558,-97.7167839693365
+137,Industry - Eastside,"1211 E 5th St, Ste 150, Austin, TX 78702",4.0,30.2629956,-97.73012465516288
+138,NADC Burger,"85 Rainey St, Austin, TX 78701",4.0,30.259519,-97.738185
+139,68 Degrees Kitchen,"2401 Lake Austin Blvd, Austin, TX 78703",4.0,30.27786,-97.7729
+140,ARTIPASTA,"6406 N Interstate 35 Frontage Rd, Ste 2510, Austin, TX 78752",4.5,30.32530101220533,-97.70749083201297
+141,Daiboku,"609 W 29th St, Austin, TX 78705",4.5,30.295437573552423,-97.743651419878
+142,Ling Wu Asian Restaurant,"7415 Southwest Pkwy, Austin, TX 78735",4.0,30.2565206,-97.8704907
+143,El Alma South,"4521 Westgate Blvd, Austin, TX 78745",4.5,30.23169,-97.80013
+144,Tsuke Edomae,"4600 Mueller Blvd, Ste 1035, Austin, TX 78723",5.0,30.298973,-97.70816
+145,Juliet Italian Kitchen,"1500 Barton Springs Rd, Austin, TX 78704",4.0,30.261645819614227,-97.76005464342612
+146,Lucky Robot,"1303 S Congress Ave, Austin, TX 78704",4.0,30.250851476015615,-97.7490062850641
+147,ATX Cocina,"110 San Antonio St, Ste 170, Austin, TX 78701",4.0,30.2649458683025,-97.7492585281865
+148,Choo Sando Omakase,"5222 Burnet Rd, Ste 535, Austin, TX 78758",4.5,30.32468183731174,-97.7403971
+149,WU Chow - North Lamar,"3800 N Lamar Blvd, Ste 170, Austin, TX 78756",4.0,30.305832,-97.743182
+150,True Food Kitchen,"222 W Ave, Ste HR100, Austin, TX 78701",4.5,30.26751023,-97.75199286
+151,Justine's Brasserie,"4710 E 5th St, Austin, TX 78702",4.0,30.253236,-97.700576
+152,South African Food Affair,"71 Rainey St, Austin, TX 78701",4.5,30.25812,-97.73869
+153,The Grove Wine Bar & Kitchen,"800 W 6th St, Ste 100, Austin, TX 78701",4.0,30.27053,-97.750899
+154,Kalimotxo,"607 W 3rd St, Ste 105, Austin, TX 78701",4.0,30.2667775234651,-97.7493870826956
+155,Stella San Jac,"310 East 5th St, Austin, TX 78701",4.0,30.26656360808851,-97.74057562761148
+156,Lou’s - Barton Springs,"1608 Barton Springs Rd, Austin, TX 78704",4.0,30.2624471,-97.7616614
+157,Colleen's Kitchen,"1911 Aldrich St, Ste 100, Austin, TX 78723",4.0,30.2984,-97.704748
+158,Jade Restaurant,"3801 N Capital Of Texas Hwy, C200, Austin, TX 78746",4.0,30.3352979,-97.804464
+159,Koriente,"621 E 7th St, Austin, TX 78701",4.5,30.267,-97.73597
+160,Culinary Dropout,"11721 Rock Rose, Ste 100, Austin, TX 78758",4.0,30.403437,-97.721694
+161,Craft Omakase,"4400 N Lamar Blvd, Ste 102, Austin, TX 78756",5.0,30.312563,-97.738624
+162,Two Hands,"1011 South Congress Ave, Ste 170, Austin, TX 78704",4.0,30.2535791926283,-97.7479241788387
+163,The Grove Wine Bar & Kitchen,"6317 Bee Caves Rd, Austin, TX 78746",4.0,30.2963184857946,-97.8328549861908
+164,Geraldine's,"605 Davis St, Austin, TX 78701",3.5,30.260057954004218,-97.73925847424948
+165,Oakmont Food,"1106 W 38th St, Austin, TX 78705",4.0,30.306147,-97.744355
+166,Jewboy Sub Shop,"6701 Burnet Rd, Ste A3, Austin, TX 78757",4.5,30.342894804361833,-97.73830716129548
+167,Café No Sé,"1603 S Congress Ave, Austin, TX 78704",4.0,30.24711909150202,-97.75042802564276
+168,Marufuku Ramen,"1900 Aldrich St, Ste 180, Austin, TX 78723",4.5,30.298142,-97.705115
+169,Bacalar,"44 East Ave, Ste 100, Austin, TX 78701",4.0,30.25575297481797,-97.73899576584786
+170,Saffron - South,"3201 Bee Cave Rd, Ste 148, Austin, TX 78746",4.5,30.273408,-97.80037
+171,Lazarus Brewing,"1902 E 6th St, Austin, TX 78702",4.5,30.26169,-97.72204
+172,Mama Kong Cambodian,"2211 Webberville Rd, Austin, TX 78702",5.0,30.26181,-97.71642
+173,Il Brutto,"1601 E 6th St, Austin, TX 78702",4.0,30.2628204676926,-97.7263318834324
+174,Bufalina Due,"6555 Burnet Rd, Austin, TX 78757",4.0,30.3413560722054,-97.7385051851856
+175,De Nada Cantina,"4715 E Cesar Chavez St, Austin, TX 78702",4.5,30.251447,-97.702184
+176,Old Thousand,"1000 E 11th St, Ste 150, Austin, TX 78702",4.0,30.269595539216105,-97.7296569
+177,Arturo's Underground Cafe,"314 W 17th St, Austin, TX 78701",4.5,30.2797094,-97.74192
+178,Devil May Care,"500 W 6th St, Austin, TX 78701",4.0,30.26955,-97.74751
+179,Monk's Momo,"318 E 5th St, Austin, TX 78701",4.5,30.26653,-97.74005
+180,Patrizi's,"1705 Cuernavaca, Austin, TX 78733",4.5,30.34027,-97.86307
+181,Tumble 22,"2304 Lake Austin Blvd, Austin, TX 78703",4.0,30.27792537649408,-97.77173683047296
+182,Spread & Co,"1601 W 38th St, Ste 1, Austin, TX 78731",4.5,30.3086982,-97.7504555
+183,KAPATAD Kitchen and Cafe,"3742 Far W Blvd, Ste 113, Austin, TX 78731",4.5,30.356363863334792,-97.75849580969744
+184,Chi'Lantro,"5222 Burnet Rd, Austin, TX 78756",4.0,30.3245593141276,-97.740055874205
+185,Super Thai Cuisine,"2024 S Lamar Blvd, Austin, TX 78704",4.5,30.24915,-97.76841
+186,Birdie's,"2944 E 12th St, Austin, TX 78702",4.0,30.27645,-97.70456
+187,Yuki Handroll Bar,"6317-3 FM2244, Ste 330, Austin, TX 78746",4.5,30.295587429816702,-97.83178287848878
+188,DosiROK,"5610 North Interstate  35, Austin, TX 78751",5.0,30.316166486835343,-97.7084916
+189,Drop Kick,"1630 E 6th St, Ste 100, Austin, TX 78702",4.0,30.262616,-97.724536
+190,Revelry on the Boulevard,"6215 N Lamar Blvd, Austin, TX 78752",4.5,30.3307413,-97.72302349094264
+191,Truluck's Ocean's Finest Seafood & Crab,"300 Colorado St, Ste 100, Austin, TX 78701",4.5,30.265954,-97.745301
+192,Lamberts Downtown Barbecue,"401 W 2nd St, Austin, TX 78701",4.0,30.265235082587218,-97.74790507437532
+193,The Cavalier ATX,"2400 Webberville Rd, Ste A, Austin, TX 78702",4.0,30.262942,-97.714676
+194,BussinBuns,"1805 Airport Blvd, Austin, TX 78702",5.0,30.28154513507999,-97.702829
+195,Foxy's Proper Pub,"201 Brazos St, Austin, TX 78701",4.0,30.264078,-97.742585
+196,Nervous Charlie's Bagels,"5501 N Lamar Blvd, Ste B101, Austin, TX 78751",4.5,30.32317,-97.72758
+197,Steamies Dumplings,"6929 Airport Blvd, Austin, TX 78752",4.5,30.33866958541661,-97.71820627429469
+198,DeSano Pizzeria Napoletana,"301 Lavaca St, Ste 200, Austin, TX 78701",4.5,30.266290057218676,-97.7459750033982
+199,Baldinucci Pizza Romana,"3300 Bee Caves Rd, Ste 110, West Lake Hills, TX 78746",4.5,30.275148169433592,-97.80066552075164
+200,Eberly,"615 S Lamar Blvd, Austin, TX 78704",4.0,30.258668,-97.758881
+201,Troy ATX,"8105 Mesa Dr, Ste A, Austin, TX 78759",4.5,30.37175330429634,-97.75642245962428
+202,JewBoy Sliders,"1111 E 6th St, Austin, TX 78702",4.5,30.26433453613327,-97.73065075278282
+203,Another Broken Egg Cafe,"6406 N Interstate 35 Frontage Rd, Ste 1600, Austin, TX 78752",4.5,30.326301473357095,-97.7078058341169
+204,Gina's on Congress,"314 Congress Ave, Austin, TX 78701",5.0,30.265866,-97.743919
+205,Licha's Cantina,"1306 E 6th St, Austin, TX 78702",4.0,30.264108,-97.728966
+206,1417 French Bistro,"1417 S 1st St, Austin, TX 78704",4.0,30.250066037529177,-97.75453119097894
+207,Nixta Taqueria,"2512 E 12th St, Austin, TX 78702",4.5,30.27496,-97.71324
+208,Jacoby's Restaurant & Mercantile,"3235 E Cesar Chavez St, Austin, TX 78702",4.0,30.2515,-97.70737
+209,Murray's Tavern,"2316 Webberville Rd, Austin, TX 78702",5.0,30.262752484473964,-97.715280279381
+210,Yeni’s Fusion,"6507 Burnet Rd, Austin, TX 78757",4.5,30.34023,-97.73859
+211,P6,"111 E Cesar Chavez St, Austin, TX 78701",3.5,30.26278,-97.74396
+212,Eldorado Cafe,"3300 W Anderson Ln, Austin, TX 78757",4.5,30.362224,-97.7423571527181
+213,Ramen Tatsu-Ya,"1600 E 6th St, Austin, TX 78702",4.0,30.26326,-97.72624
+214,Underdog,"1600 S 1st St, Ste 100, Austin, TX 78704",4.0,30.24887,-97.755709
+215,Xian Sushi and Noodle - Mueller,"1801 E 51st St, Ste C370, Bldg C370, Austin, TX 78723",4.0,30.303091523529712,-97.6991645424319
+216,Playground ATX,"5001 Airport Blvd, Austin, TX 78751",5.0,30.311186397436675,-97.7150455
+217,Hideaway Kitchen & Bar,"4323 S Interstate 35, Austin, TX 78744",4.0,30.211803959592007,-97.75300058162378
+218,Hawaiian Bros Island Grill,"8023 Burnet Rd, Austin, TX 78757",4.0,30.35914130532079,-97.7296505326556
+219,Veracruz All Natural,"111 E Cesar Chavez St, Austin, TX 78701",4.0,30.262738,-97.743737
+220,Nosh & Bevvy,"8440 Burnet Rd, Austin, TX 78757",4.0,30.3654772101226,-97.7288885435165
+221,REVUE,"101 Red River St, Austin, TX 78701",4.0,30.262223559801377,-97.73837281317194
+222,KG BBQ,"3108 Manor Rd, Austin, TX 78723",4.5,30.28681,-97.70528
+223,Rice Ball,"6929 Airport Blvd, Austin, TX 78752",4.0,30.33866555957456,-97.71820023558227
+224,Juan In A Million,"2300 E Cesar Chavez St, Austin, TX 78702",4.0,30.2552660599625,-97.7190592909029
+225,J’s Hibachi,"43 N IH-35 Service Rd, Austin, TX 78702",4.0,30.2551044,-97.7362835
+226,Otherside Deli and Sub,"1104 W 34th St, Austin, TX 78705",4.5,30.30346,-97.74572
+227,Bouldin Acres,"2027 S Lamar Blvd, Austin, TX 78704",4.0,30.24826991124225,-97.76866491890098
+228,Love C Spot,"2027 E Cesar Chavez St, Austin, TX 78702",5.0,30.2560832,-97.7223636
+229,Austin Daily Press,"1900 E Martin Luther King Blvd, B, Austin, TX 78702",4.0,30.2802176628505,-97.7211093269837
+230,Fresa's - 360 and Westlake Dr,"3600 N Capital of Texas Hwy, Ste A110, Austin, TX 78746",4.5,30.334389747270887,-97.80814741554516
+231,Tommy Want Wingy,"94 Rainey St, Austin, TX 78701",4.0,30.260690271156925,-97.73829918614452
+232,bb.q Chicken - Austin,"6929 Airport Blvd, Ste 158, Austin, TX 78752",4.0,30.33719,-97.71732
+233,L'Oca d'Oro,"1900 Simond Ave, Austin, TX 78723",4.0,30.29726271453722,-97.704674
+234,WEH? Asian Fusion,"1023 Springdale Rd, Bldg 1 Ste I, Austin, TX 78721",5.0,30.267640741300028,-97.69392514489049
+235,Bamboo House Austin,"7010 Easy Wind Dr, Austin, TX 78752",4.0,30.33919,-97.71833
+236,Zoé Tong,"1530 Barton Springs Rd, Austin, TX 78704",4.5,30.262104,-97.761259
+237,P Thai’s Khao Man Gai,"8557 Research Blvd, Ste 130, Austin, TX 78758",4.5,30.361521783671883,-97.7152364
+238,Analog Bar + Bites,"301 West 17th St, Austin, TX 78701",4.0,30.2792498,-97.7416591
+239,Forthright,"35 Brazos St, Austin, TX 78701",4.0,30.2627385695963,-97.7431046079346
+240,Vespaio Ristorante,"1610 S Congress Ave, Austin, TX 78704",4.0,30.24735,-97.75074
+241,Turf N Surf Po' Boy,"407 Lavaca St, Austin, TX 78701",4.5,30.2670779,-97.7456564
+242,Josephine House,"1601 Waterson Ave, Austin, TX 78703",3.5,30.280582204041423,-97.759015
+243,Tatsumi Sushi,"2700 W Anderson Ln, Ste 212, Austin, TX 78757",4.5,30.359108,-97.734542
+244,La Volta Pizza Club,"900 W 10th St, Austin, TX 78703",4.5,30.27501,-97.751686
+245,Sapori Italian Roots,"800 Brazos St, Ste 215, Austin, TX 78701",5.0,30.269996,-97.741054
+246,Rayan Lebanese Cuisine,"1012 Clermont Ave, Austin, TX 78702",4.5,30.25498,-97.73608
+247,Salt & Time,"1912 E 7th St, Austin, TX 78702",3.5,30.26266,-97.72113
+248,Bureau De Poste,"4300 Speedway, Austin, TX 78751",4.0,30.307062213357064,-97.72991590030016
+249,Julie's Noodles,"8557 Research Blvd, Ste 110, Austin, TX 78758",4.0,30.3611406172422,-97.7157957205178
+250,Fukumoto Sushi & Yakitori,"514 Medina St, Austin, TX 78702",4.5,30.2647051303186,-97.731695353373
+251,Renuka’s Kitchen,"1023 Springdale Rd, Unit 1, Austin, TX 78721",5.0,30.267597,-97.6926715
+252,Mongers Market + Kitchen,"4119 Guadalupe St, Austin, TX 78751",4.0,30.30693,-97.73519
+253,Paprika ATX,"6519 N Lamar Blvd, Austin, TX 78752",5.0,30.333323,-97.721302
+254,NADC Burger,"1007 E 6th St, Austin, TX 78702",3.5,30.26482,-97.73221
+255,Ramen Tatsu-Ya,"1234 S Lamar Blvd, Austin, TX 78704",4.0,30.253899793553,-97.7631825953722
+256,The Well Westlake,"6317 Bee Caves Rd, Austin, TX 78746",4.5,30.296143528145905,-97.8328859
+257,Fixe Austin's Southern House,"500 W 5th St, Austin, TX 78701",4.0,30.26853,-97.74773
+258,Chi'Lantro,"1509 S Lamar Blvd, Austin, TX 78704",4.0,30.251914758471187,-97.76376700997848
+259,Nifty Fifty Diner,"4110 Guadalupe St, Austin, TX 78751",4.5,30.30765,-97.73534
+260,The Grub House,"519 E 7th St, Austin, TX 78701",4.5,30.26729197752544,-97.73738554343376
+261,Mandala Kitchen & Bar,"1100 S Lamar Blvd, Ste 1125, Austin, TX 78704",4.5,30.255356,-97.762147
+262,The Beer Plant,"3110 Windsor Rd, Austin, TX 78703",4.0,30.2966658,-97.7676046
+263,Tumble 22 Chicken Joint,"7211 Burnet Rd, Austin, TX 78757",4.0,30.347971,-97.735312
+264,Ellis,"111 Congress Ave, Austin, TX 78701",4.5,30.263536,-97.743585
+265,Llama Queen,"4620 E Cesar Chavez, Ste 1, Austin, TX 78702",4.0,30.25219485718124,-97.7029244
+266,Fonda San Miguel,"2330 W North Loop Blvd, Austin, TX 78756",4.0,30.32545,-97.7435
+267,Julie's Handmade Noodles,"2512 Rio Grande St, Austin, TX 78705",4.0,30.29051,-97.74464
+268,15th Street Cafe,"303 W 15th St, Austin, TX 78701",4.0,30.27749651466929,-97.74288937433964
+269,Tiny Boxwoods,"1503 W 35th St, Austin, TX 78703",3.5,30.305984086871913,-97.74959880509364
+270,Granny's Tacos,"1401 E 7th St, Austin, TX 78702",4.5,30.264366833319514,-97.72800188890876
+271,Chapulín Cantina,"1610 S Congress Ave, Austin, TX 78704",4.0,30.24726980224466,-97.75078137890704
+272,Maiko Sushi,"207 San Jacinto Blvd, Ste 202, Austin, TX 78701",4.0,30.26427,-97.74127
+273,Mattie's,"811 W Live Oak St, Green Pastures, Austin, TX 78704",4.0,30.245335,-97.7628288
+274,Soto South Lamar,"1100 S Lamar Blvd, Ste 2115, Austin, TX 78704",4.5,30.255700844821217,-97.76207951024544
+275,Joann’s Fine Foods,"1224 S Congress Ave, Austin, TX 78704",4.0,30.25157,-97.74915
+276,J Prime Steakhouse - Austin,"301 Brazos St, Ste 150, Austin, TX 78701",4.5,30.264809599995186,-97.74160646441464
+277,Mai Thai Restaurant,"207 San Jacinto Blvd, Ste 201, Austin, TX 78701",4.0,30.26427,-97.74127
+278,Sugar Pine,"8578 Research Blvd, Austin, TX 78758",4.5,30.36184,-97.71761
+279,Verbena,"612 W 6th St, Austin, TX 78701",3.5,30.26992426171668,-97.74890707055226
+280,Elementary,"2026 S Lamar Blvd, Austin, TX 78704",3.5,30.249216966838173,-97.7685598
+281,Moody's Kitchen and Bar,"2530 Guadalupe St, Austin, TX 78705",3.5,30.289924222886302,-97.74158495039312
+282,Lima Criolla,"6406 N Interstate 35 Frontage Rd, Ste 1550, Austin, TX 78752",4.0,30.326379,-97.707544
+283,Blue Dahlia Bistro,"3663 Bee Cave Rd, West Lake Hills, TX 78746",4.0,30.27857485477731,-97.8076971101961
+284,The Brewtorium Brewery & Kitchen,"6015 Dillard Cir, Ste A, Austin, TX 78752",4.0,30.3258884311273,-97.7175339123001
+285,Bento Teppanyaki,"1201 Barbara Jordan Blvd, Ste 1230, Austin, TX 78723",4.0,30.305975868794043,-97.70823417289868
+286,Ma’Coco,"501 Comal St, Austin, TX 78702",4.0,30.26225,-97.7267
+287,Saveurs la Boulangerie,"3801 N Capital Of Texas Hwy, Ste D 180, Austin, TX 78701",4.0,30.336847867222833,-97.8042941
+288,Camp Out,"6700 Burnet Rd, Austin, TX 78757",3.5,30.343061579610353,-97.7392194
+289,Taquero Mucho,"508 West Ave, Austin, TX 78701",3.5,30.27009,-97.75113
+290,Uroko,"1023 Springdale Rd, Bldg 1, Ste C, Austin, TX 78721",4.5,30.2676800362389,-97.6938484932986
+291,Lou's,"1900 E Cesar Chavez St, Austin, TX 78702",4.0,30.25722,-97.72439
+292,Out of Nowhere ATX,"308 Congress Ave, Austin, TX 78701",5.0,30.26569,-97.74394
+293,White Tiger,"1321 S Congress Ave, Austin, TX 78704",4.0,30.250329,-97.749101
+294,Cantina 512,"70 Rainey St, Ste 100, Austin, TX 78701",3.5,30.258609802698977,-97.73893455142708
+295,Epicerie At The Contemporary,"3809 W 35th St, Austin, TX 78703",5.0,30.3121825255083,-97.7743338793516
+296,Bangers Sausage House & Beer Garden,"79 81 & 81.5 Rainey St, Austin, TX 78701",4.0,30.258905,-97.738413
+297,5280 Burger and Taphouse,"7034 Wood Hollow Dr, Austin, TX 78731",4.5,30.35249740399845,-97.75417056640786
+298,Gino's Vino Osteria,"1239 E 51st St, Austin, TX 78723",4.5,30.307265,-97.706995
+299,The OASIS on Lake Travis,"6550 Comanche Trl, Austin, TX 78732",2.5,30.405502061217422,-97.87414163775463
+300,Oye Chico,"406 Walsh St, Austin, TX 78703",4.5,30.2713281234024,-97.758660574821
+301,Ahhan Lao Kitchen,"5610 N Interstate 35 Frontage Rd, Austin, TX 78751",4.5,30.31648,-97.70811
+302,Jan Chi Korean Cuisine & BBQ,"3808 Spicewood Springs Rd, Ste 104, Austin, TX 78759",4.0,30.3650066,-97.74901642571427
+303,Nori,"3208 Guadalupe St, Ste B, Austin, TX 78705",4.5,30.2999,-97.74031
+304,Double Trouble,"103 E North Lp Blvd, Austin, TX 78751",4.0,30.31748760946268,-97.722124
+305,The Front Page,"1023 Springdale Rd, Bldg 1 Ste F, Austin, TX 78721",4.5,30.2674267481071,-97.6938648551628
+306,Fareground At One Eleven,"111 Congress Ave, Austin, TX 78701",4.0,30.26368,-97.74367
+307,Nightcap,"1401 W 6th St, Austin, TX 78703",4.0,30.27371,-97.76045
+308,Otoko,"1603 S Congress Ave, Austin, TX 78704",4.5,30.2474,-97.75006
+309,Heo Eatery,"6929 Airport Blvd, Ste 132, Austin, TX 78752",4.5,30.33710409555861,-97.71671950498629
+310,The Jackalope,"404 E 6th St, Austin, TX 78701",4.0,30.26732,-97.73892
+311,De Smash Burger,"705 W 6th St, Austin, TX 78701",5.0,30.26984802367985,-97.749945
+312,Texas Chili Parlor,"1409 Lavaca St, Austin, TX 78701",4.0,30.27696,-97.74197
+313,Sushi Junai Omakase,"315 Congress Ave, Ste 100, Austin, TX 78701",4.5,30.265615,-97.743268
+314,Neighborhood Sushi,"1716 S Congress Ave, Austin, TX 78704",4.0,30.24653,-97.75109
+315,L&L Hawaiian Barbecue,"3601 W William Cannon Dr, Ste 300, Austin, TX 78749",4.0,30.215310129355636,-97.833351232457
+316,Players,"300 W Martin Luther King Dr, Austin, TX 78701",3.5,30.281663,-97.7412463
+317,Carpenters Hall,"400 Josephine St, Austin, TX 78704",4.0,30.26215,-97.75871
+318,Bep Co Tham - KN Kitchen,"10901 N Lamar Blvd, Ste A101, Austin, TX 78753",4.5,30.378012,-97.68594
+319,Love Supreme,"2805 Manor Rd, Austin, TX 78722",4.0,30.285114232317703,-97.7116783644182
+320,Food Food,"2727 Exposition Blvd, Ste 112, Austin, TX 78703",4.0,30.303975,-97.763838
+321,Taco Flats - Clarksville,"1110 W Lynn St, Austin, TX 78703",3.5,30.280099,-97.759509
+322,Masa y Más,"1817 S Lamar Blvd, Austin, TX 78704",4.0,30.24966,-97.76647
+323,Chi'Lantro BBQ,"1201 Barbara Jordan Blvd, Ste 1460, Austin, TX 78723",4.0,30.305274649915855,-97.7082585856125
+324,Flower Child - West Lake Hills,"3300 Bee Cave Rd, Ste 150, West Lake Hills, TX 78746",4.5,30.274805,-97.799185
+325,Mezze Cafe,"504 W Oltorf St, Austin, TX 78704",4.5,30.241817623787217,-97.75815929999166
+326,Tyson's Tacos,"4905 Airport Blvd, Austin, TX 78751",4.0,30.3096229820831,-97.7153485985112
+327,The Git Out,"4930 South Congress Ave, Ste C-304, Austin, TX 78745",4.5,30.212181864320875,-97.77126586550328
+328,Mary's Cafe,"3209 Red River St, Austin, TX 78705",4.5,30.2914204,-97.7269608
+329,Cuba 512,"6800 West Gate Blvd, Ste 112, Austin, TX 78745",4.0,30.209067,-97.816031
+330,Jack Allen's Kitchen Anderson Lane,"3010 W Anderson Ln, Ste D, Austin, TX 78757",4.5,30.361396,-97.739671
+331,Bun Belly,"6929 Airport Blvd, Ste 132, Austin, TX 78752",4.0,30.337163276287555,-97.71672222134018
+332,DEE DEE,"4204 Manchaca Rd, Austin, TX 78745",4.5,30.2315332,-97.7877942
+333,CAVA,"515 Congress Ave, Austin, TX 78701",4.5,30.26783809077896,-97.7426991914774
+334,Hank's,"5811 Berkman Dr, Ste 100, Austin, TX 78723",3.5,30.312447,-97.692931
+335,Doc B's Restaurant + Bar,"3001 Palm Way, Ste 120, Austin, TX 78758",4.5,30.402758,-97.719745
+336,The Carillon,"1900 University Ave, Austin, TX 78705",4.5,30.2818694031,-97.7400357374344
+337,Ciclo,"98 San Jacinto Blvd, Austin, TX 78701",4.0,30.261527273592694,-97.74175912571522
+338,Kismet Cafe,"1000 E 41st St, Ste 200, Austin, TX 78751",4.5,30.299835963140993,-97.72141602331212
+339,Taco Joint,"134 E Riverside Dr, Austin, TX 78704",4.5,30.25637,-97.74552
+340,Bombay To Kathmandu Kitchen and Curry Pizza,"6700 Middle Fiskville Rd, Suits 406, Austin, TX 78752",4.5,30.32887,-97.70751
+341,K BBQ,"6929 Airport Blvd, Ste 176, Austin, TX 78752",4.0,30.336445941380305,-97.7172355225958
+342,Buenos Aires Café - Este,"1201 E 6th St, Austin, TX 78702",4.0,30.26414,-97.73044
+343,Oddwood Ales,"3108 Manor Rd, Austin, TX 78723",4.5,30.28681,-97.70528
+344,Galaxy Cafe,"1000 W Lynn St, Austin, TX 78703",4.0,30.27937,-97.75999
+345,Mission Burger,"2209 S Congress Ave, Austin, TX 78704",5.0,30.240896,-97.752317
+346,Picnik - South 1st,"1600 S First St, Ste 110, Austin, TX 78704",4.0,30.24887,-97.75568
+347,USTA KABABGY,"9310 North Lamar Blvd, Austin, TX 78753",4.5,30.3625187,-97.6984345
+348,Littlefield's Tacos + Coffee,"2401 Winsted Ln, Austin, TX 78722",4.0,30.292914603920384,-97.76049961839692
+349,Casa do Brasil,"10515 N Mopac Expy Nb, Austin, TX 78759",4.5,30.385929713719044,-97.73426931154098
+350,Sway,"3437 Bee Cave Rd, West Lake Hills, TX 78746",3.5,30.276503692529005,-97.80401240382588
+351,Bill’s Oyster,"205 West 3rd St, Austin, TX 78701",4.0,30.265660059442546,-97.745661
+352,Oh K-Dog,"6929 Airport Blvd, Ste 133, Austin, TX 78752",4.0,30.336898847849262,-97.71666048323316
+353,Mason's Famous Lobster Rolls - Austin,"200 Congress Ave, Austin, TX 78701",4.0,30.26473612712995,-97.74460337
+354,Zombie Taco,"2552 Guadalupe St, Unit 100, Austin, TX 78705",4.0,30.2900268,-97.7412256
+355,FoodHeads,"616 W 34th St, Austin, TX 78705",4.5,30.30091,-97.7403
+356,Vaquero Taquero,"603 Sabine St, Austin, TX 78751",4.5,30.2665073,-97.7358353
+357,Lebowski's Grill,"8909 Burnet Rd, Austin, TX 78757",4.5,30.37186,-97.72586
+358,Gyu-Kaku Japanese BBQ,"1211 East 5th St, Ste 100, Austin, TX 78702",4.0,30.26330221671628,-97.73076913558226
+359,Ichi Umi Sushi,"9503 Research Blvd, Ste 500, Austin, TX 78759",4.5,30.386785,-97.741872
+360,Little Wu,"111 Congress Ave, Austin, TX 78701",3.5,30.26374,-97.74365
+361,Bar Louie,"3401 N Interstate Hwy 35, Ste 2002, Austin, TX 78722",4.5,30.29169,-97.72115
+362,Allday,"3111 W 35th St, Austin, TX 78703",4.0,30.313242,-97.766923
+363,The Southern Soul Bowl,"6500 Springdale Rd, Austin, TX 78723",5.0,30.30841,-97.66945
+364,Happy Chicks,"214 E 6th St, Austin, TX 78701",3.5,30.26763931258039,-97.740781
+365,Westlake Wine Bar,"3801 N Capital Of Texas Hwy, Ste A-180, Austin, TX 78746",4.0,30.33540382066696,-97.8054206310092
+366,Honest Mary's,"4800 Burnet Rd, Ste C300, Austin, TX 78756",4.0,30.31884360753717,-97.73968188220884
+367,Soup Man,"1819 S Pleasant Valley Rd, Austin, TX 78741",4.5,30.23452,-97.7210007
+368,Yellow Jacket Social Club,"1704 E 5th St, Austin, TX 78702",4.0,30.26159,-97.72456
+369,Ceviche7,"502 W 30th St, Austin, TX 78705",5.0,30.29634,-97.74139
+370,Pearl Dive Oyster Bar,"1611 W 5th St, Ste 105, Austin, TX 78703",4.0,30.2739251,-97.7644631
+371,Tillery Kitchen & Bar,"3201 E Cesar Chavez St, Austin, TX 78702",4.0,30.25153,-97.70872
+372,Honey Moon Spirit Lounge,"624 W 34th St, Austin, TX 78705",4.5,30.301011,-97.740579
+373,Blue Lacy,"1825 McBee St, Austin, TX 78723",2.5,30.298007825605133,-97.70460676380634
+374,"Snooze, an A.M. Eatery","3800 North Lamar Blvd, Ste 120, Austin, TX 78756",4.0,30.305832,-97.743182
+375,Brooklyn Dumpling Shop,"1401 E 6th St, Austin, TX 78702",3.5,30.263569845644778,-97.72838421544886
+376,Austin's Very Own Saltt,"2525 W Anderson Ln, Ste 130 -Bldg 3, Austin, TX 78757",5.0,30.35496183280259,-97.73288610378022
+377,Jim’s Smokehouse,"6900 Ranch Rd 620, Austin, TX 78732",5.0,30.402773684366327,-97.85523623068411
+378,Greenade,"2100 University Ave, Austin, TX 78705",4.5,30.28289,-97.74072
+379,Komé,"5301 Airport Blvd, Ste 100, Austin, TX 78751",4.0,30.31427,-97.71463
+380,Thyme Out Cafe,"4900 Mueller Blvd, Dell Children's Medical Center, Austin, TX 78723",5.0,30.303195616935305,-97.70643430378972
+381,Wee's Cozy Kitchen,"2400 Rio Grande St, Austin, TX 78705",4.5,30.288233365622222,-97.7450037141726
+382,Las Bis,"721 Congress Ave, Fl 8, Austin, TX 78701",4.5,30.269708,-97.741973
+383,K-Bop,"2002 Guadalupe St, Ste B, Austin, TX 78705",4.0,30.2829,-97.74238
+384,Cosmic Saltillo,"1300 E 4th St, Austin, TX 78702",4.5,30.262299656361435,-97.72998693042368
+385,Honest Mary's,"9828 Great Hills Trl, Ste 300, Austin, TX 78759",4.5,30.39510173,-97.74837785
+386,Pool Burger,"2315 Lake Austin Blvd, Austin, TX 78703",3.5,30.2778,-97.7725899
+387,Pho Please,"1920 East Riverside Dr, Ste D140, Austin, TX 78741",4.5,30.243163,-97.72809
+388,Sunny's Backyard,"3526 E 7th St, Austin, TX 78702",4.5,30.256489,-97.701921
+389,Sa-Tén - Canopy,"916 Springdale Rd, Bldg 3, Ste 101, Austin, TX 78702",4.5,30.2619597964214,-97.6990253046073
+390,Lefty's Brick Bar,"1813 E 6th St, Austin, TX 78702",4.5,30.26178360727735,-97.72313334577574
+391,Fourth & CO,"208 W 4th St, Unit D, Austin, TX 78701",3.5,30.26698,-97.74524533588782
+392,Taste Of Home Handmade Dumplings,"10901 N Lamar Blvd, Ste B-203, Austin, TX 78753",4.0,30.377837837055928,-97.68486142659071
+393,Dosa Shack,"5000 Burnet Rd, Austin, TX 78756",4.5,30.32118717648807,-97.7395378
+394,Saffron - Austin,"3616 Far W Blvd, Ste 113, Austin, TX 78731",4.5,30.355001,-97.755511
+395,Curra’s Hyde Park,"4215 Duval St, Austin, TX 78751",4.0,30.30437,-97.72601
+396,CAVA,"3201 Bee Caves Rd, Ste 100, Austin, TX 78746",4.0,30.27309274488742,-97.79921539135694
+397,Bird Bird Biscuit,"1401 W Koenig Ln, Austin, TX 78756",4.5,30.33079727452591,-97.73199202167964
+398,La Santa Barbacha,"2806 Manor Rd, Austin, TX 78722",4.5,30.285756042392325,-97.711595202474
+399,Spicy Town Fresh Indian Cuisine,"5610 N Interstate Hwy 35, Austin, TX 78751",4.5,30.31616,-97.708469
+400,Bao’d Up - Mueller Aldrich,"1911 Aldrich St, Ste A1, Austin, TX 78723",4.0,30.29839335285059,-97.70454002027216
+401,Lonesome Dove Western Bistro - Austin,"123 W 6th St, Austin, TX 78701",3.5,30.2682,-97.74402
+402,Bobo’s Snack Bar,"3850 Airport Blvd, Austin, TX 78722",5.0,30.28994,-97.70774
+403,Elizabeth Street Cafe,"1501 S First St, Austin, TX 78704",3.5,30.2498075797415,-97.7546855061582
+404,Kerbey Lane Cafe - Central,"3704 Kerbey Ln, Austin, TX 78731",4.0,30.30803,-97.75047
+405,Bulevar,"9400 Arboretum Blvd, Austin, TX 78759",4.0,30.3896653,-97.7530075
+406,Ichi-Umi Sushi & Ramen,"2525 W Anderson Ln, Ste 120, Austin, TX 78757",4.0,30.354756,-97.73306667294676
+407,Spicy Boys Fried Chicken - Rainey,"75 1/2 Rainey St Austin Tx 78701, Austin, TX 78701",4.5,30.2584,-97.73859
+408,Buddy's Burger,"9001 Cameron Rd, Ste 101, Austin, TX 78754",4.5,30.34604078234463,-97.67666463864832
+409,The Backspace,"507 San Jacinto St, Austin, TX 78701",4.0,30.267019654442272,-97.7404066
+410,Uchiko,"4200 N Lamar Blvd, Ste 140, Austin, TX 78756",4.5,30.31067,-97.74
+411,Kiin Di,"1901 S Lamar Blvd, Austin, TX 78704",4.5,30.24942,-97.76701
+412,Ah Sing Den,"1100 E 6th St, Austin, TX 78702",3.5,30.26485,-97.7313
+413,East Side King,"2310 S Lamar Blvd, Austin, TX 78704",4.0,30.2475757598877,-97.7750549316406
+414,Aviary Wine & Kitchen,"2110 S Lamar Blvd, Ste C, Austin, TX 78704",4.5,30.24824,-97.7715
+415,Sammataro ,"2907 E 12th St, Austin, TX 78702",4.0,30.27564546645499,-97.7070280156792
+416,Luminaire,"721 Congress Ave, Austin, TX 78701",4.0,30.2697614211246,-97.74191787746275
+417,Second Bar & Kitchen - Austin,"1108 East Sixth St, Austin, TX 78702",4.5,30.264687590049924,-97.73054099019534
+418,Foreign & Domestic,"306 E 53rd St, Austin, TX 78751",4.0,30.31705799034052,-97.7195655116567
+419,Tender Thighs,"1016 E 6th St, Shangri-La Patio, Austin, TX 78702",4.5,30.264986,-97.731585
+420,The Chuckwagon Cafe,"1601 N Congress, Austin, TX 78701",4.5,30.278220840890427,-97.73865821403164
+421,Mour Cocina | Bodega,"1414 Shore District Dr, Ste 120, Austin, TX 78741",4.0,30.24384939999999,-97.7285157
+422,Hook & Reel Cajun Seafood & Bar,"9070 Research Blvd, Ste 305, Austin, TX 78758",4.0,30.3719203,-97.72744024777892
+423,Via 313 Pizza,"96 Rainey St, Austin, TX 78701",4.5,30.26083,-97.73825
+424,Lua Brazil,"Austin, TX 78702",4.5,30.26163,-97.71942
+425,Capriotti's Sandwich Shop,"1200 Barbara Jordan Blvd, Ste 360, Austin, TX 78723",4.0,30.30651562157395,-97.70741047193508
+426,Chef Choo,"8309 Research Blvd, Ste B, Austin, TX 78758",5.0,30.356229239688837,-97.71485676740323
+427,Pedroso's Pizza,"8315 Burnet Rd, Austin, TX 78757",5.0,30.36399425358635,-97.72843131788488
+428,Oma's Kitchen,"2025 Guadalupe St, Austin, TX 78701",4.0,30.2829005570476,-97.7417960110667
+429,The Mansion at the Commodore Perry Estate,"4100 Red River, Austin, TX 78751",5.0,30.300425,-97.7222856
+430,Space Cowboy,"1917 East 7th St, Austin, TX 78702",3.0,30.262136024243507,-97.721464
+431,The Peached Tortilla,"3600 Presidential Blvd, East Food Court, Austin, TX 78719",4.0,30.204903584387303,-97.66713552331338
+432,The Bon Aire,"9070 Research Blvd, Ste 101, Austin, TX 78758",4.5,30.37267,-97.7280278
+433,SoCo Bar & Bites,"300 S Congress Ave, Austin, TX 78704",4.0,30.25849,-97.74729
+434,Home Slice Pizza,"501 E 53rd St, Austin, TX 78751",4.5,30.3163524006061,-97.7183958217672
+435,Grizzelda's,"105 Tillery St, Austin, TX 78702",3.5,30.252196981289,-97.7082111244723
+436,Foxtrot,"1804 S 1st St, Austin, TX 78704",3.5,30.24716,-97.75617
+437,Hi Hat Public House,"2121 E 6th St, Austin, TX 78702",4.5,30.260247611009145,-97.71887075582148
+438,The Kebab Shop,"1201 Barbara Jordan Blvd, Ste 200, Austin, TX 78723",4.0,30.30636635286069,-97.70898873610687
+439,Salsa Limón,"3001 Guadalupe St, Austin, TX 78705",4.0,30.29665,-97.74181
+440,Spicy Boys Fried Chicken - East 6th,"1701 E 6th St, Austin, TX 78702",4.5,30.2621200840611,-97.724519893527
+441,Austin Taco Project,"500 E 4th St, Austin, TX 78701",3.5,30.26506,-97.73862
+442,34th Street Cafe,"1005 W 34th St, Austin, TX 78705",3.5,30.3026485443115,-97.7452239990234
+443,The backYard at Waller Creek,"701 E 11th St, Austin, TX 78701",3.5,30.270172,-97.734031
+444,Nasha,"1614 E 7th St, Austin, TX 78702",4.0,30.26379,-97.7248
+445,Cypress Grill,"4404 W William Cannon Dr, Ste L, Austin, TX 78749",4.0,30.2238480946338,-97.8389113158692
+446,El Naranjo South Lamar,"2717 S Lamar Blvd, Ste 1085, Austin, TX 78704",4.0,30.24419820675637,-97.78098814109516
+447,Swedish Hill,"1120 West 6th St, Austin, TX 78703",3.5,30.2726635,-97.756528
+448,Roots Chicken Shak,"1801 E 51st St, Austin, TX 78723",4.5,30.3011623,-97.6989346
+449,School House Pub,"2207 Manor Rd, Austin, TX 78722",4.0,30.284208787003955,-97.71881621420114
+450,Dovetail Pizza,"1816 S 1st St, Austin, TX 78704",4.5,30.246820651189587,-97.75640010591404
+451,Blind Salamander Kitchen & Bar,"8212 Barton Club Dr, Austin, TX 78735",4.5,30.29126842206126,-97.85830337607402
+452,El Pollo Rico,"1815 Airport Blvd, Austin, TX 78702",5.0,30.28181022989465,-97.70299937055202
+453,Santorini Cafe,"11800 N Lamar Blvd, Austin, TX 78753",4.5,30.387754325807133,-97.6841092
+454,1886 Cafe & Bakery,"604 Brazos St, Austin, TX 78701",4.0,30.268032,-97.74195
+455,Central Machine Works Brewery and Beer Hall,"4824 E Cesar Chavez St, Austin, TX 78702",4.0,30.25201,-97.70154
+456,Uchi,"801 S Lamar Blvd, Austin, TX 78704",4.5,30.257552,-97.759778
+457,SLAB BBQ & Beer,"9012 Research Blvd C4, Ste C4, Austin, TX 78758",4.5,30.3714463,-97.7245103433878
+458,Roaring Fork,"10850 Stonelake Blvd, Austin, TX 78759",4.0,30.40064,-97.73747
+459,Clay Pit,"1601 Guadalupe St, Austin, TX 78701",4.0,30.2791,-97.74233
+460,Better Half Coffee & Cocktails,"406 Walsh St, Austin, TX 78703",4.0,30.27137,-97.75839
+461,Hoodoo Crawfish,"Austin, TX 78701",5.0,30.270485736676804,-97.74234639398716
+462,Iron Cactus Mexican Restaurant and Margarita Bar,"606 Trinity St, Austin, TX 78701",3.5,30.26734,-97.73941
+463,Counter Cafe West Campus,"603 W 29th St, Austin, TX 78705",4.0,30.29543333,-97.74336333
+464,Honduras Food,"7207 East Riverside Dr, Austin, TX 78741",4.5,30.2204679680813,-97.694631703198
+465,Cisco's Municipal Cafe,"2901 Enfield Rd, Austin, TX 78703",5.0,30.29045,-97.77697
+466,Fifteen26,"5610 N Interstate Hwy 35, Austin, TX 78751",0.0,30.316162995481136,-97.7084916
+467,Lady Bird Kitchen & Bar,"810 Red River St, Hotel Indigo Austin Downtown - University, Austin, TX 78701",4.5,30.2690628,-97.7363848
+468,Asador,"405 E 7th St, Austin, TX 78701",4.5,30.26766,-97.73864
+469,The Black Forest,"1615 Crozier Ln, Del Valle, TX 78617",4.5,30.22101,-97.66054
+470,KA Bean Crew,"2515 Leon St, Austin, TX 78705",4.5,30.290511142020527,-97.74888872541584
+471,Little House,"4112 Medical Pkwy, Austin, TX 78756",4.0,30.31106,-97.74289
+472,Yard House,"11800 Domain Blvd, Ste 700, Austin, TX 78758",4.0,30.40435174,-97.72148318
+473,Lick It Up - East Austin,"2421 Webberville Rd, Austin, TX 78702",3.5,30.262656037650153,-97.7144728
+474,Wayside,"2906 Fruth St, Austin, TX 78705",4.5,30.2953157,-97.7420522
+475,Champions Austin Restaurant & Bar,"300 East 4th, Ste 1, Austin, TX 78701",3.5,30.265668,-97.740414
+476,TeriBox,"2021 Guadalupe St, Ste 234, Austin, TX 78705",4.0,30.283374,-97.741338
+477,Yard Bar,"6700 Burnet Rd, Austin, TX 78757",4.0,30.34303,-97.73921
+478,Local Foods,"454 West 2nd St., Austin, TX 78701",4.5,30.265699,-97.748504
+479,Bartlett's,"2408 W Anderson Ln, Austin, TX 78757",4.0,30.356725,-97.73124
+480,Stinson's,"4416 Burnet Rd, Austin, TX 78756",4.0,30.3151275,-97.7417583
+481,Fresh Bowl,"1021 E Parmer Ln, Austin, TX 78753",4.5,30.3984439,-97.6552136
+482,BD Riley's Irish Pub at Mueller,"1905 Aldrich St, Ste 130, Austin, TX 78723",4.0,30.298197,-97.705185
+483,Scholz Garten,"1607 San Jacinto Blvd, Austin, TX 78701",3.5,30.2773110437902,-97.7365262639869
+484,Foxtrot,"4818 Burnet Rd, Austin, TX 78756",4.0,30.31950292313329,-97.73948736368708
+485,Tandoori Lounge,"3601 W William Canon Dr, Ste 450, Austin, TX 78749",4.5,30.21495186749101,-97.83328600421255
+486,The Driskill Bar,"604 Brazos St, Austin, TX 78701",4.0,30.26855810829781,-97.74163316149262
+487,Frazier's Long and Low,"2538 Elmont Dr, Austin, TX 78741",4.0,30.239289,-97.719892
+488,Hyde Park Bar & Grill Central,"4206 Duval St, Austin, TX 78751",3.5,30.30419,-97.72668
+489,24 Diner,"600 N Lamar Blvd, Ste 200, Austin, TX 78703",3.5,30.271980340860544,-97.75425948640496
+490,Clark's Oyster Bar - Austin,"1200 W 6th St, Austin, TX 78703",4.0,30.27296758753496,-97.75719738970636
+491,Kinda Tropical,"3501 E 7th St, Austin, TX 78702",4.0,30.25655,-97.70309
+492,Lonche'Bar,"5201 N Lamar Blvd, Austin, TX 78751",5.0,30.31961,-97.72994
+493,Chef Hong,"907 W 24th St, Austin, TX 78705",4.5,30.288191459479236,-97.74720852513124
+494,Los Pinos Jalisco,"6203 N Capital Of Texas Hwy, Austin, TX 78731",4.5,30.360887520428022,-97.78933072526968
+495,Street,"3407 Greystone Dr, Austin, TX 78731",4.0,30.356587091597778,-97.7475086
+496,Magnolia Cafe South,"1920 S Congress Ave, Austin, TX 78704",3.5,30.2446738918801,-97.7519036373102
+497,Parkside,"301 E 6th St, Austin, TX 78701",4.0,30.2670631408691,-97.7403259277344
+498,First Light Books,"4300 Speedway, Austin, TX 78751",4.5,30.30697910958961,-97.72976896106483
+499,Musashino Sushi Dokoro,"2905 San Gabriel St, Ste 200, Austin, TX 78705",4.0,30.2980839,-97.7475817
+500,Spicy Szechuan,"3706 Jefferson St, Austin, TX 78731",3.0,30.30939,-97.75141
+501,The Mediterranean Chef,"5908 Aurora Dr, Austin, TX 78757",4.5,30.32995957693266,-97.72796670000528
+502,Mousam Spice House,"3828 N Interstate 35 Frontage Rd, Austin, TX 78751",4.0,30.29538,-97.71982
+503,Rules & Regs,"101 Red River St, Austin, TX 78701",4.0,30.26196811669366,-97.73806898599176
+504,Le Bleu,"9070 Research Blvd, Ste 303, Austin, TX 78758",4.5,30.372020678526145,-97.7273147705522
+505,Vivo Austin,"6406 N I 35, Ste 2343, Austin, TX 78752",4.0,30.3254085112821,-97.7085228255478
+506,Modern Market,"3201 Bee Caves Rd, Ste 144, Austin, TX 78746",4.0,30.2727063,-97.8002069
+507,Mighty Mo’s,"2716 1/2 Guadalupe St, Austin, TX 78705",4.0,30.29284,-97.741746
+508,Pinch,"Austin, TX 78705",4.5,30.29567,-97.73912
+509,Hyderboyz kitchen ,"4501 E Mlk Blvd, Austin, TX 78721",5.0,30.2851997,-97.6842751
+510,Four Brothers,"111 Congress Ave, Austin, TX 78701",4.0,30.26374,-97.74365
+511,Oasis Texas Brewing,"6550 Comanche Trl, Ste 301, Austin, TX 77098",4.0,30.405369,-97.8744985
+512,The Austin Eagle,"8201 Cross Park Dr, Ste B2, Austin, TX 78754",4.0,30.331004424241694,-97.66678807298062
+513,Phoenician Resto Cafe,"2909 Guadalupe St, Ste B, Austin, TX 78705",4.5,30.29563,-97.742392
+514,Cucina On 35th,"1608 W 35th St, Austin, TX 78703",4.0,30.307613,-97.7509029
+515,Pollo Caliente,"5933 Westminster Dr, Austin, TX 78723",4.5,30.31306,-97.69063
+516,Sushi Bar,"2600 E Cesar Chavez St, Austin, TX 78702",4.5,30.254027,-97.715198
+517,Cuantos Tacos,"1108 E 12th St, Austin, TX 78702",4.5,30.27289434365302,-97.7281926024063
+518,Sweet Chive,"2515 E Cesar Chavez St, Austin, TX 78702",4.0,30.25386,-97.71564
+519,It's Italian Cucina,"1500 South Lamar Blvd, Ste 110, Austin, TX 78704",4.0,30.252591301852497,-97.7642960669596
+520,Billy's on Burnet,"2105 Hancock Dr, Austin, TX 78756",4.0,30.3220291137695,-97.7397613525391
+521,Counter Cafe East,"1914 E 6th St, Ste A, Austin, TX 78702",4.0,30.2616692,-97.7215424
+522,The Meteor,"2110 S Congress Ave, Austin, TX 78704",4.0,30.242825194800098,-97.7526252091974
+523,The Iron Bear,"301 W 6th St, Austin, TX 78701",4.0,30.268531,-97.745496
+524,Halal Bros,"2712 Guadalupe St, Austin, TX 78705",4.0,30.29253104200819,-97.74164734152036
+525,Turkey Twist,"5903 Wellington Dr, Austin, TX 78723",1.0,30.312154,-97.687817
+526,Taco Flats - Burnet,"5520 Burnet Rd, Ste 101, Austin, TX 78756",4.0,30.330914,-97.740225
+527,Biscuits + Groovy - South,"1210 Barton Springs Rd, Austin, TX 78704",4.5,30.260844986049765,-97.75727464373917
+528,Biderman's Deli,"3742 Far West Blvd 101, Ste 101, Austin, TX 78746",3.5,30.3560504,-97.7577048
+529,The Smokin' Rose Taco Joint,"1308 E 6th St, Austin, TX 78702",4.5,30.264076,-97.728658
+530,Mort Subite,"308 Congress Ave, Austin, TX 78701",4.5,30.265719,-97.7439904
+531,Komal Latin Kitchen & Bar,"11320 RR 2222, Austin, TX 78730",4.0,30.402208972918213,-97.8521185
+532,OneTaco,"402 Brazos St, Austin, TX 78701",4.5,30.265992,-97.742265
+533,Casino El Camino,"517 E 6th St, Austin, TX 78701",4.0,30.26636,-97.7377
+534,Maie Day,"1603 S Congress Ave, Austin, TX 78704",3.5,30.2474,-97.75006
+535,Chi'Lantro,"823 Congress Ave, Austin, TX 78701",4.0,30.270474212547988,-97.74125343333677
+536,Sip Pho,"512 W 29th St, Austin, TX 78705",4.5,30.295421,-97.742327
+537,Veracruz All Natural,"1700 Guadalupe St, Travis County Civil and Family Courts Facility, Austin, TX 78701",4.5,30.2801,-97.74254
+538,The Halal Corner,"1200 Barbara Jordan, Ste 300, Austin, TX 78723",4.0,30.30621520330522,-97.70766038843132
+539,i Fratelli Pizza Downtown Austin,"501 W 15th St, Ste C, Austin, TX 78701",4.0,30.2780073988805,-97.7444057699312
+540,Ranch 616,"616 Nueces St, Austin, TX 78701",3.5,30.270479459951343,-97.74839566124297
+541,"Snooze, an A.M. Eatery","1700 South Lamar, Ste 301, Austin, TX 78704",4.0,30.251717,-97.766627
+542,Cidercade Austin,"600 E Riverside Dr, Austin, TX 78704",4.5,30.2525,-97.74104
+543,Black Star Co-op Pub & Brewery,"7020 Easy Wind Dr, Ste 100, Austin, TX 78752",4.0,30.3381716531677,-97.7188450098038
+544,Gnar Bar,"219 E 6th St, Austin, TX 78701",4.5,30.267258726197753,-97.7408003
+545,The Well,"440 2nd St, Austin, TX 78701",4.5,30.265727245926215,-97.74833726013874
+546,Afghan Village,"9717 N Lamar Blvd, Austin, TX 78753",4.5,30.36572694264818,-97.6947071
+547,Garbo’s,"626 N Lamar Blvd, Austin, TX 78703",4.0,30.272580873537585,-97.7536861
+548,Cenote,"1010 E Cesar Chavez St, Austin, TX 78702",4.0,30.2605580485887,-97.7336812427286
+549,CAVA,"2426 Guadalupe St, Austin, TX 78705",4.0,30.2885622487397,-97.741684423978
+550,Seven Spice,"3901 Spicewood Springs Rd, Ste B, Austin, TX 78759",4.0,30.36551548884616,-97.75032810232824
+551,Mother Klucker,"5610 N Interstate Hwy 35, Austin, TX 78751",4.0,30.316177,-97.70824
+552,Waterloo Ice House 360 & 2222,"6203 N Capital Of Texas Hwy, Austin, TX 78731",3.5,30.3608743,-97.7893634
+553,The Halal Project,"917 W 12th St, Austin, TX 78703",4.5,30.27656,-97.75076
+554,Cafe Fin,"2438 W Anderson Ln, Ste A3, Austin, TX 78757",4.0,30.358027,-97.731826
+555,Skinny's Off Track Bar,"1806 E 12th St, Austin, TX 78702",4.5,30.27383,-97.7205
+556,Maudie's Café,"2608 W 7th, Austin, TX 78703",3.5,30.28281,-97.77557
+557,Pho Craft,"3307 Oak Springs Dr, Austin, TX 78721",4.5,30.27349,-97.69708
+558,Azul Tequila,"3815 Dry Creek Dr, Austin, TX 78731",3.5,30.3427391,-97.7640076
+559,Another Broken Egg Cafe,"8012 Mesa Dr, Austin, TX 78731",4.5,30.37057,-97.75845
+560,VERDAD True Modern Mexican - Coming Soon,"2701 Perseverance Dr, Austin, TX 78731",0.0,30.31831,-97.75381
+561,Little Deli & Pizzeria,"1804 Briarcliff Blvd, Austin, TX 78723",4.5,30.314342,-97.689852
+562,Pinthouse Pizza,"4236 S Lamar Blvd, Austin, TX 78704",4.5,30.236083,-97.795895
+563,Bluefin Sushi Bar & Ramen,"5400 Brodie Ln, Ste 1200, Sunset Valley, TX 78745",4.5,30.2307,-97.82042
+564,Galloway's Sandwich Shop,"1914 E 12th St, Austin, TX 78702",4.5,30.27398,-97.71937
+565,Cheba Hut Toasted Subs,"3016 Guadalupe St, Austin, TX 78705",4.5,30.29802614887004,-97.74167606527784
+566,Chago's Caribbean Cuisine,"7301 N Lamar Blvd, Austin, TX 78752",4.5,30.340268,-97.716942
+567,Louisiana Crab Shack,"2525 W Anderson Ln, Ste 265, Austin, TX 78757",3.5,30.355906,-97.733481
+568,Bikkle Jamaican Restaurant,"3023 Guadalupe St, Austin, TX 78705",4.5,30.297043,-97.741433
+569,Hoboken Pie,"718 Red River St, Austin, TX 78701",4.0,30.26822,-97.73678
+570,Louisiana Wild Crawfish & Catering,"Austin, TX 78701",4.5,30.270485736676804,-97.74234639398716
+571,Red Lotus Asian Grille,"6507 Jester Blvd, Ste 501, Austin, TX 78750",4.5,30.369571,-97.800953
+572,Carnitas el Guero,"8624 N Lamar Blvd, Austin, TX 78744",4.5,30.3552619,-97.7032641
+573,A Touch of Soul,"1206 Chicon St, Austin, TX 78702",5.0,30.274121,-97.720185
+574,Steiner Ranch Steakhouse,"5424 Steiner Ranch Blvd, Austin, TX 78732",3.5,30.38991,-97.87181
+575,Mum Foods Smokehouse & Delicatessen ,"5811 Manor Rd, Austin, TX 78723",4.5,30.3058633,-97.6797593
+576,The Austin Club,"110 E 9th St, Austin, TX 78701",4.5,30.270942,-97.7408389
+577,Home Slice Pizza,"1415 S Congress St, Austin, TX 78704",4.5,30.2492254,-97.74955321609524
+578,Freddo Atx,"2336 S Congress Ave, Austin, TX 78704",4.0,30.23935,-97.75324
+579,La Peña,"227 Congress Ave, Austin, TX 78701",4.0,30.26515557890668,-97.7437078737309
+580,Veracruz All Natural,"2401 Winsted Ln, Austin, TX 78703",4.5,30.29333,-97.76036
+581,Happy Chicks,"6425 Burnet Rd, Austin, TX 78757",4.0,30.339962,-97.738658
+582,Arpeggio Grill,"6619 Airport Blvd, Austin, TX 78752",4.0,30.3309659,-97.7155318
+583,III Forks,"111 Lavaca St, Austin, TX 78701",4.0,30.26435,-97.74676
+584,Techo Mezcaleria & Agave Bar,"2201 Manor Rd, Austin, TX 78722",4.5,30.28412,-97.7189099
+585,Civil Goat Coffee,"2610 Manor Rd, Austin, TX 78722",4.5,30.28532402996956,-97.71449413150548
+586,Mandola's Italian,"4700 W Guadalupe St, Ste 12, Austin, TX 78751",4.0,30.3159319310134,-97.7336796197883
+587,ATX Food,"517 S Lamar, Austin, TX 78704",4.5,30.259692,-97.758216
+588,Cuantas Hamburguesas,"1108 E 12th St, Austin, TX 78702",4.0,30.272719261502395,-97.72862080383176
+589,Aussie's Grill & Beach Bar,"306 Barton Springs Rd, Austin, TX 78704",3.0,30.25898,-97.74808
+590,Hillside Farmacy,"1209 E 11th St, Austin, TX 78702",3.5,30.2680931091309,-97.7269134521484
+591,MezzeMe,"4700 W Guadalupe St, Ste 9, Austin, TX 78751",4.5,30.31563847123913,-97.733662865405
+592,Camino Alamo BBQ,"1914 Guadalupe St, Austin, TX 78705",5.0,30.282649,-97.742393
+593,Humpty’s Wall of Breakfast,"8820 Burnet Rd, Ste 502, Austin, TX 78757",4.5,30.3710579399,-97.7279291261
+594,The Mockingbird Café,"600 W 2nd St, Austin, TX 78701",4.0,30.26611,-97.75004
+595,China Family Restaurant at Highland,"6801 Airport Blvd, Austin, TX 78752",4.0,30.33406,-97.71649
+596,Arlo's,"900 Red River St, Austin, TX 78701",4.5,30.269513,-97.736244
+597,CARVE American Grille - Barton Creek,"7415 SW Pkwy, Bldg 1, Austin, TX 78735",4.0,30.25631135881809,-97.87046853494348
+598,Tellus Joe,"3110 Windsor Rd, Beer Plant Breezeway, Austin, TX 78703",3.0,30.29660485043773,-97.76774077049808
+599,DeSano Pizzeria Napoletana,"8000 Burnet Rd, Austin, TX 78757",4.5,30.35851,-97.73065
+600,"Snooze, an A.M. Eatery","1109 E 5th St, Ste 180, Austin, TX 78702",4.0,30.263451212488057,-97.73107619508556
+601,DittyDog,"519 E 7th St, Austin, TX 78701",4.5,30.26725,-97.73717
+602,Err Thing New Orleans,"1309 W 45th St, Austin, TX 78756",4.5,30.315080883459274,-97.74142988026142
+603,Gabriel's Cafe,"1900 University Ave, Austin, TX 78705",3.5,30.282314230267723,-97.74002089150568
+604,Aviator Pizza & Drafthouse,"1905 Aldrich St, Austin, TX 78723",4.0,30.297908,-97.70534
+605,Texas Honey Ham Company,"3736 Bee Cave Rd, Ste 6, West Lake Hills, TX 78746",4.5,30.280847,-97.807019
+606,Catrina's Tacos & Margaritas,"6507 Jester Blvd, Ste 105, Austin, TX 78750",4.0,30.3701281739745,-97.79996691402336
+607,Queen and King Cafe,"2718 Guadalupe St, Austin, TX 78705",5.0,30.29298,-97.74177
+608,Que Divino Cocina,"3435 Greystone Dr, Ste 112, Austin, TX 78731",3.5,30.357067425674472,-97.7487578
+609,Hopdoddy Burger Bar,"1400 S Congress Ave, Ste A190, Austin, TX 78704",4.0,30.249649,-97.749907
+610,TacoWey,"325 E 6th St, Austin, TX 78701",4.0,30.2668896,-97.7395782
+611,Creeks Restaurant,"9515 Hotel Dr, Austin, TX 78719",3.0,30.21143,-97.66388
+612,Bouldin Acres,"1806 W Braker Ln, Austin, TX 78758",4.0,30.391646,-97.704411
+613,Punch Bowl Social,"522 Congress Ave, Austin, TX 78701",3.5,30.2677516,-97.7432403
+614,La Holly,"2500 E 6th St, Austin, TX 78702",4.0,30.2591865899542,-97.7144455556234
+615,Wink,"1014 N Lamar Blvd, Ste E, Austin, TX 78703",4.0,30.275848,-97.752427
+616,Eddie V's Prime Seafood,"301 E 5th St, Austin, TX 78701",4.5,30.2662563,-97.7406372
+617,Hi Wings,"2525 W Anderson Ln, Ste 135, Austin, TX 78757",4.5,30.3550760480797,-97.7327821745008
+618,Gusto Italian Kitchen & Wine Bar,"4800 Burnet Rd, Austin, TX 78756",4.0,30.3183136593457,-97.7399416283112
+619,Gyro Delicious,"2011 Whitis Ave, Austin, TX 78705",4.5,30.283069,-97.740558
+620,Buen Provecho Supper Club,"1914 Willow St, Austin, TX 78702",5.0,30.256,-97.723825
+621,North Italia,"11506 Century Oaks Ter, Ste 124, Austin, TX 78758",4.0,30.4022781469848,-97.7259850502014
+622,Haymaker,"2310 Manor Rd, Austin, TX 78722",3.5,30.28475,-97.71763
+623,Eighteenth Over Austin,"Hilton Garden Inn, 500 N IH 35, Fl 18, Austin, TX 78701",3.0,30.2649608981765,-97.735447883606
+624,Cherrywood Coffeehouse,"1400 E 38th 1/2 St, Austin, TX 78722",4.0,30.29332,-97.71597
+625,Lenoir,"1807 S 1st St, Austin, TX 78704",4.0,30.24686,-97.75586
+626,Taverna,"258 W 2nd St, Austin, TX 78701",3.5,30.26513,-97.74633
+627,Kerbey Lane Cafe - Westlake,"701 S Capital Of TX Hwy, Austin, TX 78746",3.5,30.292268657684723,-97.8273179318489
+628,Javi's Best of Tex-Mex,"7709 E Ben White Blvd, Austin, TX 78744",4.0,30.217777,-97.689705
+629,Texas Sushiko,"440 E St Elmo, Austin, TX 78745",4.0,30.2155,-97.76207
+630,Tso Chinese Takeout & Delivery,"3909 N Interstate Hwy 35, Ste E-5, Austin, TX 78722",4.5,30.296071,-97.717427
+631,Workhorse Bar,"100 N Loop Blvd E, Ste B, Austin, TX 78751",4.5,30.31771,-97.721675
+632,Chi'Lantro,"303 Colorado St, Ste 100, Austin, TX 78701",4.0,30.265846,-97.744623
+633,Bummer Burrito,"89 Rainey St, Austin, TX 78701",4.5,30.259889,-97.738116
+634,Tia's Kitchen,"Austin, TX 78754",5.0,30.35158539,-97.65459442
+635,épicerie ,"2307 Hancock Dr, Austin, TX 78756",4.0,30.3245258331299,-97.7436752319336
+636,Room 725,"101 Red River St, Fairmont Austin, Austin, TX 78701",4.5,30.26191889999999,-97.7386318
+637,Gyro center,"1309 W 45th St, Austin, TX 78756",4.5,30.315011,-97.741434
+638,Four Brothers,"80 Rainey St, Austin, TX 78701",4.0,30.25922,-97.73889
+639,KabobZi Mediterranean Grill,"2909 Guadalupe St, Austin, TX 78705",4.5,30.29564,-97.7424
+640,Siena Ristorante Toscana,"6203 N Capital Of Texas Hwy, Austin, TX 78731",3.5,30.36037958712952,-97.78895718825002
+641,Maudie’s Milagro,"3801 N Capital Of Tx Hwy, Austin, TX 78746",3.5,30.336911,-97.80337
+642,The Peached Tortilla,"Austin, TX 78756",4.0,30.3252124786377,-97.7383422851563
+643,Perry's Steakhouse & Grille,"114 W 7th St, Austin, TX 78701",4.0,30.26942365826463,-97.74352690000002
+644,Norte ATX,"730 Shady Ln, Austin, TX 78702",4.5,30.254546555461395,-97.69694020684564
+645,Bull And Bowl,"501 W 6th St, Ste 200, Austin, TX 78701",3.5,30.269281475813074,-97.74761861880118
+646,Shortwave Diner,"4204 Menchaca Rd, Austin, TX 78704",4.5,30.23155885604487,-97.78775706742586
+647,ZIKI,"706 N Lamar Blvd, Austin, TX 78703",4.0,30.27343,-97.75343
+648,Jewboy Sliders at Fareground,"1111 E 6th, Austin, TX 78702",4.5,30.2642529,-97.7307858
+649,Thai Kitchen,"3009 Guadalupe St, Austin, TX 78705",3.5,30.29673,-97.74167
+650,La Tunita 512,"2400 Burleson Rd, Austin, TX 78741",5.0,30.2295,-97.735966
+651,China's Family Restaurant,"1914 Guadalupe St, Ste B, Austin, TX 78705",3.5,30.28271,-97.7424
+652,Pizza Leon,"509 E Ben White Blvd, Austin, TX 78704",4.5,30.218453,-97.757751
+653,Aster's Ethiopian Restaurant,"2804 N I-35, Austin, TX 78722",4.5,30.287253193505126,-97.72494809031528
+654,Little Nishi,"1311 S 1st St, Ste F, Austin, TX 78704",5.0,30.25075437663865,-97.7543001
+655,The One Pho,"10721 Research Blvd, Ste B110, Austin, TX 78759",4.5,30.3990103,-97.74486290000002
+656,Casa Colombia,"2409 E 7th St, Austin, TX 78702",4.0,30.2608,-97.71482
+657,La Condesa,"400A W 2nd St, Austin, TX 78701",3.5,30.2656391,-97.7477811
+658,Via 313 Pizza,"3016 Guadalupe St, Austin, TX 78705",4.5,30.29787095708796,-97.7414139672576
+659,Luck’s Wagyu Burger Shoppe,"2900 W Anderson Ln, Ste 250, Austin, TX 78757",3.5,30.360146602572865,-97.73666150024792
+660,MUSE Fusion+Sushi,"4211 S Lamar Blvd, Ste A-3, Austin, TX 78704",4.5,30.23436168930319,-97.7928827
+661,USA HALAL,"303 W Mlk Jr Blvd, Austin, TX 78701",5.0,30.281213,-97.740773
+662,Ramen Tatsu-Ya,"8557 Research Blvd, Ste 126, Austin, TX 78758",4.0,30.36114124578393,-97.71522845863804
+663,The Dogwood West 6th,"715 W 6th St, Austin, TX 78701",3.5,30.26988,-97.75028
+664,Chat Patta,"2512 Rio Grande St, Austin, TX 78705",4.5,30.29056280278547,-97.74464200544608
+665,El Marisquero Seafood,"31 N Interstate, Austin, TX 78702",4.0,30.254030987667573,-97.73614190518856
+666,Pepe’s Tacos,"704 N Lamar Blvd, Austin, TX 78703",4.5,30.273319,-97.7535433
+667,Foxtrot,"301 W 2nd St, Ste 100, Austin, TX 78701",2.5,30.26480606648145,-97.7470188150607
+668,SouthCloud Ramen,"1914 Guadalupe St, Ste A, Austin, TX 78705",3.5,30.282631,-97.742321
+669,Chi'Lantro,"1414 Shore District Dr, Unit 102, Austin, TX 78741",4.0,30.24369,-97.7285
+670,Cannon + Belle,"500 E 4th St, Austin, TX 78701",3.5,30.265181,-97.738255
+671,Drink Well,"207 E 53rd St, Austin, TX 78751",4.0,30.31728,-97.72062
+672,The Perch Atx,"74 Trinity St, Austin, TX 78701",4.0,30.260559,-97.74177
+673,Via 313 Pizza,"600 W 6th St, Star Bar, Austin, TX 78701",0.0,30.26990207638127,-97.7485017569692
+674,Hopdoddy Burger Bar,"4615 N Lamar Blvd, Ste 307, Austin, TX 78751",3.5,30.315046177702833,-97.73444436612868
+675,Marigold Market and Cafe,"7415 Southwest Pkwy, Bldg 6, Ste 100, Austin, TX 78735",4.5,30.254819093355863,-97.86695657169489
+676,Austin's Habibi,"817 W 5th St, Austin, TX 78703",4.0,30.26957,-97.75303
+677,Pho Dinh Vietnamese Cuisine,"9515 N Lamar Blvd, Austin, TX 78753",4.0,30.36407,-97.69505
+678,Biscuits and Groovy,"5015 Duval St, Austin, TX 78751",4.0,30.3141044899503,-97.7196990873646
+679,Xian Sushi & Noodle - Domain,"3401 Esperanza Crossing, Ste 106, Austin, TX 78758",4.0,30.400385616456088,-97.72729011410348
+680,Vince Young Steakhouse,"301 San Jacinto Blvd, Austin, TX 78701",4.0,30.26485,-97.74115
+681,Ski Shores Cafe,"3103 Pearce Rd, Austin, TX 78730",3.0,30.33659768333411,-97.82340390000005
+682,Tsukimi,"12400 N Interstate 35 Exit 245, Ste A-111, Austin, TX 78753",4.0,30.404127096704283,-97.67602348221357
+683,Delicious AF,"5003 Airport Blvd, Austin, TX 78751",4.0,30.31135,-97.71503
+684,Marker 10,"208 Barton Springs Rd, Austin, TX 78704",3.5,30.2609943392122,-97.7468085110451
+685,SXSE Food,"415 St Elmo Rd, Ste 1-D2, Austin, TX 78745",4.5,30.220372,-97.7720092
+686,Thai Kun,"11601 Rock Rose Ave, Ste 100, Austin, TX 78758",4.0,30.40155706907678,-97.72243220583928
+687,Cafe At The Loren,"1211 W Riverside Dr, Austin, TX 78704",3.5,30.2640871,-97.7567378
+688,Poke House - West Lake Hills,"3652 Bee Cave Rd, Ste 4, West Lake Hills, TX 78746",4.5,30.27966,-97.80629
+689,Grata’s Pizzeria ,"2700 S Lamar Blvd, Austin, TX 78704",4.5,30.245577370082056,-97.78036922883534
+690,Cedar Door Patio Bar & Grill,"201 Brazos St, Bldg A, Austin, TX 78701",3.5,30.2640756302475,-97.74259017472
+691,Mr. Sandwich,"82 Rainey St, Austin, TX 78701",4.0,30.25933,-97.73871
+692,Sazan Ramen,"6929 Airport Blvd, Ste 146, Austin, TX 78752",4.5,30.33719,-97.71732
+693,The Silver Medal,"7100 E Hwy 290, Austin, TX 78723",4.0,30.32275,-97.68254
+694,Chef Z Austin,"9014 Blue Quail Dr, Austin, TX 78758",5.0,30.362683,-97.703423
+695,Galaxy Cafe,"8127 Mesa Dr, Ste A100, Austin, TX 78759",4.0,30.37318,-97.75572
+696,Ladybird's Austin Kitchen,"4209 Airport Blvd, Austin, TX 78722",5.0,30.296665,-97.7074288028601
+697,R&B's Steak and Fries,"1106 E 11th St, Austin, TX 78702",4.5,30.269078907753887,-97.7284705782494
+698,HAHA Kitchen,"5610 N Interstate Hwy 35, Ste K-28, Austin, TX 78751",3.0,30.3161497,-97.7084916
+699,Pluckers Wing Bar - Rio Grande,"2222 Rio Grande St, Ste D116, Austin, TX 78705",3.5,30.2862846755023,-97.7449311760574
+700,Whiskey Tango Foxtrot Icehouse,"701 W 6th St, Austin, TX 78701",3.5,30.2697646118166,-97.7498506754637
+701,Lustre Pearl East,"114 Linden St, Austin, TX 78702",4.0,30.2530237536547,-97.71073980243536
+702,Ned Granger Cafe,"314 W 11th St, Austin, TX 78701",4.0,30.273972,-97.744123
+703,Asado's Taqueria,"1309 W 45th St, Austin, TX 78756",5.0,30.31506,-97.74145
+704,Burger Bar Campus,"1901 San Antonio St, Unit 140, Austin, TX 78705",4.0,30.28223,-97.74291
+705,Pacha Organic Cafe,"2915 Guadalupe St, Austin, TX 78705",4.5,30.29585,-97.74213
+706,The Driskill Grill,"604 Brazos St, Austin, TX 78701",4.0,30.2686613206705,-97.7417146061516
+707,Deckhand Oyster Bar - South,"4211 S Lamar Blvd, Ste C-1, Austin, TX 78704",3.5,30.2350720320656,-97.7933467962823
+708,Bento Picnic,"2600 E Cesar Chavez St, Austin, TX 78702",4.5,30.2540192,-97.715191
+709,True Texas BBQ - Lake Austin,"2652 Lake Austin Blvd, Austin, TX 78703",4.0,30.283540885959894,-97.7757073324888
+710,Pinthouse Pizza,"4729 Burnet Rd, Austin, TX 78756",4.0,30.318737,-97.739038
+711,Halal Time,"1400 E 6th St, Austin, TX 78702",4.5,30.263675,-97.72785960000002
+712,Cipollina,"1213 W Lynn St, Austin, TX 78703",3.5,30.2807,-97.75843
+713,Plank Seafood Provisions,"11410 Century Oaks Ter, Ste 136, Austin, TX 78758",4.0,30.40111319854861,-97.7266830199361
+714,Cooper's Sandwiches,"4601 Sw Pkwy, Ste 106, Austin, TX 78735",4.5,30.239447,-97.831815
+715,The County Line,"6500 W Bee Cave Rd, Austin, TX 78746",3.5,30.29784,-97.83566
+716,Seareinas,"6607 N Interstate Hwy 35, Austin, TX 78752",3.5,30.32777,-97.70421
+717,Tacodeli,"301 Congress Ave, Austin, TX 78701",4.0,30.265390291549227,-97.74346584218785
+718,Yalla Burgers & Wings Halal Guadalupe,"2819 Guadalupe St, Austin, TX 78705",4.0,30.2949,-97.74234
+719,Sherpa Snacks,"2006 Philomena St, Austin, TX 78723",3.5,30.3001445,-97.7025639
+720,Cafe Blue Downtown Austin,"340 E 2nd St, Austin, TX 78701",3.5,30.263663809352423,-97.7408639
+721,Rebel Cheese,"2200 Aldrich St, Ste 120, Austin, TX 78723",4.5,30.30137,-97.703166
+722,UTea Pho,"2222 Rio Grande St, Bldg B, Ste 120, Austin, TX 78705",4.5,30.286324633104947,-97.74582437975336
+723,Abo Youssef Mediterranean Food ,"2101 Manor Rd, Austin, TX 78722",5.0,30.283955,-97.719837
+724,ALPETRA,"501 W 24 St, Austin, TX 78705",4.5,30.288114103549493,-97.7430959
+725,That Burger,"10901 Domain Dr, Austin, TX 78758",4.5,30.39505,-97.72621
+726,Comal Fajita House,"1108 E 12th, Austin, TX 78702",5.0,30.27271,-97.72847
+727,Sushi Hi,"8557 Research Blvd, Ste 146, Austin, TX 78758",4.5,30.36162192322545,-97.7153014110814
+728,The Canteen,"1830 Simond Ave, Austin, TX 78723",5.0,30.297559,-97.704844
+729,Weird Food,"2008 S Congress Ave, Austin, TX 78704",4.5,30.243656,-97.7522
+730,Gumbeaux2Geaux,"1815 Rosewood Ave, Austin, TX 78702",4.0,30.269602574226735,-97.71920878440142
+731,Cover 3,"2700 W Anderson Ln, Ste 202, Austin, TX 78757",4.0,30.3586849562721,-97.7350158670119
+732,Eurasia Ramen 3,"5222 Burnet Rd, Ste 400A, Austin, TX 78756",4.5,30.324486,-97.740271
+733,ALC Steaks,"1205 N Lamar Blvd, Austin, TX 78703",4.0,30.27712,-97.75098
+734,Chinatown Westlake,"2712 Bee Caves Rd, Ste 124, Austin, TX 78746",3.5,30.271649,-97.786201
+735,Quezzas,"82 Rainey St, Austin, TX 78701",4.5,30.259373,-97.738846
+736,Cabo Bob's Burritos,"2828 Rio Grande St, Austin, TX 78705",4.5,30.295789,-97.7442669
+737,Fresa's - South 1st,"1703 S 1st St, Austin, TX 78704",3.5,30.2478675842285,-97.7551193237305
+738,Kura Revolving Sushi Bar,"6929 Airport Blvd, Ste 125, Austin, TX 78752",3.5,30.33742,-97.71712956130033
+739,Rockin' Rolls,"5000 Burnet Rd, Austin, TX 78756",4.5,30.32118,-97.7395
+740,La Cocina de Consuelo,"4516 Burnet Rd, Austin, TX 78756",4.0,30.316091,-97.74143
+741,Las Trancas,"1210 E Cesar Chavez St, Austin, TX 78702",4.5,30.2596927300688,-97.731671333313
+742,Chili's,"4420 N Lamar Blvd, Austin, TX 78756",3.0,30.31332,-97.73835
+743,Kerbey Lane Cafe - University,"2606 Guadalupe St, Austin, TX 78705",3.5,30.29122,-97.7415
+744,Paul Martin's American Grill,"3120 Palm Way, Ste 130, Austin, TX 78758",4.0,30.4029773,-97.7213765
+745,Osio,"2901 S Capital Of Texas Hwy, Barton Creek Square Mall, Austin, TX 78746",4.0,30.25761,-97.806998
+746,Sushi Japon & Hibachi Grill,"6801 N I H 35, Austin, TX 78752",3.5,30.328855,-97.704869
+747,Hopdoddy Burger Bar,"1011 E 5th St, Ste 180, Austin, TX 78702",4.0,30.263778687978153,-97.73218363835072
+748,Pueblo Viejo,"2410 E Riverside Dr, Ste H-8, Austin, TX 78741",4.5,30.237308266957864,-97.72487640735946
+749,Vinaigrette,"2201 College Ave, Austin, TX 78704",4.0,30.2415789297179,-97.7519873902202
+750,Kt's Deli,"300 W 15th St, Austin, TX 78701",4.5,30.27788,-97.74206
+751,Texture Food and Drink,"6505 N I-35, Austin, TX 78752",3.5,30.32638,-97.70486
+752,Simar Seafood & Steak,"9503 Research Blvd, Unit 400, Austin, TX 78759",4.5,30.38673,-97.74074
+753,Micheladas Cafe y Cantina,"504 Trinity St, Austin, TX 78701",3.0,30.2664692,-97.7398879
+754,Oz. Tap House,"10601 Ranch Rd 2222, Ste H, Austin, TX 78730",4.0,30.393454226853684,-97.84547898408962
+755,Cabo Bob's Burritos,"500 E Ben White Blvd, Ste D100, Austin, TX 78704",4.5,30.2209809152295,-97.756928435967
+756,The Scarbrough,"522 Congress Ave, Austin, TX 78701",4.5,30.268001681801724,-97.74315387356604
+757,Delucca Gaucho Pizza & Wine Austin,"4200 W Braker Ln, Austin, TX 78759",4.0,30.4000853,-97.73920377443818
+758,1st Choice Mediterranean & Moroccan Food,"403 E 6th St, Austin, TX 78701",4.5,30.26678,-97.73917
+759,ASTI Trattoria,"408 E 43rd St, Ste C, Austin, TX 78751",4.0,30.3050880432129,-97.7264251708984
+760,Spicy Boys Fried Chicken - St. Elmo,"440 E St Elmo Rd, Bldg G-2, Austin, TX 78745",4.5,30.2175493194082,-97.7610521927884
+761,Poke-Poke,"3100 S Congress Ave, Ste A, Austin, TX 78704",4.0,30.231691140461763,-97.7593386665399
+762,Supper Friends,"3012 Gonzales St, Ste 100, Austin, TX 78702",4.5,30.25963,-97.70663
+763,Pappadeaux Seafood Kitchen,"6319 N Interstate 35, Austin, TX 78752",4.0,30.3253,-97.70515
+764,Het Say Vietnamese Kitchen,"2121 E Oltorf St, Ste 12B, Austin, TX 78741",4.5,30.23015,-97.73257
+765,Budare's Venezuelan Food,"5000 Burnet Rd, Austin, TX 78756",5.0,30.32118,-97.7395
+766,Kuway's Banh Mi,"1309 W 45th St, Austin, TX 78756",4.5,30.314985,-97.741209
+767,la Barbecue,"2401 E Cesar Chavez, Austin, TX 78702",4.5,30.254551688240156,-97.7175824980666
+768,Chez Zee American Bistro,"5406 Balcones Dr, Austin, TX 78731",3.5,30.3367272,-97.7579259
+769,Posse East,"2900 Duval St, Austin, TX 78705",4.0,30.29142,-97.73465
+770,Ali Gyro Halal,"318 E 5th St, Austin, TX 78701",4.5,30.266388768764536,-97.74003013543626
+771,Kesos Tacos,"600 W Martin Luther King Jr Blvd, Austin, TX 78701",4.0,30.28264,-97.74444
+772,Planet Smoothie,"4211 S Lamar Blvd, Ste E-02, Austin, TX 78704",4.0,30.233849923643778,-97.79303630511669
+773,China Family,"2525 W Anderson Ln, Ste 110, Austin, TX 78757",4.0,30.35470295420621,-97.7330120753924
+774,Local Slice II,"8201 Cross Park Dr, Ste B3, Austin, TX 78754",4.5,30.330977700095417,-97.66681483682262
+775,Dawa Sushi,"5000 Burnet Rd, Austin, TX 78756",4.5,30.32118,-97.7395
+776,Community Garden,"1401 Cedar Ave, Unit 2, Austin, TX 78702",4.5,30.27703018446358,-97.71330821406131
+777,Arlo's,"2908 Fruth St, Spider House Cafe, Austin, TX 78705",4.5,30.295514,-97.741746
+778,Lazeez Mediterranean Cafe,"6812 N Fm 620, Austin, TX 78732",4.5,30.40186354049085,-97.8554252
+779,EastSide ATX,"1510 E Cesar Chavez St, Austin, TX 78702",3.5,30.25884,-97.72877
+780,Julio's Café,"4230 Duval St, Austin, TX 78751",4.0,30.30495,-97.72617
+781,Waltons Fancy and Staple,"609 W 6th St, Austin, TX 78701",4.0,30.269513,-97.749035
+782,The Grey Market,"501 Brazos St, Austin, TX 78701",4.0,30.26675993262182,-97.7411461803158
+783,Onion Creek Grille,"4140 Governors Row, Austin, TX 78744",3.0,30.2144718170166,-97.7506256103516
+784,Taco Joint,"2809 San Jacinto Blvd, Austin, TX 78705",4.5,30.2916247,-97.7349648
+785,Halal Wings,"1200 Barbara Jordan Blvd, Ste 340, Austin, TX 78723",4.0,30.3064549205656,-97.70761104582604
+786,Via 313 Pizza,"6705 Us-290, Ste 503, Austin, TX 78735",4.5,30.232885027469035,-97.86561082571453
+787,Black's Barbecue Austin,"3110 Guadalupe St, Austin, TX 78705",4.0,30.298492113663,-97.7412682360079
+788,Pokeatery,"1201 Barbara Jordan Blvd, Ste 1410, Austin, TX 78723",4.0,30.305550971035235,-97.70808319999762
+789,ñoños tacos,"102 W Powell Ln, Austin, TX 78753",4.5,30.3480349675096,-97.7032811567187
+790,Envie,"Manor Rd, Austin, TX 78723",4.0,30.28755244830228,-97.70304560378656
+791,The Caribbean House,"5610 N Interstate 35, Austin, TX 78751",3.0,30.316160680056,-97.7084916
+792,Marye's Gourmet Pizza,"3663 Bee Cave Rd, Ste 4G, Austin, TX 78746",4.5,30.2788789699226,-97.807303494104
+793,sweetgreen,"1900 Aldrich St 140, Ste 140, Austin, TX 78723",4.0,30.298138,-97.705163
+794,Mi Madre's Restaurant,"2201 Manor Rd, Austin, TX 78722",4.0,30.284132456923295,-97.71892864857308
+795,Pelons Tex-Mex,"802 Red River St, Austin, TX 78701",3.5,30.26872,-97.7366
+796,Muzzy’s Bagels,"2909 E 12th St, Austin, TX 78702",4.5,30.27567654921742,-97.7068691
+797,Le Café Crêpe,"200 San Jacinto Blvd, Ste A, Austin, TX 78701",4.0,30.2638586673367,-97.7418548134918
+798,Ninja Chicken,"6901 Ranch Rd 620 N, Austin, TX 78732",4.5,30.40165,-97.85451
+799,Stephen F's Bar and Terrace,"701 Congress Ave, Austin, TX 78701",4.0,30.2691040039062,-97.7419586181641
+800,Shiner's Saloon,"422 Congress Ave, Ste D, Austin, TX 78701",4.0,30.267053604126,-97.743537902832
+801,Pd Thai,"3208 Guadalupe St, Ste A, Austin, TX 78705",3.5,30.2998449885608,-97.7403762417336
+802,Fairways Cantina,"3851 Manor Rd, Austin, TX 78723",4.5,30.2894185,-97.6942893
+803,El Tacorrido,"5303 Burnet Rd, Austin, TX 78756",3.5,30.32639,-97.73938
+804,The Story of Texas Cafe,"1800 N Congress Ave, Austin, TX 78701",3.5,30.279915,-97.738741
+805,LaCorsha,"1214 W 6th St, Ste 220, Austin, TX 78703",3.0,30.27362,-97.75886
+806,Pho MPH,"4616 Triangle Ave, Ste 203, Austin, TX 78751",4.0,30.314936,-97.733784
+807,Polvos Barton Creek,"2901 Capital Of Texas Hwy, Austin, TX 78746",3.0,30.2539819337067,-97.807375888981
+808,BackDraft Pizzeria,"10001 Metric Blvd, Austin, TX 78738",4.5,30.379758165290227,-97.71545763184686
+809,Shoal Creek Saloon,"909 N Lamar Blvd, Austin, TX 78703",3.5,30.2742751657888,-97.7523102139017
+810,The Iron Grill,"1801 E 51st St, H-E-B, Austin, TX 78723",5.0,30.30108,-97.6997
+811,Wok N Express,"4413 Guadalupe St, Austin, TX 78751",4.0,30.310567855835,-97.7327651977539
+812,Halcyon,"1905 Aldrich, Ste 110, Austin, TX 78723",3.0,30.297672,-97.705407
+813,Bob's Steak & Chop House - Austin Downtown,"301 Lavaca St, Austin, TX 78701",4.0,30.2660236358643,-97.7460403442383
+814,Walnut Creek Pub,"11806 N Lamar Blvd, Austin, TX 78753",4.5,30.3889,-97.68344
+815,Torchy's Tacos,"2801 Guadalupe St 5-B, Austin, TX 78705",4.0,30.293664724914397,-97.74177437042388
+816,Roppolo’s Pizzeria West Campus,"2604 Guadalupe St, Austin, TX 78705",4.5,30.291021,-97.741536
+817,Judy’s Mediterranean,"5000 Burnett Rd, Austin, TX 78756",5.0,30.32118,-97.7395
+818,Joi,"3120 Palm Way, Ste 150, Austin, TX 78758",4.0,30.40301526685455,-97.72161307423308
+819,Pueblo Viejo Riverside,"2410 E Riverside Dr, H-8, Austin, TX 78741",4.5,30.237297,-97.724901
+820,Goodall's Kitchen,"1900 Rio Grande, Austin, TX 78705",3.5,30.28302081053152,-97.74544583099728
+821,Torchy's Tacos,"110 San Antonio St, Austin, TX 78701",4.0,30.265713,-97.749633
+822,Texas French Bread,"2900 Rio Grande St, Austin, TX 78705",3.5,30.29617,-97.74407
+823,The Capital Grille,"117 W 4th St, Austin, TX 78701",4.5,30.26627046,-97.74446684
+824,Ducrés,"Austin, TX 78701",5.0,30.2587207,-97.7385617
+825,Poeta,"1123 E 11th St, Austin, TX 78702",0.0,30.268679,-97.72839
+826,Oye Taquito,"1704 E Cesar Chavez St, Austin, TX 78702",4.5,30.2579332,-97.7259275
+827,Shortie’s Pizza & Grinders,"7858 Shoal Creek Blvd, Unit C, Austin, TX 78757",4.5,30.36080895582677,-97.74133205642406
+828,Chinos Fusion Hacienda,"6705 W Hwy 290, Ste 608, Austin, TX 78735",4.5,30.2333800106497,-97.8659587288361
+829,Papa Joe's Tex-Mex,"917 Springdale Rd, Austin, TX 78702",4.5,30.26098,-97.69832
+830,Favorite Pizza,"801 W 6th St, Austin, TX 78703",4.0,30.27019,-97.75071
+831,Pollos Asados El Norteno,"6401 Fm 969 Rd, unit 400, Austin, TX 78725",4.5,30.28439,-97.66063
+832,Poe's Fuego,"318 E 5th st, Austin, TX 78702",4.5,30.266525858298277,-97.7399769705521
+833,Dish Society - Coming Soon,"1900 Aldrich St, Ste 130, Austin, TX 78723",0.0,30.29849139089433,-97.70523610385136
+834,moonbowls,"5610 N Interstate Hwy 35, Austin, TX 78751",3.5,30.316177,-97.70824
+835,Santa Rita Tex-Mex Cantina,"1206 W 38th St, Austin, TX 78705",3.5,30.306804,-97.744306
+836,Vigilante Gaming Bar,"7010 Easy Wind Dr, Ste 150, Austin, TX 78752",4.0,30.3394025962971,-97.7183186262846
+837,P. Terry's Burger Stand,"5701 N IH-35, Austin, TX 78745",4.0,30.317283209726327,-97.70684964831278
+838,Via 313 Pizza,"1802 E 6th St, Austin, TX 78702",4.5,30.262117199946488,-97.7231796454027
+839,Toss Pizzeria & Pub,"2901 S 1st St, Austin, TX 78704",4.0,30.2363363,-97.762862
+840,Bob's Steak & Chop House - Austin Barton Creek,"8212 Barton Club Dr, Austin, TX 78735",3.5,30.29126319282411,-97.85829667287769
+841,Shanghai Restaurant,"6718 Middle Fiskville Rd, Austin, TX 78752",3.5,30.329322,-97.706769
+842,Asadas Grill,"501 W Canyon Ridge Dr, Austin, TX 78753",3.5,30.40280964642436,-97.67194222658873
+843,Main Streat Food Hall By H-E-B,"1801 E 51st St, Austin, TX 78723",4.0,30.30107318078058,-97.69840425263978
+844,Co-op Food Court,"411 W 23rd, Austin, TX 78705",4.5,30.286238,-97.742509
+845,Paris 13,"2901 S Capital Of Texas Hwy, Austin, TX 78746",0.0,30.258374665756588,-97.80327670236731
+846,Cachitos512,"1108 E 12th, Austin, TX 78702",5.0,30.27271,-97.72847
+847,El Perrito,"730 W Stassney, Ste 165, Austin, TX 78745",4.5,30.2091548,-97.7834734
+848,The Original Hoffbrau,"613 W 6th St, Austin, TX 78701",3.5,30.26958,-97.74917
+849,Yumai Japanese Grill,"1801 E 51st St, Austin, TX 78723",4.0,30.3011843382527,-97.69894003177797
+850,BBG’s,"214 E 6th St, Austin, TX 78701",3.5,30.26776,-97.74057
+851,Mia Italian Tapas & Bar,"11420 Rock Rose Ave, Ste 120, Austin, TX 78758",4.0,30.400800897360146,-97.7230715
+852,East Side Pies,"5530 Burnet Rd, Austin, TX 78756",4.0,30.331176157132624,-97.74025713980708
+853,True Food Kitchen,"11410 Century Oaks Ter, Ste 100, The Domain, Austin, TX 78758",4.0,30.40211,-97.72658
+854,The Pizza Press,"404 W 26th St, Austin, TX 78705",4.0,30.29072,-97.74201
+855,Unbarlievable,"76 Rainey St, Austin, TX 78701",3.0,30.2588785,-97.738957
+856,Raku Sushi and Asian Bistro,"2222 Rio Grande St, Ste 100, Austin, TX 78705",3.5,30.28669,-97.74515
+857,The Salt Lick BBQ - Austin Airport,"3600 Presidential Blvd, West Terminal Gate 21, Austin, TX 78719",3.5,30.20491749268691,-97.66713082944894
+858,Central Market Cafe,"4001 N Lamar Blvd, Austin, TX 78756",3.5,30.3070357135405,-97.7399721729469
+859,Chicka Boom,"5610 N Interstate Hwy 35, Austin, TX 78751",5.0,30.31648,-97.70811
+860,Vaquero Taquero,"104 E 31st, Austin, TX 78751",4.5,30.2951071,-97.7364183
+861,The Tavern,"922 W 12th St, Austin, TX 78703",3.5,30.277075,-97.7511169
+862,Discada,"1319 Rosewood Ave, Austin, TX 78702",4.5,30.268679477756788,-97.72457454353578
+863,ZIKI,"2118 S Congress Ave, Austin, TX 78704",4.0,30.2424208262248,-97.7526944
+864,Gobble Gobble,"83 Rainey St, Austin, TX 78701",4.5,30.259389,-97.7382435
+865,Hoof & Horn BBQ,"301-361 E 15th St, Austin, TX 78701",0.0,30.275612,-97.736748
+866,Distant Relatives,"3901 Promontory Point Dr, Austin, TX 78744",4.5,30.2090767,-97.7301124
+867,Ruth's Chris Steak House,"107 W 6th St, Austin, TX 78701",4.0,30.268072701169753,-97.74348640378686
+868,T-Loc's Sonora Hot Dogs,"5000 Burnet Rd, Austin, TX 78756",5.0,30.32118,-97.7395
+869,Pollo Regio,"6615 Berkman Dr, Austin, TX 78723",4.5,30.31959,-97.6889
+870,The Kebab Shop,"1011 E 5th St, Ste 160, Austin, TX 78702",4.0,30.26386950135499,-97.73220426391404
+871,Stubb's Bar-B-Q,"801 Red River St, Austin, TX 78701",3.5,30.26857,-97.73617
+872,Kerbey Lane Cafe - Mueller,"2200 Aldrich St, Ste 100, Austin, TX 78723",3.0,30.30073201080795,-97.70373516504684
+873,Mario's Seafood,"7522 N Interstate 35, Bldg C, Austin, TX 78752",3.0,30.33762554476028,-97.70201346684188
+874,The Pho,"609 Clayton Ln, Ste 100, Austin, TX 78752",3.5,30.323830058002965,-97.7139505256388
+875,Henry's Restaurant Y Cantina,"1530 Barton Springs Rd, Austin, TX 78704",0.0,30.26209,-97.76118
+876,The Soup Peddler,"3720 Far W Blvd, Ste 101, Austin, TX 78731",4.0,30.355721532434263,-97.75698320246435
+877,Tacodeli,"701 S Capital Of Texas Hwy E590, Ste e590, Austin, TX 78746",4.0,30.292400659943645,-97.82506153361958
+878,Tropicana Cuban Restaurant,"9616 N Lamar Blvd, Ste 141, Austin, TX 78723",4.0,30.3664948620654,-97.695752300925
+879,Smokin Banh Mi,"3901 Promontory Point Dr, Austin, TX 78744",4.5,30.208745,-97.729557
+880,Los Pepes,"4700 Loyola Ln, Ste 115, Austin, TX 78723",4.0,30.309654,-97.6661
+881,Char Atx,"5333 Fleming Ct, Austin, TX 78744",5.0,30.20524,-97.72726
+882,El Rinconcito Chapin,"2931 W Anderson Ln, Ste 2931, Austin, TX 78752",5.0,30.3589575,-97.7391346
+883,Cafe Nena'i,"1700 Montopolis Dr, Ste A, Austin, TX 78741",4.5,30.22724,-97.70237
+884,BarChi Sushi,"206 Colorado St, Austin, TX 78701",3.5,30.265278,-97.7454714
+885,Madam Mam's - UT West Campus,"510 W 26th St, Austin, TX 78705",3.0,30.290923,-97.742225
+886,Lotus Hunan,"3201 Bee Cave Rd, Ste 109, Austin, TX 78746",4.0,30.2730240104014,-97.7994064273714
+887,Chosun Korean BBQ,"713 E Huntland Dr, Austin, TX 78752",3.5,30.329818,-97.706662
+888,Burrito Factory,"2025 Guadalupe St, Ste 244, Austin, TX 78705",4.5,30.283388,-97.741359
+889,ZIKI,"102 W 3rd St, Austin, TX 78701",4.0,30.265617,-97.744472
+890,Far East Far West,"6901 Ranch Rd 620, Austin, TX 78732",5.0,30.40184377526252,-97.85470495358626
+891,Taco Bronco,"1309 Rosewood, Austin, TX 78702",4.5,30.268548,-97.725152
+892,Red River Cafe,"2912 Medical Arts St, Austin, TX 78705",3.5,30.2897,-97.72846
+893,Malibu Poke,"211 Walter Seaholm Dr, LR 115, Austin, TX 78701",4.0,30.2662418534904,-97.7533801608977
+894,The Headliners Club,"221 W 6th St, Ste 2100, Austin, TX 78701",4.5,30.26842129671251,-97.74507260525598
+895,Chicken Bowl,"1610 Lavaca St, Austin, TX 78701",4.0,30.278966,-97.741752
+896,Austin Beer Garden Brewing Company,"1305 W Oltorf St, Austin, TX 78704",4.0,30.2453753579274,-97.7689108006329
+897,Din Ho Chinese BBQ,"8557 Research Blvd, Ste 116, Austin, TX 78758",4.0,30.361341,-97.715612
+898,Cruzteca Mexican Kitchen,"5207 Brodie Ln, Ste 125, Austin, TX 78745",4.5,30.230747,-97.817465
+899,The Kebab Shop,"9761 Great Hills Trl, Austin, TX 78759",4.5,30.393845,-97.750891
+900,Mr. Pimento,"1505 Town Creek Dr, Austin, TX 78741",4.5,30.2416861,-97.7268397
+901,Krab Kingz Seafood Austin,"1311 S 1st St, Austin, TX 78704",4.0,30.25075406264831,-97.7542967
+902,Valentina’s Tex mex Bbq,"10414 Mc Kalla Pl, Q2 Stadium, Austin, TX 78758",1.0,30.387722,-97.719408
+903,The Happy Lobster Truck,"80 Rainey St, Austin, TX 78701",4.5,30.2592517,-97.7390498
+904,Les Bobos Crepes,"2707 Rio Grande St, Ste 100, Austin, TX 78705",4.5,30.292411566467,-97.7440443470244
+905,Captain Benny's Seafood,"5700 N I H 35, Austin, TX 78751",3.0,30.317782,-97.708053
+906,Fresa's Chicken al Carbon,"915 N Lamar Blvd, Austin, TX 78703",3.5,30.27446,-97.75216
+907,Cafe 605,"605 Davis St, Hotel Van Zandt, Austin, TX 78701",4.0,30.259994,-97.739159
+908,Pelonchas Tacos,"7110 Bee Caves Rd, Austin, TX 78746",4.0,30.30343826200659,-97.84009092984846
+909,Knotty Deck & Bar,"9721 Arboretum Blvd, Renaissance Austin Hotel, Austin, TX 78759",4.0,30.391663,-97.749669
+910,Juliet Italian Kitchen,"10000 Research Blvd, Austin, TX 78759",3.5,30.39344668158374,-97.74808406456066
+911,SquareRüt Kava Bar,"5000 N Lamar Blvd, Austin, TX 78756",4.0,30.31866,-97.73144
+912,Ichiban,"7310 Burnet Rd, Austin, TX 78757",4.0,30.34921,-97.73588
+913,Omg Squee,"4607 Bolm Rd, Ste A, Austin, TX 78702",4.5,30.26115,-97.69784
+914,Stars Cafe,"3101 North Interstate 35 Frontage Rd, Austin, TX 78722",3.0,30.288867,-97.723088
+915,Stiles Switch BBQ & Brew,"6610 N Lamar Blvd, Austin, TX 78757",4.0,30.33432,-97.7215
+916,Fatboi Slims,"Austin, TX 78741",5.0,30.230488470592867,-97.71400003135292
+917,Chi'Lantro,"11005 Burnet Rd, Austin, TX 78758",4.0,30.39442,-97.720184
+918,Ram Indimex Foods,"3828 N Interstate Hwy 35, Austin, TX 78751",5.0,30.29536,-97.71977
+919,Balkan Cafe & Grill,"11800 N Lamar Blvd, Bldg 3, Austin, TX 78753",4.5,30.388105759061492,-97.68417433333424
+920,Campus Club,"1900 University Ave, Austin, TX 78705",4.5,30.28151,-97.7401
+921,Michi Ramen,"6519 N Lamar Blvd, Austin, TX 78752",3.5,30.33331,-97.72131
+922,Little Deli & Pizzeria,"7101 Woodrow Ave, Unit A, Austin, TX 78757",4.5,30.342656,-97.725445
+923,High Five Entertainment,"2700 W Anderson Ln, Ste 101, Austin, TX 78757",4.0,30.358652858927247,-97.7349231704382
+924,Jet’s Pizza,"1201 Barbara Jordan Blvd, Ste 1420, Austin, TX 78723",4.0,30.305472795872216,-97.7081458025143
+925,NeWorlDeli,"4101 Guadalupe St, Ste 100, Austin, TX 78751",4.0,30.30642,-97.73545
+926,Velvet Taco,"11501 Rock Rose Ave, Ste 160, Austin, TX 78758",4.0,30.40126,-97.72253
+927,El Secreto De Abuela,"817 Airport Blvd, Austin, TX 78702",4.0,30.2564749782332,-97.6924788366944
+928,OneTaco,"5425 Burnet Rd, Ste 110, Austin, TX 78756",5.0,30.32915,-97.7396
+929,crêpeful,"6550 Comanche Trl, Ste 117, Austin, TX 78732",5.0,30.405795,-97.874045
+930,Las Palomas Restaurant & Bar,"3201 Bee Cave Rd, Ste 122, Austin, TX 78746",3.5,30.271881,-97.800071
+931,Cousins Maine Lobster - Austin,"Austin, TX 78758",4.0,30.38799592816288,-97.70682353872006
+932,Batch - Craft Beer and Kolaches,"3220 Manor Rd, Austin, TX 78723",4.5,30.28718,-97.70312
+933,The Boat,"10931 Stonelake Blvd, Austin, TX 78759",3.5,30.39772,-97.73339
+934,Four Brothers  - Barton Creek Mall,"2901 S Capital Of Texas Hwy, Austin, TX 78746",4.5,30.25764,-97.807096
+935,The Parlor,"4301 Guadalupe St, Ste B, Austin, TX 78751",3.5,30.30873,-97.73406
+936,Weladee Thai Kitchen,"5002 Hamilton Rd, Austin, TX 78759",5.0,30.4029998,-97.7470813
+937,Fresh Gyro Halal,"548 Nueces St, Austin, TX 78701",4.5,30.2691717,-97.7486149
+938,Izumi Japanese Sushi & Grill,"701 S Capital Of Texas Hwy, E-550, West Lake Hills, TX 78746",3.5,30.290519320989,-97.82603212947863
+939,Violet Sky Rooftop Lounge,"7415 SW Parkway, Austin, TX 78735",4.0,30.255332,-97.869429
+940,Rice Bowl Cafe,"11220 N Lamar Blvd, Ste C 306, Austin, TX 78753",4.0,30.382482,-97.688518
+941,Coat & Thai,"1720 Barton Spring Rd, Austin, TX 78704",4.0,30.263729,-97.762849
+942,Los Jaliscienses,"6201 E Hwy 290, Austin, TX 78723",4.0,30.321597,-97.702373
+943,Rote Shaq,"360 Nueces St, Ste 80, Austin, TX 78701",5.0,30.2673556,-97.7496709
+944,Russell's Bakery,"3339 Hancock Dr, Austin, TX 78731",4.0,30.33275,-97.76021
+945,Shawrma Halal,"1700 E 6th St, Austin, TX 78702",4.5,30.262685841785935,-97.72416747396396
+946,Crepe Crazy,"3103 S Lamar Blvd, Austin, TX 78704",4.5,30.24154,-97.78456
+947,Little Ola's Biscuits,"201 Lee Barton Dr, Austin, TX 78704",5.0,30.26323,-97.75642
+948,Lapachi Bistro Kitchen,"2714 Guadalupe St, Austin, TX 78705",0.0,30.292694,-97.741679
+949,El Sunzal Restaurant,"642 Calles St, Austin, TX 78702",4.0,30.25998,-97.71209
+950,Hi Land Marketcaffee,"110 Jacob Fontaine Ln, Site 100, Austin, TX 78752",5.0,30.32581727491162,-97.71489394573004
+951,Flower Child,"500 W 2nd St, Ste 133, Austin, TX 78701",4.5,30.2660361,-97.7496528
+952,Casa De Luz,"1701 Toomey Rd, Austin, TX 78704",4.5,30.26451,-97.76159
+953,Capital A,"700 San Jacinto At 8th St, Austin, TX 78701",3.0,30.26857,-97.74019
+954,Pappasito's Cantina,"6513 I-35 N, Austin, TX 78752",3.5,30.3268833125071,-97.7049401481323
+955,Ike's Love & Sandwiches,"5207 Bordie Ln, Ste 210, Sunset Valley, TX 78745",4.5,30.23017,-97.81539
+956,Taqueria El Compa,"1708 Montopolis Dr, Austin, TX 78741",4.5,30.22670813304371,-97.7025519311428
+957,Texas Spice Barton Creek,"8212 Barton Club Dr, Austin, TX 78735",4.0,30.291268403855,-97.8583006961898
+958,Hat Creek Burger Company,"5902 Bee Cave Rd, Austin, TX 78746",3.5,30.2960557,-97.8270009
+959,SBK middle Eastern food,"1514 Holly St, Austin, TX 78702",4.0,30.255217,-97.730386
+960,G Bar and Bistro,"6711 E Ben White Blvd, Austin, TX 78744",4.0,30.2125737,-97.7053511
+961,Wagyu Yume,"3225 Amy Donovan Plz, Austin, TX 78758",5.0,30.396291343050137,-97.7279217037444
+962,Shishman Mediterranean Grill,"7020 Easy Wind Dr, Ste 150, Austin, TX 78752",4.5,30.338474,-97.718787
+963,The Limestone Kitchen Restaurant & Lounge,"4415 S IH-35, Austin, TX 78744",3.5,30.210869,-97.753349
+964,Tare,"440 E St Elmo Rd, Ste B-2, Austin, TX 78745",5.0,30.216694603449323,-97.7617463
+965,SLAB BBQ & Beer,"2701 W William Cannon Dr, Austin, TX 78745",4.0,30.20677911065431,-97.8166369897146
+966,Snarf's Sandwiches,"2901 Medical Arts St, Ste 2, Austin, TX 78705",3.5,30.288385278643,-97.7286499134905
+967,P. Terry's Burger Stand,"3303 N Lamar Blvd, Austin, TX 78705",3.5,30.3017492,-97.7449168
+968,Chinatown North,"3407 Greystone Dr, Austin, TX 78731",3.5,30.35675,-97.74736
+969,Chuy's,"1728 Barton Springs Rd, Austin, TX 78704",4.0,30.263803,-97.763323
+970,Civil Goat Coffee,"3423 Guadalupe St, Austin, TX 78705",4.0,30.300981,-97.739005
+971,Poke-Poke,"2320 Hancock Dr, Austin, TX 78756",4.5,30.324867,-97.743266
+972,Torchy's Tacos,"1822 S Congress, Austin, TX 78704",4.0,30.24540581007827,-97.7516235643808
+973,BOCA,"90 Rainey St, Container Bar, Austin, TX 78701",4.5,30.2603574112155,-97.7385978796388
+974,Kingston19 Authentic Jamaican Food,"2118 Congress Ave, Austin, TX 78704",5.0,30.242413867742545,-97.75269641545212
+975,Shirley’s Trini Cuisine,"1326 Rosewood Ave, Austin, TX 78702",4.0,30.269034565403892,-97.72467066820462
+976,Tan My,"1601 Ohlen Rd, Ste E, Austin, TX 78758",4.5,30.363793,-97.714481
+977,Civil Goat Coffee Co,"704 Cuernavaca Dr N, Austin, TX 78733",4.5,30.3320877902815,-97.868966248946
+978,Habesha Ethiopian Restaurant And Bar,"6019 Interstate 35 N, Austin, TX 78723",4.5,30.32127467,-97.7057905
+979,Elotes Fanny,"408 E Rundberg Ln, Austin, TX 78753",3.5,30.36011805205347,-97.690719940838
+980,Truluck's Ocean's Finest Seafood & Crab,"10225 Research Blvd, Ste 4000, Austin, TX 78759",4.5,30.3952662489598,-97.7454305690891
+981,Creekside Cafe,"8310 N Capital Of Texas Hwy, Austin, TX 78731",3.5,30.386530546720596,-97.76892062186396
+982,La Hawaiina,"2223 Burton Dr, Austin, TX 78741",4.5,30.23118,-97.73331
+983,Pinch,"2100 University Ave, Austin, TX 78705",4.0,30.2834995,-97.7398858
+984,The Omelettry,"4631 Airport Blvd, Austin, TX 78751",3.5,30.3067274782042,-97.7154679810898
+985,Backspace Pizza,"1745 W Anderson Ln, Ste 6, Austin, TX 78757",4.0,30.352821,-97.724885
+986,Pho Phong Luu,"11800 Dessau Rd, Ste 302, Austin, TX 78754",5.0,30.37884356144698,-97.65706366982356
+987,Everest Food Truck,"1811 E Cesar Chavez St, Austin, TX 78702",4.0,30.257009738133267,-97.72498102711162
+988,Mi Tradición,"8716 Research Blvd, Ste 290, Austin, TX 78758",4.0,30.363761444707706,-97.7194671595196
+989,Drinks Lounge & Records,"2001 E Cesar Chavez St, Austin, TX 78702",4.0,30.2564742779428,-97.72324500919676
+990,Sabor a Honduras,"2538 Elmont Dr, Austin, TX 78741",4.0,30.2392468046738,-97.7196483165448
+991,Méma’s Bonne Cuisine,"5610 N Interstate Hwy 35, Austin, TX 78751",5.0,30.31616,-97.708469
+992,"Rudy's ""Country Store"" and Bar-B-Q","3914 N Lamar Blvd, Austin, TX 78756",4.0,30.30759774481055,-97.7419386522356
+993,Toyloco,"2615 E 7th St, Austin, TX 78702",4.5,30.26035,-97.71218
+994,County Line On The Lake,"5204 Ranch Rd 2222, Austin, TX 78731",3.5,30.3571242748654,-97.7856454079346
+995,Tacodeli,"4200 N Lamar Blvd, Austin, TX 78756",4.0,30.310645074939902,-97.7400862024725
+996,JINYA Ramen Bar - Austin,"3210 Esperanza Xing, Ste 130, Austin, TX 78758",3.5,30.400547105529093,-97.72329271767651
+997,WooHoo Alaskan Ice Cream,"2901 N Capital Of Texas Hwy, Austin, TX 78746",5.0,30.3276922,-97.81085965
+998,Midway Dogs,"440 E St Elmo Rd, Austin, TX 78745",4.5,30.2160458,-97.7604091
+999,Big Easy Bar and Grill,"1806 E 12th St, Austin, TX 78702",4.0,30.2738255,-97.7204771
+1000,Korean Grill,"10901 N Lamar Blvd, Ste B204, Austin, TX 78753",4.0,30.378910719879,-97.6867842656067

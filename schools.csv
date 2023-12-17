@@ -1,0 +1,1001 @@
+school_id,school_name,school_address,school_ratings,latitude,longitude
+1,Magellan International School,"7938 Great Northern Blvd, Austin, TX 78757",4.5,30.363261,-97.7421851
+2,Austin International School,"4001 Adelphi Ln, Austin, TX 78727",4.5,30.422421,-97.718074
+3,McCallum High School,"5600 Sunshine Dr, Austin, TX 78756",3.5,30.32624,-97.72982
+4,Gorzycki Middle School,"7412 W Slaughter Ln, Austin, TX 78749",4.0,30.2163980315973,-97.8937451541424
+5,International School of Texas,"4402 Hudson Bend, Austin, TX 78734",4.5,30.40458,-97.92768
+6,Austin Waldorf School,"8700 S View Rd, Austin, TX 78737",5.0,30.2303858846426,-97.9124139994383
+7,The Magnolia School,"3500  RR 620 S, Bldg- G200, Bee Caves, TX 78738",5.0,30.322665863189055,-97.95769723550032
+8,Stephen F Austin High School,"1715 W Cesar Chavez St, Austin, TX 78703",3.5,30.27350672029182,-97.7665738699375
+9,St Francis School,"300 E Huntland Dr, Austin, TX 78752",5.0,30.33114672357591,-97.7100788666896
+10,St. Theresa's Catholic School,"4311 Small Dr, Austin, TX 78731",3.0,30.34321,-97.77483
+11,O Henry Middle School,"2610 W 10th St, Austin, TX 78703",3.5,30.28573691158044,-97.77380894417556
+12,Academy of Thought and Industry at Austin,"5815 Airport Blvd, Austin, TX 78752",5.0,30.32308,-97.71478
+13,Nyos Charter School,"12301 N Lamar Blvd, Austin, TX 78753",1.5,30.40186,-97.67791
+14,Paragon Prep School,"5206 Balcones Dr, Austin, TX 78731",5.0,30.335182,-97.760101
+15,Ecole Jean Jacques Rousseau,"11607 N Lamar Blvd, Austin, TX 78753",5.0,30.38526,-97.68423
+16,Bridge Point Elementary,"6401 Cedar St, Austin, TX 78746",5.0,30.3396525494739,-97.8058844359974
+17,Kirby Hall School,"306 W 29th St, Austin, TX 78705",5.0,30.2944182604551,-97.740625217557
+18,Oak Hill Elementary School,"6101 Patton Ranch Rd, Austin, TX 78735",5.0,30.2381185052236,-97.8588697876027
+19,Hyde Park School,"11400 N Mopac Expy, Austin, TX 78759",3.5,30.408195,-97.729956
+20,St Stephens Episcopal School,"6500 St Stephen's Dr, Austin, TX 78746",4.5,30.33046,-97.819261
+21,Bailey Middle School,"4020 Lost Oasis Hollow, Austin, TX 78739",3.0,30.164878457994,-97.8725542104519
+22,Lake Hills Montessori,"600 N Cuernavaca Dr, Austin, TX 78733",3.5,30.33098,-97.87004
+23,Earth Native Wilderness School,"137 Woodview Ln, Bastrop, TX 78602",5.0,30.0924089646446,-97.4160805637207
+24,ACE Academy,"3901 Shoal Creek Blvd, Austin, TX 78756",4.0,30.308005,-97.747071
+25,Hyde Park Montessori,"4108 Ave H, Austin, TX 78751",4.5,30.30357,-97.72821
+26,St Andrew's Episcopal School,"5901 Southwest Pkwy, Austin, TX 78735",3.5,30.247803,-97.849868
+27,"Copernicus STEM, Language and Arts Academy","4605 N IH35, Austin, TX 78722",5.0,30.30242418554261,-97.7141402308944
+28,Challenger School - Avery Ranch,"15101 Avery Ranch Blvd, Austin, TX 78717",3.0,30.49730435111269,-97.7726881888855
+29,Texas Education Advocacy,"1414 Preston Ave, Austin, TX 78703",5.0,30.2966758,-97.7527262
+30,Headwaters School,"807 Rio Grande St, Austin, TX 78701",3.5,30.272320907272093,-97.74831148136876
+31,Chinese With Meggie,"708 E 51st St, Austin, TX 78751",4.5,30.31311,-97.716863
+32,Emler Swim School of Austin-Westlake,"3267 Bee Caves Rd, Ste 145, Austin, TX 78746",4.5,30.273595,-97.801894
+33,Crenshaw Athletic Club,"5000 Fairview Dr, Austin, TX 78731",4.5,30.33164,-97.75949
+34,4Points Academy,"5145 RR 620 N, Ste G-130, Austin, TX 78732",5.0,30.3876125901207,-97.8855799586456
+35,Eden Park Academy,"6215 Manchaca Rd, Austin, TX 78745",4.0,30.209337460358757,-97.803132
+36,Liberal Arts and Science Academy,"7309 Lazy Creek Dr, Unit 225, Austin, TX 78724",5.0,30.3131161345314,-97.6566241326307
+37,More Than A Teacher,"3532 Bee Cave Rd, Ste 212, Austin, TX 78746",4.0,30.277990266901504,-97.80467200374784
+38,KIPP Austin Public Schools,"8509 Fm 969, Bldg 513, Austin, TX 78724",2.5,30.27665,-97.63788
+39,Flamencura Music & Dance Studio,"8910 Research Blvd, Ste D3, Austin, TX 78758",5.0,30.368973,-97.72254
+40,LakeCreek Montessori International School,"10713 N Fm 620, Ste 601, Austin, TX 78726",5.0,30.447273504818625,-97.8306172971686
+41,Sankalpa Academy,"2215 E M Franklin Ave, Austin, TX 78723",5.0,30.28816,-97.69764
+42,Rawson Saunders School,"2614A Exposition Blvd, Austin, TX 78703",4.0,30.3023774315024,-97.76674780000002
+43,spilled milk social club,"3804 Cherrywood Rd, Austin, TX 78702",5.0,30.2914596,-97.7141933
+44,Parkside Community School,"3207 W Slaughter Ln, Austin, TX 78748",5.0,30.1792678833008,-97.8444747924805
+45,St. David's Day School,"301 E 8th St, Austin, TX 78701",4.5,30.26892,-97.73956
+46,BASIS Austin Primary,"1501 Dartmouth Ave Austin Tx 78757, Austin, TX 78757",4.5,30.348301,-97.72366883
+47,Love the Sat,"4412 Spicewood Springs Rd, Ste 705, Austin, TX 78759",5.0,30.3734526,-97.7577319
+48,Twin Oaks Montessori School,"7804 Northwest Dr, Austin, TX 78757",4.5,30.35082,-97.72183
+49,Huntington Learning Center,"13011 Shops Pkwy 300, Ste 300, Bee Cave, TX 78738",5.0,30.3070535,-97.9457362
+50,School on the Rise,"11797 Rim Rock Trl, Austin, TX 78737",5.0,30.20806,-97.96036
+51,Planting Seeds Academic Solutions,"Austin, TX 78723",4.5,30.30427486859083,-97.6856955716276
+52,Dub Academy,"906 E 5th St, Ste 109, Austin, TX 78702",4.5,30.2645298,-97.7335871
+53,All Austin Cooperative Nursery School,"2301 Hancock Dr, Austin, TX 78756",5.0,30.32421,-97.7431
+54,Roffler School of Hair Design,"5339 Burnet Rd, Austin, TX 78756",4.0,30.3269842686066,-97.7394437613215
+55,The University of Texas at Austin,"110 Inner Campus Dr, Austin, TX 78705",4.5,30.286118787773184,-97.73936451342183
+56,Austin Community College - Eastview Campus,"3401 Webberville Rd, Austin, TX 78702",4.0,30.2672210453535,-97.7078290001581
+57,Stepping Stone School - Brodie/Circle C,"9405 Brodie Ln, Austin, TX 78748",3.5,30.1896179606669,-97.8450024920655
+58,Redeemer School,"1500 W Anderson Ln, Austin, TX 78757",4.5,30.352611,-97.7207743
+59,Southwestern University,"1001 E University Ave, Georgetown, TX 78626",4.5,30.636718929558025,-97.66258786518203
+60,Vandegrift High School,"9600 McNeil Dr, Austin, TX 78750",3.5,30.39828049776384,-97.82481040232072
+61,Austin Community College - Northridge Campus,"11928 Stonehollow Dr, Austin, TX 78758",2.5,30.403657,-97.704661
+62,Girlstart,"1400 W Anderson Ln, Austin, TX 78757",5.0,30.3512687683105,-97.7197570800781
+63,Capitol School of Austin,"2011 W Koenig Ln, Austin, TX 78756",4.5,30.33415,-97.73893
+64,Fulmore Middle School,"201 E Mary St, Austin, TX 78704",3.5,30.2439270019531,-97.7504653930664
+65,Travis High School,"1211 E Oltorf St, Austin, TX 78704",4.0,30.232973,-97.744186
+66,Sterling Classical School,"12800 Angel Side Dr, Leander, TX 78641",3.5,30.519945,-97.90472
+67,Clint Small Middle School,"4801 Monterey Oaks Blvd, Austin, TX 78749",5.0,30.234029,-97.841645
+68,Strickland Christian School,"7415 Manchaca Rd, Austin, TX 78745",4.0,30.196192,-97.808749
+69,Access College America,"Austin, TX 78739",5.0,30.1859258,-97.90482
+70,Gus Garcia Middle School,"7414 Johnny Morris Rd, Austin, TX 78724",1.5,30.3113243323192,-97.6430833339691
+71,School In The Hills,"2900 N Quinlan Park Rd, Austin, TX 78732",4.0,30.369238,-97.893551
+72,Austin STEM Academy,"3701 Kerbey Ln, Austin, TX 78731",3.5,30.3075447460318,-97.7504172915784
+73,Lamar Middle School Choir,"6201 Wynona Ave, Austin, TX 78757",1.5,30.337591192588704,-97.74079618579752
+74,Aston International Academy,"5205 Airport Blvd, Ste 200, Austin, TX 78702",5.0,30.31346,-97.71479
+75,Ballet Arts of Austin,"2007 W Anderson Ln, Austin, TX 78757",4.5,30.354170378743657,-97.7278616
+76,Kids With Pens,"1211 Maple Ave, Austin, TX 78702",5.0,30.2752085,-97.715124
+77,Shepherd of the Hills Presbyterian Church Preschool,"5226 W William Cannon Dr, Austin, TX 78749",5.0,30.22499,-97.85299
+78,William's Community School,"5209 Duval Rd, Austin, TX 78727",5.0,30.4167228629173,-97.7416770113301
+79,Songbird Rising Suzuki School,"Austin, TX 78751",5.0,30.310821019404397,-97.72274383106232
+80,Studio Preparatory,"5925 Dillard Cir, Ste B, Austin, TX 78752",5.0,30.325373,-97.718093
+81,Smile Swim School,"Austin, TX 78746",5.0,30.27349,-97.80508
+82,"Life Ki-do Martial Arts, Parenting & Life Education","3636 Bee Caves Rd, Ste 212, Austin, TX 78746",5.0,30.2793731959173,-97.8058692042297
+83,Challenger School - Pond Springs,"13015 Pond Springs Rd, Austin, TX 78729",5.0,30.44108,-97.77288
+84,Joy Park Montessori Education,"13171 Pond Springs Rd, Austin, TX 78729",5.0,30.44506,-97.77729
+85,Wild Life Forest Preschool,"137 Woodview Ln, Bastrop, TX 78602",5.0,30.09257,-97.41629
+86,Rising Stars Preschool,"3307 El Salido Pkwy, Cedar Park, TX 78613",5.0,30.460596,-97.828462
+87,Regents School of Austin K-12,"3230 Travis Country Cir, Austin, TX 78735",4.0,30.254534191163895,-97.84535942324035
+88,Westlake Chinese Academy,"6800 Spanish Oaks Club Blvd, Austin, TX 78738",5.0,30.30443,-97.94824
+89,St. George's Episcopal School,"4301 N Ih 35, Austin, TX 78722",5.0,30.300362,-97.715483
+90,Champions Gymnastics and Cheer,"1314 Exposition Blvd, Austin, TX 78703",4.5,30.28931,-97.77303
+91,St John Neumann Preschool,"5455 Bee Cave Rd, Austin, TX 78746",3.5,30.2902431488037,-97.8237838745117
+92,Texas Health & Science University,"4005 Manchaca Rd, Main Campus, Austin, TX 78704",4.5,30.233133,-97.785194
+93,Austin School of Film,"2200 Tillery St, Austin, TX 78723",3.0,30.285774230957,-97.7029190063477
+94,The Girls' School of Austin,"2007 McCall Rd, Austin, TX 78703",4.0,30.29282,-97.76352
+95,Monsoon Dance - Bollywood and Yoga,"8650 Spicewood Springs Rd, Ste 118, Austin, TX 78759",4.5,30.432129376157143,-97.77114861165197
+96,Camp Balcones Springs,"104 Balcones Springs Dr, Marble Falls, TX 78654",5.0,30.55772,-98.11611
+97,Clearview Sudbury School,"1507 Wilshire Blvd, Austin, TX 78722",5.0,30.29585,-97.7111
+98,St Edward's University,"3001 S Congress Ave, Austin, TX 78704",4.5,30.231574068726715,-97.75669828111768
+99,Hyde Park Baptist Schools,"3901 Speedway, Austin, TX 78751",4.0,30.301758826252637,-97.73217232944084
+100,Happy Swimmers USA,"Austin, TX 73301",5.0,30.2193908691406,-97.7475433349609
+101,SoccerZone South Austin,"9501 Menchaca Rd, Bldg 1, Austin, TX 78748",3.5,30.1766051,-97.8197144
+102,Cedar Ridge High School,"2801 Gattis School Rd, Round Rock, TX 78664",2.0,30.491704,-97.640633
+103,Wizard Academy,"16221 Crystal Hills Dr, Austin, TX 78737",5.0,30.14502,-97.966571
+104,UT CELTA Center,"110 Inner Campus Dr, MAI 7, Austin, TX 78705",5.0,30.288001128937072,-97.74324864263978
+105,Little Sunshine's Playhouse and Preschool of Lakeway,"1501 Lohmans Crossing Rd, Lakeway, TX 78734",5.0,30.3555406738533,-97.9779395548868
+106,Austin Discovery School,"9303 FM 969, Austin, TX 78724",3.5,30.26782854229008,-97.63492536383087
+107,AHB Community School,"4001 Speedway, Austin, TX 78751",4.5,30.3031802,-97.731615
+108,Trulove Montessori,"1406 N LP Blvd, Austin, TX 78756",5.0,30.324652,-97.736454
+109,Trillium Montessori,"9707 Anderson Mill Rd, Ste 350, Austin, TX 78750",4.0,30.447151,-97.794247
+110,Del Valle High School,"5201 Ross Rd, Del Valle, TX 78617",4.5,30.1789289841164,-97.6136423191975
+111,EMTS Academy,"1555 University Blvd, Room 401, Round Rock, TX 78665",3.5,30.5679886,-97.6551533
+112,St Dominic Savio Catholic High School,"9300 Neenah Ave, Austin, TX 78717",3.5,30.490004369733224,-97.7590308389507
+113,Austin Community College - South Austin Campus,"1820 W Stassney Ln, Austin, TX 78745",3.0,30.215514,-97.796003
+114,Children's Lighthouse of Cedar Park - Brushy Creek,"2501 Brushy Creek Rd, Cedar Park, TX 78613",4.5,30.507637,-97.7803878
+115,"Cook, Learn, Grow-a Kid's Cooking School","Main St, Austin, TX 78735",5.0,30.308522,-97.759935
+116,Mathnasium - North Austin,"10401 Anderson Mill Rd, Ste 109A, Austin, TX 78750",4.0,30.446405759823264,-97.80540168461108
+117,Kipp Austin Obras,"5107 I-35 S, Ste A, Austin, TX 78742",1.0,30.202652065042074,-97.7568951944298
+118,Happy Bunnies Child Care School,"7212 Oak Meadow Dr, Austin, TX 78736",5.0,30.23459,-97.87911
+119,Escuelita Del Alma,"3109 N I H 35, Austin, TX 78722",4.0,30.2896060943604,-97.7153549194336
+120,Creative Action,"1023 Springdale Blvd, Bldg 3, Austin, TX 78721",4.5,30.267079,-97.692381
+121,Huston-Tillotson University,"900 Chicon St, Austin, TX 78702",2.5,30.264553,-97.722321
+122,Synergy Dance Studio,"3425 Bee Caves Rd, Ste C1, Austin, TX 78746",4.5,30.276298,-97.803838
+123,CyberTex Institute of Technology,"6300 La Calma Dr, Ste 350, Austin, TX 78752",2.0,30.3242521,-97.7028115
+124,Primrose School of Cedar Park West,"2021 Little Elm Trl, Cedar Park, TX 78613",4.5,30.4789830608522,-97.830183506012
+125,Round Rock Christian Academy,"301 N Lake Creek Dr, Round Rock, TX 78681",5.0,30.509232,-97.693745
+126,Chaparral Star Academy,"14046 Summit Dr, Austin, TX 78728",4.0,30.4379807,-97.6917725
+127,Cedar Park High School,"2150 Cypress Creek Rd, Cedar Park, TX 78613",3.5,30.473239,-97.843945
+128,St Martin's Lutheran Preschool,"606 W 15th St, Austin, TX 78701",5.0,30.27895,-97.74573
+129,Wayside Schools,"6405 S Ih 35, Austin, TX 78744",1.0,30.19162,-97.76734
+130,New Era Martial Arts,"10203 Old Manchace Rd, Ste B, Austin, TX 78748",5.0,30.172736,-97.830284
+131,Austin Jewish Academy,"7300 Hart Ln, Austin, TX 78731",5.0,30.358901,-97.758379
+132,"Los Amiguitos, Immersion, Nature and Community School","Austin, TX 78721",5.0,30.268861770629883,-97.68344116210938
+133,Central Texas Beauty College,"1400 N Mays St, Round Rock, TX 78664",4.0,30.5207765,-97.6849095
+134,School of Rock,"9600 I-35, Ste I-100, Austin, TX 78748",4.0,30.16055,-97.7908
+135,The University of Texas at Austin School of Law,"727 E Dean Keeton St, Austin, TX 78705",4.0,30.28892,-97.73049
+136,Casis Elementary School,"2710 Exposition Blvd, Austin, TX 78703",5.0,30.304369,-97.765049
+137,HOLA! Spanish Immersion Program,"11204 Fm 1826, Austin, TX 78737",5.0,30.1992884476,-97.9212808323
+138,South Congress KinderCare,"6434 S Congress Ave, Austin, TX 78745",4.0,30.195871,-97.7782587515726
+139,International Montessori - North Austin Campus,"11124 Jollyville Rd, Austin, TX 78759",4.0,30.40739,-97.74827
+140,Long-View Micro School,"1201 W 24th St, Ste 200, Austin, TX 78705",5.0,30.2881,-97.75075
+141,Next Gen Mu Sool,"2110 W Slaughter Ln, Ste 145, Austin, TX 78748",5.0,30.175881388812407,-97.82631763957768
+142,Saida's Little People,"5006 Crestmont Dr, Austin, TX 78756",4.0,30.3231754302979,-97.7420196533203
+143,Live The Language - Live In French,"Austin, TX 78737",5.0,30.178201675415,-97.9578399658203
+144,Central Market Cooking School - Austin North Lamar,"4001 N Lamar, Austin, TX 78756",4.5,30.307617,-97.739876
+145,Primrose School of Shady Hollow,"12341 Brodie Ln, Austin, TX 78748",5.0,30.149006,-97.854439
+146,Extend-A-Care For Kids,"1510 Bebee Rd, Kyle, TX 78640",5.0,30.01507,-97.83843
+147,Dripping Springs Christian Academy,"800 W Hwy 290, Bldg C, Ste 100, Dripping Springs, TX 78620",5.0,30.193781,-98.099614
+148,Wonder Years,"4804 Grover Ave, Austin, TX 78756",4.0,30.31842,-97.73751
+149,Abacus School of Austin,"1720 S Bagdad Rd, Leander, TX 78641",4.5,30.5530089,-97.8569283
+150,St Gabriel's Catholic School,"2500 Wimberly Ln, Austin, TX 78735",5.0,30.2919095096714,-97.8738079549884
+151,Appamada School,"26450 Ranch Rd 12, Dripping Springs, TX 78620",4.0,30.1779347789886,-98.0844179682891
+152,St Edward's University Professional Education,"9420 Research Blvd, Austin, TX 78759",4.0,30.38411,-97.74392
+153,Whole Life Learning Center,"10801 Old San Antonio Rd, Austin, TX 78748",3.5,30.1472206,-97.7989578
+154,Cedar Creek High School,"793 Union Chapel Rd, Cedar Creek, TX 78612",5.0,30.1373837183799,-97.4706608035595
+155,Primrose School of Lakeway,"601 Ranch Road 620 S, Lakeway, TX 78734",4.0,30.358373,-97.954673
+156,Open Door Preschool East,"3804 Cherrywood Rd, Austin, TX 78722",3.0,30.2920406,-97.7135281
+157,Temple Beth Shalom,"7300 Hart Ln, Austin, TX 78731",4.0,30.358004,-97.755613
+158,Asian American Cultural Center,"11713 Jollyville Rd, Austin, TX 78759",4.0,30.41997,-97.75217
+159,Star Center Gymnastics,"3100 W Slaughter Ln, Bldg B, Austin, TX 78748",3.5,30.18060279036508,-97.84153709175776
+160,Rainbow's Edge Childcare,"12901 Silver Creek Dr, Austin , TX 78727",5.0,30.429184491501008,-97.71278637494912
+161,Austin Community College - Riverside Campus,"1020 Grove Blvd, Austin, TX 78741",2.5,30.2423226369722,-97.7017967307582
+162,The Language House,"Austin, TX 78751",5.0,30.3094624,-97.7311252
+163,Susie Fuentes Elem-Hays Cisd,"901 Goforth Rd, Kyle, TX 78640",3.0,30.0024442355929,-97.8606157175178
+164,Havenwood Nature School,"1000 Hays Country Acres Rd, Unit A, Dripping Springs, TX 78620",4.5,30.17846623959416,-98.04175695834506
+165,English Language Center,"110 Inner Campus Dr, MAI 7, Austin, TX 78712",4.5,30.286072,-97.739358
+166,Lake Travis High School - Austin,"3324 Ranch Rd 620 S, Austin, TX 78738",2.0,30.3276100158691,-97.9699478149414
+167,The Goddard School,"9313 Pearson Ranch Rd, Austin, TX 78717",3.0,30.500231650104723,-97.75027054161087
+168,HCI Sports & Fitness,"13875 Bee Cave Pkwy, Bee Cave, TX 78738",3.5,30.312230564997563,-97.95739257785718
+169,The PREP School of Dripping Springs,"12610 Nutty Brown Rd, Austin, TX 78737",5.0,30.2026553023721,-97.9724394814221
+170,Berkeley2 Academy,"3736 Bee Caves Rd, Ste 10, Austin, TX 78746",5.0,30.28068,-97.80693
+171,Ronkita Custom Sewing & Design,"Austin, TX 78703",5.0,30.294143617626524,-97.76570253957615
+172,Austin Community College - Highland Campus,"6101 Highland Campus Dr, Austin, TX 78752",3.0,30.326982681790795,-97.7137602342287
+173,Barton Hills Elementary,"2108 Barton Hills Dr, Austin, TX 78704",5.0,30.2550907,-97.7830734
+174,Dragonfly International School,"610 Hwy 290 W, Dripping Springs, TX 78620",3.5,30.1961416155387,-98.0866781
+175,Kepler STEM School,"508 Municipal Dr, Leander, TX 78641",5.0,30.57227,-97.85841
+176,ABC Driving School,"6516 S 1st St, Austin, TX 78745",4.5,30.19835,-97.78745
+177,Good Earth Farm School,"10820 E Crystal Falls Pkwy, Leander, TX 78641",4.5,30.56547,-97.81853
+178,Galindo Elementary,"3800 S 2nd St, Austin, TX 78704",1.5,30.2290802001953,-97.7710723876953
+179,Northwest Montessori House of Children,"1903 W Koenig Ln, Austin, TX 78756",5.0,30.3332301,-97.7371668
+180,Warriors Christian Academy,"3003 Blue Ridge Dr, Cedar Park, TX 78613",4.5,30.52322589725833,-97.82671589571343
+181,Concordia University Texas,"11400 Concordia University Dr, Austin, TX 78726",3.0,30.42014,-97.84012
+182,Angels Care And Learning Center,"7806 S 1st St, Austin, TX 78745",5.0,30.1847694,-97.7922065
+183,The Joule School,"2001 W New Hope, Cedar Park, TX 78613",4.5,30.5261585,-97.862212
+184,Joshua's Stage,"Austin, TX 78756",5.0,30.3252124786377,-97.7383422851563
+185,A New Day Child Development Center,"5014 Bee Creek Rd, Unit A, Spicewood, TX 78669",5.0,30.334282,-98.024686
+186,Art Center of Williamson County,"2111 Sam Bass Rd, Round Rock, TX 78681",5.0,30.525913,-97.710296
+187,The Prickly Pear Cooking Classes,"Austin, TX 78702",5.0,30.263265437947215,-97.71431925637276
+188,Austin Community College - Pinnacle Campus,"7748 Highway 290 West, Austin, TX 78736",4.5,30.231757,-97.883387
+189,St Ignatius Martyr Catholic School,"120 W Oltorf St, Austin, TX 78704",5.0,30.23963,-97.75465
+190,Children's Discovery Center,"3515 Convict Hill Rd, Austin, TX 78749",5.0,30.211016,-97.833099
+191,Escuelita Dance,"2302 Western Trails, Austin, TX 78745",5.0,30.23095,-97.79348
+192,Petite Ecole Internationale,"831 Springdale Rd, Austin, TX 78702",5.0,30.259541,-97.698954
+193,Excelencia- Creative Bilingual Preschool,"501 Denali Pass Dr, Cedar Park, TX 78613",5.0,30.51859,-97.77585
+194,Austin School of Fashion Design,"9503 Research Blvd, Ste 250, Austin, TX 78759",4.5,30.38704757090368,-97.7420946
+195,Lee Elementary School,"3308 Hampton Rd, Austin, TX 78705",4.0,30.293195,-97.727199
+196,Wells Branch Leadership Academy,"15201 Burnet Rd, Austin, TX 78728",3.5,30.4588070153802,-97.6938183559313
+197,Tutu School - Austin,"8312 Burnet Rd, Ste 119, Austin, TX 78757",5.0,30.364035260424604,-97.72963148762533
+198,Austin Eco Bilingual School,"8707 Mountain Crest Dr, Austin, TX 78735",4.0,30.25565,-97.89341
+199,Abacus School of Austin,"14115 Avery Ranch Blvd, Austin, TX 78717",4.0,30.4938628,-97.7881613
+200,Mama Melli Childcare Center,"10802 Kit Carson Dr, Austin, TX 78737",5.0,30.2033461938717,-97.9572447
+201,Meridian School,"2555 N Ih 35, Round Rock, TX 78664",3.5,30.537972,-97.6900503
+202,Summer Wonders,"3901 Shoal Creek Blvd, Austin, TX 78756",3.5,30.30876102769114,-97.7482681
+203,Soraya's Child Care,"3012 Portola Ct, Austin, TX 78738",5.0,30.3106555938721,-97.9234619140625
+204,Austin School of Classical Ballet,"7756 Northcross Dr, Ste 104, Austin, TX 78757",5.0,30.3566605,-97.7372993
+205,St Mark's Episcopal Day School,"2128 Barton Hills Dr, Austin, TX 78704",5.0,30.253702,-97.785554
+206,Manor Independent School District,"10335 US Hwy 290 E, Manor, TX 78653",3.0,30.344791,-97.57224
+207,mi casita montessori,"1211 Pkwy Austin, Austin, TX 78703",5.0,30.278212128843407,-97.75135066843715
+208,Spark Learning,"2517 Enfield Rd, Austin, TX 78703",5.0,30.2896099,-97.7710876
+209,Idea Bluff Springs,"1700 E Slaughter Ln, Austin, TX 78747",1.5,30.1535748739532,-97.7690889562805
+210,IDEA Health Professions,"5816 Wilcab Rd, Austin, TX 78721",5.0,30.2738526,-97.6759167
+211,Berlitz Language Center,"7000 Mopac Service Rd, Ste 200, Austin, TX 78731",5.0,30.35343767,-97.74946783
+212,Eco Kids Preschool,"8201 Cross Park Dr, Austin, TX 78754",3.5,30.330899,-97.666552
+213,The Goddard School,"301 Medical Pkwy, Lakeway, TX 78738",4.5,30.3331607192687,-97.9708104767212
+214,Cool Panda Chinese Learning for Kids,"2320 Gracy Farms Ln, Apt 1231, Austin, TX 78756",5.0,30.4038178,-97.7089922
+215,Veritas Academy,"13401 Escarpment Blvd, Austin, TX 78739",5.0,30.163366259814357,-97.91493504796118
+216,A New Beginning School of Massage,"2525 Wallingwood Dr, Ste 1501, Austin, TX 78746",3.5,30.263481,-97.784448
+217,Little Wonders Early Childhood Development Center,"2010 Koenig Ln, Austin, TX 78756",4.0,30.33454,-97.73863
+218,Figment Creative Labs - Children's Art Classes,"7809 Brodie Ln, Austin, TX 78745",5.0,30.20429,-97.83632
+219,Austin LSAT Prep,"8705 Shoal Creek Blvd, Ste 201, Austin, TX 78757",5.0,30.373578,-97.736027
+220,Helping Hands Montessori Services,"3300 Laguna Dr, Austin, TX 78741",5.0,30.21943,-97.7363699
+221,BeVelle Barber School,"2015 E Riverside Dr, Austin, TX 78741",4.0,30.24054,-97.728267
+222,Clear Shot Austin,"824 Betterman Dr, Pflugerville, TX 78660",5.0,30.4717407,-97.6310272
+223,Cedars International Academy,"8416 N I H 35, Austin, TX 78753",5.0,30.348298,-97.695364
+224,High Tide Swimming,"1250 South A W Grimes Blvd, Round Rock, TX 78664",5.0,30.500197,-97.656815
+225,Harmony School Of Excellence,"2100 E Saint Elmo Rd, Austin, TX 78744",2.0,30.21052,-97.74632
+226,Freestyle Languages,"Austin, TX 78715",4.5,30.1992999,-97.8088391
+227,Austin Driving School,"3654 Bee Cave Rd, Ste C, West Lake Hills, TX 78746",2.0,30.27996854228839,-97.80596283798356
+228,Athena Montessori Academy,"1503 Morgan Ln, Austin, TX 78704",5.0,30.229071,-97.78112
+229,Primrose School of Bee Cave,"3801 Juniper Trce, Bee Cave, TX 78738",4.0,30.3086952,-97.9355589253987
+230,One World Montessori,"1701 Scofield Ln, Austin, TX 78727",4.5,30.41541,-97.68885
+231,Cedars Montessori School of Oak Hill,"9704 Circle Dr, Austin, TX 78736",3.0,30.2439541,-97.92334804108376
+232,Cordovan Art School & Pottery Parlor,"8108 Mesa Dr, Ste B-102, Austin, TX 78759",4.5,30.3730756633034,-97.75692763165836
+233,Atelier 3-D,"Austin, TX 78702",4.5,30.263265437947215,-97.71431925637276
+234,Sapientia Montessori School,"1220 Cottonwood Creek Trl, Cedar Park, TX 78613",4.5,30.532115692013665,-97.80636795515656
+235,Round Rock High School,"201 Deep Wood Dr, Round Rock, TX 78681",2.5,30.509139,-97.698821
+236,Sun Moon & Stars Learning Center,"3808 /3810 S 1st St, Austin, TX 78704",4.5,30.22817,-97.76872
+237,Chakra Kids Yoga,"2324 E Caesar Chavez, Austin, TX 78702",5.0,30.25511,-97.7181
+238,Getprep Academy,"11612 Bee Cave Rd, Austin, TX 78738",5.0,30.31072,-97.91705
+239,HOFT Institute,"2400 Pearl St, Austin, TX 78705",4.0,30.2885,-97.74703
+240,Joslin Elementary,"4500 Manchaca Rd, Austin, TX 78745",4.5,30.2277473786969,-97.7903499471394
+241,Southern Careers Institute - Austin,"1701 W. Ben White Blvd, Suite 100, Austin, TX 78704",2.0,30.22711,-97.78468
+242,Nido Verde Di Reggio Emilia,"1701 W Anderson Ln, Austin, TX 78757",5.0,30.35251566669832,-97.7233582035774
+243,Sunrise Montessori Preschool,"60 Limmer Lp, Round Rock, TX 78665",4.5,30.561652,-97.6042724
+244,St Stephen's Episcopal School,"6000 Fm 3237, Wimberley, TX 78676",5.0,30.0366822984199,-98.1401233227539
+245,Prodigy Child Development Center,"2300 Cedar Bend Dr, Austin, TX 78758",4.0,30.4126055242058,-97.7025519386735
+246,The Modern Mystery School - Texas,"5555 N Lamar Blvd, Ste J125, Austin, TX 78751",4.5,30.323195293342188,-97.72499447825795
+247,Wesley School,"6100 Berkman Dr, Austin, TX 78723",5.0,30.3161373138428,-97.6929168701172
+248,Texas School For the Blind and Visually Impaired,"1100 W 45th St, Austin, TX 78756",5.0,30.3161582946777,-97.7382125854492
+249,Harmony School of Science - Austin,"11800 Stonehollow Dr, Austin, TX 78758",4.0,30.40058,-97.70852
+250,Covenant Presbyterian Preschool and Childs Dayout,"3003 Northland Dr, Austin, TX 78757",5.0,30.3345203399658,-97.7531661987305
+251,Creative World School- Leander,"10836 E Crystal Falls Rd, Leander, TX 78641",2.0,30.566053108910893,-97.8163343190132
+252,The Learning Experience - Hutto,"20908 Burgan Path, Hutto, TX 78634",4.5,30.4960136,-97.5842666
+253,Stepping Stone School - Lakeline/Westwood,"12301 Hymeadow Dr, Austin, TX 78750",4.5,30.45429,-97.79688
+254,All His Children Preschool,"9725 Circle Dr, Austin, TX 78736",5.0,30.244118,-97.925658
+255,Auguste Escoffier School of Culinary Arts,"6020-B Dillard Cir, Austin, TX 78752",3.0,30.32696844381935,-97.7177489380488
+256,Austin Play Garden-Central,"4915 Airport Blvd, Austin, TX 78751",5.0,30.3103,-97.71512
+257,St Mark Children's Day Out,"601 W Braker Ln, Austin, TX 78753",5.0,30.379634941519168,-97.6853564
+258,Anderson High School,"8403 Mesa Dr, Austin, TX 78759",1.0,30.37491152807215,-97.75186079386562
+259,The Naked Bite,"6600 Betty Cook Dr, Austin, TX 78723",5.0,30.31218,-97.67396
+260,Austin Nature & Science Center,"2389 Stratford Dr, Austin, TX 78746",4.5,30.2721969,-97.7733149
+261,Cheer Station National Cheerleading Training Center,"9330 United Dr, Ste 180, Austin, TX 78758",4.0,30.379776,-97.731743
+262,The Goddard School,"2111 Frate Barker Rd, Austin, TX 78748",4.5,30.149037,-97.841689
+263,North Austin Montessori School,"12400 Amherst Dr, Austin, TX 78727",4.0,30.421331,-97.7169333
+264,Healthcare Career Centers,"1200 E Palm Valley Blvd, Ste 1212, Round Rock, TX 78664",4.0,30.518839,-97.667494
+265,Paul Mitchell The School Austin,"9503 Research Blvd, Bldg 3, Ste 310, Austin, TX 78759",3.0,30.38703,-97.7420979553202
+266,Discovery School,"8600-3 White Cliff Dr, Austin, TX 78759",5.0,30.39394,-97.77907
+267,Advancing Robots,"Austin, TX 78735",5.0,30.25479,-97.88913
+268,Shalom Austin,"7300 Hart Ln, Austin, TX 78731",3.5,30.35744320114707,-97.75716304662676
+269,Marimont Montessori School,"801 Fm 685, Pflugerville, TX 78660",5.0,30.44229874936203,-97.6096793976048
+270,GradePower Learning,"4301 W William Cannon, Bldg B, Ste 220, Austin, TX 78749",5.0,30.2196446,-97.8416454
+271,Concordia High School,"1201 S Heatherwilde Blvd, Pflugerville, TX 78660",4.5,30.435415252828705,-97.64706475230945
+272,Town & Country Children's Montessori School,"3801 Keats Dr, Austin, TX 78704",4.5,30.23618,-97.78683
+273,Rocking Horse Academy,"6022 McNaughton, Kyle, TX 78640",4.0,30.01241,-97.8835
+274,La Tribu Rural,"9000 Manchaca, Austin, TX 78748",5.0,30.182318,-97.818989
+275,Texas International Education Consortium,"1103 W 24th St, Austin, TX 78705",1.0,30.2879943847656,-97.7497406005859
+276,Curry Tutoring,"Buda, TX 78620",5.0,30.08165,-97.84301
+277,Iron Horse Country Ranch,"9100 E Fm 243, Leander, TX 78646",5.0,30.4299696,-97.8423018
+278,Ladybird Montessori,"2050 Cole Springs Rd, Buda, TX 78610",4.5,30.0825730645517,-97.8723708465582
+279,Wholesome Generation,"12251 Running Bird Ln, Austin, TX 78758",4.0,30.408743,-97.692066
+280,Magnolia Montessori For All,"5100 Pecan Brook Dr, Austin, TX 78724",4.5,30.31736551752414,-97.6580329802701
+281,The Goddard School,"1040 E Wells Branch Pkwy, Pflugerville, TX 78660",4.5,30.429476,-97.635017
+282,Brentwood Elementary,"6703 Yates Ave, Austin, TX 78757",5.0,30.340379547457115,-97.73163860553622
+283,Mt Sinai Christian Academy,"5900 Cameron Rd, Austin, TX 78723",5.0,30.316529353534136,-97.70122777392878
+284,Harmony Science Academy - Pflugerville,"1421 Wells Branch Pkwy W, Ste 200, Pflugerville, TX 78660",4.0,30.43901143621124,-97.663689683246
+285,Atelier Dojo,"4704 East Cesar Chavez St, Austin, TX 78702",5.0,30.25223031839715,-97.7027950669596
+286,Haley Whatley Swim School,"Round Rock, TX 78681",5.0,30.51389503479004,-97.71687316894533
+287,Little Sunshine’s Playhouse and Preschool of Four Points,"7710 N Fm 620 Rd, Bldg 11, Austin, TX 78726",4.0,30.41251407148002,-97.85157307296272
+288,Austin CDL Services,"8106 E Parmer Ln, Manor, TX 78653",4.0,30.35472420539457,-97.5925533
+289,Franklin Music Academy,"9717 Nightjar Dr, Austin, TX 78748",5.0,30.1804869,-97.8353895367392
+290,Child Craft School,"800 W 30th St, Austin, TX 78705",4.5,30.29841,-97.74518
+291,Hays High Scool,"4800 Jack C Hays Trl, Kyle, TX 78610",3.5,30.0323,-97.89015
+292,St Andrews Episcopal School,"1112 W 31st St, Austin, TX 78705",3.0,30.302334,-97.748248
+293,Community Montessori School,"500 Pleasant Valley Dr, Georgetown, TX 78626",4.0,30.615914,-97.676249
+294,Tree House Kids,"702 Cedar Ridge Dr, Pflugerville, TX 78660",3.5,30.44101,-97.6119499
+295,Above and Beyond Aviation,"Austin, TX 78719",4.5,30.1785215,-97.65759542718368
+296,Manhattan Prep,"1900 University Ave, AT&T Executive Education and Conference Center, Austin, TX 78705",5.0,30.281578,-97.740217
+297,Texas Allstar Cheer and Dance,"4674 Priem Ln, Ste 200, Pflugerville, TX 78660",4.0,30.49552814920546,-97.58830856006205
+298,Austin Community College - Rio Grande Campus,"1212 Rio Grande, Austin, TX 78701",3.0,30.2763428963576,-97.747962316562
+299,Casa Montessori Child Development Center,"404 Atlanta St, Austin, TX 78703",4.0,30.2766876220703,-97.7714691162109
+300,Math For Keeps,"918 E 40th St, Austin, TX 78751",5.0,30.29818,-97.7213
+301,Cedars International  High School,"6700 Middle Fiskville Rd, Ste 102, Austin, TX 78752",3.0,30.32856,-97.70735
+302,Coastline Academy,"Austin, TX 78756",4.0,30.322274946754796,-97.74016927227264
+303,Swim Shaw Method - Round Rock,"1250 S A W Grimes Blvd, Reavis Rehab, Round Rock, TX 78664",5.0,30.5001685922176,-97.6575067245209
+304,The University of Texas at Austin,"110 Inner Campus Dr, Austin, TX 78705",4.5,30.286117762471232,-97.7393943603238
+305,IDEA,"1901 E Wells Branch Pkwy, Pflugerville, TX 78660",1.5,30.42154,-97.621332
+306,Marvelous Mandarin,"3818 Spicewood Springs Rd, Ste 300, Inside Duo Works Business Suites, Austin, TX 78759",4.0,30.3655159,-97.7490812
+307,Kumon Math and Reading Center of Austin - West,"3563 Far W Blvd, Ste 104, Austin, TX 78731",5.0,30.35298,-97.75402
+308,Ashford Montessori,"20301 Jackie's Ranch Rd, Pflugerville, TX 78660",2.0,30.475471496582,-97.5616073608398
+309,Wide Awake Defensive Driving School,"Austin, TX 78715",4.0,30.1981620788574,-97.8087387084961
+310,Schola International,"12702 Sherbourne St, Unit A, Austin, TX 78729",5.0,30.4530812,-97.7785585
+311,Austin Learning Solutions,"5450 Bee Cave Rd, Ste 3B, Austin, TX 78746",5.0,30.293254,-97.821747
+312,Austin Sports Academy,"275 Lotus Cir, Austin, TX 78737",5.0,30.1570592,-97.9566925
+313,Kirby Hall Summer Camp,"306 W 29th St, Austin, TX 78705",4.5,30.29458,-97.74072
+314,Bluebonnet School of Cedar Park,"3420 El Salido Pkwy, Cedar Park, TX 78613",4.0,30.4594497680664,-97.8237533569336
+315,Leaps N Bounds,"7010 Village Center Dr, Austin, TX 78731",3.5,30.353398494927,-97.7562110593933
+316,The Ride Company,"2100 Avenue Of The Stars, Cedar Park, TX 78613",5.0,30.541322843109217,-97.8203092
+317,Au Pair Childcare Expert,"Austin, TX 78754",5.0,30.35566714335657,-97.64478441361132
+318,Nature Preschool Center,"6030 W Hwy 290, Austin, TX 78735",5.0,30.235912,-97.852566
+319,Grace Garden Child Development Center,"2140 Allandale Rd, Austin, TX 78756",5.0,30.3354759216309,-97.7414321899414
+320,Bilingual Early Learning Academy,"12504 Tomanet Trl, Austin, TX 78727",5.0,30.41935,-97.70058
+321,Texas Tactical Training Institute,"Austin, TX 78741",5.0,30.23413,-97.72238
+322,International Montessori,"6420 Hart Ln, Austin, TX 78731",4.0,30.3450839,-97.7533435
+323,Akins ECHS,"10701 S 1st St, Austin, TX 78748",1.0,30.15041,-97.80145
+324,Champions Westlake Gymnastics & Cheer,"2805 Bee Caves Rd, Ste 405, Austin, TX 78746",3.5,30.2703094482422,-97.7892074584961
+325,JWSD Cross Park,"8701 Cross Park Dr, Austin, TX 78754",3.5,30.34325,-97.67698
+326,Stepping Stone School - Southpark Meadows/Onion Creek,"9325 Alice Mae Ln, Austin, TX 78748",4.5,30.1649849637981,-97.7941300596435
+327,Holy Word Christian Academy,"10601 Bluff Bend Dr, Austin, TX 78753",5.0,30.368244,-97.675813
+328,Stepping Stone School at Kyle-San Marcos,"4624 Ratcliffe, Kyle, TX 78640",4.0,30.02065,-97.8738
+329,Capital Area Speech & Occupational Therapy,"12710 Research Blvd, Ste 395, Austin, TX 78759",4.5,30.43192,-97.76574
+330,WonderWell,"7717 Southwest Pkwy, Bldg 2, Austin, TX 78735",5.0,30.2566176,-97.8755583
+331,Ballet Afrique,"8011 Cameron Rd, Ste 500, Austin, TX 78754",4.0,30.3364996985723,-97.6834945008159
+332,Clear Choice College Admissions Counseling,"9000 Alderwood Cv, Austin, TX 78717",5.0,30.5172,-97.74595
+333,Academic Answers,"4407 Bee Caves Rd, Ste 413, Austin, TX 78746",4.0,30.28547,-97.81331
+334,Austin Learning Center,"3355 Bee Cave Rd, Ste 203, West Lake Hills, TX 78746",5.0,30.27541,-97.80274
+335,Renaissance Montessori School,"5014 Bull Creek Rd, Austin, TX 78731",4.5,30.3272650483717,-97.7497477779099
+336,Dell Medical School,"1501 Red River St, Austin, TX 78712",4.0,30.2755634654547,-97.7335419466905
+337,Foodie Kids,"3818 Far W Blvd, Ste 107, Austin, TX 78731",4.0,30.3566799,-97.7589722
+338,Learning and Tutoring Center of East Austin,"4613 A E 12th St, Austin, TX 78721",4.0,30.278243,-97.686215
+339,Fantastic Magic Camp,"7500 Woodrow Ave, Austin, TX 78752",5.0,30.3251636204946,-97.7124864923096
+340,Sav-A-Heart,"3101 Persimmon Valley Trl, Austin, TX 78732",5.0,30.37203,-97.89691
+341,Jubillee Wells Branch,"3711 Shoreline Dr, Austin, TX 78728",3.0,30.45771883,-97.68893133
+342,Ariana Institute,"522 Grace Ln, Austin, TX 78746",5.0,30.31045,-97.85928
+343,Odyssey School,"4407 Red River St, Austin, TX 78751",3.0,30.3039083,-97.7200133
+344,Firefly Community School,"15913 Windermere Dr, Pflugerville, TX 78660",4.0,30.448415,-97.647347
+345,Mainspring Schools,"1100 W Live Oak St, Austin, TX 78704",5.0,30.24709,-97.76486
+346,Round Rock Kids Day Out,"4010 Sam Bass Rd, Round Rock, TX 78681",5.0,30.5356598,-97.7409821
+347,Ashford Montessori,"5906 Westcreek Dr, Austin, TX 78749",5.0,30.23343,-97.8461
+348,Becker Elementary School,"906 W Milton, Austin, TX 78704",4.0,30.25051,-97.75982
+349,Mathnasium of Westlake,"3201 Bee Caves Rd, Ste 154, Austin, TX 78746",4.5,30.2734128139644,-97.8003230827095
+350,Spicewood Country School And Camp,"6102 Spicewood Springs Rd, Austin, TX 78759",4.0,30.391296,-97.774757
+351,Temple College - Taylor,"516 N Main St, Taylor, TX 76574",5.0,30.57213,-97.40927
+352,EHAT,"12507 Fitzhugh Rd, Austin, TX 78736",5.0,30.231388979394563,-97.9847891
+353,Melluzi Academy,"4534 Westgate Blvd, Ste 112, Austin, TX 78745",5.0,30.2307302,-97.802711
+354,Habibi's Hutch Preschool,"2004 Bert Ave, Austin, TX 78704",5.0,30.2333831787109,-97.7867202758789
+355,School in the Hills,"10819 Ranch Rd 2222, Austin, TX 78730",1.0,30.3954713,-97.8471197
+356,Bake Austin,"1706 E 38 1/2 St, Austin, TX 78722",5.0,30.291528678878443,-97.71213934479388
+357,Stony Point High School,"1801 Tiger Trl, Round Rock, TX 78664",4.5,30.5286829602359,-97.6607889309525
+358,NeeCee’s Barber College,"11220 N Lamar Blvd, Austin, TX 78753",5.0,30.38234821191401,-97.6883249832199
+359,Rukaiya's Kitchen,"12800 Harrisglenn Dr, Ste 1125, Austin, TX 78753",4.0,30.400724,-97.654133
+360,McCombs School of Business,"2100 Speedway, Ste B 6000, Austin, TX 78712",5.0,30.283371494403585,-97.73728937611112
+361,My Smart Hands with Kathryn,"11807 Dove Haven Dr, Austin, TX 78753",5.0,30.5119418,-97.8177601
+362,B Golden Jewelry School,"321 W Ben White Blvd, Ste 204, Austin, TX 78704",5.0,30.223647,-97.767358
+363,Austin Driving School,"2049 W Stassney Ln, Austin, TX 78745",3.5,30.216285265409,-97.7990998488206
+364,Bluebonnet Trail Elementary School,"11316 Farmhaven Rd, Austin, TX 78754",4.5,30.351451252737775,-97.6181984969825
+365,Your Growing Child,"100 Commons Rd, Ste 3, Dripping Springs, TX 78620",3.5,30.192857010165184,-98.08450854841446
+366,Young Minds Montessori Preschool,"2400 S Bagdad Rd, Leander, TX 78641",4.5,30.5443001,-97.8506393
+367,Atelier Preescolar,"8305 W Hwy 71, Ste 100, Austin, TX 78735",3.5,30.24686,-97.88908
+368,Texas Friendly Defensive Driving School-USA,"Austin, TX 78701",4.5,30.266944,-97.742778
+369,Dew Drops Montessori Preschool,"1202 Drake Cv, Leander, TX 78641",5.0,30.56342,-97.85348
+370,The Fellowship Christian Academy Hutto,"6655 Hwy 79, Hutto, TX 78634",1.0,30.539439470873567,-97.58089901667869
+371,Guidepost Montessori at Westlake,"4613-B Bee Cave Rd, West Lake Hills, TX 78746",3.5,30.286998,-97.815885
+372,The Lauterstein-Conway Massage School & Clinic,"4701 Burnet Rd B, Austin, TX 78756",4.5,30.3177654,-97.7393534
+373,St. Louis King of France Catholic School,"2114 Saint Joseph Blvd, Austin, TX 78757",3.5,30.35153,-97.73117
+374,Oaksong Nature School,"140 Russell Ln, Dripping Springs, TX 78620",5.0,30.20877,-98.11968
+375,Cowan Elementary School,"2817 Kentish Dr, Austin, TX 78748",5.0,30.18906,-97.83212
+376,Austin Community College - Round Rock Campus,"4400 College Park Dr, Round Rock, TX 78665",2.0,30.561581,-97.657045
+377,Artaculture Academy,"6407 S Pleasant Valley, Austin, TX 78744",1.5,30.1815299987793,-97.744499206543
+378,Warren Wilson,"1705 Stoneridge Rd, Austin, TX 78746",5.0,30.2655332,-97.8104749
+379,British Swim School of LA Fitness Austin - Slaughter Ln,"1824 W Slaughter Ln, Austin, TX 78748",3.5,30.175103,-97.821322
+380,Epic Adventures,"487 Hill Country Trl, San Marcos, TX 78667",4.5,29.986352,-98.098425
+381,Austin French Tutor,"Austin, TX 78739",5.0,30.17389,-97.888992
+382,Extend-A-Care for Kids,"801 Fm 1626, Buda, TX 78640",5.0,30.08917,-97.87328
+383,Camp 512,"9411 Bee Cave Rd, Austin, TX 78733",5.0,30.31602,-97.87067
+384,First English Lutheran Child Development Center,"3001 Whitis Ave, Austin, TX 78705",5.0,30.29549,-97.73871
+385,Bella Beauty College,"4631 Airport Blvd, Ste 101, Austin, TX 78751",2.0,30.30535674991025,-97.71547460232614
+386,College Nannies + Sitters,"4544 S Lamar Blvd, Ste 370, Austin, TX 78745",5.0,30.23459799213443,-97.80083187132188
+387,Lyndon B Johnson School of Public Affairs,"2315 Red River St, The University of Texas at Austin, Sid Richardson Hall, Unit 3, Austin, TX 78712",4.0,30.2854836938228,-97.7286565587809
+388,Emerald Wood KinderCare,"610 Emerald Wood Dr, Austin, TX 78745",3.5,30.2132024375507,-97.7788133
+389,ZACH Theatre Performing Arts School,"202 S Lamar Blvd, Austin, TX 78704",2.5,30.2643441,-97.7573051
+390,German Texan Heritage Society,"507 E 10th St, Austin, TX 78701",4.5,30.270082,-97.736335
+391,Faith Montessori House Of Children,"9006 Anderson Mill Rd, Austin, TX 78729",4.5,30.45316,-97.77793
+392,Montessori Oaks,"9006 Anderson Mill Rd, Austin, TX 78729",4.0,30.453218286072232,-97.7779650764974
+393,Avila Creative Soccer,"8863 Anderson Mill Rd, Ste 107, Anderson Mill, Austin, TX 78729",4.5,30.45377,-97.77296
+394,Crème de la Crème Learning Center of Cedar Park,"11801 W Parmer Ln, Cedar Park, TX 78613",3.5,30.51851659392851,-97.77488576036676
+395,ATX Kids Club,"Austin, TX 78704",4.5,30.25871,-97.76624
+396,The Goddard School,"1905 El Salido Pkwy, Cedar Park, TX 78613",3.5,30.475959,-97.842461
+397,Tri-Star Farm,"6648 Spicewood Springs Rd, Austin, TX 78759",4.5,30.398289,-97.780608
+398,The Rise School of Austin,"4800 Manor Rd, Bldg J, Austin, TX 78723",5.0,30.335138,-97.760003
+399,Waterloo Swimming - Central,"3200 W Anderson Ln, Austin, TX 78757",5.0,30.361942157219868,-97.7415010179066
+400,Austin Driving School,"3109 Slaughter Ln W, Austin, TX 78748",1.5,30.1798133850098,-97.8429183959961
+401,St. Michael's Episcopal Day school,"1500 N Capital Of Texas Hwy, Austin, TX 78746",5.0,30.319128,-97.82315
+402,Kumon Math and Reading Center of Austin - Circle C,"5700 W Slaughter Ln, Ste 220, Austin, TX 78749",4.5,30.2017335073571,-97.86843268220888
+403,HOPEcpr,"Austin, TX 78739",5.0,30.18901,-97.89135
+404,Berkeley2 Academy,"12871 Research Blvd, Ste 105, Austin, TX 78750",4.5,30.4361,-97.77201
+405,KLA Schools of Sweetwater,"18101 State Hwy 71 W, Austin, TX 78738",3.5,30.330312,-98.023132
+406,The Learning Experience - Pflugerville,"701 Fm 685 Rd, Pflugerville, TX 78660",4.5,30.44185909292106,-97.60973435779852
+407,Life Sustaining Training,"1301 S Ih 35, Ste 109, Austin, TX 78741",5.0,30.2446395,-97.7343624
+408,Austin Community College - Highland Business Center,"5930 Middle Fiskville Rd, Austin, TX 78752",2.5,30.323054,-97.711517
+409,Goldfish Swim School - Northwest Hills,"8038 Mesa Dr, Austin, TX 78731",4.0,30.37081293309813,-97.75846418402672
+410,Snapdragon Preschool,"6800 West Gate Blvd, Austin, TX 78745",5.0,30.2087983023384,-97.81604847311976
+411,Primrose School of Austin at Mueller,"2200 Aldrich St, Ste 130, Austin, TX 78723",4.0,30.3010434,-97.7034659
+412,Kids Academy,"1019 Main St, Ste A, Buda, TX 78610",3.5,30.086436082854735,-97.83331811919946
+413,Best In Class Education Center - Bee Cave,"12400 Texas 71 W, Ste 505, Bee Cave, TX 78736",5.0,30.3035405049562,-97.9312547857056
+414,Kumon Math and Reading Center of Austin - Westlake,"2712 Bee Cave Rd, Ste 114, Austin, TX 78746",5.0,30.271630686910203,-97.78622815402436
+415,Texas Culinary Academy,"11400 Burnet Rd, Ste 2100, Austin, TX 78758",2.0,30.391822,-97.722366
+416,University of Texas School of Law Publications Department,"727 E Dean Keeton St, Austin, TX 78705",5.0,30.2885,-97.73034
+417,Colores Spanish Immersion Preschool,"908 Old Koenig Ln, Austin, TX 78756",5.0,30.32891,-97.72725
+418,Sacred Arts Studio,"6001 W William Cannon Dr, Ste 305, Austin, TX 78749",5.0,30.228101,-97.86285
+419,Fusion Academy Austin,"4701 Bee Caves Rd, Ste 101, Austin, TX 78746",5.0,30.2875574,-97.8161512
+420,Little Hands International Preschool,"8830 Cainwood Ln, Austin, TX 78729",5.0,30.45577,-97.77332
+421,Academic Therapy Center,"2500 W William Cannon Blvd, Ste 101, Austin, TX 78745",3.0,30.2065601,-97.8128815
+422,Cordovan Art School & Pottery Parlor,"9217 Hwy 290 W, Ste 140, Austin, TX 78736",5.0,30.2309159,-97.92832097133238
+423,LifePointe Christian Academy,"1451 Carl Stern Dr, Hutto, TX 78634",3.5,30.533948,-97.544957
+424,Austin Elite Gymnastics,"2105 Ranch Rd 620 S, Ste 300, Lakeway, TX 78734",5.0,30.34184620061361,-97.96496883789597
+425,Avila Creative Soccer,"1503 Fm 620 N, Ste D, Bldg 2, Lakeway, TX 78734",5.0,30.37892,-97.94513
+426,Code Galaxy,"2028 E Ben White Blvd, Austin, TX 78741",4.5,30.217082,-97.743276
+427,Hendrickson High School,"19201 Colorado Sand Dr, Pflugerville, TX 78660",1.0,30.464621381723926,-97.5882378490368
+428,Harmony Science Academy,"930 E Rundberg Ln, Austin, TX 78753",4.0,30.3572692871094,-97.6848373413086
+429,Bollywood Shake,"10700 Anderson Mill Rd, Ste 208, Austin, TX 78750",3.5,30.44756,-97.811204
+430,Hopewell Middle School,"1535 Gulf Way, Round Rock, TX 78665",3.5,30.55261,-97.65881
+431,The Nest at Anderson Mill,"11812 Millwright Pkwy, Austin, TX 78750",3.5,30.44787,-97.80431
+432,Peace of Mind Children's Center,"5615 Burnet Rd, Ste 05, Austin, TX 78756",4.5,30.3319904,-97.7396757
+433,The Goddard School,"5145 N Fm 620, Bldg H, Austin, TX 78732",4.0,30.389049,-97.886475
+434,One World Montessori,"100 Deer Ridge Dr, Round Rock, TX 78681",4.0,30.4967,-97.70209
+435,Avila Creative Soccer,"16501 Bratton Ln, Bldg 2, Ste B, Austin, TX 78728",4.5,30.4697665,-97.6743958
+436,Casner Christian Academy,"3838 Steck Ave, Austin, TX 78759",5.0,30.37316,-97.75014
+437,Impulso Salsa,"3425 Bee Caves Rd, Unit C1, West Lake Hills, TX 78746",5.0,30.276149,-97.803766
+438,Westlake Childcare,"3924 Bee Cave Rd, West Lake Hills, TX 78746",3.5,30.2822262793779,-97.8096009045839
+439,Westwood High School,"12400 Mellow Meadow Dr, Austin, TX 78750",3.5,30.456149590448,-97.7973609530981
+440,Sterling Hunter / Jumpers,"13304 Wright Rd, Buda, TX 78610",5.0,30.0821095,-97.7556305
+441,Ace Dances,"1504 Dapplegrey Ln, Austin, TX 78727",5.0,30.380515,-97.743519
+442,Varsity Tutors - Austin,"3201 Duval Rd, Austin, TX 78705",3.5,30.409157,-97.719635
+443,Nitro Swimming,"1310 Toro Grande Blvd, Cedar Park, TX 78613",3.5,30.54282,-97.77651
+444,Academia Preescolar,"1511 S Congress Ave, Austin, TX 78704",4.5,30.24826,-97.74961
+445,Premier High School,"1701 W Ben White Blvd, Ste 100 A, Austin, TX 78704",3.5,30.226578,-97.783439
+446,Texas State University Round Rock Campus,"1555 University Blvd, Round Rock, TX 78665",4.0,30.568622994931527,-97.65494274895316
+447,New Generation Day Care,"2606 S 1st St, Austin, TX 78704",5.0,30.239175816289176,-97.7617521803132
+448,Southwest Family YMCA,"6219 Oakclaire Dr, Austin, TX 78735",4.0,30.23624,-97.853637
+449,Mathnasium of Northwest Hills,"3742 Far West Blvd, Ste 105, Austin, TX 78731",5.0,30.356157398642676,-97.75805235337316
+450,Hill Country Kidz,"Fm 1826, Austin, TX 78737",5.0,30.1489641326493,-97.982106922312
+451,Austin Coding Academy,"701 Brazos St, Ste 1616, Austin, TX 78701",4.0,30.2688755,-97.7405641
+452,Art Amore,"6507 Jester Blvd, Ste 107, Austin, TX 78750",5.0,30.3694914,-97.8003224
+453,National Elite Gymnastics,"7632 Hwy 71 W, Austin, TX 78735",4.0,30.243704274823884,-97.8806305338466
+454,YMOK Daycare Austin,"510 Clarke St, Austin, TX 78745",4.5,30.22561,-97.76948
+455,Escuelita Art-es,"6100 Parkwood Dr, Austin, TX 78735",5.0,30.239162,-97.8556739
+456,INIC Preschool Round Rock - Spanish Immersion,"2960 Jazz St, Round Rock, TX 78664",5.0,30.48233,-97.65502
+457,Irish Dance Center,"12400 Amherst Dr, Ste 112, Austin, TX 78727",5.0,30.421463,-97.716807
+458,Barton Creek Child Development Center,"5611 Travis Cook Rd, Austin, TX 78735",4.5,30.2578,-97.88849
+459,Circle C Child Development Center,"5917 La Crosse Ave, Austin, TX 78739",4.0,30.192768618120635,-97.8845403398241
+460,Amiguitos Spanish Immersion Academy,"4622 S Lamar Blvd, Austin, TX 78745",5.0,30.232732,-97.805828
+461,Kiddie Academy of Cedar Park West,"1301 North Lakeline Blvd, Cedar Park, TX 78613",3.0,30.5186057,-97.853362047664
+462,Foreign Credentials Service of America,"1910 Justin Ln, Austin, TX 78757",4.0,30.343842480452373,-97.7334615311086
+463,Woodland Montessori,"13180 Pond Springs Rd, Austin, TX 78729",4.5,30.444602,-97.778152
+464,The Number Lab,"1201 W 24th St, Ste 200, Austin, TX 78705",5.0,30.2881,-97.75075
+465,Growing Tree,"2807 Robinson Ave, Austin, TX 78722",4.0,30.28666,-97.72292
+466,La Mère Academy,"16600 Ronald Reagan Blvd, Leander, TX 78641",5.0,30.5773152,-97.8042271
+467,Austin Graduate School of Theology,"7640 Guadalupe St, Austin, TX 78752",5.0,30.343862,-97.711593
+468,Harmony School of Endeavor - Austin,"13415 N FM-620, Austin, TX 78717",2.0,30.470393,-97.786718
+469,Crème de la Crème Learning Center of Lakeline,"1920 S Lakeline Blvd, Cedar Park, TX 78613",2.0,30.48184905408388,-97.82534486833605
+470,The Premier Athletic Complex,"8220 183A Toll Rd, Leander, TX 78641",2.0,30.575141,-97.82878
+471,The Children's Center of Austin,"8100 Bee Caves Rd, Austin, TX 78746",4.5,30.3129088,-97.8513426
+472,kidsActing Studio,"1400 Tillery St, Austin, TX 78722",4.0,30.27857,-97.70103
+473,Idea Parmer Park,"1438 E Yager Ln, Austin, TX 78853",2.0,30.389236246485147,-97.653281
+474,Rosewood Oaks,"1507 Lavaca St, Austin, TX 78701",3.0,30.27819,-97.74131
+475,LeafSpring School at Cedar Park,"11651 W Parmer Ln, Cedar Park, TX 78613",4.0,30.51577,-97.77427
+476,Idea Montopolis,"1701 Vargas Rd, Austin, TX 78741",5.0,30.2261121,-97.6989996
+477,Trinity Episcopal School,"3901 Bee Caves Rd, Austin, TX 78746",5.0,30.2803336488132,-97.81033538220473
+478,Supreme WakeLife,"Cedar Park, TX 78613",5.0,30.47716,-97.8152
+479,Aim Art Studio,"Austin, TX 78750",5.0,30.43285,-97.79418
+480,Sammy’s House,"2415 Twin Oaks Dr, Austin, TX 78757",4.0,30.341974,-97.7401001
+481,Olas Spanish Immersion School,"4705 Harmon Ave, Austin, TX 78751",5.0,30.305919,-97.714579
+482,I'm Not a Geek,"1011 Olive St, Austin, TX 78702",5.0,30.27054,-97.72874
+483,iCode- Austin,"4301 W William Cannon Dr, Bldg K Ste 200, Austin, TX 78749",5.0,30.220862864149375,-97.83819472568088
+484,Hutto Family YMCA,"200 Alliance Blvd, Hutto, TX 78634",3.5,30.54334,-97.56597
+485,Nina Berenato Jewelry,"3200 Palm Way, Ste 152, Austin, TX 78758",4.0,30.403278,-97.722948
+486,Learning House Preschool,"1101 S Mays St, Round Rock, TX 78664",5.0,30.498225,-97.675414
+487,Brain Balance of Cedar Park,"920 N Vista Ridge Blvd, Ste 600, Cedar Park, TX 78613",4.0,30.5308113098145,-97.7908782958984
+488,Rising Stars Bilingual Daycare,"11406 Conroy Ln, Manchaca, TX 78652",5.0,30.13991,-97.807332
+489,Austin School of Mosaic Art,"1810 W Anderson Ln, Austin, TX 78757",5.0,30.35393,-97.7254899
+490,Mornings in the Nest Montessori,"Parmer And Mopac, Austin, TX 78759",4.5,30.41993,-97.703605
+491,Tots N Tutors,"4521 Best Way, Austin, TX 78725",5.0,30.23675,-97.570925
+492,Día de los Niños Spanish Programs,"11201 Parkfield Dr, Austin, TX 78758",5.0,30.384857,-97.695899
+493,Bananahead Swim School,"1250 S A W Grimes Blvd, Round Rock, TX 78664",2.0,30.5002594,-97.6571732
+494,SI Computer School,"5555 N Lamar Blvd, Ste C-102, Austin, TX 78751",5.0,30.3237,-97.72572
+495,Stepping Stone School - Anderson Mill/Westwood,"9914 Woodland Village, Austin, TX 78750",4.5,30.45554,-97.7932
+496,St Richard's Episcopal Private Preschool And Kindergarten,"1420 E Palm Valley Blvd, Round Rock, TX 78664",5.0,30.517628,-97.664056
+497,Guidepost Montessori at Brushy Creek,"3017 Polar Ln, Cedar Park, TX 78613",4.0,30.5171034,-97.7748950732945
+498,Move Your Tale,"4803 Airport Blvd, ColdTowne Theater, Austin, TX 78751",5.0,30.3079507,-97.7154292
+499,Westlake Hills Presbyterian Preschool,"7127 Bee Cave Rd, Austin, TX 78746",5.0,30.30198,-97.8434
+500,Austin Partners in Education,"Austin, TX 78701",5.0,30.2707290649414,-97.7432250976563
+501,Sunsational Swim School - Private Swim Lessons,"Austin, TX 78738",5.0,30.30881,-97.93632
+502,Manor High School,"12700 Gregg Manor Rd, Manor, TX 78653",3.0,30.3535207360983,-97.5609252601862
+503,Austin GMAT Review,"8705 Shoal Creek Blvd, Ste 107B, Austin, TX 78757",5.0,30.3737006,-97.736155
+504,Elements Preschool,"2205 Ohlen Rd, Austin, TX 78757",5.0,30.36223,-97.72794
+505,Kinder Haus Childcare,"18700 Weiss Ln, Pflugerville, TX 78660",5.0,30.44975,-97.56132
+506,KidSpring Bilingual Learning Center,"7002 Menchaca Rd, Ste 200, Austin, TX 78745",4.5,30.20161597187846,-97.80744803127683
+507,ARBOR MONTESSORI ACADEMY,"11726 Jollyville Rd, Austin, TX 78759",5.0,30.4194,-97.75296
+508,Blueprint LSAT Preparation,"1900 University Ave, Austin, TX 78705",5.0,30.28151,-97.7401
+509,D-BAT - Austin,"3813 Helios Way, Bld. B/ Ste 240, Austin, TX 78660",4.0,30.420051918260576,-97.58872900412835
+510,AOMA Herbal Medicine South,"4701 Westgate Blvd, Bldg B, Austin, TX 78745",4.0,30.2291648,-97.801217
+511,Silk & Glow,"Austin, TX 78729",3.5,30.44697,-97.77628
+512,ProRider Central Texas,"Austin, TX 78714",5.0,30.33397,-97.66821
+513,Austin Language Learning School,"1111 W 24th St, Ste D, Austin, TX 78705",5.0,30.2882651,-97.7503865
+514,RC Health Services Austin,"223 W Anderson Ln, A101, Austin, TX 78752",3.0,30.34407,-97.7072
+515,Camp On the Move,"Austin, TX 78749",5.0,30.20635,-97.86486
+516,Shining Stars Montessori School,"10500 Lakeline Blvd, Austin, TX 78717",5.0,30.48213766448773,-97.790246897318
+517,Bluebonnet Montessori School of Lakeway,"15099 Debba Dr, Austin, TX 78734",5.0,30.373437947259557,-97.93837348169356
+518,Lynn Akins,"204 W Coombs St, Alvin, TX 78704",1.5,30.2456728,-97.7688358
+519,Chaparral Ice,"2525 W Anderson Ln, Austin, TX 78757",3.0,30.35475029356665,-97.7333969044264
+520,Mathnasium of Pflugerville,"1420 Wells Branch Pkwy, Ste 400, Pflugerville, TX 78660",5.0,30.44174463758462,-97.6623280139959
+521,Cedar Creek Middle School,"125 Voss Pkwy, Cedar Creek, TX 78612",1.0,30.0937958106642,-97.4789585665639
+522,Dance Institute,"6612 Sitio Del Rio, Austin, TX 78730",3.5,30.3918141,-97.8440412358878
+523,The Rock Enrichment Academy,"Austin, TX 78613",1.5,30.26759,-97.74299
+524,All Saints' Episcopal Day School,"209 W 27th St, Austin, TX 78705",4.0,30.291660571446595,-97.73970596784136
+525,Hilltop Farm,"2195 County Rd 105, Hutto, TX 78634",5.0,30.61736,-97.59096
+526,The Rosedale Preschool,"5615 Adams Ave, Austin, TX 78756",5.0,30.33123,-97.73892
+527,Extend-A-Care For Kids,"55 N IH-35, Austin, TX 78702",3.0,30.256167,-97.736022
+528,Spike Frog Volleyball,"1800 Clover Ln, Cedar Park, TX 78613",4.0,30.529033276770395,-97.84074951404558
+529,Guidepost Montessori at Round Rock,"7210 Wyoming Springs Dr, Round Rock, TX 78681",4.5,30.513734,-97.716074
+530,Let it Shine Enrichment Academy,"3701 W Slaughter Ln, Austin, TX 78749",4.5,30.1847,-97.85484
+531,BreezeATX,"603 N Lamar Blvd, Austin, TX 78703",5.0,30.27193,-97.75291
+532,St Matthews Episcopal Day School,"8134 Mesa Dr, Austin, TX 78759",5.0,30.374622,-97.756452
+533,Star Montessori School,"3101 Howard Ln, Austin, TX 78728",5.0,30.43845,-97.69505
+534,Stepping Stone School - Crestview/Allendale,"1710 Richcreek Rd, Austin, TX 78757",4.5,30.3473,-97.72709
+535,The PREP School of Crystal Falls,"3361 N Lakeline Blvd, Leander, TX 78641",3.5,30.542251828862938,-97.86429972831117
+536,Huntington-Surrey School,"4700 Grover Ave, Austin, TX 78756",5.0,30.317632,-97.738264
+537,AquaMobile Swim School,"Austin, TX 78704",3.5,30.243501663208,-97.7655715942383
+538,Aldea Verde School,"903 Royal Ln, Cedar Park, TX 78613",5.0,30.517046,-97.837562
+539,Parmer Children's Montessori Academy,"1701 Scofield Ln, Austin, TX 78727",3.0,30.4155125,-97.6891453
+540,Pecan Street Christian School,"500 E Pecan St, Pflugerville, TX 78660",4.5,30.438917287537773,-97.61755602522516
+541,The Real Estate Business School,"1901 Ranch Road 620 N, Ste 105, Austin, TX 78734",3.5,30.38177000000007,-97.9430272
+542,St Catherine's Preschool,"4800 Convict Hill Rd, Austin, TX 78749",5.0,30.218154,-97.849461
+543,Lake Hills Montessori Bee Caves,"3930 Ranch Rd 620 S, Austin, TX 78738",4.5,30.3116832662547,-97.94962668454365
+544,Austin Children's Academy,"12310 Ranch Rd 620 N, Cedar Park, TX 78750",4.5,30.463769,-97.813755
+545,Emler Swim School of Austin - Oak Hill,"7100 W US Highway 290, Ste A, Austin, TX 78736",4.5,30.23324,-97.8766669
+546,Silver Whisk Cooking School,"Austin, TX 78734",4.0,30.3665,-97.97594
+547,Camp Roadrunner,"8700 South View Rd, Austin Waldorf School, Austin, TX 78737",5.0,30.2298891,-97.9122397
+548,Kids Are First,"2517 Enfield Rd, Austin, TX 78703",1.0,30.28961,-97.77109
+549,AESA Prep Academy,"13730 West US 290, Austin, TX 78737",4.0,30.198794,-98.005957
+550,Nunan's Martial Arts,"2051 Cypress Creek Rd, Ste A, Cedar Park, TX 78613",4.0,30.4763230040853,-97.841373
+551,Guidepost Montessori at Bee Cave,"14058 Bee Cave Pkwy, Austin, TX 78738",4.0,30.31166,-97.96559
+552,YPW Spanish Immersion School,"8014 Mesa Dr, Austin, TX 78731",5.0,30.3704609224642,-97.7585353197825
+553,Agni The Dance Company,"Austin, TX 78750",4.5,30.45762,-97.80097
+554,Flying Fish Swim Academy,"310 Sportsplex Dr, Dripping Springs, TX 78620",5.0,30.195203699925173,-98.0961524
+555,The PREP School of Bee Cave,"14001 Bee Cave Pkwy, Bldg A, Bee Cave, TX 78738",2.5,30.31108444695127,-97.96348685072353
+556,First United Methodist Preschool,"1201 Lavaca St, Austin, TX 78701",5.0,30.27485,-97.74258
+557,LZM Studio,"3810 Medical Pkwy, Ste 132, Austin, TX 78731",5.0,30.306509902585887,-97.7441105
+558,Academy of Hair Design,"2015 E Riverside Dr, Bldg 6, Austin, TX 78741",3.0,30.24058,-97.728565
+559,All Stars Academy,"275 Lotus Cir, Austin, TX 78737",5.0,30.1570592,-97.9566925
+560,The MegaGym,"80 Mockingbird Hill Ln, Ste 104, Leander, TX 78641",4.5,30.60648877225398,-97.89294473266445
+561,Dragonfly Preschool and Parents' Day Out,"4622 S Lamar Blvd, Austin, TX 78745",5.0,30.2330303192139,-97.8056640625
+562,YPW Spanish Immersion School,"3640 Bee Caves Rd, Austin, TX 78746",3.5,30.2790532261133,-97.8064741194248
+563,Endeavor Montessori - Pflugerville,"18817 N Heatherwilde Blvd, Bldg 2, Pflugerville, TX 78660",3.5,30.4796334630687,-97.615578208832
+564,Stepping Stone School at Mueller/UT,"3811 Harmon Ave, Austin, TX 78751",3.5,30.2955,-97.7203399
+565,Mathnasium of Steiner Ranch,"5145 N Fm 620, Ste B-140, Austin, TX 78732",3.5,30.3895554,-97.8859979
+566,Manchaca United Methodist Church Child Dvlpmnt Ctr,"1011 Fm 1626, Manchaca, TX 78652",5.0,30.140258,-97.832011
+567,The PREP School of Journey Parkway,"3421 Journey Pkwy, Leander, TX 78641",3.5,30.564582,-97.7878866
+568,Westlake High School,"4100 Westbank Dr, Austin, TX 78746",4.5,30.275683,-97.813797
+569,Golf In Schools,"12129 N FM 620, Ste 330, Austin, TX 78750",5.0,30.46083,-97.816277
+570,Growing Imaginations,"5410 S 1st St, Austin, TX 78745",5.0,30.21046,-97.780404
+571,Mariposas Spanish School,"3407 Red River St, Austin, TX 78705",4.5,30.293083792089,-97.7235701290833
+572,Austin Classical School,"10500 Jollyville Rd, Bldg A, Austin, TX 78759",5.0,30.397814,-97.7508516
+573,ATX Test Prep,"2900 S Congress, Ste 208, Austin, TX 78704",5.0,30.23350794627148,-97.75850131436938
+574,Texas Laser & Aesthetics Training Academy,"4534 W Gate Blvd, Ste 108, Austin, TX 78745",4.5,30.23084293767431,-97.80282605516835
+575,Hill Country Christian School of Austin,"12124 Ranch Rd 620 N, Austin, TX 78750",4.5,30.464466,-97.818816
+576,Cafe Monet,"4477 S Lamar Blvd, Ste 560, Austin, TX 78745",4.0,30.2308349609375,-97.7988357543945
+577,Pint-Size Playhouse,"9827 Briar Ridge Dr, Austin, TX 78748",5.0,30.177997,-97.83057
+578,Cold Bore Tactical,"Dripping Springs, TX 78620",5.0,30.1902067,-98.0866781
+579,West Austin Dance Academy,"12918 Shops Pkwy, Ste 500, Bee Cave, TX 78738",4.0,30.30715,-97.94473
+580,Sol Education Abroad,"503 Oakland Ave, Austin, TX 78703",4.0,30.27313,-97.76101
+581,Huntington Learning Center,"1335 E Whitestone Blvd, Ste D 125, Cedar Park, TX 78613",5.0,30.5289879179039,-97.8144463411246
+582,Momma Carolyn's Creative Learning Center,"12702 Sherbourne St, Ste A, Austin, TX 78729",2.5,30.45311,-97.77853
+583,Cornerstone Christian Academy,"125 Lower Red Rock Rd, Bastrop, TX 78602",5.0,30.07491,-97.35877
+584,McNeil High School,"5720 McNeil Dr, Austin, TX 78729",2.5,30.4503490941294,-97.7333204814241
+585,The Adderley School,"Austin, TX 78703",5.0,30.27823,-97.75843
+586,Primrose School at Vista Ridge,"910 N Vista Ridge Blvd, Cedar Park, TX 78613",4.5,30.5307530455763,-97.790223956108
+587,Austin Driving School,"5700 Manchaca Rd, Ste 399, Austin, TX 78745",2.5,30.21581307842587,-97.79977945293705
+588,Master Palacios ATA Martial Arts,"7300 Hart Ln, Austin, TX 78731",5.0,30.35753,-97.75482
+589,Robert Gardner Wellness,"1800 Hollow Tree Blvd, Round Rock, TX 78681",5.0,30.524766,-97.7028714
+590,Apple Blossom Center for Discovery,"1607 High Chaparral Dr, Leander, TX 78641",5.0,30.5564268,-97.8500976
+591,Serene Hills Elementary School,"3301 Serene Hills Dr, Austin, TX 78738",5.0,30.3484177042072,-97.996560354643
+592,Xpresso Beans Kinder Pod,"1605 E 38th 1/2 St, Austin, TX 78722",5.0,30.291767650322864,-97.7141634
+593,Langston Household Services,"Austin, TX 78723",5.0,30.30478,-97.68457
+594,Jett Garner Martial Arts,"8100 Bee Caves Rd, Austin, TX 78746",5.0,30.3129088,-97.8513426
+595,Hutto Driving School,"409 W Front St, Ste 230, Hutto, TX 78634",4.0,30.54132,-97.549052
+596,Austin Community College - Cypress Creek Campus,"1555 Cypress Creek Rd, Cedar Park, TX 78613",2.5,30.4796379866523,-97.8342271926171
+597,New Magic Academy,"Cedar Park, TX 78613",1.0,30.5053482055664,-97.8203506469727
+598,Lone Star School Of Music,"12010 Hwy 290 W, Ste 230, Austin, TX 78737",5.0,30.2107372157552,-97.9699278349182
+599,Spunky Kids,"Austin, TX 78750",5.0,30.45762,-97.80097
+600,Alliance Francaise D'austin,"4101 Medical Pkwy, Ste 106, Austin, TX 78756",4.0,30.3100318908691,-97.7423095703125
+601,Olympia Hills Gymnastics,"2122 Green Meadows Ln, Buda, TX 78610",4.0,30.0614833831787,-97.8194351196289
+602,Georgetown Independent School District,"1703 N Austin Ave, Georgetown, TX 78626",1.0,30.65610425372235,-97.67064157719442
+603,La Casa Dei Bambini - Kyle Montessori,"701 Scott St, Kyle, TX 78640",4.5,29.98353,-97.88625
+604,Sunrise Neighborhood Youth Program,"4430 Manchaca Rd, Austin, TX 78745",5.0,30.2286387157894,-97.78954
+605,Snapology Austin,"1910 Fort View Rd, Austin, TX 78704",5.0,30.2305907,-97.7867809
+606,Summit Christian Academy,"2121 Cypress Creek Rd, Cedar Park, TX 78613",3.5,30.475321,-97.842254
+607,Mathnasium,"9600 Escarpment Blvd, Austin, TX 78749",5.0,30.2028345,-97.8788572
+608,Stepping Stone School - Hyde Park,"1007 E 40th St, Austin, TX 78751",5.0,30.29682,-97.71972
+609,Mi Casa Es Tu Casa,"2110 White Horse Trl, Ste B, Austin, TX 78757",5.0,30.339381,-97.7403547
+610,Region 13 Education Service Center,"5701 Springdale Rd, Austin, TX 78723",2.5,30.299694261354787,-97.67166826676366
+611,Abiding Love Lutheran Child Development Center,"4612 Convict Hill Rd, Austin, TX 78749",4.0,30.2178535461426,-97.8464508056641
+612,Camp Doublecreek,"3311 Kelly Ln, Pflugerville, TX 78660",4.5,30.501223,-97.647295
+613,Natureversity,"Austin, TX 78737",5.0,30.2213764190674,-97.9024047851562
+614,Bee Cave Elementary School,"14300 Hamilton Pool Rd, Austin, TX 78738",3.0,30.30856,-97.96766
+615,Julia's Garden Montessori,"Austin, TX 78704",5.0,30.25869,-97.76625
+616,The Little Gym of Round Rock,"3203 S Ih-35, Ste 590, Round Rock, TX 78664",4.0,30.475857,-97.670368
+617,Challenger School - Round Rock,"1521 Joyce Ln, Round Rock, TX 78664",4.0,30.495495447104776,-97.64953462946512
+618,Mathnasium,"1821 Westinghouse Rd, Ste 1140, Georgetown, TX 78626",4.5,30.5875045,-97.661264
+619,Great Oaks Elementary School,"16455 Great Oaks Dr, Round Rock, TX 78681",5.0,30.49560989999999,-97.7386286
+620,Nitro Swimming,"15506 W Hwy 71, Ste D, Bee Cave, TX 78738",4.0,30.31769,-97.98481
+621,Covenant United Methodist Church Preschool,"4410 Duval Rd, Austin, TX 78727",4.5,30.4138107299805,-97.7322006225586
+622,Summitt Elementary School,"12207 Brigadoon Ln, Austin, TX 78727",3.0,30.418541,-97.719204
+623,Kristens Kids,"1911 Mirabeau St, Austin, TX 78727",5.0,30.41755,-97.69288
+624,El Buen Pastor Early Childhood Development Center,"1208 Willow St, Austin, TX 78702",4.5,30.25909,-97.73209
+625,Tutoring Austin,"Austin, TX 78735",5.0,30.25479,-97.88913
+626,The Ivy International School,"9511 N Fm 620, Austin, TX 78726",4.0,30.4357529054235,-97.8388859629654
+627,SchoolAdmin,"4315 Guadalupe St, Ste 303, Austin, TX 78751",1.0,30.3091926574707,-97.7336502075195
+628,The Learning Experience - Buda,"825 Main St, Buda, TX 78610",4.5,30.08553447289641,-97.83639961311596
+629,Little Folks Bilingual Child Development Center,"5706 Reicher Dr, Austin, TX 78723",5.0,30.3033885955811,-97.677490234375
+630,Cedar Park Middle School,"2100 Sun Chase Blvd, Cedar Park, TX 78613",3.5,30.4755017761466,-97.8359985351562
+631,Westlake United Methodist Preschool,"1460 Redbud Trl, Austin, TX 78746",3.5,30.29505,-97.82094
+632,Carpe Diem Private Preschool - Cedar Park,"14009 Ronald Reagan Blvd, Leander, TX 78641",3.5,30.543828,-97.793197
+633,Inishfree Irish Dance Studio Austin,"12636 Research Blvd, Ste C109, Austin, TX 78759",5.0,30.4306074,-97.7642831
+634,Texas CHL,"5508 W Hwy 290, Ste 300, Austin, TX 78735",5.0,30.237877,-97.841591
+635,Austin Spanish Academy,"8650 Spicewood Springs Rd, Ste 123, Austin, TX 78759",5.0,30.43327,-97.77172
+636,Happy Hearts Bilingual Learning Center,"6615 Manchaca Rd, Austin, TX 78745",4.5,30.20592,-97.806
+637,French Classes,"Austin, TX 78702",4.5,30.26163,-97.71942
+638,Little Acorn Academy,"3200 Hatch Rd, Cedar Park, TX 78613",3.5,30.464908,-97.824567
+639,South University - Austin,"1220 W Louis Henna Blvd, Round Rock, TX 78681",2.5,30.4794339864195,-97.6899621373081
+640,Lionheart Children’s Academy at Celebration Church,"601 Westinghouse Rd, Georgetown, TX 78626",3.5,30.58555753520381,-97.68594393798692
+641,The Busy Bee Preschool,"11300 US Hwy 290 E, Ste 320, Manor, TX 78653",4.0,30.34974047454673,-97.5535766453675
+642,Easy Street Driving School,"6448 E Highway 290, Ste C100, Austin, TX 78723",4.0,30.324155,-97.694812
+643,Extend-A-Care For Kids,"4101 Tannehill Ln, Austin, TX 78701",5.0,30.2794770151377,-97.6738261431456
+644,Texas Defensive Firearms,"19101 Sotogrande Dr, Pflugerville, TX 78660",5.0,30.465648651123,-97.5795974731445
+645,Extend-A-Care For Kids,"6700 Arroyo Seco, Austin, TX 78757",5.0,30.3400039672852,-97.7317657470703
+646,Swim School of Austin,"1001 W Anderson Ln, austin, TX 78757",4.5,30.348364,-97.7155442
+647,Butterfly Christian Preschool,"3525 Bee Caves Rd, West Lake Hills, TX 78746",3.5,30.276167,-97.805407
+648,Merlin Works,"1023 Springdale Rd, Bldg 3, Austin, TX 78721",5.0,30.26757389842611,-97.69264354135952
+649,Northshore Christian Academy,"7301 Bar K Ranch Rd, Lago Vista, TX 78645",5.0,30.47305669999999,-97.990751
+650,Outbound Sailing,"16406 Stewart Rd, Lakeway, TX 78734",5.0,30.38105,-97.95927
+651,Austin South Christian Academy,"200 W Stassney Ln, Austin, TX 78745",3.0,30.2060298919678,-97.7760314941406
+652,Frog Tutoring,"106 E Sixth St, Ste 900, Austin, TX 78701",3.5,30.268147,-97.74231
+653,Austin School of Photography,"500 San Marcos St, Ste 111, Austin, TX 78702",5.0,30.26463984167904,-97.73287031165673
+654,Texas Tactical Training Institute,"Pflugerville, TX 78660",4.5,30.45205,-97.65142
+655,Westminster Presbyterian Day School,"3208 Exposition Blvd, Austin, TX 78703",5.0,30.30846,-97.76366
+656,Open Door Preschool Central,"1717 W 10th St, Austin, TX 78703",5.0,30.2801,-97.76223
+657,Blue House Preschool,"4015 Bee Cave Rd, West Lake Hills, TX 78746",4.0,30.28196,-97.810393
+658,Discover New Horizons Montessori,"900 Round Rock Ave, Ste 202, Round Rock, TX 78681",5.0,30.51226656241577,-97.69041052513124
+659,Achieve Learning Child Development Center,"509 M L K Dr, Elgin, TX 78621",5.0,30.342552,-97.364828
+660,The Salon Professional Academy Georgetown,"901 IH 35, Ste 102, Georgetown, TX 78626",3.0,30.636037,-97.687879
+661,Triumphant Love Lutheran Child Development Center,"9508 Great Hills Trl, Austin, TX 78759",5.0,30.3945,-97.75593
+662,Austin Education Services,"7801 N Lamar, Ste D-109, Austin, TX 78752",4.0,30.346071,-97.71148
+663,Anderson Mill KinderCare,"9706 Anderson Mill Rd, Austin, TX 78750",5.0,30.449445875149937,-97.79355460687282
+664,Sky Candy,"1023 Springdale Rd, Bldg 8A, Austin, TX 78721",5.0,30.267079,-97.692381
+665,The Oaks Montessori,"511 S Park Dr, Austin, TX 78704",5.0,30.23262,-97.76475
+666,Le Cordon Bleu,"3110 Esperanza Xing, Ste 100, Austin, TX 78758",3.5,30.40126,-97.721685
+667,Pflugerville Martial Arts Academy,"2700 West Pecan St, Ste 500, Pflugerville, TX 78660",4.0,30.450486685093747,-97.65583888424936
+668,Trinity Child Development Center,"5801 Westminster Dr, Austin, TX 78723",5.0,30.312185,-97.690139
+669,Travis Driving School,"13000 N Interstate Hwy 35, Unit 212, Austin, TX 78753",4.5,30.415604,-97.675513
+670,Hersh Parent Coaching,"Austin, TX 78758",5.0,30.382577896118164,-97.71024322509766
+671,Del Valle Independent School District,"4900 McKinney Falls Pkwy, Austin, TX 78744",4.0,30.19049,-97.71028
+672,The College of Health Care Professions,"6330 East Highway 290, Ste 180, Austin, TX 78723",4.0,30.330033,-97.715121
+673,MINDWORX Enrichment Programs & Camps,"111 N Vista Ridge Blvd, Ste 206, Cedar Park, TX 78613",5.0,30.5186594037553,-97.7906799316406
+674,Woodland Schoolhouse,"Austin, TX 78745",5.0,30.2046508789062,-97.7970352172852
+675,Dahlstrom Middle School,"3600 Fm 967, Buda, TX 78610",3.0,30.0976228880229,-97.88221182824157
+676,MoolahU,"4330 Bull Creek Rd, Ste 1418, Austin, TX 78731",3.5,30.2689905,-97.7408003
+677,Townlake Branch YMCA,"1100 W Cesar Chavez St, Austin, TX 78703",3.5,30.26896,-97.75697
+678,Kiddie Academy of Hutto,"480 Chris Kelley Blvd, Hutto, TX 78634",3.5,30.53315759142811,-97.56456091120128
+679,Crockett High School Cafeteria,"5601 Manchaca Rd, Austin, TX 78745",2.5,30.2132,-97.79669
+680,Sanford-Brown College,"9001 N IH-35, Austin, TX 78753",3.0,30.35399,-97.68967
+681,Brentwood Christian School,"11908 N Lamar Blvd, Austin, TX 78753",4.5,30.392058,-97.686694
+682,Tumblepro Austin,"8516 Anderson Mill Rd, Ste 102, Austin, TX 78729",3.5,30.45635,-97.76769
+683,Prep N' Play Academy,"1901 S Hwy 183, Unit D, Leander, TX 78641",4.5,30.554573,-97.843027
+684,Texas School of Bartenders,"5555 N Lamar Blvd, Austin, TX 78751",4.5,30.32330514468306,-97.7250101955883
+685,Four Seasons Community School,"3909 Adelphi Ln, Austin, TX 78727",4.0,30.42166,-97.71754
+686,ChampionsTX - Lake Travis,"2105 RR 620 S, Ste 201, Lakeway, TX 78734",4.0,30.341937521295964,-97.96545672944774
+687,The Children's Center of Austin,"6507 Jester Blvd, Bldg 2, Austin, TX 78750",4.0,30.36978,-97.799394
+688,KidzToPros Summer Camp - Austin International School,"4001 Adelphi Ln, Austin, TX 78727",1.0,30.422325,-97.71821
+689,Dev Bootcamp,"1705 Guadalupe St, Fl 1, Austin, TX 78701",1.0,30.27997,-97.74188
+690,Austin Child Guidance Center,"810 W 45th St, Austin, TX 78751",2.5,30.3135002521925,-97.7367901
+691,CHILD INCORPORATED CHILD DEVELOPMENT PROGRAM,"3001 S 1st St, Austin, TX 78704",5.0,30.23516,-97.76384
+692,Spicewood Karate Club,"4227 Tyx Trl, Spicewood, TX 78669",5.0,30.384376500063595,-98.09096711747652
+693,Target Driving School,"Manor, TX 78653",4.5,30.34239,-97.55737
+694,Highland Park Elementary,"4900 Fairview Dr, Austin, TX 78731",5.0,30.33069,-97.75995
+695,Austin Driving School,"7113 Burnet Rd, Austin, TX 78757",1.0,30.347179,-97.7347532
+696,Texas Preparatory School at Austin,"7540 Ed Bluestein Blvd, Austin, TX 78723",2.0,30.3235451,-97.6714609
+697,Switch Willo Stables,"4829 Switch Willo, Austin, TX 78727",3.5,30.417292225168257,-97.7353591023247
+698,Snapology - Round Rock,"1100 Gattis School Rd, Ste 240, Round Rock, TX 78664",5.0,30.49648,-97.66591
+699,Didactica Spanish Immersion Preschool,"2028 S Lamar Blvd, Austin, TX 78704",4.5,30.24916,-97.76853
+700,Texas Spanish Academy,"2471 South A.W. Grimes Blvd, Bldg 200, Bldg 200, Round Rock, TX 78664",5.0,30.488051,-97.649736
+701,Project Management Academy,"Hilton Garden Inn Austin NW/Arboretum, 11617 Research Blvd, Austin, TX 78759",5.0,30.415201,-97.744133
+702,Austin Community College - Hays Campus,"1200 Kohlers Crossing, Kyle, TX 78640",5.0,30.0279851,-97.8712158
+703,BigHeart CPR Training,"331 Baldwin St, Hutto, TX 78634",5.0,30.51452,-97.5638
+704,Ridgeview Middle School,"2000 Via Sonoma, Round Rock, TX 78665",3.0,30.4988021850586,-97.6242904663086
+705,Stepping Stone School - Leander/Cedar Park,"225 Block House Dr, Leander, TX 78641",4.0,30.54488,-97.83801
+706,Guiding Steps Montessori,"1000 E Bowman Rd, Round Rock, TX 78664",4.0,30.53028,-97.669433
+707,Austin Massage Academy,"13091 Pond Springs Rd, Ste 400, Austin, TX 78729",3.5,30.4436267389874,-97.7750138478851
+708,Todays Child Day Care,"9908 Dessau Rd, Austin, TX 78754",4.0,30.357267,-97.672309
+709,"Life Ki-do Martial Arts, Parenting & Life Education","7817 La Crosse Ave, Austin, TX 78749",5.0,30.193106689168182,-97.90871733978976
+710,British Swim School - Round Rock,"1000 N Aw Grimes Blvd, LA Fitness, Round Rock, TX 78665",1.0,30.520618,-97.656327
+711,National Institute of Technology,"9100 E Highway 290, Austin, TX 78724",1.5,30.330087,-97.655353
+712,Austin Children's Montessori,"8807 Manchaca Rd, Austin, TX 78748",4.0,30.18377,-97.81711
+713,Planet Childbirth,"Austin, TX 78745",5.0,30.206863918615763,-97.79738107430646
+714,RideSmart Motorcycle School,"1614 Haskell St, Austin, TX 78702",4.5,30.253839,-97.729401
+715,Chisolm Trail Middle School,"500 Oakridge Dr, Round Rock, TX 78681",1.0,30.502638,-97.702293
+716,PFTA Personal Trainer Academy Austin,"8500 Shoal Creek Blvd, 2-H, Austin, TX 78757",1.0,30.3706181769555,-97.7388880148887
+717,Kumon Math and Reading Center of Austin - Wells Branch,"2013 Wells Branch Pkwy, Ste 103, Austin, TX 78728",5.0,30.434962513729086,-97.68308847309284
+718,Tutor Doctor South Austin,"Austin, TX 78736",1.0,30.26109242581451,-97.9594365086666
+719,The Goddard School,"12101 Archeleta Blvd, Unit 1, Austin, TX 78739",5.0,30.17065,-97.8894
+720,Ronda's Montessori Garden,"4300 Mt Vernon Dr, Austin, TX 78745",1.0,30.2246,-97.77715
+721,Program Services Branch YMCA,"3208 Red River St, Austin, TX 78705",2.0,30.2918071746826,-97.7270965576172
+722,ESTEAM Learning Labs,"12 Lake Dr, Round Rock, TX 78665",5.0,30.5457167,-97.6696687
+723,Proverbs Place School House,"Kyle, TX 78640",5.0,29.98835,-97.87736
+724,Abacus Children's Academy,"2300 Rowe Lane Suite, Ste 104, Pflugerville, TX 78660",4.0,30.48371,-97.57354
+725,Green Sprout Preschool,"2108 E M Franklin Ave, Austin, TX 78723",4.5,30.2867,-97.69783
+726,Austin Educational Theatre,"11530 Manchaca Rd, Bldg 1, Austin, TX 78748",3.0,30.152413939069135,-97.83426690244217
+727,Precision Camera & Video,"2438 W Anderson Ln, Ste B-4, Austin, TX 78757",3.5,30.3575044,-97.73198078073943
+728,Round Rock Taekwondo,"1920 Sam Bass Rd, Ste 400, Round Rock, TX 78681",5.0,30.5237,-97.705415
+729,Skye & Wester Ross College,"The Old School, Kyle IV40 8EG, United Kingdom",5.0,57.286164,-5.586605
+730,Master School,"8400 Burleson-Manor Rd, Manor, TX 78653",3.0,30.2775039672852,-97.528190612793
+731,Sylvan Learning of South Austin,"4036 S Lamar, Ste 150, Austin, TX 78704",3.0,30.23758,-97.79381
+732,Baldwin Beauty Schools,"3005 S Lamar Blvd, Ste D109, Austin, TX 78704",4.0,30.24134,-97.78372
+733,Bright Horizons Family Center at Oak Hill,"6111 Davis Ln, Austin, TX 78749",3.5,30.211097,-97.8757059
+734,On Sight Vision and Hearing Screening Service,"8541 Copano Dr, Austin, TX 78749",5.0,30.204189,-97.854
+735,Community Truck Driving School,"1611 Chisholm Trl, Ste 470, Round Rock, TX 78681",4.0,30.52402,-97.69248
+736,Cordovan Art School & Pottery Parlor,"200 Buttercup Creek, Ste 122, Cedar Park, TX 78613",5.0,30.50297,-97.82098
+737,Kumon Math and Reading Center of Round Rock - West,"16560 N Rm 620 Rd, Ste 108, Round Rock, TX 78681",4.0,30.49757,-97.72381
+738,Kiddie Academy of Bee Cave,"16003 W Highway 71, Bee Cave, TX 78738",5.0,30.317400715714975,-97.9932655533006
+739,Primrose School of Dripping Springs,"13832 Sawyer Ranch Rd, Dripping Springs, TX 78620",5.0,30.1946135588944,-97.9995051560974
+740,Scudder Primary School,"400 Green Acres Dr, Wimberley, TX 78676",2.5,30.002,-98.1100971660965
+741,Allied Health Careers,"5424 W Hwy 290, Ste 105, Austin, TX 78735",1.0,30.237638,-97.839283
+742,Ann Webb Skin Institute,"11701 Jollyville Rd, Ste 103, Austin, TX 78759",4.5,30.419452,-97.751762
+743,Frost Driving School,"2330 Verna Lee Blvd, Ste 112, Harker Heights, TX 76548",3.0,31.05706,-97.654189
+744,DriversEd.com,"Austin, TX 78750",2.0,30.4138450622559,-97.8021850585938
+745,World Bible School,"13441 Limecreek Rd, Cedar Park, TX 78613",4.0,30.490127646518047,-97.860454
+746,Southwest School of Bible Studies,"8900 Manchaca Rd, Austin, TX 78748",5.0,30.1839,-97.81879
+747,Hatch House School - Sendero Campus,"3087 FM 1431, Round Rock, TX 78681",4.0,30.5489926,-97.7395812
+748,Sweet Briar Child Development Center,"205 Sandra St, Austin, TX 78745",4.0,30.2044,-97.77684
+749,Idea Public Schools - Austin,"2800 S IH 35 Frontage Rd, Ste 265, Austin, TX 78704",1.0,30.228659,-97.745157
+750,Live The Language,"2840 Gettysburg Dr, Austin, TX 78745",5.0,30.19433,-97.82812
+751,Cadence Academy Preschool,"12223 Cassady Drive, Austin, TX 78727",5.0,30.420958,-97.718463
+752,HALO Austin Leadership & Sports,"9501 Manchaca Rd, Austin, TX 78748",5.0,30.1775175333023,-97.8215796500444
+753,Cadence Academy Preschool,"12223 Cassady Drive, Austin, TX 78727",4.0,30.420958,-97.718463
+754,Neuron Garage,"Austin, TX 78751",5.0,30.3055711,-97.725376
+755,Cadence Academy Preschool,"2101 East Park Street, Cedar Park, TX 78613",4.5,30.517577,-97.792378
+756,Extend-A-Care For Kids,"4500 Manchaca Rd, Austin, TX 78745",4.0,30.228058,-97.790558
+757,Nicholson Early Childhood Education Center,"12233 RR 620 N, Ste 201, Austin, TX 78750",5.0,30.4624543,-97.814797
+758,Clifton Career Development School,"1519 Coronado Hills Dr, Austin, TX 78752",5.0,30.32625,-97.68732
+759,Country Home Learning Center,"6900 Escarpment Blvd, Austin, TX 78749",4.0,30.2298450469971,-97.8656845092773
+760,La Petite Academy of Austin,"9315 Chisholm Lane, Austin, TX 78748",3.0,30.17432,-97.810464
+761,ATX Doulas,"Austin, TX 78704",5.0,30.243501663208,-97.7655715942383
+762,Montessori School of the Epiphany,"13709 Highway 71 W, Bee Cave, TX 78738",4.0,30.307581131256555,-97.95889004110454
+763,Austin Medical Assistant School,"1139 W Braker Ln, Ste 103, Austin, TX 78758",1.0,30.3843884,-97.6925986
+764,Rapid Spanish,"7113 Burnet Rd, Ste 110, Austin, TX 78759",2.0,30.3734675918895,-97.708625793457
+765,The Butterfly Garden,"207 Chisholm Trail Rd, Round Rock, TX 78681",5.0,30.5078758,-97.6897824
+766,Christ Lutheran Learning Center,"510 Luther Dr, Georgetown, TX 78628",5.0,30.616193,-97.690117
+767,Four Elements Aerial and Creative Movement,"314 Congress Ave, Ste 200, Austin, TX 78701",2.5,30.176554094141512,-97.81973343181951
+768,Kumon Math and Reading Center of Austin - Uplands Ridge,"11805 Bee Cave Rd, Ste 300, Bee Cave, TX 78738",5.0,30.30766,-97.92092
+769,Primrose School at Rancho Sienna,"705 Via De Sienna Blvd, Georgetown, TX 78628",5.0,30.6326848,-97.8177938
+770,IQuest Global Enrichment Center,"5145 Ranch Rd 620 N, Ste F-110, Austin, TX 78732",5.0,30.3886459,-97.8843297
+771,Travis Driving School,"13740 N Hwy 183, Ste N2, Office D, Austin, TX 78750",5.0,30.458495,-97.79445
+772,Pflugerville Montessori School,"2500 Pecan St W, Pflugerville, TX 78660",4.5,30.4480838775635,-97.6532974243164
+773,DePratter and Young's Education Fund,"Austin, TX 78745",1.0,30.2669676732051,-97.7430178846557
+774,The Early Learner Private Preschool,"Buda, TX 78610",5.0,30.085278552992072,-97.8439960915488
+775,Mathnasium,"2906 S Bagdad Rd, Ste 240, Leander, TX 78641",5.0,30.538919,-97.847445
+776,Green House Day Care,"1170 County Rd 108, Hutto , CA 78634",5.0,30.56183968563431,-97.5705720870659
+777,Nuvani Institute,"801 E William Cannon Dr, Ste 115, Austin, TX 78745",3.0,30.190187,-97.773498
+778,Primrose School of Georgetown,"2205 Wolf Ranch Pkwy, Georgetown, TX 78628",4.5,30.6342287316437,-97.6997047662735
+779,Stepping Stone School - Round Rock /Teravista,"651 Teravista Pkwy, Round Rock, TX 78664",4.5,30.56365,-97.68144
+780,CEI Preschool Spanish Immersion School,"2381 Bebee Rd, Kyle, TX 78640",5.0,30.00614,-97.82786
+781,Waterloo Swimming,"12332 Ranch Rd 620 N, Bldg C, Austin, TX 78750",4.5,30.4634942,-97.8121666
+782,Aceable,"610 W 5th St, Ste 604, Austin, TX 78701",2.5,30.26916,-97.74957
+783,Loving Learning Preschool,"1345 Neans Dr, Austin, TX 78758",3.0,30.372713,-97.703407
+784,Small World Preschool,"111 E Logan St, Round Rock, TX 78664",4.5,30.502200221544857,-97.675542770148
+785,The Goddard School,"1730 Union St, Leander, TX 78641",4.5,30.558116,-97.84034
+786,Wee Wisdom School,"9905 Anderson Mill Rd, Austin, TX 78750",5.0,30.445235,-97.796715
+787,Extend-A-Care For Kids,"Austin, TX 78749",4.5,30.233196,-97.8456455
+788,Pflugerville Community Church Preschool,"1214 E Pfennig Ln, Pflugerville, TX 78660",5.0,30.4565,-97.6139199
+789,First Presbyterian Day School,"8001 Mesa Dr, Austin, TX 78731",4.5,30.36946,-97.75819
+790,Rally Ready Driving School,"304 Blue Jay Rd, Dale, TX 78616",5.0,29.9981042489212,-97.5536700393951
+791,Northwest Spanish School,"12101 W Parmer Ln, Ste 201, Cedar Park, TX 78613",5.0,30.52153628327623,-97.77458081503735
+792,Avenue Five Institute,"8620 Burnet Rd, Ste 300, Austin, TX 78757",4.0,30.3693343959428,-97.7288116713028
+793,Baldwin Beauty Schools,"8440 Burnet Rd, Ste 140, Austin, TX 78757",3.5,30.3663155,-97.7291946
+794,Abrakadoodle,"Austin, TX 78704",4.5,30.243501663208,-97.7655715942383
+795,Bright Bee Montessori,"900 Nelson Ranch Rd, Cedar Park, TX 78613",5.0,30.495,-97.83638
+796,Bright Beginnings Schoolhouse,"1600 Black Bear Dr, Manchaca, TX 78652",5.0,30.1369914,-97.8439986
+797,Casa De Ninos Bilingual Montessori School,"13584 Pond Springs Rd, Austin, TX 78729",4.0,30.45358,-97.79035
+798,School of Rock,"2525 W Anderson Ln, Ste 138, Austin, TX 78757",5.0,30.35532343276652,-97.73268637432211
+799,Solid Foundation Preschool,"2441 County Rd 112, Round Rock, TX 78665",5.0,30.5620458698,-97.6296820119023
+800,British Swim School at 24 Hour Fitness - Austin NW,"10616 Research Blvd, Austin, TX 78759",5.0,30.397413,-97.747868
+801,Capitol CHL,"Austin, TX 78737",5.0,30.1981506347656,-97.9844589233398
+802,Club Z,"12741 Research Blvd, Austin, TX 78759",4.0,30.4340324401855,-97.7664794921875
+803,Ashlie's Imagination Station Preschool,"12502 Scissortail Dr, Manchaca, TX 78652",4.5,30.135597,-97.829407
+804,Hello World,"Austin, TX 73301",5.0,30.2193908691406,-97.7475433349609
+805,Texas Driving School-Kyle,"1501 Bunton Creek Rd, Ste 107, Kyle, TX 78640",1.5,29.99807515275157,-97.84964015321906
+806,Central Texas Youth Ballet,"707 W Hwy 290, Dripping Springs, TX 78620",5.0,30.192237534207308,-98.09829504968022
+807,Dancers Workshop,"11150 Research Blvd, Ste 205, Austin, TX 78759",4.5,30.406806,-97.746772
+808,Austin Driving School,"10401 Anderson Mill Rd, Austin, TX 78750",1.5,30.446514,-97.805618
+809,Tap-n-Toe School of Dance,"4308 N Quinlan Park Rd, Austin, TX 78732",5.0,30.38275,-97.8843799
+810,Forza Campiones,"1909 Hydro Dr, Austin, TX 78728",5.0,30.4307793190043,-97.682229452933
+811,Nameless Valley Ranch Summer Camp,"23421 Nameless Rd, Leander, TX 78641",4.0,30.5270042,-97.9279479
+812,KIS Education,"1645 Main St, Ste A, Buda, TX 78610",4.0,30.0882434844971,-97.8228225708008
+813,Laugh and Learn Mother's Day Out,"602 W Center St, Kyle, TX 78640",5.0,29.9892806,-97.8805455
+814,British Swim School Williamson,"Round Rock, TX 78665",3.5,30.5611476898193,-97.6819305419922
+815,EduCenter by Nets,"1900 Cypress Creek Rd, Ste 101, Cedar Park, TX 78613",5.0,30.4748993,-97.8405991
+816,Skillpoint Alliance,"8868 Research Blvd, Ste 505, Austin, TX 78758",3.5,30.369182,-97.7213
+817,Children's Lighthouse Cedar Park,"1801 Bagdad Rd, Cedar Park, TX 78613",3.0,30.5284359,-97.845198
+818,My Little Treasures,"7900 Portland Trl, Austin, TX 78729",5.0,30.45918,-97.75457
+819,Nurture Family Counseling,"201 S Lakeline Blvd, Ste 604, Cedar Park, TX 78613",5.0,30.500282,-97.848358
+820,Frost Driving School,"2805 N Lp 121, Ste C, Belton, TX 76513",4.5,31.086365,-97.468005
+821,Aveda Arts & Sciences Institute - Austin,"6001 Middle Fiskville Rd, Austin, TX 78752",3.0,30.3225614987802,-97.7092514447814
+822,Learn and Play Preschool,"9207 Amanda Dr, Austin, TX 78729",5.0,30.4609203,-97.7756729
+823,Extend-A-Care For Kids,"9400 Texas Oaks Dr, Austin, TX 78748",5.0,30.17529,-97.81435
+824,Huntington Learning Center Round Rock,"2800 S Interstate 35, Ste 150, Round Rock, TX 78681",4.0,30.4815912265953,-97.6778122896881
+825,Primrose School of Four Points,"6606 Sitio Del Rio Blvd, Austin, TX 78730",4.5,30.391451,-97.843235
+826,Inside Outside School,"5530 Killingsworth Ln, Pflugerville, TX 78660",4.5,30.396442168665,-97.5982535130082
+827,The Expedition School,"Austin, TX 78702",4.5,30.2487495673182,-97.72781422149582
+828,Tree House Early Learning Center,"989 Old McDade Rd, Elgin, TX 78621",5.0,30.33765,-97.35451
+829,Camp Fire,"1603 E 38th 1/2 St, Austin, TX 78722",3.0,30.2918567657471,-97.7144470214844
+830,Mariposa Montessori School,"3338 Paisano Trl, Austin, TX 78745",4.5,30.2089,-97.828874
+831,Mathnasium,"110 N Interstate 35, Ste 350, Round Rock, TX 78681",5.0,30.5081518,-97.6865693
+832,Sacred Heart Catholic School,"5909 Reicher Dr, Austin, TX 78723",5.0,30.30485243958688,-97.6756636
+833,Katherine Anne Porter School,"515 Fm 2325, Wimberley, TX 78676",3.0,30.0030097961426,-98.1069107055664
+834,Gap-Plc,"12108 Salem House Way, Austin, TX 78753",2.0,30.38904591109972,-97.6625294079564
+835,Hack Reactor Austin,"119 Nueces St, Austin, TX 78701",5.0,30.2655566,-97.7496985
+836,Kids 'R' Kids Learning Academy of North Austin,"15111 Avery Ranch Blvd, Austin, TX 78717",4.5,30.498569,-97.772176
+837,Baby Signs by Tina C,"Austin, TX 78731",5.0,30.35551,-97.75197
+838,The Children's Courtyard on Harris Branch Parkway,"11012 Harris Branch Parkway, Austin, TX 78754",2.5,30.3444480895996,-97.6141967773438
+839,Wiggles N Giggles Child Development Center,"374 Fm 1209, Bastrop, TX 78602",5.0,30.1287803649902,-97.4303970336914
+840,INIC Preschool - Spanish Immersion,"2100 W William Cannon Dr, Ste L, Austin, TX 78745",4.5,30.2036413157919,-97.8082356456604
+841,Children's Discovery Center,"4112 Duval St, Austin, TX 78751",4.5,30.30344,-97.7271899
+842,Gray Whale Swim School,"Round Rock, TX 78681",5.0,30.51604,-97.6943
+843,Learning Lions Christian School,"1168 Walter Hoffman Rd, Cedar Creek, TX 78612",5.0,30.055322,-97.4693955
+844,Highland Park Elementary School,"428 Kingston Lacy Blvd, Pflugerville, TX 78660",5.0,30.4769688210059,-97.6142638474493
+845,Bright Horizons Family Center at Braker Lane,"2411 W Braker Ln, Austin, TX 78758",4.0,30.38965,-97.71751
+846,Tom's Dive & Swim,"5909 Burnet Rd, Austin, TX 78757",5.0,30.33518,-97.73926
+847,Happy Hearts Bilingual Learning Center,"1112 W Slaughter Ln, Austin, TX 78748",4.0,30.1743011474609,-97.8124084472656
+848,School of Rock,"4500 E Palm Valley Blvd, Ste 136, Round Rock, TX 78665",5.0,30.533108,-97.616333
+849,Austin Driving School,"100 12th St Ste, Ste 104, Pflugerville, TX 78660",1.5,30.44345,-97.630627
+850,Crystal Challenges,"1509 Rhapsody Ridge Dr, Cedar Park, TX 78613",5.0,30.4820499420166,-97.850212097168
+851,College Funding Specialists,"12885 N Hwy 183, Austin, TX 78750",2.5,30.436759,-97.772484
+852,Stepping Stone School - Pflugerville,"2001 Wells Branch Pkwy, Austin, TX 78728",4.5,30.43456,-97.68162
+853,Cheer Skillz Academy,"407 W 9th St, Taylor, TX 76574",5.0,30.5750253,-97.4135598
+854,Crestview United Methodist Preschool,"1300 Morrow St, Austin, TX 78757",5.0,30.3475685119629,-97.7230606079102
+855,Band Aid School of Music,"2309 Thornton,, Studio E, Austin, TX 78704",4.0,30.2448074395429,-97.7714548325409
+856,Austin Film and Maker Camp,"3315 El Salido Pkwy, Cedar Park, TX 78613",2.0,30.460145,-97.827369
+857,Childrens Garden Preschool,"2100 S Bagdad Rd, Leander, TX 78641",4.0,30.5474203814343,-97.8520379822494
+858,Ms Cathy Swim Austin,"300 Woodlake Cir, Austin, TX 78733",4.5,30.32471,-97.87458
+859,Barbeques Galore Cooking School,"12918 Shops Pkwy, Ste 500, Bee Cave, TX 78738",4.0,30.30715,-97.94472
+860,Casey Elementary,"9400 Texas Oaks Dr, Austin, TX 78748",3.5,30.1770576140062,-97.8147123526647
+861,The Concordia MBA,"11400 Concordia University Dr, Austin, TX 78726",2.5,30.42014,-97.84012
+862,College Tutors,"4412 Spicewood Springs Rd, Ste 104, Austin, TX 78759",3.0,30.373351851778917,-97.75820440768597
+863,Pflugerville Driving School,"1501 W Pecan St, Ste 104, Pflugerville, TX 78660",4.0,30.446920130966923,-97.63700491996256
+864,Extend-A-Care For Kids,"8301 Furness Dr, Austin, TX 78753",2.0,30.342336695836934,-97.6884695600873
+865,Central Market - Westgate,"4477 S Lamar Blvd, Austin, TX 78745",4.0,30.2312452493901,-97.7971665716953
+866,Apple Tree Learning Center,"4630 W Gate Blvd, Austin, TX 78745",3.5,30.2299,-97.8014
+867,Stepping Stone School - Plum Creek/Buda,"1020 Lightfoot St, Kyle, TX 78640",3.5,30.027373,-97.889162
+868,The Sunshine Cottage Preschool and Development Center,"402 Lewis Ln, Buda, TX 78610",4.0,30.1357650756836,-97.8683013916016
+869,Harmony Science Academy Cedar Park,"12200 Anderson Mill Rd, Austin, TX 78726",2.5,30.4576767350818,-97.8320965915918
+870,Winning Learners,"6705 Hwy 290, Ste 502-223, Austin, TX 78735",5.0,30.2338066,-97.8663559
+871,Lasting Learners Academy,"536 S Brook Dr, Leander, TX 78641",5.0,30.58574,-97.86892
+872,The Children's Courtyard of Austin,"11718 Metric Blvd, Austin, TX 78758",3.0,30.3980579376221,-97.7058029174805
+873,Jackie's Performing Arts Preschool,"11530 Manchaca Rd, Austin, TX 78748",2.5,30.152399,-97.833837
+874,Primrose School of West Lake Hills,"3423 Bee Cave Rd, Ste A, Austin, TX 78746",3.5,30.275262,-97.803876
+875,Montessori Kids Universe - Hutto,"2100 Muirfield Bend Dr, Ste 100, Hutto, TX 78634",4.5,30.50533,-97.58094
+876,Del Valle Independent School District,"5604 Fm 1327, Creedmoor, TX 78610",1.0,30.089175,-97.722266
+877,The Learning Experience - Leander,"248 W Metro Rd, Leander, TX 78641",4.5,30.586242,-97.859537
+878,Virginia College,"14200 N Interstate Hwy 35, Austin, TX 78728",1.0,30.431902,-97.671239
+879,Learning Tree Day School,"2106 Rawhide Dr, Round Rock, TX 78681",4.0,30.488618,-97.681328
+880,Central Texas Gun Works,"321 W Ben White Blvd, Ste 203, Austin, TX 78704",4.0,30.223799706406098,-97.76735264315222
+881,Bright Kids Child Development Center,"10713 N Fm 620, Ste 101, Austin, TX 78726",5.0,30.4466303036652,-97.8311734719879
+882,Avenue Five Institute,"500 E Ben White Blvd, Austin, TX 78704",5.0,30.221865879814807,-97.7562613801085
+883,Primrose School of Round Rock North,"4271 Sunrise Rd, Round Rock, TX 78665",4.0,30.560341,-97.678924
+884,The Episcopal Church of the Holy Spirit,"301 Hays Country Acres Rd, Dripping Springs, TX 78620",4.0,30.191596,-98.041584
+885,Vista Ridge High School,"200 S Vista Ridge Blvd, Cedar Park, TX 78613",3.0,30.516515168601607,-97.78787020243035
+886,Tree House Kids,"16051 Dessau Rd, Ste H, Pflugerville, TX 78660",4.0,30.434162,-97.615279
+887,Child's Day,"2525 Wallingwood Dr, Ste 100, Austin, TX 78746",4.0,30.263924,-97.784543
+888,Griffin School,"5001 Evans Ave, Austin, TX 78751",4.0,30.31288,-97.71933
+889,The Love of China,"8650 Spicewood Springs Rd, Ste 116, Austin, TX 78759",3.5,30.43327,-97.77172
+890,Lake Life,"Austin, TX 78730",4.0,30.36494070023298,-97.83736920925428
+891,Gattis Elementary School,"2920 Round Rock Ranch Blvd, Round Rock, TX 78665",3.0,30.499079,-97.641564
+892,The Fellowship Christian Academy,"3379 Gattis School Rd, Round Rock, TX 78664",4.5,30.49558051538572,-97.62887925510056
+893,The Goddard School,"2064 Kauffman Lp, Georgetown, TX 78628",3.5,30.641142524999395,-97.81878550613654
+894,ISA - International Studies Abroad,"5301 Southwest Pkwy, Austin, TX 78735",2.0,30.2421177,-97.8420947
+895,Ebenezer Child Development Center,"1014 E 10th St, Austin, TX 78702",3.5,30.26876,-97.72997
+896,First Class Child Development Center,"1901 National Park Blvd, Austin, TX 78747",1.5,30.15484,-97.788924
+897,Williamson County Infant Swim,"Round Rock, TX 78664",4.5,30.51038,-97.6655
+898,Faraday's Kitchen Store,"12918 Shops Pkwy, Ste 540, Bee Cave, TX 78738",4.5,30.30715,-97.94473
+899,Greater Austin Dance Academy,"2641 Forest Creek Dr, Round Rock, TX 78665",4.0,30.5056304,-97.6443796
+900,House of Little Angels,"5611 W Gate Blvd, Austin, TX 78745",2.5,30.21952554833601,-97.8064179
+901,My Friend's House Child Development Center,"7050 Village Center Dr, Austin, TX 78731",5.0,30.35389,-97.756471
+902,Capital City Kids 2,"1900 Gregg Ln, Manor, TX 78653",3.0,30.401835,-97.633382
+903,One of the Kids,"2105 E Park St, Cedar Park, TX 78613",1.0,30.51764815235116,-97.79165643337804
+904,Hilltop Children's Center,"9415 W Hwy 29, Liberty Hill, TX 78642",4.5,30.6437897,-97.8451942
+905,Art71 Studio,"4208 Crawford Rd, Spicewood, TX 78669",5.0,30.36534,-98.06617
+906,Stepping Stone School - Parmer/McNeil,"7700 West Parmer Ln, Austin, TX 78729",4.0,30.455965,-97.749692
+907,The Learning Experience - Cedar Park,"800 W Whitestone Blvd, Cedar Park, TX 78613",4.5,30.517833071340952,-97.83796196047638
+908,Emerson Academy,"1 Valley View Dr, Round Rock, TX 78664",4.0,30.49795,-97.60475
+909,Honey Bear Kindercare,"2601 Bliss Spillar Rd, Manchaca, TX 78652",5.0,30.136460672756098,-97.85887284490336
+910,Brass Ovaries,"6039 N Interstate Hwy 35, Ste B, Austin, TX 78723",4.5,30.321408,-97.705356
+911,Explorers Adventure School,"2105 Ranch Rd 620 S, Lakeway, TX 78734",5.0,30.34129,-97.96404
+912,First Foundations Preschool,"11902 Anderson Mill Rd, Austin, TX 78726",5.0,30.456979,-97.826027
+913,Renzi Tutoring and Guitar,"4 Galloping Rd, Round Rock, TX 78681",5.0,30.51504,-97.69082
+914,Little Munchkins,"2020 Denton Dr, Austin, TX 78758",4.5,30.3853069245815,-97.7129059284925
+915,Hope Children's Center,"11512 Olson Dr, Austin, TX 78750",5.0,30.445488629868535,-97.8054842301118
+916,zero gravity gymnastics,"2041 S Hwy 183 Leander, Leander, TX 78641",4.0,30.551355,-97.842532
+917,ReadyGoSwim,"1201 S Interstate 35, Round Rock, TX 78664",4.5,30.50033,-97.6788032
+918,First Class Child Development Center,"1215 Old Black Colony Rd, Buda, TX 78610",3.5,30.0854978,-97.8743052
+919,Champions School of Real Estate - Austin Campus,"13801 Ranch Rd 620 N, Ste 100, Austin, TX 78717",4.5,30.47322606590325,-97.7721633
+920,Austin Montessori School,"5006 Sunset Trl, Austin, TX 78745",3.5,30.22763542665224,-97.8050374
+921,Stepping Stone School - Northcross/Domain,"8419 Bowling Green, Austin, TX 78757",4.5,30.36563,-97.72702
+922,Velocity Music Academy,"4301 West William Cannon Dr, Ste B-260, Austin, TX 78749",5.0,30.221413177494306,-97.84108000246754
+923,Kiddie Academy of Pflugerville,"2617 Kelly Ln, Pflugerville, TX 78660",4.0,30.4652778842484,-97.5808795094599
+924,AOMA Graduate School of Integrative Medicine,"4701 W Gate Blvd, Austin, TX 78745",4.0,30.2286539,-97.8006358
+925,Pathways Child Development Center,"1100 Egger Ave, Round Rock, TX 78664",3.5,30.51917,-97.67386
+926,Wilco Driving School,"201 S Lakeline Blvd, Ste 901, Cedar Park, TX 78613",5.0,30.50028,-97.84837
+927,Primrose School of Crystal Falls,"1781 Osage Dr, Leander, TX 78641",3.0,30.5383075586732,-97.8626435995102
+928,Serendipity Learning Center,"900 Nelson Ranch Rd, Cedar Park, TX 78613",3.0,30.495,-97.83638
+929,National American University,"13801 Burnet Rd, Ste 300, Austin, TX 78727",3.5,30.4378929138184,-97.6970977783203
+930,SoccerZone Lakeline,"920 Old Mill Rd, Cedar Park, TX 78613",4.0,30.4753,-97.82303
+931,Hatch House School,"125 S Lakeline Blvd, Cedar Park, TX 78613",3.5,30.500605,-97.847853
+932,Aesthetic Medical Educators Training,"320 N Main St, Ste 102, Buda, TX 78610",2.0,30.08345,-97.84259
+933,Starbright Preschool,"3900 Valley View Rd, Austin, TX 78704",3.5,30.23359,-97.78366
+934,Austin Dental Assistant School,"9600 Escarpment Blvd, Ste 770, Austin, TX 78749",4.5,30.202987,-97.8789819
+935,Austin Youth Fitness,"Austin, TX 78703",5.0,30.294143617626524,-97.76570253957615
+936,Bright Start Learning Center,"751 S Bell Blvd, Cedar Park, TX 78613",4.5,30.50245,-97.8182999
+937,Heartsong Music,"2913 Northland Dr, Austin, TX 78757",5.0,30.3588512,-97.734385
+938,Peace Lutheran Church,"10625 N Fm 620, Austin, TX 78726",5.0,30.44568,-97.831314
+939,Jardín del Saber,"Leander, TX 78641",5.0,30.55635643005371,-97.8643569946289
+940,Creative Kids Preschool,"208 Hwy 79 E, Hutto, TX 78634",2.5,30.544079,-97.542219
+941,Hays Communities YMCA,"465 Buda Sportsplex Dr, Buda, TX 78610",3.5,30.106523875755,-97.877197265625
+942,Blooming Scholars Montessori School,"405 W Main St, Round Rock, TX 78664",5.0,30.50726,-97.68226
+943,Emler Swim School of Austin - Anderson Mill,"13492 N Hwy 183, Ste 500, Austin, TX 78750",4.5,30.449406,-97.792079
+944,Reed Elementary School,"1515 Little Elm Trl, Cedar Park, TX 78613",4.5,30.4936858388047,-97.8174658119678
+945,Austin Independent School District,"5408 Westminster Dr, Austin, TX 78723",5.0,30.3067607879639,-97.6906814575195
+946,Total Rider Motorcycle,"304 Carlos G Parker Blvd NW, Taylor, TX 76574",4.0,30.6001282,-97.4304775
+947,Austin Dental Assistant School,"209 Denali Pass, Ste B, Cedar Park, TX 78613",4.5,30.521338,-97.775963
+948,Kiddie Academy of Buda,"2448 Main St, Buda, TX 78610",3.0,30.08926,-97.80979
+949,The Learning Experience - Brushy Creek,"15542 Ranch Rd 620 N, Austin, TX 78717",4.0,30.4833288257602,-97.7432606830031
+950,Star Montessori School,"3115 Kenai Dr, Bldg 1, Cedar Park, Austin, TX 78613",3.0,30.523245,-97.776189
+951,National Driver Training,"1901 Ranch Rd 620N, Lakeway, TX 78734",3.5,30.3443699,-97.9650803
+952,Cedar Park Montessori,"400 E Whitestone Blvd, Cedar Park, TX 78613",5.0,30.52153,-97.82557
+953,Stonepoint Driving School,"1320 Arrow Point Dr, Ste 501-Bldg V, Cedar Park, TX 78613",3.5,30.535492423659548,-97.80115004781187
+954,Whitestone Elementary School,"2000 Crystal Falls Pkwy, Leander, TX 78641",1.0,30.547777508596873,-97.87002108541591
+955,Sylvan Learning of Round Rock,"2000 South Ih 35, Q14, Round Rock, TX 78681",3.0,30.4905547715444,-97.6801103120744
+956,Cornerstone Child Development Center,"1204 Pecan St W, Pflugerville, TX 78660",1.0,30.445,-97.63092
+957,Esquina Tango,"209 Pedernales, Austin, TX 78702",4.5,30.2559261322021,-97.7157592773438
+958,A+ Kids Playschool,"17257 Tobermory Dr, Pflugerville, TX 78660",5.0,30.4683,-97.64013
+959,Country Home Learning Center,"13120 US Hwy 183 N, Austin, TX 78750",4.5,30.439933,-97.781174
+960,Brodie Child Develpoment Center,"8105 Brodie Ln, Austin, TX 78745",1.0,30.202024,-97.83757
+961,Tumble Tech,"1301 Toro Grande Ave, Cedar Park, TX 78613",4.0,30.5420538144148,-97.7768914946846
+962,Emler Swim School of Round Rock,"2800 I-35 Frontage Rd, Ste 190, Round Rock, TX 78681",4.5,30.4817008811367,-97.6768526305664
+963,Shirley McPhail School of Dance,"8018 Mesa Dr, Austin, TX 78731",4.5,30.3705942335238,-97.7587732071692
+964,Round Rock Montessori School,"1818 Sam Bass Rd, Round Rock, TX 78681",4.0,30.522632,-97.704185
+965,Barton Creek Elementary - Eanes Independent School District,"1314 Patterson Rd, Austin, TX 78733",5.0,30.3073043283427,-97.8808705975533
+966,The Homegrown School,"16407 Decker Creek Dr, Manor, TX 78653",5.0,30.249916,-97.558326
+967,Northwest Family Branch YMCA,"5807 McNeil Dr, Austin, TX 78729",3.5,30.4460655737288,-97.7335043895451
+968,More Than a Teacher,"12034 Research Blvd, Ste 5, Austin, TX 78759",2.5,30.4253352,-97.7528654
+969,Austin Reptile Shows,"Leander, TX 78641",5.0,30.5343322753906,-97.9120178222656
+970,Total Rider,"4601 Pecan Brook Dr, Wilhelmina Delco Ctr, Austin, TX 78704",4.5,30.31778,-97.6607499
+971,Twin Lakes Family YMCA,"204 East Little Elm Trl, Cedar Park, TX 78613",3.5,30.4942081180514,-97.8103903584222
+972,Peak Performance Martial Arts,"500 Brushy Creek Rd, Ste 504, Cedar Park, TX 78613",3.5,30.504365,-97.8136897
+973,"First Response Medical Training, LLC","575 Round Rock W Dr, Ste K400, Round Rock, TX 78681",1.0,30.504078,-97.690338
+974,Sprouting Star Children’s Academy,"15913 Windermere Dr, Pflugerville, TX 78660",2.5,30.4483852386475,-97.6472778320312
+975,PromiseLand Learning Center,"1504 E 51st St, Austin, TX 78723",4.0,30.305826,-97.701365
+976,Capital City Kids Daycare,"13107 Dessau Rd, Austin, TX 78754",2.5,30.399489,-97.640508
+977,Jupiter House Preschool,"1602 Medical Pkwy, Cedar Park, TX 78613",3.5,30.5301,-97.80464
+978,My Time Kids Academy,"3698 Ranch Rd 620 S, Ste 103, Bee Cave, TX 78738",5.0,30.31809,-97.95132
+979,Mad Science,"Austin, TX 78709",3.5,30.23,-97.85
+980,Aqua-Tots Swim Schools Cedar Park,"1335 E Whitestone Blvd, Bldg Y, Ste 100, Cedar Park, TX 78613",3.5,30.528657,-97.814031
+981,Giggles Learning Center,"15904 Central Commerce Dr, Pflugerville, TX 78660",2.0,30.45125,-97.65507
+982,Tutor Time of Austin,"6801 Dallas Drive, Austin, TX 78729",3.5,30.449552,-97.747337
+983,Ashley’s Playhouse,"13343 N US 183 Svrd Nb, Ste 200, Austin, TX 78750",4.5,30.44649,-97.786601
+984,Forest North Elementary School,"13414 Broadmeade Ave, Austin, TX 78729",1.0,30.470661,-97.781769
+985,The Learning Experience - Georgetown,"1821 Westinghouse Rd, Georgetown, TX 78626",4.5,30.58744974006764,-97.66052811840808
+986,The Children's Courtyard on North Mopac Expressway,"12336 North Mopac Expressway, Austin, TX 78758",3.5,30.41737,-97.70635
+987,Kumon Math and Reading Center of Austin - Avery Ranch,"14900 Avery Ranch Blvd, Ste A-200, Austin, TX 78717",5.0,30.49846,-97.77788
+988,Zilker Elementary School,"1900 Bluebonnet Ln, Austin, TX 78704",5.0,30.2526135787585,-97.7745067625421
+989,General Assembly Austin,"600 Congress Ave, Austin, TX 78701",4.0,30.26847,-97.74312
+990,Kiddie Academy of Round Rock,"5080 North Aw Grimes Blvd, Round Rock, TX 78665",3.0,30.573651,-97.651617
+991,Cedar Park Charter Academy,"201 Buttercup Creek Blvd, Cedar Park, TX 78613",3.0,30.5036128867826,-97.8219454362988
+992,Texas School for the Deaf,"1102 S Congress Ave, Austin, TX 78704",4.5,30.253445,-97.751262
+993,College Nannies and Tutors Cedar Park,"11901 W Parmer Ln, Ste 220, Cedar Park, TX 78613",5.0,30.519482,-97.774284
+994,Stepping Stone School - McNeil/Jollyville,"6616 McNeil Dr, Austin, TX 78729",4.5,30.43912,-97.75644
+995,Buda's Bright Beginnings,"1750 Fm 967, Buda, TX 78610",4.0,30.1010217145944,-97.8522274779785
+996,Kids R Kids of Round Rock,"1455 Red Bud Ln, Round Rock, TX 78664",3.5,30.50782,-97.61269
+997,Total Rider - Motorcycle Safety Training,"500 Vfw Rd, Austin, TX 78753",4.0,30.392645,-97.66889
+998,Children's Lighthouse Round Rock,"4350 E Old Settlers Blvd, Round Rock, TX 78665",4.5,30.5471154822283,-97.616971
+999,Papas And Nanas Daycare,"11301 Hornsby St, Austin, TX 78753",1.0,30.38028,-97.6832
+1000,CHASCO Family YMCA,"1801 N Is Hwy 35, Round Rock, TX 78664",3.0,30.526307709044783,-97.68810006938298

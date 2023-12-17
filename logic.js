@@ -1,3 +1,24 @@
+$(document).ready(function(){
+  $('#executeQueryBtn').click(function(){
+      var selectedZipCode = $('#zipCodeSelector').val();
+      $.ajax({
+          type: "POST",
+          url: "/execute_query",
+          data: {selectedZipCode: selectedZipCode},
+          success: function(response){
+              var resultDiv = $("#resultDiv");
+              resultDiv.empty();
+              if(response.result.length > 0){
+                  response.result.forEach(function(row){
+                      resultDiv.append('<p>' + row.join(' - ') + '</p>');
+                  });
+              } else {
+                  resultDiv.append('<p>No results found for this zip code.</p>');
+              }
+          }
+      });
+  });
+});
 // Function to fetch data from data.json
 async function fetchData() {
   try {

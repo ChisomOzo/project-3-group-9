@@ -1,0 +1,79 @@
+.container {
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.2fr 1.5fr
+    1.2fr 0.8fr;
+    grid-template-areas: 
+    "nav nav nav nav"
+    "sideBar map map amenities"
+    "sideBar propertyInfo chart amenities "
+    "sideBar propertyInfo chart amenities";
+    grid-gap: 0.2rem;
+    
+}
+nav {
+    background-color: rgba(192, 137, 209, 0.562);
+    grid-area: nav;
+    border-radius: 0.5rem;
+}
+#details {
+    text-align: center;
+    background-color: rgba(192, 137, 209, 0.562);
+    grid-area: PropertyInfo;
+    border-radius: 0.5rem;
+}
+.property-details {
+    text-align: center;
+    background-color: rgba(192, 137, 209, 0.562);
+    grid-area: PropertyInfo;
+    border-radius: 0.5rem;
+
+}
+#propertyInfo {
+    background-color: rgba(192, 137, 209, 0.562);
+    grid-area: propertyInfo;
+    border-radius: 0.5rem;
+}
+
+#sideBar {
+    background-color: rgba(192, 137, 209, 0.562);
+    grid-area: sideBar;
+    border-radius: 0.5rem;
+    overflow-y: auto;
+}
+.search-container {
+    background-color: rgba(192, 137, 209, 0.562);
+    grid-area: nav;
+    border-radius: 0.5rem;
+}
+#results {
+    text-align: center;
+    background-color: rgba(192, 137, 209, 0.562);
+    grid-area: sideBar;
+    border-radius: 0.5rem;
+    overflow-y: auto;
+}
+#result-box{
+    text-align: center;
+    background-color: rgba(192, 137, 209, 0.562);
+    grid-area: sideBar;
+    border-radius: 0.5rem;
+    overflow-y: auto;
+}
+
+#map {
+    background-color: rgba(192, 137, 209, 0.562);
+    grid-area: map;
+    border-radius: 0.5rem;
+}
+#chart {
+    background-color: rgba(192, 137, 209, 0.562);
+    grid-area: chart;
+    border-radius: 0.5rem;
+}
+#amenities {
+    background-color: rgba(192, 137, 209, 0.562);
+    grid-area: amenities;
+    border-radius: 0.5rem;
+}
