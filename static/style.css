@@ -76,4 +76,12 @@ nav {
     background-color: rgba(192, 137, 209, 0.562);
     grid-area: amenities;
     border-radius: 0.5rem;
+    margin-bottom: 2px; /* Adjust the margin bottom as needed */
+    padding-bottom: 1px; /* Adjust the padding bottom as needed */
+}
+#amenities .titles {
+    font-size: 13px; /* Adjust the font size for list items */
+    line-height: 1; /* Adjust line height for list items */
+    margin-bottom: 2px; /* Adjust the margin between list items */
+    /* Other styling for list items */
 }

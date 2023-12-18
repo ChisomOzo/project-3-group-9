@@ -165,8 +165,7 @@ function displayPropertyDetails(property) {
             if (nearbyParks.length > 0) {
                 nearbyParks.forEach(park => {
                     amenitiesDiv.append('div')
-                    amenitiesDiv.style('font-size', 'small')
-                    amenitiesDiv.style('margin-bottom', '12px')
+                    
                         
                         const parkName = amenitiesDiv.append('p').text(`Park Name: ${park.park_name}`);
                         const parkRating = amenitiesDiv.append('p').text(`Park Ratings: ${park.park_ratings}`);
@@ -174,6 +173,7 @@ function displayPropertyDetails(property) {
             } else {
                 amenitiesDiv.append('div')
                     .text('No nearby parks found.');
+                    
             }
         })
         .catch(function(error) {
@@ -193,22 +193,106 @@ function displayPropertyDetails(property) {
             if (nearbySchools.length > 0) {
                 nearbySchools.forEach(school => {
                     amenitiesDiv.append('div')
-                    amenitiesDiv.style('font-size', 'small')
-                    amenitiesDiv.style('margin-bottom', '12px')
+                    
                         
                         const schoolName = amenitiesDiv.append('p').text(`School Name: ${school.school_name}`);
                         const schoolRating = amenitiesDiv.append('p').text(`School Ratings: ${school.school_ratings}`);
                 });
             } else {
                 amenitiesDiv.append('div')
-                    .text('No nearby parks found.');
+                    .text('No nearby school found.');
+                    
             }
         })
         .catch(function(error) {
-            console.error('Error fetching property parks data:', error);
+            console.error('Error fetching school data:', error);
         });
+    // Restaurants record
+    d3.json('/restaurants')
+        .then(function(restuData) {
+        console.log(restuData)
+        // Filter parks based on the selected property's zip code
+        const nearbyRestu = restuData.filter(restaurant => restaurant.zipcode === property.zipcode).slice(0, 1);
+    
+        // Display nearby parks in amenitiesDiv
+        const amenitiesDiv = d3.select('#RestuList');
+        amenitiesDiv.selectAll('*').remove();
+    
+        if (nearbyRestu.length > 0) {
+            nearbyRestu.forEach(restaurant => {
+                        amenitiesDiv.append('div')
+                        
+                            
+                            const restuName = amenitiesDiv.append('p').text(`Restaurant Name: ${restaurant.rest_name}`);
+                            const restuRating = amenitiesDiv.append('p').text(`Restaurant Ratings: ${restaurant.rest_ratings}`);
+                    });
+                } else {
+                    amenitiesDiv.append('div')
+                        .text('No nearby Restaurant found.');
+                    
+                }
+            })
+            .catch(function(error) {
+                console.error('Error fetching Restaurant data:', error);
+            });
+    //
+// Grocery record
+d3.json('/grocery')
+.then(function(groceryData) {
+    console.log(groceryData)
+    // Filter grocery based on the selected property's zip code
+    const nearbygrocery = groceryData.filter(grocery => grocery.zipcode === property.zipcode).slice(0, 2);
+
+    // Display nearby grocery in amenitiesDiv
+    const amenitiesDiv = d3.select('#groceryList');
+    amenitiesDiv.selectAll('*').remove();
+
+    if (nearbygrocery.length > 0) {
+        nearbygrocery.forEach(grocery => {
+            amenitiesDiv.append('div')
+            
+                
+                const groceryName = amenitiesDiv.append('p').text(`Grocery Store Name: ${grocery.grocery_name}`);
+                const groceryRating = amenitiesDiv.append('p').text(`Grocery Store Ratings: ${grocery.grocery_ratings}`);
+        });
+    } else {
+        amenitiesDiv.append('div')
+            .text('No Grocery Store found.');
+        
+    }
+    })
+    .catch(function(error) {
+        console.error('Error fetching Grocery Store data:', error);
+    }); 
     // 
-    // 
+    // gym record
+d3.json('/gyms')
+.then(function(gymData) {
+    console.log(gymData)
+    // Filter gym based on the selected property's zip code
+    const nearbygym = gymData.filter(gym => gym.zipcode === property.zipcode).slice(0, 1);
+
+    // Display nearby gym in amenitiesDiv
+    const amenitiesDiv = d3.select('#GymList');
+    amenitiesDiv.selectAll('*').remove();
+
+    if (nearbygym.length > 0) {
+        nearbygym.forEach(gym => {
+            amenitiesDiv.append('div')
+            
+                
+                const gymName = amenitiesDiv.append('p').text(`Gym  Name: ${gym.gym_name}`);
+                const gymRating = amenitiesDiv.append('p').text(`Gym Ratings: ${gym.gym_ratings}`);
+        });
+    } else {
+        amenitiesDiv.append('div')
+            .text('No Gym Store found.');
+        
+    }
+    })
+    .catch(function(error) {
+        console.error('Error fetching Gym data:', error);
+    }); 
     // let map = null;
     var container = L.DomUtil.get('map');
         if(container != null){

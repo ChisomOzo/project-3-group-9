@@ -24,7 +24,7 @@ def get_properties():
     except FileNotFoundError:
         return jsonify({'error': 'Property data not found'}), 404
 @app.route('/parks', methods=['GET'])
-def get_parks():
+def parks():
     try:
         parks = []
         with open('parks.csv', 'r') as file:
@@ -35,10 +35,10 @@ def get_parks():
     except FileNotFoundError:
         return jsonify({'error': 'parks data not found'}), 404
 # -------------------------
-
+# Load property_parks.csv file
 
 @app.route('/schools', methods=['GET'])
-def schools_property():
+def schools():
     try:
         schools = []
         with open('schools.csv', 'r') as file:
@@ -47,7 +47,40 @@ def schools_property():
                 schools.append(row)
             return jsonify(schools)
     except FileNotFoundError:
-        return jsonify({'error': 'parks data not found'}), 404
+        return jsonify({'error': 'Schools data not found'}), 404
+@app.route('/gyms', methods=['GET'])
+def gyms():
+    try:
+        gyms = []
+        with open('gyms.csv', 'r',encoding='utf-8') as dfile:
+            csv_reader = csv.DictReader(dfile)
+            for row1 in csv_reader:
+                gyms.append(row1)
+            return jsonify(gyms)
+    except FileNotFoundError:
+        return jsonify({'error': 'Gyms data not found'}), 404
+@app.route('/restaurants', methods=['GET'])
+def restaurants():
+    try:
+        restu = []
+        with open('restaurants.csv', 'r',encoding='utf-8') as dfile:
+            csv_reader = csv.DictReader(dfile)
+            for row1 in csv_reader:
+                restu.append(row1)
+            return jsonify(restu)
+    except FileNotFoundError:
+        return jsonify({'error': 'Restaurant data not found'}), 404
+@app.route('/grocery', methods=['GET'])
+def groceries():
+    try:
+        grocery = []
+        with open('groceries.csv', 'r',encoding='utf-8') as dfile:
+            csv_reader = csv.DictReader(dfile)
+            for row1 in csv_reader:
+                grocery.append(row1)
+            return jsonify(grocery)
+    except FileNotFoundError:
+        return jsonify({'error': 'Grocery data not found'}), 404
 # -------------------------
 if __name__ == '__main__':
     app.run(debug=True)
