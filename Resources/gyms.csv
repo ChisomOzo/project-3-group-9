@@ -1,352 +1,352 @@
-gym_id,gym_name,gym_address,gym_ratings,latitude,longitude
-1,Castle Hill Fitness,"1112 N Lamar Blvd, Ste B, Austin, TX 78703",4.5,30.27677,-97.7520399
-2,Lift ATX,"1005 Springdale Rd, Ste 3, Austin, TX 78721",4.0,30.265355,-97.694444
-3,Atomic Athlete,"3907 Warehouse Row, Austin, TX 78704",5.0,30.2221905,-97.756855
-4,FeV - Iron Vault Gym,"2101 W Ben White Blvd, Unit 105, Austin, TX 78704",5.0,30.22970512078872,-97.79134603094444
-5,Big Tex Gym,"1921 Cedar Bend Dr, Ste A130, Austin, TX 78758",4.5,30.4075409634257,-97.6979028809509
-6,"Onnit Gym - Austin, TX","4401 Freidrich Ln, Ste 301, Austin, TX 78744",4.5,30.206654278197167,-97.7477867590009
-7,Factory Gym,"2518 S Loop 4, Buda, TX 78610",4.5,30.0464037,-97.8448649
-8,Life Time,"7101 S Mopac Expy, Austin, TX 78749",3.0,30.215458,-97.840105
-9,HIT Athletic,"7797 Burnet Rd, Austin, TX 78757",5.0,30.353719172531523,-97.7306709078681
-10,Austin Simply Fit,"4912 Burnet Rd., Austin, TX 78756",4.5,30.320688,-97.739678
-11,Fitness Connection,"12901 N Interstate 35, Ste 900, Austin, TX 78753",2.0,30.412063,-97.671536
-12,Equinox Austin,"1007 S Congress Ave, Austin, TX 78704",3.0,30.253977,-97.747731
-13,Hyde Park Gym,"4125 Guadalupe St, Austin, TX 78751",4.5,30.3071825,-97.73531
-14,LA Fitness,"4001 S Lamar Blvd, Austin, TX 78704",3.5,30.23544,-97.79161
-15,FIT Austin,"2919 Menchaca Rd, Ste 200, Austin, TX 78704",5.0,30.241855,-97.781611
-16,Leander Athletic Club,"190 N Bagdad Rd, Ste D, Leander, TX 78641",5.0,30.5733588683713,-97.87037921906492
-17,East Austin Athletic Club,"4909 E Cesar Chavez St, Ste C, Austin, TX 78702",5.0,30.2511415,-97.7013233
-18,Los Campeones Gym - Austin,"9811 Vikki Ter, Austin, TX 78736",5.0,30.232420990255704,-97.92647850000002
-19,24 Hour Fitness,"1000 E 41st St, Ste 850, Austin, TX 78751",3.0,30.301401457514768,-97.7203315489791
-20,Anytime Fitness,"3407 Guadalupe St, Ste A, Austin, TX 78705",3.5,30.30057,-97.73923
-21,YMCA of North Austin Community Rec Center,"1000 W Rundberg Ln, Austin, TX 78758",4.0,30.36475,-97.69985
-22,GrassIron,"5555 N Lamar, Ste B-110, Austin, TX 78751",5.0,30.324062,-97.725981
-23,Gold's Gym - Austin Downtown,"115 E 6th St, Austin, TX 78701",2.5,30.2675981,-97.7417296
-24,Gold's Gym - Austin South Central,"1701 W Ben White Blvd, Ste 165, Austin, TX 78704",2.5,30.2268237,-97.784686
-25,Life Time,"907 W 5th St, Austin, TX 78703",3.0,30.26959,-97.7538086
-26,Forge Strength Austin,"2032 B South Lamar Blvd, Austin, TX 78704",5.0,30.249785,-97.769044
-27,South Austin Gym,"5700 Manchaca Rd, Ste 365, Austin, TX 78745",4.0,30.214950853222224,-97.79949847446264
-28,LA Fitness,"2020 W Anderson Ln, Austin, TX 78757",3.0,30.3553,-97.727518
-29,Life Time,"4210 W Braker Ln, Austin, TX 78759",4.0,30.39966,-97.74015
-30,Life Time,"13725 Ranch Rd 620 N, Austin, TX 78717",3.0,30.472531613746213,-97.774099
-31,Metroflex - Austin,"16300 Central Commerce Dr, Bldg 1, Pflugerville, TX 78660",4.0,30.460593758253463,-97.66134684784078
-32,24 Hour Fitness - Austin,"10616 Research Blvd, Austin, TX 78759",2.5,30.3973124348539,-97.7476091609955
-33,The Iron Plate Training Ground,"10921 E Crystal Falls Pkwy, Bldg F302, Leander, TX 78641",5.0,30.569779074453248,-97.81203070469093
-34,Gold's Gym - Austin Highland,"6001 Middle Fiskville Rd, Ste 100, Austin, TX 78752",2.5,30.322675995588792,-97.7093814143336
-35,TLS ATX Global,"10721 Research Blvd, Ste B-140, Austin, TX 78759",4.5,30.398629,-97.744335
-36,Liberation Barbell Club,"3900 Drossett Dr, Ste A, Austin, TX 78744",4.5,30.211613,-97.732066
-37,Crunch Fitness - Round Rock,"2800 S IH-35, Ste 220, Round Rock, TX 78681",3.5,30.482417423282698,-97.6765119665917
-38,Rō Fitness Tarrytown,"2425 Exposition Blvd, Ste E-1, Austin, TX 78703",5.0,30.2976016,-97.7673076
-39,Travis County Strength,"4507 Airport Blvd, Unit A, Austin, TX 78751",5.0,30.3034185,-97.7155757
-40,Squatch Frontier Fitness,"701 Tillery St, Austin, TX 78702",5.0,30.26056,-97.70429
-41,House Of Gainz,"610 N Austin Ave, Ste 110, Georgetown, TX 78626",4.0,30.647367477417,-97.6795043945312
-42,Planet Fitness,"1100 W Anderson Ln, Austin, TX 78757",3.0,30.349959284911,-97.71620669596544
-43,Gregory Gymnasium,"2101 Speedway, Austin, TX 78712",4.0,30.284240230094,-97.736460735392
-44,HEAT Bootcamp South Austin,"2210 S 1st St, Ste A, Austin, TX 78704",5.0,30.2439917,-97.7586769
-45,Dane's Body Shop,"2701 Manor Rd, Austin, TX 78722",5.0,30.2848,-97.713927
-46,Anytime Fitness,"2525 W Anderson Ln, Bldg 3, Ste 100, Northcross Mall, Austin, TX 78757",3.5,30.354549418460483,-97.733128
-47,Sunfield Station,"2610 Main St, Buda, TX 78610",4.5,30.08945353527932,-97.80849547435764
-48,Embody Fitness,"6800 Burnet Rd, Ste 8, Austin, TX 78757",5.0,30.34449742301081,-97.7385078
-49,Gold's Gym - Austin Westlake,"701 S Capital Of Texas Hwy, West Lake Hills, TX 78746",2.5,30.293059617203923,-97.8271572
-50,Studio Three,"501 Brazos St, Austin, TX 78701",5.0,30.26651912709176,-97.74179044050136
-51,Austin Simply Fit,"1621 S Lamar Blvd, Austin, TX 78704",4.5,30.25080091814768,-97.76530034499616
-52,East Communities Branch YMCA,"5315 Ed Bluestein Blvd, Austin, TX 78723",3.5,30.29128,-97.6626299
-53,Easley Boxing and Fitness,"2401 Thornton Rd, Austin, TX 78704",4.5,30.24416,-97.77184
-54,Austin Bouldering Project,"979 Springdale Rd, Ste 150, Austin, TX 78702",4.5,30.263202101674132,-97.69626096766888
-55,Anytime Fitness,"8516 Anderson Mill Rd, Austin, TX 78729",4.5,30.45635,-97.76769
-56,Austin Barbell - Olympic Weightlifting,"714 Shelby Ln, Unit G, Austin, TX 78745",4.5,30.212781223091948,-97.7598713
-57,Athletic Outcomes,"2301-A E Riverside Dr, Ste 50, Austin, TX 78741",5.0,30.235313,-97.726737
-58,Planet Fitness,"1819 S Pleasant Valley Rd, Austin, TX 78741",3.0,30.234321288924377,-97.72045413739968
-59,HCI Sports & Fitness,"13875 Bee Cave Pkwy, Bee Cave, TX 78738",3.5,30.312230564997563,-97.95739257785718
-60,Central Athlete,"1023 Springdale Rd, Bldg 9b, Austin, TX 78721",5.0,30.267597,-97.6926715
-61,Starting Strength - Austin,"2943 W Anderson Ln, Austin, TX 78757",5.0,30.359446,-97.7391536
-62,Outright Fitness & Performance,"15508 Bratton Ln, Ste 625, Austin, TX 78728",5.0,30.457307,-97.678711
-63,Anytime Fitness,"6911 N FM-620, Ste B-100, Austin, TX 78732",3.5,30.401823289717363,-97.85414497362676
-64,Planet Fitness,"6800 W Gate Blvd, Ste 106, Austin, TX 78745",4.0,30.2086475582955,-97.8162519447746
-65,LA Fitness,"1824 W Slaughter Ln, Austin, TX 78748",3.0,30.1750585725592,-97.82134079409
-66,Live Large Fit Studios,"2101 Montopolis Dr, Austin, TX 78741",5.0,30.223219747208688,-97.70239637330936
-67,Gold's Gym Austin Bee Caves,"12480 Bee Cave Rd, Bee Cave, TX 78738",3.0,30.3073994,-97.9354049
-68,Evolve Personal Fitness & Gym,"5716 W Hwy 290, Ste 106, Austin, TX 78735",4.5,30.236912,-97.847314
-69,The Field House,"9204 Hwy 290 W, Austin, TX 78736",5.0,30.2322361,-97.9283109483056
-70,Shalom Austin,"7300 Hart Ln, Austin, TX 78731",3.5,30.35744320114707,-97.75716304662676
-71,Strong Like Her,"150 Russell Ln, Bldg 4, Dripping Springs, TX 78620",5.0,30.209388,-98.1202519
-72,Atomic Outpost,"9805 Beck Cir, Austin, TX 78758",5.0,30.37674,-97.71235
-73,Fusion Fitness,"1112 S 8th St, Austin, TX 78704",5.0,30.254774,-97.761421
-74,RVE Fitness,"3801 N Capital Of Texas Hwy, Ste I 100, Austin, TX 78746",5.0,30.33636,-97.80518
-75,Georgetown Fitness,"900 N Austin Ave, Ste 200, Georgetown, TX 78626",5.0,30.651539,-97.676972
-76,Texas Kettlebell Academy,"7113 Burnet Rd, Ste 118, Austin, TX 78757",5.0,30.34715,-97.734767
-77,Townlake Branch YMCA,"1100 W Cesar Chavez St, Austin, TX 78703",3.5,30.26896,-97.75697
-78,F45 Training North Shoal Creek,"3301 Steck Avenue, Ste 104, Austin, TX 78757",5.0,30.36622,-97.73872
-79,Fit and Fearless,"4109 Todd Ln, Ste 1600, Austin, TX 78744",5.0,30.210233,-97.736533
-80,Evolution Fitness,"3301 Hancock Dr, Austin, TX 78731",5.0,30.3322105,-97.7596512
-81,Focus Fitness,"3909 Cologne Ln, Austin, TX 78727",5.0,30.4168102,-97.7216636
-82,Lakeway Elite Fitness,"1909 Ranch Rd 620 S, Ste F&G, Lakeway, TX 78734",5.0,30.344542,-97.965446
-83,LA Fitness,"825 W Whitestone Blvd, Cedar Park, TX 78613",3.5,30.519388,-97.8387299
-84,Dane's Body Shop,"807 Capitol Ct, Austin, TX 78756",5.0,30.31842,-97.73196
-85,Gold's Gym,"4404 W William Cannon Dr, Austin, TX 78749",2.5,30.2238074615824,-97.8400966823756
-86,Anytime Fitness,"7300 FM 2222, Ste 208, Austin, TX 78730",3.0,30.371927253551153,-97.80199517358942
-87,Slaughter Gold's Gym,"8900 S Congress Ave, Austin, TX 78745",2.5,30.16981369509611,-97.78960477296086
-88,Richard Lord's Gym,"6324 N Lamar Blvd, Austin, TX 78752",4.5,30.33175,-97.72314
-89,TLS ATX Global,"500 N Lamar Blvd, Ste 190, Austin, TX 78703",4.0,30.270752,-97.754912
-90,Austin Fitness Clinic,"4111 Marathon Blvd, Ste 140, Austin, TX 78756",5.0,30.31004,-97.74099
-91,Hill Country Fitness,"12912 Hill Country Blvd, Ste F-220, Austin, TX 78738",4.0,30.31011,-97.94228
-92,[solidcore],"204 Colorado St, Austin, TX 78701",4.0,30.26509,-97.74556
-93,Rk512,"7601 S Congress Ave, Ste 500, Austin, TX 78745",5.0,30.1832235413438,-97.7818191
-94,Driven Performance Training,"515 Congress Ave, Ste N, Austin, TX 78701",5.0,30.2676102,-97.7425593
-95,Home Barbell Club,"1900 E Howard Ln, Ste F-3, Pflugerville, TX 78660",5.0,30.402580167144983,-97.63437024959924
-96,Planet Fitness,"12611 N Mopac Expy, Ste 3, Austin, TX 78727",3.5,30.42179347,-97.70032251
-97,HT Fitness - Cedar Creek,"181 W Sh 21, Cedar Creek, TX 78612",5.0,30.10971232320007,-97.4224614
-98,Inner Diva Studios,"10401 Anderson Mill Rd, Ste 104, Austin, TX 78750",4.5,30.446873324342985,-97.80488996865866
-99,Sacrifice Training,"18307 Weiss Ln, Pflugerville, TX 78660",5.0,30.444039,-97.56281
-100,Train 4 The Game ,"3201 Bee Caves Rd, Ste 121, Austin, TX 78746",4.5,30.2713171004019,-97.7998943513698
-101,HT Fitness - Manor,"12421 E US 290, Manor, TX 78653",3.5,30.34864961077204,-97.53259472739576
-102,TLS ATX Global,"15500 West State Hghway 71, Bldg C Ste 150, Bee Caves, TX 78738",4.5,30.31772,-97.98474
-103,Clay Madsen Recreation Center,"1600 Gattis School Rd, Round Rock, TX 78664",3.5,30.49686,-97.66081
-104,Gold's Gym - Austin Anderson Arbor,"13435 Us-183, Austin, TX 78750",3.0,30.447206697443363,-97.78756348243816
-105,Gold's Gym - Austin Southeast,"801 E William Cannon Dr, Austin, TX 78745",2.5,30.1894125960731,-97.773966983081
-106,CrossFit Central,"410 Pressler St, Austin, TX 78703",4.5,30.272307,-97.761403
-107,Wild Basin Fitness At Steiner,"4308 N Quinlan Park Rd, Ste 200, Austin, TX 78732",4.0,30.38275,-97.8843799
-108,Ghostletics Gym,"10203 Old Manchaca Rd, Ste C, Austin, TX 78748",1.5,30.17267339468988,-97.8301863
-109,Marlow's Fitness,"7756 Northcross Dr, Ste 100, Austin, TX 78757",5.0,30.3567115,-97.7372988
-110,Ro Fitness Downtown,"74 Trinity St, Austin, TX 78701",5.0,30.2606343368956,-97.7418658926597
-111,Planet Fitness,"1807 W Slaughter Ln, Austin, TX 78748",3.0,30.1694691973317,-97.8246688842773
-112,Fitness Connection - Lake Creek,"13776 US-183, Austin, TX 78750",2.0,30.461678489973973,-97.79781474110456
-113,Body 20,"4005 Market St, Bee Cave, TX 78738",2.0,30.306709599549507,-97.9359584675208
-114,Oak Hill Fitness & Obstacle Course,"7401 Old Bee Caves Rd, Austin, TX 78735",5.0,30.2407512664795,-97.8776245117188
-115,Stonehenge Weightlifting,"12112 Anderson Mill Rd, Ste A, Bldg-2, Austin, TX 78726",5.0,30.45962,-97.83136
-116,Pure Ambition,"9709 Brown Ln, Ste E/F, Austin, TX 78754",3.0,30.353502004030982,-97.66727608446357
-117,Orangetheory Fitness - Triangle,"4601 N. Lamar Blvd., Ste 508, Austin, TX 78751",3.5,30.31502,-97.73547
-118,SWEAT440 - Highland,"110 Jacob Fontaine Ln, Austin, TX 78752",5.0,30.325908,-97.715379
-119,STRIDE Fitness,"1611 W 5th St, Ste 135, Austin, TX 78703",5.0,30.2739251,-97.76409914466758
-120,Cowboys Fit,"1401 Town Center Dr, Pflugerville, TX 78660",4.0,30.465578,-97.601704
-121,Chris Gets U Fit,"917 W Anderson Ln, Ste F, Austin, TX 78757",5.0,30.34821,-97.71523
-122,HT Fitness,"2704 N Main St, Taylor, TX 76574",2.5,30.591283,-97.411715
-123,Athelite Training Center,"920 Old Mill Rd, Cedar Park, TX 78613",5.0,30.4750624,-97.8229433
-124,Orangetheory Fitness - Mueller,"1911 Aldrich St., Ste 175, Austin, TX 78723",5.0,30.298628,-97.704369
-125,Corespeed Gym,"1201 S Heatherwilde Blvd, Pflugerville, TX 78660",5.0,30.435205,-97.647469
-126,Drenched,"3080 Kyle Crossing, Ste 2, Kyle, TX 78640",5.0,30.023286,-97.854407
-127,Kilter Fitness,"5400 N Lamar Blvd, Ste 2008, Austin, TX 78752",5.0,30.32243703182434,-97.72880886148344
-128,Georgetown Recreation Center,"1003 N Austin Ave, Georgetown, TX 78626",3.5,30.651192396306993,-97.67356441553292
-129,Gold's Gym - Cedar Park,"1335 E Whitestone Blvd, Ste AB, Cedar Park, TX 78613",2.5,30.5301864334095,-97.8127714432776
-130,MADabolic - Austin,"440 E Saint Elmo Rd, Ste E-1, Austin, TX 78745",5.0,30.2165512946426,-97.761678211391
-131,The Strength Warehouse,"9705 Burnet Rd, Unit 211, Austin, TX 78758",4.0,30.380334502715336,-97.72302448060556
-132,Northwest Family Branch YMCA,"5807 McNeil Dr, Austin, TX 78729",3.5,30.4460655737288,-97.7335043895451
-133,F45 Training South Shore Austin,"1604 E Riverside Dr, Austin, TX 78741",4.5,30.24564,-97.73073
-134,AKT,"2400 E 6th St, Austin, TX 78702",5.0,30.259764,-97.715994
-135,Sweat440 Zilker,"300 S Lamar Blvd, Ste O, Austin, TX 78704",5.0,30.262868,-97.758533
-136,30 Minute Hit -Austin,"3016 Guadalupe St, Ste A200, Austin, TX 78705",5.0,30.297492,-97.74176
-137,F45 Training Domain Austin,"3220 Amy Donovan Plz, Ste 124, Austin, TX 78758",4.0,30.39678,-97.72731
-138,LA Fitness,"16600 N Rm 620 Rd, Round Rock, TX 78681",3.0,30.49827306508303,-97.7236794941502
-139,Round Rock Sports Center,"2400 Chisholm Trl, Round Rock, TX 78681",3.0,30.5389894280784,-97.6974097196574
-140,KinetiCore Fitness,"4111 Marathon Blvd, Ste 140, Austin, TX 78756",5.0,30.31004,-97.74099
-141,HIT Center Austin,"920 Old Mill Rd, Cedar Park, TX 78613",5.0,30.4752979,-97.823761
-142,RIDE Indoor Cycling,"117 Lavaca St, Austin, TX 78701",4.5,30.26457,-97.74669
-143,Hays Communities YMCA,"465 Buda Sportsplex Dr, Buda, TX 78610",3.5,30.106523875755,-97.877197265625
-144,TrvFit Georgetown,"205 Cantera Way, Bldg 1, Georgetown, TX 78628",5.0,30.634802561780056,-97.76107440687257
-145,SoLa CrossFit,"2119 Goodrich Ave, Austin, TX 78704",5.0,30.248582,-97.772895
-146,MADabolic Austin North,"2900 W Anderson Ln, Ste B19, Austin, TX 78757",5.0,30.35916965936264,-97.73594578650705
-147,Black Widow MMA,"2007 Kramer Ln, Ste 101, Austin, TX 78758",5.0,30.38818,-97.71011
-148,Westerfeld Fitness,"9 Cousteau Ln, Westlake Hills, TX 78746",5.0,30.30902,-97.83207
-149,Orangetheory Fitness - Arbor Town Square,"10721 Research Blvd.,, Ste A-100, Austin, TX 78759",4.0,30.399103,-97.745007
-150,Of The Lion Fitness,"650 Canion St, Austin, TX 78752",5.0,30.33482,-97.71816
-151,HOTWORX- Austin,"11521 N Fm 620, Ste 925, Austin, TX 78726",4.5,30.45328503561494,-97.82725446269627
-152,CrossFit 2024,"2015 E Riverside Dr, Ste 7BB, Austin, TX 78741",4.5,30.240018,-97.728531
-153,F45 Training Four Points,"7900 N FM 620, Ste 130, Austin, TX 78726",5.0,30.41474,-97.85081
-154,Planet Fitness,"6425 S I-35, Ste 200, Austin, TX 78744",3.5,30.19029812966751,-97.76787346684743
-155,Practical Fitness Westlake Hills,"1715 S Capital Of Texas Hwy, Ste 102, Westlake Hills, TX 78746",5.0,30.27146,-97.81705
-156,TITLE Boxing Club,"13945 US Highway 183, Ste C-3, Austin, TX 78717",4.5,30.47275,-97.79695
-157,Springs Family YMCA,"27216 Ranch Rd 12, Drippings Springs, TX 78620",4.5,30.18637,-98.08476
-158,Mighty Fit,"5707 Southwest Pkwy, Bld 2, Austin, TX 78735",5.0,30.24337303443704,-97.84516999771937
-159,Free Your Fitness 24,"12110 Manchaca Rd, Ste 400, Austin, TX 78748",5.0,30.168207,-97.8177601
-160,Coach Mo's Elite Fitness,"7119 Chimney Corners, Austin, TX 78731",4.5,30.35763,-97.76031
-161,Curves,"14611 Burnet Rd, Ste 107, Austin, TX 78728",3.5,30.45058511144759,-97.69512941482458
-162,CHASCO Family YMCA,"1801 N Is Hwy 35, Round Rock, TX 78664",3.0,30.526307709044783,-97.68810006938298
-163,CrossFit 737,"12707 Nutty Brown Rd, Austin, TX 78737",5.0,30.1983676,-97.9719937
-164,Sweat Athletics,"12129 RR 620 Ste 590, Austin, TX 78750",5.0,30.461174,-97.817017
-165,Hutto Fitness Center,"3750 Limmer Lp, Hutto, TX 78634",5.0,30.55812,-97.54488
-166,Smart Strength,"3636 Bee Caves Rd, Ste 106, Austin, TX 78746",5.0,30.27922,-97.8058
-167,Mayweather Boxing + Fitness,"11101 Burnet Rd, Ste 190, Austin, TX 78758",4.5,30.39573,-97.71953
-168,HT Fitness - Elgin,"195 US 290, Elgin, TX 78621",4.5,30.337853840576106,-97.3690021
-169,Orangetheory Fitness - Four Points,"7301 N FM 620, Ste 175, Austin, TX 78726",4.5,30.405412750629065,-97.85101457062083
-170,Wellington Standard Fitness,"12110 Manchaca Rd, Ste 400, Austin, TX 78748",5.0,30.14238,-97.83395
-171,CrossFit Strength Haven,"10604 Bluff Bend Dr, Ste A, Austin, TX 78753",5.0,30.36902,-97.67715
-172,Orangetheory Fitness South Austin,"9500 S Ih 35, Ste L800, Austin, TX 78748",4.0,30.165827,-97.792635
-173,Optimus Strength ATX,"900 Shelby Ln, Ste 10, Austin, TX 78745",5.0,30.21238,-97.75833
-174,Voodoo CrossFit 512,"9313 Anderson Mill Rd, Ste 100, Austin, TX 78729",5.0,30.45016807985939,-97.78408270297795
-175,CrossFit Rep,"10603 Metric Blvd, Ste 142, Austin, TX 78758",5.0,30.3844891,-97.7124405
-176,Raw Fitness,"9900 S Ih Frontage Rd, Bldg F Ste 200, Austin, TX 78749",5.0,30.1565504,-97.793543
-177,Practical Fitness,"11824 Jollyville Rd, Ste 104, Austin, TX 78759",5.0,30.42231891168345,-97.75600586629956
-178,Anytime Fitness,"11720 FM 1826, Austin, TX 78737",2.5,30.193467,-97.92510390549432
-179,Tao Health & Fitness,"4505 Terry-O Ln, Ste B201, Austin, TX 78745",5.0,30.21294701754275,-97.76041441405964
-180,HyperDrive Fitness,"2105 Pyramid Dr, Austin, TX 78734",5.0,30.383469,-97.940188
-181,The Phoenix Project Austin,"6448 E Hwy 290, C-104, Austin, TX 78723",5.0,30.3234714,-97.6951736
-182,Reframe Fitness,"12034 Research Blvd, Unit 2, Austin, TX 78759",5.0,30.42532,-97.7528
-183,Orangetheory Fitness - Tech Ridge,"12314 N Interstate Hwy 35, Ste 105, Austin, TX 78753",4.0,30.40052,-97.67504
-184,Northcross Fitness,"7739 Northcross Dr, Ste V, Austin, TX 78757",5.0,30.3559818267822,-97.7361068725586
-185,Anytime Fitness,"12101 W Parmer Ln, Cedar Park, TX 78613",5.0,30.5217202391253,-97.7748708771724
-186,SPENGA Austin Lakeline,"14010 US Hwy 183, Ste 560, Austin, TX 78717",5.0,30.47298156440576,-97.80130194236702
-187,F45 Training Cedar Park,"401 W Whitestone Blvd, Cedar Park, TX 78613",5.0,30.52024,-97.83396
-188,CrossFit Lake Travis,"5324 Reimers-Peacock Rd, Spicewood, TX 78669",5.0,30.352459505256633,-98.0662416584922
-189,CycleBar,"19230 IH 35, Ste 100, Kyle, TX 78640",5.0,30.029362926417424,-97.85094786161562
-190,Rumble Boxing,"4301 W William Cannon Dr, Ste B108, Austin, TX 78749",5.0,30.221883602237412,-97.84166715636884
-191,CrossFit Central,"6205 A-Burnet Rd, Austin, TX 78757",4.5,30.337075,-97.73884
-192,Austin Ninjas,"6001 W Parmer Ln, Ste 430, Austin, TX 78727",4.5,30.4416909081093,-97.7453183137695
-193,Gold's Gym - Austin Hester's Crossing,"2400 S Ih-35, Round Rock, TX 78681",2.5,30.4864965679478,-97.6792577963135
-194,Bat City Crossfit,"12400 Amherst Dr, Ste 104, Austin, TX 78727",5.0,30.4214624,-97.7158596
-195,Orangetheory Fitness - West Lake Hills,"3300 Bee Cave Rd., Ste 200, Austin, TX 78746",4.5,30.27498,-97.79903
-196,F45 Training West Oak Hill,"7101 TX-71, Ste E12, Austin, TX 78735",4.0,30.235407162424497,-97.87801803618233
-197,1UP Sports Performance,"2000 Windy Ter, Bldg 10, Cedar Park, TX 78613",4.0,30.4619938,-97.8331384
-198,Hutto Family YMCA,"200 Alliance Blvd, Hutto, TX 78634",3.5,30.54334,-97.56597
-199,CYCLEBAR,"507 Pressler St, Ste 900, Austin, TX 78703",2.5,30.27252869190766,-97.76001564254666
-200,A Fit Plan,"15950 Ranch Rd 12, Ste 3, Wimberley, TX 78676",5.0,30.0214404,-98.1016738
-201,Gold's Gym - Austin,"166 Hargraves Dr, Ste D-100, Austin, TX 78737",2.5,30.20445083562013,-97.97887448736846
-202,F45 Training Jollyville,"7318 McNeil Dr, Ste 106, Austin, TX 78729",4.5,30.4356554,-97.7677744
-203,Orangetheory Fitness - Downtown Austin,"401 West 3rd Street, Austin, TX 78701",4.0,30.2661,-97.74753
-204,Transform Boot Camp,"15609 Ronald Reagan Blvd, Ste A160, Leander, TX 78641",4.5,30.56310001526982,-97.80090159907472
-205,Bc-fit,"17251 Great Oaks Dr, Round Rock, TX 78681",5.0,30.51405417,-97.73511517
-206,Austin Fitness Center,"3100 Slaughter Ln, Austin, TX 78748",4.0,30.180074,-97.842044
-207,Orangetheory Fitness Georgetown,"1500 Rivery Blvd, Ste 340, Georgetown, TX 78628",4.5,30.649961346426043,-97.68728985847125
-208,Anytime Fitness,"106-116 W Lake Dr, Taylor, TX 76574",4.0,30.584022,-97.411678
-209,Hotworx - Pflugerville,"208 E Wells Branch Pkwy, Ste 240, Pflugerville, TX 78660",5.0,30.43109544170169,-97.6516290233134
-210,BodyWise Gym,"2901 Ranch Road 620 N, Austin, TX 78734",3.0,30.3901896812759,-97.9379964273604
-211,Austin Affordable Fitness,"708 Robert E Lee Rd, Austin, TX 78704",5.0,30.262825,-97.7670593
-212,Inspire Fitness,"3621 E Whitestone Blvd, Cedar Park, TX 78613",5.0,30.5394599,-97.7754045
-213,Power Performance Training,"321 W Ben White Blvd, Ste 105, Austin, TX 78704",5.0,30.223359206095264,-97.7675968145966
-214,Planet Fitness,"2700 W Pecan St, Ste 400, Pflugerville, TX 78660",3.5,30.450796942593392,-97.65672118557622
-215,Manor Gym,"13419 Hwy 290 E, Bldg 6, Manor, TX 78653",1.0,30.34742578506719,-97.51547947435624
-216,Move Sport Ninja Academy,"16808 Joe Barbee Dr, Pflugerville, TX 78660",4.5,30.47001,-97.66411
-217,Fitness On Fifth,"3500 Jefferson, Ste 103, Austin, TX 78731",2.0,30.3080769,-97.7517654
-218,Austin Aquatics & Sports Academy,"5513 Southwest Pkwy, Austin, TX 78735",3.5,30.24334,-97.84367
-219,Austin Bouldering Project,"4477 S Lamar Blvd, Austin, TX 78745",4.0,30.230862700110187,-97.79928431913608
-220,Gold's Gym - Pflugerville,"21315 North Sh 130 Nb, Pflugerville, TX 78660",2.0,30.498232,-97.5791159
-221,Anytime Fitness,"910 W 11th St, S 200, Elgin, TX 78621",2.0,30.34746,-97.38475
-222,Blu Edge Fitness,"5 Brent Blvd, Ste 100, Kyle, TX 78640",2.0,30.00531,-97.86399
-223,Anytime Fitness,"20900 FM 1431, Lago Vista, TX 78645",1.0,30.48171,-97.975727
-224,The Garage Gym at Rock Sports Arena,"3918 Gattis School Rd, Ste 102, Rock Sports Arena, Round Rock, TX 78660",3.5,30.49787,-97.60902
-225,Orangetheory Fitness - Leander,"3421 N. Lakeline Blvd., Leander, TX 78641",4.0,30.542976855438088,-97.8643481949118
-226,Fierce Fit,"937 Reinli St, Ste 9, Austin, TX 78751",4.5,30.318950212996448,-97.70900507594686
-227,Planet Fitness,"1245 S US 183, Leander, TX 78641",4.0,30.561955,-97.848001
-228,Next Levels Of Fitness,"7801 N Lamar Blvd, Austin, TX 78752",5.0,30.34562150501896,-97.71179260233016
-229,FOGO CrossFit,"4619 S Congress Ave, Ste D, Austin, TX 78745",5.0,30.21522,-97.76809
-230,CrossFit Round Rock,"350 Old West Dr, Ste C, Round Rock, TX 78681",5.0,30.4912490844727,-97.6805191040039
-231,Orangetheory Fitness - Saltillo,"1211 East 5th Street, Austin, TX 78702",4.0,30.263058,-97.730699
-232,I Love Kickboxing - Austin,"1700 S Lamar Blvd, Austin, TX 78704",4.0,30.251461,-97.766109
-233,F45 Training Westlake,"3201 Bee Cave Rd, Ste 134, Austin, TX 78746",4.0,30.2732763,-97.8005775
-234,Journey Fitness,"Austin, TX 78701",5.0,30.270485736676804,-97.74234639398716
-235,Gold's Gym - Cypress Creek,"1314 Cypress Creek Rd, Cedar Park, TX 78613",2.5,30.4838396,-97.8292638
-236,Orangetheory Fitness - Sunset Valley,"5601 Brodie Lane, Ste 1200B, Sunset Valley, TX 78745",4.0,30.226545459460745,-97.82138869213522
-237,Anytime Fitness,"21195 Ih 35, Ste 101, Kyle, TX 78640",2.5,30.003999,-97.864441
-238,Crossfit Renew,"8120 Research Blvd, Ste 103, Austin, TX 78758",5.0,30.353206,-97.715664
-239,CrossFit SoChac,"11600 Manchaca Rd, Ste 301, Austin, TX 78748",5.0,30.151727,-97.835648
-240,HOTWORX - Georgetown,"940 W University Ave, Ste 115, Georgetown, TX 78626",5.0,30.630767959505267,-97.68950494132784
-241,Blue Sky Strongbox Personal Training,"705 Orland Blvd, Austin, TX 78745",5.0,30.2163,-97.77778
-242,CrossFit City Limits,"5206 Eilers Ave, Austin, TX 78751",4.5,30.31458,-97.71649
-243,OBK Fitness & Nutrition,"6 Indian Meadows Dr, Ste 200, Round Rock, TX 78665",3.5,30.550481,-97.674197
-244,Crossfit Lakeway,"1909 Ranch Rd 620 S, Austin, TX 78734",5.0,30.3444901,-97.9653625
-245,CrossFit Jääkarhu,"139 E St Elmo Rd, Austin, TX 78745",5.0,30.216474655011,-97.7660761514722
-246,Heroes CrossFit,"300 Brushy Creek, Ste 501, Cedar Park, TX 78613",5.0,30.504649,-97.816211
-247,Planet Fitness,"200 W Palm Valley Blvd, Round Rock, TX 78664",4.0,30.51876825851011,-97.6847815768184
-248,Ann Wolfe Boxing and Fitness,"2892 State Hwy 71 W, Cedar Creek, TX 78612",3.0,30.17542,-97.5249
-249,Class UFC Gym - North Austin,"10900 Lakeline Mall Dr, Austin, TX 78717",5.0,30.47467,-97.79642
-250,Anytime Fitness,"14306 RR-12, Suites 8, 9-10, Wimberley, TX 78676",2.5,30.000695,-98.100689
-251,Orangetheory Fitness - Avery Ranch,"14900 Avery Ranch Blvd., Ste A-100, Austin, TX 78717",4.5,30.49836,-97.77772
-252,Corazon Latino Dance Studio,"6132 W 290, Austin, TX 78735",4.5,30.235819578759006,-97.8548676744445
-253,Anna Hiss gym,"2501 Wichita St, Austin, TX 78705",3.0,30.288559,-97.7378545
-254,Balcones Fitness,"1406 Three Points Rd, Ste B2, Pflugerville, TX 78660",5.0,30.450772,-97.657557
-255,Austin Ninjas,"200 Buttercup Creek Blvd, Ste 107A, Cedar Park, TX 78613",4.0,30.50246,-97.822027
-256,HOTWORX - Round Rock,"2150 E Palm Valley Blvd, Round Rock, TX 78665",4.5,30.51907830727596,-97.65206136441785
-257,Orangetheory Fitness Circle C,"5700 Slaughter Ln, Ste 260, Austin, TX 78749",5.0,30.20166689475797,-97.86812426324316
-258,Austin FIT Center,"4402 S Congress Ave, Austin, TX 78745",3.5,30.217596,-97.76799
-259,HOTWORX,"7826 W US Hwy 290, Ste 107, Austin, TX 78736",4.0,30.230010046897043,-97.88708527291908
-260,HOTWORX - Hutto,"567 Chris Kelley Blvd, Ste 102, Hutto, TX 78634",5.0,30.531605,-97.563744
-261,CYCLEBAR,"2400 E 6th St, Austin, TX 78702",4.0,30.25969,-97.7157
-262,Sculpted Physiques By Leila,"2745 Bee Caves, Ste 105, Austin, TX 78746",5.0,30.27058162693436,-97.78757003178607
-263,HOTWORX - Bee Cave,"12801 Shops Pkwy, Ste 300, Bee Cave, TX 78738",5.0,30.30459,-97.94176
-264,Lumos Fitness Collective,"2415 Burleson Rd, Austin, TX 78741",5.0,30.2290065229959,-97.7353094145656
-265,Infinit8 Fitness,"12800 West Parmer Ln, Ste 212, Cedar Park, TX 78613",5.0,30.5313623,-97.7749625
-266,The Dash Gym,"488 Bailey Ln, Spicewood, TX 78669",1.0,30.4811,-98.16058
-267,Anytime Fitness,"2301 S Lakeline Blvd, Cedar Park, TX 78613",4.5,30.477824,-97.81852
-268,Flex Fit Gym 24/7,"3918 Gattis School Rd, Ste 108, Round Rock, TX 78664",2.0,30.49787,-97.60902
-269,Just Results,"14500 RR 12, Ste 13, Wimberley, TX 78666",5.0,30.0026808,-98.10103962833192
-270,Orangetheory Fitness Round Rock - University,"311 University Blvd, Ste 100, Round Rock, TX 78665",5.0,30.5591837018788,-97.6847110479868
-271,The Turf & Iron Athlete,"4227 Guadalupe St, Austin, TX 78751",5.0,30.3082949,-97.7342673
-272,Anytime Fitness,"707 W Hwy 290, Dripping Springs, TX 78620",3.0,30.192247370510735,-98.09830068347809
-273,F45 Training Lakeway,"3944 Ranch Rd 620 S, Ste 120, Bee Cave, TX 78738",5.0,30.31102,-97.94662
-274,Anytime Fitness,"2800 S Bagdad Rd, Ste H, Leander, TX 78641",3.5,30.54028,-97.84889
-275,CrossFit Oak Hill,"5446 Hwy 290 W, Ste 305, Austin, TX 78735",5.0,30.238541,-97.840727
-276,Anytime Fitness,"1671 Main St, Ste H, Buda, TX 78610",2.0,30.088108296934713,-97.8224726472408
-277,Planet Fitness,"1103 Rivery Blvd, Ste 3-307, Georgetown, TX 78628",4.5,30.64562174,-97.68891434
-278,Blush Boot Camp,"2906 S Bagdad Rd, Leander, TX 78641",4.0,30.538743582167022,-97.84741800572986
-279,Bodies By Design Personal Training,"15635 Vision Dr, Ste 103, Pflugerville, TX 78660",5.0,30.45072,-97.66144
-280,LA Fitness,"1000 N A W Grimes Blvd, Round Rock, TX 78665",3.0,30.520397,-97.656586
-281,Orangetheory Fitness - Domain,"3100 Esperanza Crossing, Ste 118, Austin, TX 78758",4.5,30.39992754,-97.7229331
-282,Alexander Strength,"4125 Guadalupe St, Austin, TX 78751",5.0,30.30709694338131,-97.73520091658456
-283,Orangetheory Fitness - Lakeway,"1516 Ranch Rd 620 S, Ste 100, Lakeway, TX 78734",4.5,30.347518756936346,-97.96625777979466
-284,Regymen Fitness - Round Rock,"3021 S I-35 Frontage Rd, Ste 150, Round Rock, TX 78664",5.0,30.478713262753296,-97.66914533169094
-285,UpReach CrossFit,"13047 Pond Springs Rd, Austin, TX 78729",5.0,30.44268,-97.77431
-286,Slade Fit Club,"1927 Lohman's Crossing Rd, Ste 100A, Lakeway, TX 78734",5.0,30.34586,-97.97625
-287,Grand Mesa Crossfit,"10960 E Crystal Falls Pkwy, Ste 400, Leander, TX 78641",4.5,30.5685334,-97.8063329
-288,Orangetheory Fitness - South Lamar,"1100 S Lamar Blvd., Ste 1115, Austin, TX 78704",4.5,30.25576,-97.76252
-289,Hill Country MVMT,"150 Russell Ln, Bldg 4, Dripping Springs, TX 78620",5.0,30.209344,-98.1202519
-290,Milestone CrossFit,"641 W Front St, Hutto, TX 78634",4.5,30.53955,-97.55418
-291,CrossFit Dripping Springs,"31560 Ranch Rd 12, Ste 201, Dripping Springs, TX 78620",5.0,30.2498638529599,-98.0578727788208
-292,My Gym,"5307 W Hwy 290, Austin, TX 78735",4.5,30.2358032476067,-97.8372533521011
-293,Alliance Physical Culture,"6700 Manchaca Rd, Austin, TX 78745",5.0,30.2063721,-97.8071133
-294,CrossFit Hays,"200 Lehman Rd, Ste 500, Kyle, TX 78640",5.0,29.989775,-97.859735
-295,Charneski Fight Team,"9505 Burnet Rd, Ste C, Austin, TX 78758",5.0,30.378612,-97.724739
-296,Anytime Fitness,"2650 Gattis School Rd, Round Rock, TX 78664",4.0,30.49697,-97.647021
-297,Orangetheory Fitness Round Rock,"661 Louis Henna Blvd, Ste 450, Round Rock, TX 78664",4.5,30.4821205,-97.6568985
-298,Blu Edge Fitness,"5 Brent Blvd, Kyle, TX 78640",2.0,30.0051803737032,-97.8639557960688
-299,Gold's Gym Cedar Park,"1401 Medical Pkwy, Cedar Park, TX 78613",2.0,30.5300812790764,-97.8125892489621
-300,YMCA east Communities,"5315 Ed Bluestein Blvd, Austin, TX 78723",3.0,30.291973330770045,-97.66210745527698
-301,Kinetic Fit Systems,"5716 W Hwy 290, Ste 106, Austin, TX 78735",5.0,30.236219877903,-97.8497623651121
-302,The Mat Martial Arts & Fitness,"2100 Cypress Creek Rd, Ste 500, Cedar Park, TX 78613",5.0,30.47561671404779,-97.84163073423692
-303,Iron Cross Fitness,"2020 N Bell Blvd, Ste B3-H, Cedar Park, TX 78613",5.0,30.53533,-97.83498
-304,Pinnacle Training Center,"400 W Whitestone Blvd, Ste A, Cedar Park, TX 78613",3.5,30.5193918027129,-97.833509193132
-305,Crossfit Hutto,"300 Tradesmen Dr, Ste 600, Hutto, TX 78634",5.0,30.5416062,-97.5857426
-306,Hotworx - Leander - Hwy 29 & Ronald Reagan,"19368 Ronald Reagan Blvd, Ste 120, Leander, TX 78628",3.5,30.634591,-97.824764
-307,Strength & Endurance Academy,"23703 IH 35, Ste 104A, Kyle, TX 78640",5.0,29.967439,-97.873311
-308,CrossFit Texas,"641 W Front St, Hutto, TX 78634",5.0,30.539722377268696,-97.55413139066192
-309,Divine Strength Personal Training & Diet Center,"1200 Lakeway Dr, Lakeway, TX 78734",5.0,30.363916571675833,-97.9814677
-310,F45 Training Cross Trails,"2000 N Mays St, Ste 115, Round Rock, TX 78664",5.0,30.5280419,-97.6889591
-311,Orangetheory Fitness Pflugerville,"4810 Gattis School Rd, Hutto, TX 78634",4.0,30.500784,-97.58481
-312,Champions Gymnastics and Cheer,"1314 Exposition Blvd, Austin, TX 78703",4.5,30.28931,-97.77303
-313,Rattler CrossFit,"119 Homes Rd, Unit C & D, Liberty Hill, TX 78642",5.0,30.65476,-97.87208
-314,CrossFit Second Wave,"421 Sportsplex Dr, Dripping Springs, TX 78620",5.0,30.195837375606036,-98.09752249384842
-315,VRT Fitness & Sports Performance,"3310 Fm 967, Ste A106, Buda, TX 78610",5.0,30.097275323486123,-97.87747614256914
-316,Hotworx - Round Rock,"635 University Blvd, Ste 110, Round Rock, TX 78665",5.0,30.5637148,-97.6740731
-317,Patriot MMA,"3805 Stonebridge Dr, Ste 1, Round Rock, TX 78681",5.0,30.51044,-97.73798
-318,Gold's Gym - North Round Rock,"4201 Sunrise Rd, Round Rock, TX 78665",2.5,30.5607856,-97.6781006
-319,Kill It CrossFit,"1 Valley Trl, Round Rock, TX 78664",4.5,30.503918,-97.607057
-320,Streamline Crossfit,"600 S Bell Blvd, Ste 100, Cedar Park, TX 78613",5.0,30.504277,-97.818415
-321,Orangetheory Fitness - Kyle,"5940 Kyle Parkway, Kyle, TX 78640",3.5,30.009236,-97.856488
-322,ChampionsTX - Lake Travis,"2105 RR 620 S, Ste 201, Lakeway, TX 78734",4.0,30.341937521295964,-97.96545672944774
-323,Elite Martial Arts,"5446 W Hwy 290, Ste 108, Austin, TX 78735",5.0,30.2373696309737,-97.8409880375976
-324,Max 3 Fitness,"4568 Dacy Ln, Bldg 4, Buda, TX 78610",4.0,30.0368873,-97.826653
-325,Woodward Crossfit,"13800 Quitman Pass, Austin, TX 78728",5.0,30.4312,-97.68225
-326,Orangetheory Fitness - Lakeline,"13000 N FM 620 Rd SB, Ste 105, Austin, TX 78750",4.5,30.468898,-97.799492
-327,Orangetheory Fitness - Cedar Park,"5001 183A Toll Rd, Ste L100, Cedar Park, TX 78613",4.5,30.53222730431991,-97.81976078904938
-328,Innovative Health & Performance,"15301 Interstate N 35 Frontage Rd, Pflugerville, TX 78660",5.0,30.446919,-97.666307
-329,F45 Training Round Rock Central,"3200 Greenlawn Blvd, Round Rock, TX 78664",4.5,30.480629,-97.661327
-330,Orangetheory Fitness - Lantana,"7415 Southwest Pkwy, Building 5D, Austin, TX 78735",2.5,30.256388,-97.870409
-331,Tumblepro Austin,"8516 Anderson Mill Rd, Ste 102, Austin, TX 78729",3.5,30.45635,-97.76769
-332,MVP Elite FItness,"1013 South Mays St, Round Rock, TX 78664",5.0,30.49907,-97.67559
-333,Boot Camp 512,"6701 N Lamar, Austin, TX 78752",4.5,30.1866893,-97.7730026
-334,CrossFit Cedar Park,"12112 Anderson Mill Rd, Ste 8B, Austin, TX 78726",4.0,30.458395098049863,-97.8304549606806
-335,PositiveVibrations,"1901 W William Cannon Dr, Ste 103, Austin, TX 78745",3.0,30.201916,-97.805061
-336,Oxygen Fitness Center,"163 Trademark St, Buda, TX 78610",1.0,30.06593,-97.83264
-337,Defiant CrossFit,"16801 Radholme Ct, Ste A, Round Rock, TX 78664",4.5,30.4674863,-97.6601057
-338,Woodward Crossfit,"9308 Anderson Mill Rd, Ste 400, Austin, TX 78729",4.5,30.4512901,-97.784111
-339,Crossfit 3 Strands,"100 W Pflugerville Pkwy, Unit 108, Pflugerville, TX 78660",5.0,30.465721,-97.6255287
-340,Rumble Boxing,"12160 W Parmer Ln, Ste 150, Cedar Park, TX 78613",3.5,30.522750300005967,-97.77379029997122
-341,TruEffort Training Center,"1700 Bryant Dr, Ste 203, Round Rock, TX 78664",5.0,30.4914597,-97.646617
-342,Program Services Branch YMCA,"3208 Red River St, Austin, TX 78705",2.0,30.2918071746826,-97.7270965576172
-343,FIIT gym,"Cedar Park, TX 78613",5.0,30.47835,-97.81479
-344,Gold's Gym Roundrock,"2400 S I H 35, Round Rock, TX 78681",2.0,30.486559,-97.679219
-345,HOTWORX - Round Rock - Brushy Creek,"17420 Ranch Rd 620, Ste 120, Round Rock, TX 78681",5.0,30.50456,-97.71822
-346,Avery Ranch,"Capital Gymnastics, 504 Denali Pass, Cedar Park, TX 78613",3.5,30.517717,-97.775037
-347,Moxie Gymnastics and Cheer,"16776 Fitzhugh Rd, Dripping Springs, TX 78620",3.5,30.2497634887695,-98.055793762207
-348,Austin Muscle Restoration,"5716 US 290, Ste 111, Austin, TX 78735",1.0,30.23684,-97.84704
-349,Golds Gym,"1944 Little Elm Trl, Cedar Park, TX 78613",2.5,30.4837547770288,-97.8292420851967
-350,Get IT Body Fitness,"2007 N Mays St, Ste 104, Round Rock, TX 78664",2.0,30.529534,-97.6879359
-351,Goal's Fitness Center,"2700 W Pecan St, Pflugerville, TX 78660",1.0,30.4501094818115,-97.6565704345703
+gym_id,gym_name,gym_address,gym_ratings,latitude,longitude,zipcode
+1,Castle Hill Fitness,"1112 N Lamar Blvd, Ste B, Austin, TX 78703",4.5,30.27677,-97.7520399,78703
+2,Lift ATX,"1005 Springdale Rd, Ste 3, Austin, TX 78721",4,30.265355,-97.694444,78721
+3,Atomic Athlete,"3907 Warehouse Row, Austin, TX 78704",5,30.2221905,-97.756855,78704
+4,FeV - Iron Vault Gym,"2101 W Ben White Blvd, Unit 105, Austin, TX 78704",5,30.22970512,-97.79134603,78704
+5,Big Tex Gym,"1921 Cedar Bend Dr, Ste A130, Austin, TX 78758",4.5,30.40754096,-97.69790288,78758
+6,"Onnit Gym - Austin, TX","4401 Freidrich Ln, Ste 301, Austin, TX 78744",4.5,30.20665428,-97.74778676,78744
+7,Factory Gym,"2518 S Loop 4, Buda, TX 78610",4.5,30.0464037,-97.8448649,78610
+8,Life Time,"7101 S Mopac Expy, Austin, TX 78749",3,30.215458,-97.840105,78749
+9,HIT Athletic,"7797 Burnet Rd, Austin, TX 78757",5,30.35371917,-97.73067091,78757
+10,Austin Simply Fit,"4912 Burnet Rd., Austin, TX 78756",4.5,30.320688,-97.739678,78756
+11,Fitness Connection,"12901 N Interstate 35, Ste 900, Austin, TX 78753",2,30.412063,-97.671536,78753
+12,Equinox Austin,"1007 S Congress Ave, Austin, TX 78704",3,30.253977,-97.747731,78704
+13,Hyde Park Gym,"4125 Guadalupe St, Austin, TX 78751",4.5,30.3071825,-97.73531,78751
+14,LA Fitness,"4001 S Lamar Blvd, Austin, TX 78704",3.5,30.23544,-97.79161,78704
+15,FIT Austin,"2919 Menchaca Rd, Ste 200, Austin, TX 78704",5,30.241855,-97.781611,78704
+16,Leander Athletic Club,"190 N Bagdad Rd, Ste D, Leander, TX 78641",5,30.57335887,-97.87037922,78641
+17,East Austin Athletic Club,"4909 E Cesar Chavez St, Ste C, Austin, TX 78702",5,30.2511415,-97.7013233,78702
+18,Los Campeones Gym - Austin,"9811 Vikki Ter, Austin, TX 78736",5,30.23242099,-97.9264785,78736
+19,24 Hour Fitness,"1000 E 41st St, Ste 850, Austin, TX 78751",3,30.30140146,-97.72033155,78751
+20,Anytime Fitness,"3407 Guadalupe St, Ste A, Austin, TX 78705",3.5,30.30057,-97.73923,78705
+21,YMCA of North Austin Community Rec Center,"1000 W Rundberg Ln, Austin, TX 78758",4,30.36475,-97.69985,78758
+22,GrassIron,"5555 N Lamar, Ste B-110, Austin, TX 78751",5,30.324062,-97.725981,78751
+23,Gold's Gym - Austin Downtown,"115 E 6th St, Austin, TX 78701",2.5,30.2675981,-97.7417296,78701
+24,Gold's Gym - Austin South Central,"1701 W Ben White Blvd, Ste 165, Austin, TX 78704",2.5,30.2268237,-97.784686,78704
+25,Life Time,"907 W 5th St, Austin, TX 78703",3,30.26959,-97.7538086,78703
+26,Forge Strength Austin,"2032 B South Lamar Blvd, Austin, TX 78704",5,30.249785,-97.769044,78704
+27,South Austin Gym,"5700 Manchaca Rd, Ste 365, Austin, TX 78745",4,30.21495085,-97.79949847,78745
+28,LA Fitness,"2020 W Anderson Ln, Austin, TX 78757",3,30.3553,-97.727518,78757
+29,Life Time,"4210 W Braker Ln, Austin, TX 78759",4,30.39966,-97.74015,78759
+30,Life Time,"13725 Ranch Rd 620 N, Austin, TX 78717",3,30.47253161,-97.774099,78717
+31,Metroflex - Austin,"16300 Central Commerce Dr, Bldg 1, Pflugerville, TX 78660",4,30.46059376,-97.66134685,78660
+32,24 Hour Fitness - Austin,"10616 Research Blvd, Austin, TX 78759",2.5,30.39731243,-97.74760916,78759
+33,The Iron Plate Training Ground,"10921 E Crystal Falls Pkwy, Bldg F302, Leander, TX 78641",5,30.56977907,-97.8120307,78641
+34,Gold's Gym - Austin Highland,"6001 Middle Fiskville Rd, Ste 100, Austin, TX 78752",2.5,30.322676,-97.70938141,78752
+35,TLS ATX Global,"10721 Research Blvd, Ste B-140, Austin, TX 78759",4.5,30.398629,-97.744335,78759
+36,Liberation Barbell Club,"3900 Drossett Dr, Ste A, Austin, TX 78744",4.5,30.211613,-97.732066,78744
+37,Crunch Fitness - Round Rock,"2800 S IH-35, Ste 220, Round Rock, TX 78681",3.5,30.48241742,-97.67651197,78681
+38,Rō Fitness Tarrytown,"2425 Exposition Blvd, Ste E-1, Austin, TX 78703",5,30.2976016,-97.7673076,78703
+39,Travis County Strength,"4507 Airport Blvd, Unit A, Austin, TX 78751",5,30.3034185,-97.7155757,78751
+40,Squatch Frontier Fitness,"701 Tillery St, Austin, TX 78702",5,30.26056,-97.70429,78702
+41,House Of Gainz,"610 N Austin Ave, Ste 110, Georgetown, TX 78626",4,30.64736748,-97.67950439,78626
+42,Planet Fitness,"1100 W Anderson Ln, Austin, TX 78757",3,30.34995928,-97.7162067,78757
+43,Gregory Gymnasium,"2101 Speedway, Austin, TX 78712",4,30.28424023,-97.73646074,78712
+44,HEAT Bootcamp South Austin,"2210 S 1st St, Ste A, Austin, TX 78704",5,30.2439917,-97.7586769,78704
+45,Dane's Body Shop,"2701 Manor Rd, Austin, TX 78722",5,30.2848,-97.713927,78722
+46,Anytime Fitness,"2525 W Anderson Ln, Bldg 3, Ste 100, Northcross Mall, Austin, TX 78757",3.5,30.35454942,-97.733128,78757
+47,Sunfield Station,"2610 Main St, Buda, TX 78610",4.5,30.08945354,-97.80849547,78610
+48,Embody Fitness,"6800 Burnet Rd, Ste 8, Austin, TX 78757",5,30.34449742,-97.7385078,78757
+49,Gold's Gym - Austin Westlake,"701 S Capital Of Texas Hwy, West Lake Hills, TX 78746",2.5,30.29305962,-97.8271572,78746
+50,Studio Three,"501 Brazos St, Austin, TX 78701",5,30.26651913,-97.74179044,78701
+51,Austin Simply Fit,"1621 S Lamar Blvd, Austin, TX 78704",4.5,30.25080092,-97.76530034,78704
+52,East Communities Branch YMCA,"5315 Ed Bluestein Blvd, Austin, TX 78723",3.5,30.29128,-97.6626299,78723
+53,Easley Boxing and Fitness,"2401 Thornton Rd, Austin, TX 78704",4.5,30.24416,-97.77184,78704
+54,Austin Bouldering Project,"979 Springdale Rd, Ste 150, Austin, TX 78702",4.5,30.2632021,-97.69626097,78702
+55,Anytime Fitness,"8516 Anderson Mill Rd, Austin, TX 78729",4.5,30.45635,-97.76769,78729
+56,Austin Barbell - Olympic Weightlifting,"714 Shelby Ln, Unit G, Austin, TX 78745",4.5,30.21278122,-97.7598713,78745
+57,Athletic Outcomes,"2301-A E Riverside Dr, Ste 50, Austin, TX 78741",5,30.235313,-97.726737,78741
+58,Planet Fitness,"1819 S Pleasant Valley Rd, Austin, TX 78741",3,30.23432129,-97.72045414,78741
+59,HCI Sports & Fitness,"13875 Bee Cave Pkwy, Bee Cave, TX 78738",3.5,30.31223056,-97.95739258,78738
+60,Central Athlete,"1023 Springdale Rd, Bldg 9b, Austin, TX 78721",5,30.267597,-97.6926715,78721
+61,Starting Strength - Austin,"2943 W Anderson Ln, Austin, TX 78757",5,30.359446,-97.7391536,78757
+62,Outright Fitness & Performance,"15508 Bratton Ln, Ste 625, Austin, TX 78728",5,30.457307,-97.678711,78728
+63,Anytime Fitness,"6911 N FM-620, Ste B-100, Austin, TX 78732",3.5,30.40182329,-97.85414497,78732
+64,Planet Fitness,"6800 W Gate Blvd, Ste 106, Austin, TX 78745",4,30.20864756,-97.81625194,78745
+65,LA Fitness,"1824 W Slaughter Ln, Austin, TX 78748",3,30.17505857,-97.82134079,78748
+66,Live Large Fit Studios,"2101 Montopolis Dr, Austin, TX 78741",5,30.22321975,-97.70239637,78741
+67,Gold's Gym Austin Bee Caves,"12480 Bee Cave Rd, Bee Cave, TX 78738",3,30.3073994,-97.9354049,78738
+68,Evolve Personal Fitness & Gym,"5716 W Hwy 290, Ste 106, Austin, TX 78735",4.5,30.236912,-97.847314,78735
+69,The Field House,"9204 Hwy 290 W, Austin, TX 78736",5,30.2322361,-97.92831095,78736
+70,Shalom Austin,"7300 Hart Ln, Austin, TX 78731",3.5,30.3574432,-97.75716305,78731
+71,Strong Like Her,"150 Russell Ln, Bldg 4, Dripping Springs, TX 78620",5,30.209388,-98.1202519,78620
+72,Atomic Outpost,"9805 Beck Cir, Austin, TX 78758",5,30.37674,-97.71235,78758
+73,Fusion Fitness,"1112 S 8th St, Austin, TX 78704",5,30.254774,-97.761421,78704
+74,RVE Fitness,"3801 N Capital Of Texas Hwy, Ste I 100, Austin, TX 78746",5,30.33636,-97.80518,78746
+75,Georgetown Fitness,"900 N Austin Ave, Ste 200, Georgetown, TX 78626",5,30.651539,-97.676972,78626
+76,Texas Kettlebell Academy,"7113 Burnet Rd, Ste 118, Austin, TX 78757",5,30.34715,-97.734767,78757
+77,Townlake Branch YMCA,"1100 W Cesar Chavez St, Austin, TX 78703",3.5,30.26896,-97.75697,78703
+78,F45 Training North Shoal Creek,"3301 Steck Avenue, Ste 104, Austin, TX 78757",5,30.36622,-97.73872,78757
+79,Fit and Fearless,"4109 Todd Ln, Ste 1600, Austin, TX 78744",5,30.210233,-97.736533,78744
+80,Evolution Fitness,"3301 Hancock Dr, Austin, TX 78731",5,30.3322105,-97.7596512,78731
+81,Focus Fitness,"3909 Cologne Ln, Austin, TX 78727",5,30.4168102,-97.7216636,78727
+82,Lakeway Elite Fitness,"1909 Ranch Rd 620 S, Ste F&G, Lakeway, TX 78734",5,30.344542,-97.965446,78734
+83,LA Fitness,"825 W Whitestone Blvd, Cedar Park, TX 78613",3.5,30.519388,-97.8387299,78613
+84,Dane's Body Shop,"807 Capitol Ct, Austin, TX 78756",5,30.31842,-97.73196,78756
+85,Gold's Gym,"4404 W William Cannon Dr, Austin, TX 78749",2.5,30.22380746,-97.84009668,78749
+86,Anytime Fitness,"7300 FM 2222, Ste 208, Austin, TX 78730",3,30.37192725,-97.80199517,78730
+87,Slaughter Gold's Gym,"8900 S Congress Ave, Austin, TX 78745",2.5,30.1698137,-97.78960477,78745
+88,Richard Lord's Gym,"6324 N Lamar Blvd, Austin, TX 78752",4.5,30.33175,-97.72314,78752
+89,TLS ATX Global,"500 N Lamar Blvd, Ste 190, Austin, TX 78703",4,30.270752,-97.754912,78703
+90,Austin Fitness Clinic,"4111 Marathon Blvd, Ste 140, Austin, TX 78756",5,30.31004,-97.74099,78756
+91,Hill Country Fitness,"12912 Hill Country Blvd, Ste F-220, Austin, TX 78738",4,30.31011,-97.94228,78738
+92,[solidcore],"204 Colorado St, Austin, TX 78701",4,30.26509,-97.74556,78701
+93,Rk512,"7601 S Congress Ave, Ste 500, Austin, TX 78745",5,30.18322354,-97.7818191,78745
+94,Driven Performance Training,"515 Congress Ave, Ste N, Austin, TX 78701",5,30.2676102,-97.7425593,78701
+95,Home Barbell Club,"1900 E Howard Ln, Ste F-3, Pflugerville, TX 78660",5,30.40258017,-97.63437025,78660
+96,Planet Fitness,"12611 N Mopac Expy, Ste 3, Austin, TX 78727",3.5,30.42179347,-97.70032251,78727
+97,HT Fitness - Cedar Creek,"181 W Sh 21, Cedar Creek, TX 78612",5,30.10971232,-97.4224614,78612
+98,Inner Diva Studios,"10401 Anderson Mill Rd, Ste 104, Austin, TX 78750",4.5,30.44687332,-97.80488997,78750
+99,Sacrifice Training,"18307 Weiss Ln, Pflugerville, TX 78660",5,30.444039,-97.56281,78660
+100,Train 4 The Game ,"3201 Bee Caves Rd, Ste 121, Austin, TX 78746",4.5,30.2713171,-97.79989435,78746
+101,HT Fitness - Manor,"12421 E US 290, Manor, TX 78653",3.5,30.34864961,-97.53259473,78653
+102,TLS ATX Global,"15500 West State Hghway 71, Bldg C Ste 150, Bee Caves, TX 78738",4.5,30.31772,-97.98474,78738
+103,Clay Madsen Recreation Center,"1600 Gattis School Rd, Round Rock, TX 78664",3.5,30.49686,-97.66081,78664
+104,Gold's Gym - Austin Anderson Arbor,"13435 Us-183, Austin, TX 78750",3,30.4472067,-97.78756348,78750
+105,Gold's Gym - Austin Southeast,"801 E William Cannon Dr, Austin, TX 78745",2.5,30.1894126,-97.77396698,78745
+106,CrossFit Central,"410 Pressler St, Austin, TX 78703",4.5,30.272307,-97.761403,78703
+107,Wild Basin Fitness At Steiner,"4308 N Quinlan Park Rd, Ste 200, Austin, TX 78732",4,30.38275,-97.8843799,78732
+108,Ghostletics Gym,"10203 Old Manchaca Rd, Ste C, Austin, TX 78748",1.5,30.17267339,-97.8301863,78748
+109,Marlow's Fitness,"7756 Northcross Dr, Ste 100, Austin, TX 78757",5,30.3567115,-97.7372988,78757
+110,Ro Fitness Downtown,"74 Trinity St, Austin, TX 78701",5,30.26063434,-97.74186589,78701
+111,Planet Fitness,"1807 W Slaughter Ln, Austin, TX 78748",3,30.1694692,-97.82466888,78748
+112,Fitness Connection - Lake Creek,"13776 US-183, Austin, TX 78750",2,30.46167849,-97.79781474,78750
+113,Body 20,"4005 Market St, Bee Cave, TX 78738",2,30.3067096,-97.93595847,78738
+114,Oak Hill Fitness & Obstacle Course,"7401 Old Bee Caves Rd, Austin, TX 78735",5,30.24075127,-97.87762451,78735
+115,Stonehenge Weightlifting,"12112 Anderson Mill Rd, Ste A, Bldg-2, Austin, TX 78726",5,30.45962,-97.83136,78726
+116,Pure Ambition,"9709 Brown Ln, Ste E/F, Austin, TX 78754",3,30.353502,-97.66727608,78754
+117,Orangetheory Fitness - Triangle,"4601 N. Lamar Blvd., Ste 508, Austin, TX 78751",3.5,30.31502,-97.73547,78751
+118,SWEAT440 - Highland,"110 Jacob Fontaine Ln, Austin, TX 78752",5,30.325908,-97.715379,78752
+119,STRIDE Fitness,"1611 W 5th St, Ste 135, Austin, TX 78703",5,30.2739251,-97.76409914,78703
+120,Cowboys Fit,"1401 Town Center Dr, Pflugerville, TX 78660",4,30.465578,-97.601704,78660
+121,Chris Gets U Fit,"917 W Anderson Ln, Ste F, Austin, TX 78757",5,30.34821,-97.71523,78757
+122,HT Fitness,"2704 N Main St, Taylor, TX 76574",2.5,30.591283,-97.411715,76574
+123,Athelite Training Center,"920 Old Mill Rd, Cedar Park, TX 78613",5,30.4750624,-97.8229433,78613
+124,Orangetheory Fitness - Mueller,"1911 Aldrich St., Ste 175, Austin, TX 78723",5,30.298628,-97.704369,78723
+125,Corespeed Gym,"1201 S Heatherwilde Blvd, Pflugerville, TX 78660",5,30.435205,-97.647469,78660
+126,Drenched,"3080 Kyle Crossing, Ste 2, Kyle, TX 78640",5,30.023286,-97.854407,78640
+127,Kilter Fitness,"5400 N Lamar Blvd, Ste 2008, Austin, TX 78752",5,30.32243703,-97.72880886,78752
+128,Georgetown Recreation Center,"1003 N Austin Ave, Georgetown, TX 78626",3.5,30.6511924,-97.67356442,78626
+129,Gold's Gym - Cedar Park,"1335 E Whitestone Blvd, Ste AB, Cedar Park, TX 78613",2.5,30.53018643,-97.81277144,78613
+130,MADabolic - Austin,"440 E Saint Elmo Rd, Ste E-1, Austin, TX 78745",5,30.21655129,-97.76167821,78745
+131,The Strength Warehouse,"9705 Burnet Rd, Unit 211, Austin, TX 78758",4,30.3803345,-97.72302448,78758
+132,Northwest Family Branch YMCA,"5807 McNeil Dr, Austin, TX 78729",3.5,30.44606557,-97.73350439,78729
+133,F45 Training South Shore Austin,"1604 E Riverside Dr, Austin, TX 78741",4.5,30.24564,-97.73073,78741
+134,AKT,"2400 E 6th St, Austin, TX 78702",5,30.259764,-97.715994,78702
+135,Sweat440 Zilker,"300 S Lamar Blvd, Ste O, Austin, TX 78704",5,30.262868,-97.758533,78704
+136,30 Minute Hit -Austin,"3016 Guadalupe St, Ste A200, Austin, TX 78705",5,30.297492,-97.74176,78705
+137,F45 Training Domain Austin,"3220 Amy Donovan Plz, Ste 124, Austin, TX 78758",4,30.39678,-97.72731,78758
+138,LA Fitness,"16600 N Rm 620 Rd, Round Rock, TX 78681",3,30.49827307,-97.72367949,78681
+139,Round Rock Sports Center,"2400 Chisholm Trl, Round Rock, TX 78681",3,30.53898943,-97.69740972,78681
+140,KinetiCore Fitness,"4111 Marathon Blvd, Ste 140, Austin, TX 78756",5,30.31004,-97.74099,78756
+141,HIT Center Austin,"920 Old Mill Rd, Cedar Park, TX 78613",5,30.4752979,-97.823761,78613
+142,RIDE Indoor Cycling,"117 Lavaca St, Austin, TX 78701",4.5,30.26457,-97.74669,78701
+143,Hays Communities YMCA,"465 Buda Sportsplex Dr, Buda, TX 78610",3.5,30.10652388,-97.87719727,78610
+144,TrvFit Georgetown,"205 Cantera Way, Bldg 1, Georgetown, TX 78628",5,30.63480256,-97.76107441,78628
+145,SoLa CrossFit,"2119 Goodrich Ave, Austin, TX 78704",5,30.248582,-97.772895,78704
+146,MADabolic Austin North,"2900 W Anderson Ln, Ste B19, Austin, TX 78757",5,30.35916966,-97.73594579,78757
+147,Black Widow MMA,"2007 Kramer Ln, Ste 101, Austin, TX 78758",5,30.38818,-97.71011,78758
+148,Westerfeld Fitness,"9 Cousteau Ln, Westlake Hills, TX 78746",5,30.30902,-97.83207,78746
+149,Orangetheory Fitness - Arbor Town Square,"10721 Research Blvd.,, Ste A-100, Austin, TX 78759",4,30.399103,-97.745007,78759
+150,Of The Lion Fitness,"650 Canion St, Austin, TX 78752",5,30.33482,-97.71816,78752
+151,HOTWORX- Austin,"11521 N Fm 620, Ste 925, Austin, TX 78726",4.5,30.45328504,-97.82725446,78726
+152,CrossFit 2024,"2015 E Riverside Dr, Ste 7BB, Austin, TX 78741",4.5,30.240018,-97.728531,78741
+153,F45 Training Four Points,"7900 N FM 620, Ste 130, Austin, TX 78726",5,30.41474,-97.85081,78726
+154,Planet Fitness,"6425 S I-35, Ste 200, Austin, TX 78744",3.5,30.19029813,-97.76787347,78744
+155,Practical Fitness Westlake Hills,"1715 S Capital Of Texas Hwy, Ste 102, Westlake Hills, TX 78746",5,30.27146,-97.81705,78746
+156,TITLE Boxing Club,"13945 US Highway 183, Ste C-3, Austin, TX 78717",4.5,30.47275,-97.79695,78717
+157,Springs Family YMCA,"27216 Ranch Rd 12, Drippings Springs, TX 78620",4.5,30.18637,-98.08476,78620
+158,Mighty Fit,"5707 Southwest Pkwy, Bld 2, Austin, TX 78735",5,30.24337303,-97.84517,78735
+159,Free Your Fitness 24,"12110 Manchaca Rd, Ste 400, Austin, TX 78748",5,30.168207,-97.8177601,78748
+160,Coach Mo's Elite Fitness,"7119 Chimney Corners, Austin, TX 78731",4.5,30.35763,-97.76031,78731
+161,Curves,"14611 Burnet Rd, Ste 107, Austin, TX 78728",3.5,30.45058511,-97.69512941,78728
+162,CHASCO Family YMCA,"1801 N Is Hwy 35, Round Rock, TX 78664",3,30.52630771,-97.68810007,78664
+163,CrossFit 737,"12707 Nutty Brown Rd, Austin, TX 78737",5,30.1983676,-97.9719937,78737
+164,Sweat Athletics,"12129 RR 620 Ste 590, Austin, TX 78750",5,30.461174,-97.817017,78750
+165,Hutto Fitness Center,"3750 Limmer Lp, Hutto, TX 78634",5,30.55812,-97.54488,78634
+166,Smart Strength,"3636 Bee Caves Rd, Ste 106, Austin, TX 78746",5,30.27922,-97.8058,78746
+167,Mayweather Boxing + Fitness,"11101 Burnet Rd, Ste 190, Austin, TX 78758",4.5,30.39573,-97.71953,78758
+168,HT Fitness - Elgin,"195 US 290, Elgin, TX 78621",4.5,30.33785384,-97.3690021,78621
+169,Orangetheory Fitness - Four Points,"7301 N FM 620, Ste 175, Austin, TX 78726",4.5,30.40541275,-97.85101457,78726
+170,Wellington Standard Fitness,"12110 Manchaca Rd, Ste 400, Austin, TX 78748",5,30.14238,-97.83395,78748
+171,CrossFit Strength Haven,"10604 Bluff Bend Dr, Ste A, Austin, TX 78753",5,30.36902,-97.67715,78753
+172,Orangetheory Fitness South Austin,"9500 S Ih 35, Ste L800, Austin, TX 78748",4,30.165827,-97.792635,78748
+173,Optimus Strength ATX,"900 Shelby Ln, Ste 10, Austin, TX 78745",5,30.21238,-97.75833,78745
+174,Voodoo CrossFit 512,"9313 Anderson Mill Rd, Ste 100, Austin, TX 78729",5,30.45016808,-97.7840827,78729
+175,CrossFit Rep,"10603 Metric Blvd, Ste 142, Austin, TX 78758",5,30.3844891,-97.7124405,78758
+176,Raw Fitness,"9900 S Ih Frontage Rd, Bldg F Ste 200, Austin, TX 78749",5,30.1565504,-97.793543,78749
+177,Practical Fitness,"11824 Jollyville Rd, Ste 104, Austin, TX 78759",5,30.42231891,-97.75600587,78759
+178,Anytime Fitness,"11720 FM 1826, Austin, TX 78737",2.5,30.193467,-97.92510391,78737
+179,Tao Health & Fitness,"4505 Terry-O Ln, Ste B201, Austin, TX 78745",5,30.21294702,-97.76041441,78745
+180,HyperDrive Fitness,"2105 Pyramid Dr, Austin, TX 78734",5,30.383469,-97.940188,78734
+181,The Phoenix Project Austin,"6448 E Hwy 290, C-104, Austin, TX 78723",5,30.3234714,-97.6951736,78723
+182,Reframe Fitness,"12034 Research Blvd, Unit 2, Austin, TX 78759",5,30.42532,-97.7528,78759
+183,Orangetheory Fitness - Tech Ridge,"12314 N Interstate Hwy 35, Ste 105, Austin, TX 78753",4,30.40052,-97.67504,78753
+184,Northcross Fitness,"7739 Northcross Dr, Ste V, Austin, TX 78757",5,30.35598183,-97.73610687,78757
+185,Anytime Fitness,"12101 W Parmer Ln, Cedar Park, TX 78613",5,30.52172024,-97.77487088,78613
+186,SPENGA Austin Lakeline,"14010 US Hwy 183, Ste 560, Austin, TX 78717",5,30.47298156,-97.80130194,78717
+187,F45 Training Cedar Park,"401 W Whitestone Blvd, Cedar Park, TX 78613",5,30.52024,-97.83396,78613
+188,CrossFit Lake Travis,"5324 Reimers-Peacock Rd, Spicewood, TX 78669",5,30.35245951,-98.06624166,78669
+189,CycleBar,"19230 IH 35, Ste 100, Kyle, TX 78640",5,30.02936293,-97.85094786,78640
+190,Rumble Boxing,"4301 W William Cannon Dr, Ste B108, Austin, TX 78749",5,30.2218836,-97.84166716,78749
+191,CrossFit Central,"6205 A-Burnet Rd, Austin, TX 78757",4.5,30.337075,-97.73884,78757
+192,Austin Ninjas,"6001 W Parmer Ln, Ste 430, Austin, TX 78727",4.5,30.44169091,-97.74531831,78727
+193,Gold's Gym - Austin Hester's Crossing,"2400 S Ih-35, Round Rock, TX 78681",2.5,30.48649657,-97.6792578,78681
+194,Bat City Crossfit,"12400 Amherst Dr, Ste 104, Austin, TX 78727",5,30.4214624,-97.7158596,78727
+195,Orangetheory Fitness - West Lake Hills,"3300 Bee Cave Rd., Ste 200, Austin, TX 78746",4.5,30.27498,-97.79903,78746
+196,F45 Training West Oak Hill,"7101 TX-71, Ste E12, Austin, TX 78735",4,30.23540716,-97.87801804,78735
+197,1UP Sports Performance,"2000 Windy Ter, Bldg 10, Cedar Park, TX 78613",4,30.4619938,-97.8331384,78613
+198,Hutto Family YMCA,"200 Alliance Blvd, Hutto, TX 78634",3.5,30.54334,-97.56597,78634
+199,CYCLEBAR,"507 Pressler St, Ste 900, Austin, TX 78703",2.5,30.27252869,-97.76001564,78703
+200,A Fit Plan,"15950 Ranch Rd 12, Ste 3, Wimberley, TX 78676",5,30.0214404,-98.1016738,78676
+201,Gold's Gym - Austin,"166 Hargraves Dr, Ste D-100, Austin, TX 78737",2.5,30.20445084,-97.97887449,78737
+202,F45 Training Jollyville,"7318 McNeil Dr, Ste 106, Austin, TX 78729",4.5,30.4356554,-97.7677744,78729
+203,Orangetheory Fitness - Downtown Austin,"401 West 3rd Street, Austin, TX 78701",4,30.2661,-97.74753,78701
+204,Transform Boot Camp,"15609 Ronald Reagan Blvd, Ste A160, Leander, TX 78641",4.5,30.56310002,-97.8009016,78641
+205,Bc-fit,"17251 Great Oaks Dr, Round Rock, TX 78681",5,30.51405417,-97.73511517,78681
+206,Austin Fitness Center,"3100 Slaughter Ln, Austin, TX 78748",4,30.180074,-97.842044,78748
+207,Orangetheory Fitness Georgetown,"1500 Rivery Blvd, Ste 340, Georgetown, TX 78628",4.5,30.64996135,-97.68728986,78628
+208,Anytime Fitness,"106-116 W Lake Dr, Taylor, TX 76574",4,30.584022,-97.411678,76574
+209,Hotworx - Pflugerville,"208 E Wells Branch Pkwy, Ste 240, Pflugerville, TX 78660",5,30.43109544,-97.65162902,78660
+210,BodyWise Gym,"2901 Ranch Road 620 N, Austin, TX 78734",3,30.39018968,-97.93799643,78734
+211,Austin Affordable Fitness,"708 Robert E Lee Rd, Austin, TX 78704",5,30.262825,-97.7670593,78704
+212,Inspire Fitness,"3621 E Whitestone Blvd, Cedar Park, TX 78613",5,30.5394599,-97.7754045,78613
+213,Power Performance Training,"321 W Ben White Blvd, Ste 105, Austin, TX 78704",5,30.22335921,-97.76759681,78704
+214,Planet Fitness,"2700 W Pecan St, Ste 400, Pflugerville, TX 78660",3.5,30.45079694,-97.65672119,78660
+215,Manor Gym,"13419 Hwy 290 E, Bldg 6, Manor, TX 78653",1,30.34742579,-97.51547947,78653
+216,Move Sport Ninja Academy,"16808 Joe Barbee Dr, Pflugerville, TX 78660",4.5,30.47001,-97.66411,78660
+217,Fitness On Fifth,"3500 Jefferson, Ste 103, Austin, TX 78731",2,30.3080769,-97.7517654,78731
+218,Austin Aquatics & Sports Academy,"5513 Southwest Pkwy, Austin, TX 78735",3.5,30.24334,-97.84367,78735
+219,Austin Bouldering Project,"4477 S Lamar Blvd, Austin, TX 78745",4,30.2308627,-97.79928432,78745
+220,Gold's Gym - Pflugerville,"21315 North Sh 130 Nb, Pflugerville, TX 78660",2,30.498232,-97.5791159,78660
+221,Anytime Fitness,"910 W 11th St, S 200, Elgin, TX 78621",2,30.34746,-97.38475,78621
+222,Blu Edge Fitness,"5 Brent Blvd, Ste 100, Kyle, TX 78640",2,30.00531,-97.86399,78640
+223,Anytime Fitness,"20900 FM 1431, Lago Vista, TX 78645",1,30.48171,-97.975727,78645
+224,The Garage Gym at Rock Sports Arena,"3918 Gattis School Rd, Ste 102, Rock Sports Arena, Round Rock, TX 78660",3.5,30.49787,-97.60902,78660
+225,Orangetheory Fitness - Leander,"3421 N. Lakeline Blvd., Leander, TX 78641",4,30.54297686,-97.86434819,78641
+226,Fierce Fit,"937 Reinli St, Ste 9, Austin, TX 78751",4.5,30.31895021,-97.70900508,78751
+227,Planet Fitness,"1245 S US 183, Leander, TX 78641",4,30.561955,-97.848001,78641
+228,Next Levels Of Fitness,"7801 N Lamar Blvd, Austin, TX 78752",5,30.34562151,-97.7117926,78752
+229,FOGO CrossFit,"4619 S Congress Ave, Ste D, Austin, TX 78745",5,30.21522,-97.76809,78745
+230,CrossFit Round Rock,"350 Old West Dr, Ste C, Round Rock, TX 78681",5,30.49124908,-97.6805191,78681
+231,Orangetheory Fitness - Saltillo,"1211 East 5th Street, Austin, TX 78702",4,30.263058,-97.730699,78702
+232,I Love Kickboxing - Austin,"1700 S Lamar Blvd, Austin, TX 78704",4,30.251461,-97.766109,78704
+233,F45 Training Westlake,"3201 Bee Cave Rd, Ste 134, Austin, TX 78746",4,30.2732763,-97.8005775,78746
+234,Journey Fitness,"Austin, TX 78701",5,30.27048574,-97.74234639,78701
+235,Gold's Gym - Cypress Creek,"1314 Cypress Creek Rd, Cedar Park, TX 78613",2.5,30.4838396,-97.8292638,78613
+236,Orangetheory Fitness - Sunset Valley,"5601 Brodie Lane, Ste 1200B, Sunset Valley, TX 78745",4,30.22654546,-97.82138869,78745
+237,Anytime Fitness,"21195 Ih 35, Ste 101, Kyle, TX 78640",2.5,30.003999,-97.864441,78640
+238,Crossfit Renew,"8120 Research Blvd, Ste 103, Austin, TX 78758",5,30.353206,-97.715664,78758
+239,CrossFit SoChac,"11600 Manchaca Rd, Ste 301, Austin, TX 78748",5,30.151727,-97.835648,78748
+240,HOTWORX - Georgetown,"940 W University Ave, Ste 115, Georgetown, TX 78626",5,30.63076796,-97.68950494,78626
+241,Blue Sky Strongbox Personal Training,"705 Orland Blvd, Austin, TX 78745",5,30.2163,-97.77778,78745
+242,CrossFit City Limits,"5206 Eilers Ave, Austin, TX 78751",4.5,30.31458,-97.71649,78751
+243,OBK Fitness & Nutrition,"6 Indian Meadows Dr, Ste 200, Round Rock, TX 78665",3.5,30.550481,-97.674197,78665
+244,Crossfit Lakeway,"1909 Ranch Rd 620 S, Austin, TX 78734",5,30.3444901,-97.9653625,78734
+245,CrossFit Jääkarhu,"139 E St Elmo Rd, Austin, TX 78745",5,30.21647466,-97.76607615,78745
+246,Heroes CrossFit,"300 Brushy Creek, Ste 501, Cedar Park, TX 78613",5,30.504649,-97.816211,78613
+247,Planet Fitness,"200 W Palm Valley Blvd, Round Rock, TX 78664",4,30.51876826,-97.68478158,78664
+248,Ann Wolfe Boxing and Fitness,"2892 State Hwy 71 W, Cedar Creek, TX 78612",3,30.17542,-97.5249,78612
+249,Class UFC Gym - North Austin,"10900 Lakeline Mall Dr, Austin, TX 78717",5,30.47467,-97.79642,78717
+250,Anytime Fitness,"14306 RR-12, Suites 8, 9-10, Wimberley, TX 78676",2.5,30.000695,-98.100689,78676
+251,Orangetheory Fitness - Avery Ranch,"14900 Avery Ranch Blvd., Ste A-100, Austin, TX 78717",4.5,30.49836,-97.77772,78717
+252,Corazon Latino Dance Studio,"6132 W 290, Austin, TX 78735",4.5,30.23581958,-97.85486767,78735
+253,Anna Hiss gym,"2501 Wichita St, Austin, TX 78705",3,30.288559,-97.7378545,78705
+254,Balcones Fitness,"1406 Three Points Rd, Ste B2, Pflugerville, TX 78660",5,30.450772,-97.657557,78660
+255,Austin Ninjas,"200 Buttercup Creek Blvd, Ste 107A, Cedar Park, TX 78613",4,30.50246,-97.822027,78613
+256,HOTWORX - Round Rock,"2150 E Palm Valley Blvd, Round Rock, TX 78665",4.5,30.51907831,-97.65206136,78665
+257,Orangetheory Fitness Circle C,"5700 Slaughter Ln, Ste 260, Austin, TX 78749",5,30.20166689,-97.86812426,78749
+258,Austin FIT Center,"4402 S Congress Ave, Austin, TX 78745",3.5,30.217596,-97.76799,78745
+259,HOTWORX,"7826 W US Hwy 290, Ste 107, Austin, TX 78736",4,30.23001005,-97.88708527,78736
+260,HOTWORX - Hutto,"567 Chris Kelley Blvd, Ste 102, Hutto, TX 78634",5,30.531605,-97.563744,78634
+261,CYCLEBAR,"2400 E 6th St, Austin, TX 78702",4,30.25969,-97.7157,78702
+262,Sculpted Physiques By Leila,"2745 Bee Caves, Ste 105, Austin, TX 78746",5,30.27058163,-97.78757003,78746
+263,HOTWORX - Bee Cave,"12801 Shops Pkwy, Ste 300, Bee Cave, TX 78738",5,30.30459,-97.94176,78738
+264,Lumos Fitness Collective,"2415 Burleson Rd, Austin, TX 78741",5,30.22900652,-97.73530941,78741
+265,Infinit8 Fitness,"12800 West Parmer Ln, Ste 212, Cedar Park, TX 78613",5,30.5313623,-97.7749625,78613
+266,The Dash Gym,"488 Bailey Ln, Spicewood, TX 78669",1,30.4811,-98.16058,78669
+267,Anytime Fitness,"2301 S Lakeline Blvd, Cedar Park, TX 78613",4.5,30.477824,-97.81852,78613
+268,Flex Fit Gym 24/7,"3918 Gattis School Rd, Ste 108, Round Rock, TX 78664",2,30.49787,-97.60902,78664
+269,Just Results,"14500 RR 12, Ste 13, Wimberley, TX 78666",5,30.0026808,-98.10103963,78666
+270,Orangetheory Fitness Round Rock - University,"311 University Blvd, Ste 100, Round Rock, TX 78665",5,30.5591837,-97.68471105,78665
+271,The Turf & Iron Athlete,"4227 Guadalupe St, Austin, TX 78751",5,30.3082949,-97.7342673,78751
+272,Anytime Fitness,"707 W Hwy 290, Dripping Springs, TX 78620",3,30.19224737,-98.09830068,78620
+273,F45 Training Lakeway,"3944 Ranch Rd 620 S, Ste 120, Bee Cave, TX 78738",5,30.31102,-97.94662,78738
+274,Anytime Fitness,"2800 S Bagdad Rd, Ste H, Leander, TX 78641",3.5,30.54028,-97.84889,78641
+275,CrossFit Oak Hill,"5446 Hwy 290 W, Ste 305, Austin, TX 78735",5,30.238541,-97.840727,78735
+276,Anytime Fitness,"1671 Main St, Ste H, Buda, TX 78610",2,30.0881083,-97.82247265,78610
+277,Planet Fitness,"1103 Rivery Blvd, Ste 3-307, Georgetown, TX 78628",4.5,30.64562174,-97.68891434,78628
+278,Blush Boot Camp,"2906 S Bagdad Rd, Leander, TX 78641",4,30.53874358,-97.84741801,78641
+279,Bodies By Design Personal Training,"15635 Vision Dr, Ste 103, Pflugerville, TX 78660",5,30.45072,-97.66144,78660
+280,LA Fitness,"1000 N A W Grimes Blvd, Round Rock, TX 78665",3,30.520397,-97.656586,78665
+281,Orangetheory Fitness - Domain,"3100 Esperanza Crossing, Ste 118, Austin, TX 78758",4.5,30.39992754,-97.7229331,78758
+282,Alexander Strength,"4125 Guadalupe St, Austin, TX 78751",5,30.30709694,-97.73520092,78751
+283,Orangetheory Fitness - Lakeway,"1516 Ranch Rd 620 S, Ste 100, Lakeway, TX 78734",4.5,30.34751876,-97.96625778,78734
+284,Regymen Fitness - Round Rock,"3021 S I-35 Frontage Rd, Ste 150, Round Rock, TX 78664",5,30.47871326,-97.66914533,78664
+285,UpReach CrossFit,"13047 Pond Springs Rd, Austin, TX 78729",5,30.44268,-97.77431,78729
+286,Slade Fit Club,"1927 Lohman's Crossing Rd, Ste 100A, Lakeway, TX 78734",5,30.34586,-97.97625,78734
+287,Grand Mesa Crossfit,"10960 E Crystal Falls Pkwy, Ste 400, Leander, TX 78641",4.5,30.5685334,-97.8063329,78641
+288,Orangetheory Fitness - South Lamar,"1100 S Lamar Blvd., Ste 1115, Austin, TX 78704",4.5,30.25576,-97.76252,78704
+289,Hill Country MVMT,"150 Russell Ln, Bldg 4, Dripping Springs, TX 78620",5,30.209344,-98.1202519,78620
+290,Milestone CrossFit,"641 W Front St, Hutto, TX 78634",4.5,30.53955,-97.55418,78634
+291,CrossFit Dripping Springs,"31560 Ranch Rd 12, Ste 201, Dripping Springs, TX 78620",5,30.24986385,-98.05787278,78620
+292,My Gym,"5307 W Hwy 290, Austin, TX 78735",4.5,30.23580325,-97.83725335,78735
+293,Alliance Physical Culture,"6700 Manchaca Rd, Austin, TX 78745",5,30.2063721,-97.8071133,78745
+294,CrossFit Hays,"200 Lehman Rd, Ste 500, Kyle, TX 78640",5,29.989775,-97.859735,78640
+295,Charneski Fight Team,"9505 Burnet Rd, Ste C, Austin, TX 78758",5,30.378612,-97.724739,78758
+296,Anytime Fitness,"2650 Gattis School Rd, Round Rock, TX 78664",4,30.49697,-97.647021,78664
+297,Orangetheory Fitness Round Rock,"661 Louis Henna Blvd, Ste 450, Round Rock, TX 78664",4.5,30.4821205,-97.6568985,78664
+298,Blu Edge Fitness,"5 Brent Blvd, Kyle, TX 78640",2,30.00518037,-97.8639558,78640
+299,Gold's Gym Cedar Park,"1401 Medical Pkwy, Cedar Park, TX 78613",2,30.53008128,-97.81258925,78613
+300,YMCA east Communities,"5315 Ed Bluestein Blvd, Austin, TX 78723",3,30.29197333,-97.66210746,78723
+301,Kinetic Fit Systems,"5716 W Hwy 290, Ste 106, Austin, TX 78735",5,30.23621988,-97.84976237,78735
+302,The Mat Martial Arts & Fitness,"2100 Cypress Creek Rd, Ste 500, Cedar Park, TX 78613",5,30.47561671,-97.84163073,78613
+303,Iron Cross Fitness,"2020 N Bell Blvd, Ste B3-H, Cedar Park, TX 78613",5,30.53533,-97.83498,78613
+304,Pinnacle Training Center,"400 W Whitestone Blvd, Ste A, Cedar Park, TX 78613",3.5,30.5193918,-97.83350919,78613
+305,Crossfit Hutto,"300 Tradesmen Dr, Ste 600, Hutto, TX 78634",5,30.5416062,-97.5857426,78634
+306,Hotworx - Leander - Hwy 29 & Ronald Reagan,"19368 Ronald Reagan Blvd, Ste 120, Leander, TX 78628",3.5,30.634591,-97.824764,78628
+307,Strength & Endurance Academy,"23703 IH 35, Ste 104A, Kyle, TX 78640",5,29.967439,-97.873311,78640
+308,CrossFit Texas,"641 W Front St, Hutto, TX 78634",5,30.53972238,-97.55413139,78634
+309,Divine Strength Personal Training & Diet Center,"1200 Lakeway Dr, Lakeway, TX 78734",5,30.36391657,-97.9814677,78734
+310,F45 Training Cross Trails,"2000 N Mays St, Ste 115, Round Rock, TX 78664",5,30.5280419,-97.6889591,78664
+311,Orangetheory Fitness Pflugerville,"4810 Gattis School Rd, Hutto, TX 78634",4,30.500784,-97.58481,78634
+312,Champions Gymnastics and Cheer,"1314 Exposition Blvd, Austin, TX 78703",4.5,30.28931,-97.77303,78703
+313,Rattler CrossFit,"119 Homes Rd, Unit C & D, Liberty Hill, TX 78642",5,30.65476,-97.87208,78642
+314,CrossFit Second Wave,"421 Sportsplex Dr, Dripping Springs, TX 78620",5,30.19583738,-98.09752249,78620
+315,VRT Fitness & Sports Performance,"3310 Fm 967, Ste A106, Buda, TX 78610",5,30.09727532,-97.87747614,78610
+316,Hotworx - Round Rock,"635 University Blvd, Ste 110, Round Rock, TX 78665",5,30.5637148,-97.6740731,78665
+317,Patriot MMA,"3805 Stonebridge Dr, Ste 1, Round Rock, TX 78681",5,30.51044,-97.73798,78681
+318,Gold's Gym - North Round Rock,"4201 Sunrise Rd, Round Rock, TX 78665",2.5,30.5607856,-97.6781006,78665
+319,Kill It CrossFit,"1 Valley Trl, Round Rock, TX 78664",4.5,30.503918,-97.607057,78664
+320,Streamline Crossfit,"600 S Bell Blvd, Ste 100, Cedar Park, TX 78613",5,30.504277,-97.818415,78613
+321,Orangetheory Fitness - Kyle,"5940 Kyle Parkway, Kyle, TX 78640",3.5,30.009236,-97.856488,78640
+322,ChampionsTX - Lake Travis,"2105 RR 620 S, Ste 201, Lakeway, TX 78734",4,30.34193752,-97.96545673,78734
+323,Elite Martial Arts,"5446 W Hwy 290, Ste 108, Austin, TX 78735",5,30.23736963,-97.84098804,78735
+324,Max 3 Fitness,"4568 Dacy Ln, Bldg 4, Buda, TX 78610",4,30.0368873,-97.826653,78610
+325,Woodward Crossfit,"13800 Quitman Pass, Austin, TX 78728",5,30.4312,-97.68225,78728
+326,Orangetheory Fitness - Lakeline,"13000 N FM 620 Rd SB, Ste 105, Austin, TX 78750",4.5,30.468898,-97.799492,78750
+327,Orangetheory Fitness - Cedar Park,"5001 183A Toll Rd, Ste L100, Cedar Park, TX 78613",4.5,30.5322273,-97.81976079,78613
+328,Innovative Health & Performance,"15301 Interstate N 35 Frontage Rd, Pflugerville, TX 78660",5,30.446919,-97.666307,78660
+329,F45 Training Round Rock Central,"3200 Greenlawn Blvd, Round Rock, TX 78664",4.5,30.480629,-97.661327,78664
+330,Orangetheory Fitness - Lantana,"7415 Southwest Pkwy, Building 5D, Austin, TX 78735",2.5,30.256388,-97.870409,78735
+331,Tumblepro Austin,"8516 Anderson Mill Rd, Ste 102, Austin, TX 78729",3.5,30.45635,-97.76769,78729
+332,MVP Elite FItness,"1013 South Mays St, Round Rock, TX 78664",5,30.49907,-97.67559,78664
+333,Boot Camp 512,"6701 N Lamar, Austin, TX 78752",4.5,30.1866893,-97.7730026,78752
+334,CrossFit Cedar Park,"12112 Anderson Mill Rd, Ste 8B, Austin, TX 78726",4,30.4583951,-97.83045496,78726
+335,PositiveVibrations,"1901 W William Cannon Dr, Ste 103, Austin, TX 78745",3,30.201916,-97.805061,78745
+336,Oxygen Fitness Center,"163 Trademark St, Buda, TX 78610",1,30.06593,-97.83264,78610
+337,Defiant CrossFit,"16801 Radholme Ct, Ste A, Round Rock, TX 78664",4.5,30.4674863,-97.6601057,78664
+338,Woodward Crossfit,"9308 Anderson Mill Rd, Ste 400, Austin, TX 78729",4.5,30.4512901,-97.784111,78729
+339,Crossfit 3 Strands,"100 W Pflugerville Pkwy, Unit 108, Pflugerville, TX 78660",5,30.465721,-97.6255287,78660
+340,Rumble Boxing,"12160 W Parmer Ln, Ste 150, Cedar Park, TX 78613",3.5,30.5227503,-97.7737903,78613
+341,TruEffort Training Center,"1700 Bryant Dr, Ste 203, Round Rock, TX 78664",5,30.4914597,-97.646617,78664
+342,Program Services Branch YMCA,"3208 Red River St, Austin, TX 78705",2,30.29180717,-97.72709656,78705
+343,FIIT gym,"Cedar Park, TX 78613",5,30.47835,-97.81479,78613
+344,Gold's Gym Roundrock,"2400 S I H 35, Round Rock, TX 78681",2,30.486559,-97.679219,78681
+345,HOTWORX - Round Rock - Brushy Creek,"17420 Ranch Rd 620, Ste 120, Round Rock, TX 78681",5,30.50456,-97.71822,78681
+346,Avery Ranch,"Capital Gymnastics, 504 Denali Pass, Cedar Park, TX 78613",3.5,30.517717,-97.775037,78613
+347,Moxie Gymnastics and Cheer,"16776 Fitzhugh Rd, Dripping Springs, TX 78620",3.5,30.24976349,-98.05579376,78620
+348,Austin Muscle Restoration,"5716 US 290, Ste 111, Austin, TX 78735",1,30.23684,-97.84704,78735
+349,Golds Gym,"1944 Little Elm Trl, Cedar Park, TX 78613",2.5,30.48375478,-97.82924209,78613
+350,Get IT Body Fitness,"2007 N Mays St, Ste 104, Round Rock, TX 78664",2,30.529534,-97.6879359,78664
+351,Goal's Fitness Center,"2700 W Pecan St, Pflugerville, TX 78660",1,30.45010948,-97.65657043,78660

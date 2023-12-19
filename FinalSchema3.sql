@@ -30,7 +30,7 @@ CREATE TABLE "property" (
     "latitude" float   NOT NULL,
     "longitude" float   NOT NULL,
     "sale_amount" float NOT NULL,
-    "sale_transaction_date" DATE, 
+    "sale_transaction_date" DATE,
     CONSTRAINT "pk_property" PRIMARY KEY (
         "property_id"
      )
@@ -44,6 +44,7 @@ CREATE TABLE "restaurants" (
     "rest_ratings" decimal(4)   NOT NULL,
     "latitude" float   NOT NULL,
     "longitude" float   NOT NULL,
+    "zipcode" int   NOT NULL,
     CONSTRAINT "pk_restaurants" PRIMARY KEY (
         "rest_id"
      )
@@ -56,6 +57,7 @@ CREATE TABLE "grocery" (
     "gro_ratings" decimal(4)   NOT NULL,
     "latitude" float   NOT NULL,
     "longitude" float   NOT NULL,
+    "zipcode" int   NOT NULL,
     CONSTRAINT "pk_grocery" PRIMARY KEY (
         "gro_id"
      )
@@ -68,6 +70,7 @@ CREATE TABLE "publicTransport" (
     "pub_ratings" decimal(4)   NOT NULL,
     "latitude" float   NOT NULL,
     "longitude" float   NOT NULL,
+    "zipcode" int   NOT NULL,
     CONSTRAINT "pk_publicTransport" PRIMARY KEY (
         "pub_id"
      )
@@ -80,6 +83,7 @@ CREATE TABLE "schools" (
     "school_ratings" decimal(4)   NOT NULL,
     "latitude" float   NOT NULL,
     "longitude" float   NOT NULL,
+    "zipcode" int   NOT NULL,
     CONSTRAINT "pk_schools" PRIMARY KEY (
         "school_id"
      )
@@ -92,6 +96,7 @@ CREATE TABLE "gyms" (
     "gym_ratings" decimal(4)   NOT NULL,
     "latitude" float   NOT NULL,
     "longitude" float   NOT NULL,
+    "zipcode" int   NOT NULL,
     CONSTRAINT "pk_gyms" PRIMARY KEY (
         "gym_id"
      )
@@ -104,6 +109,7 @@ CREATE TABLE "parks" (
     "park_ratings" decimal(4)   NOT NULL,
     "latitude" float   NOT NULL,
     "longitude" float   NOT NULL,
+    "zipcode" int   NOT NULL,
     CONSTRAINT "pk_parks" PRIMARY KEY (
         "park_id"
      )
@@ -190,19 +196,19 @@ ALTER TABLE "property_park" ADD CONSTRAINT "fk_property_park_park_id" FOREIGN KE
 REFERENCES "parks" ("park_id");
 
 
-COPY property FROM 'Resources/property.csv' DELIMITER ',' CSV HEADER;
-COPY restaurants FROM 'Resources/restaurants.csv' DELIMITER ',' CSV HEADER;
-COPY grocery FROM 'Resources/groceries.csv' DELIMITER ',' CSV HEADER;
-COPY "publicTransport" FROM 'Resources/publictransports.csv' DELIMITER ',' CSV HEADER;
-COPY schools FROM 'Resources/schools.csv' DELIMITER ',' CSV HEADER;
-COPY gyms FROM 'Resources/gyms.csv' DELIMITER ',' CSV HEADER;
-COPY parks FROM 'Resources/parks.csv' DELIMITER ',' CSV HEADER;
-COPY property_restaurant FROM 'Resources/property_restaurant.csv' DELIMITER ',' CSV HEADER;
-COPY property_grocery FROM 'Resources/property_grocery.csv' DELIMITER ',' CSV HEADER;
-COPY "property_publicTransport" FROM 'Resources/property_publictransport.csv' DELIMITER ',' CSV HEADER;
-COPY property_school FROM 'Resources/property_school.csv' DELIMITER ',' CSV HEADER;
-COPY property_gym FROM 'Resources/property_gym.csv' DELIMITER ',' CSV HEADER;
-COPY property_park FROM 'Resources/property_park.csv' DELIMITER ',' CSV HEADER;
+-- COPY property FROM 'Resources/property.csv' DELIMITER ',' CSV HEADER;
+-- COPY restaurants FROM 'Resources/restaurants.csv' DELIMITER ',' CSV HEADER;
+-- COPY grocery FROM 'Resources/groceries.csv' DELIMITER ',' CSV HEADER;
+-- COPY "publicTransport" FROM 'Resources/publictransports.csv' DELIMITER ',' CSV HEADER;
+-- COPY schools FROM 'Resources/schools.csv' DELIMITER ',' CSV HEADER;
+-- COPY gyms FROM 'Resources/gyms.csv' DELIMITER ',' CSV HEADER;
+-- COPY parks FROM 'Resources/parks.csv' DELIMITER ',' CSV HEADER;
+-- COPY property_restaurant FROM 'Resources/property_restaurant.csv' DELIMITER ',' CSV HEADER;
+-- COPY property_grocery FROM 'Resources/property_grocery.csv' DELIMITER ',' CSV HEADER;
+-- COPY "property_publicTransport" FROM 'Resources/property_publictransport.csv' DELIMITER ',' CSV HEADER;
+-- COPY property_school FROM 'Resources/property_school.csv' DELIMITER ',' CSV HEADER;
+-- COPY property_gym FROM 'Resources/property_gym.csv' DELIMITER ',' CSV HEADER;
+-- COPY property_park FROM 'Resources/property_park.csv' DELIMITER ',' CSV HEADER;
 
 
-SELECT * FROM restaurants;
+-- SELECT * FROM restaurants;

@@ -46,36 +46,39 @@ function displayResults() {
     const selectedZipcode = d3.select('#zipcodes').node().value;
     const selectedBedrooms = d3.select('#bedrooms').node().value;
 
-    d3.json('/properties') // Fetch data from Flask endpoint
+    d3.json('/properties')
         .then(function(data) {
-            const filteredData = data.filter(property => property.zipcode === selectedZipcode && property.bedrooms === selectedBedrooms);
+            const filteredData = data.filter(property => {
+                return property.zipcode === parseInt(selectedZipcode, 10) && property.bedrooms === parseInt(selectedBedrooms, 10);
+            });
 
             const resultsDiv = d3.select('#results');
-            resultsDiv.selectAll('*').remove(); // Clear previous results
+            resultsDiv.html(''); // Clear previous results
 
-            filteredData.forEach(property => {
-                const divElement = resultsDiv.append('div')
-                    .text(`${property.address}, ${property.city}`)
-                    .classed('result-item', true)
-                    .on('click', () => displayPropertyDetails(property))
-                    .style('font-size', 'small')
-                    .style('margin-bottom', '12px')
-                
-                divElement.on('mouseover', () => {
-                        divElement.style('background-color', 'lightblue'); // Change to desired highlight color
-                        divElement.style('cursor', 'pointer'); // Change mouse pointer to pointer
-                    })
-                    .on('mouseout', () => {
-                        divElement.style('background-color', 'transparent'); // Reset background color
-                        divElement.style('cursor', 'initial'); // Reset mouse pointer
-                    });
+            if (filteredData.length > 0) {
+                filteredData.forEach(property => {
+                    const divElement= resultsDiv.append('div')
+                        .text(`${property.address}, ${property.city}`)
+                        .classed('result-item', true)
+                        .on('click', () => displayPropertyDetails(property))
+                        .style('font-size', 'small')
+                        .style('margin-bottom', '12px')
+                        .on('mouseover', () => {
+                            divElement.style('background-color', 'lightblue').style('cursor', 'pointer');
+                        })
+                        .on('mouseout', () => {
+                            divElement.style('background-color', 'transparent').style('cursor', 'initial');
+                        });
                 });
-            
-        
+            } else {
+                resultsDiv.append('div')
+                    .text('No matching properties found.');
+            }
         })
         .catch(function(error) {
             console.log('Error fetching data:', error);
         });
+
 
 let myChart = null;
 
@@ -241,7 +244,9 @@ d3.json('/grocery')
 .then(function(groceryData) {
     console.log(groceryData)
     // Filter grocery based on the selected property's zip code
-    const nearbygrocery = groceryData.filter(grocery => grocery.zipcode === property.zipcode).slice(0, 2);
+    const nearbygrocery = groceryData
+    .filter(grocery => parseInt(grocery.zipcode) === parseInt(property.zipcode))
+    .slice(0, 2);
 
     // Display nearby grocery in amenitiesDiv
     const amenitiesDiv = d3.select('#groceryList');
@@ -252,8 +257,7 @@ d3.json('/grocery')
             amenitiesDiv.append('div')
             
                 
-                const groceryName = amenitiesDiv.append('p').text(`Grocery Store Name: ${grocery.grocery_name}`);
-                const groceryRating = amenitiesDiv.append('p').text(`Grocery Store Ratings: ${grocery.grocery_ratings}`);
+                const groceryName = amenitiesDiv.append('p').text(`Grocery Store Name: ${grocery.gro_name}`);
         });
     } else {
         amenitiesDiv.append('div')
@@ -286,7 +290,34 @@ d3.json('/gyms')
         });
     } else {
         amenitiesDiv.append('div')
-            .text('No Gym Store found.');
+            .text('No Gym found.');
+        
+    }
+    })
+    .catch(function(error) {
+        console.error('Error fetching Gym data:', error);
+    }); 
+     // gym record
+d3.json('/publictransport')
+.then(function(pubData) {
+    console.log(pubData)
+    // Filter gym based on the selected property's zip code
+    const nearbypub = pubData.filter(pub => pub.zipcode === property.zipcode).slice(0, 1);
+
+    // Display nearby gym in amenitiesDiv
+    const amenitiesDiv = d3.select('#TransportList');
+    amenitiesDiv.selectAll('*').remove();
+
+    if (nearbypub.length > 0) {
+        nearbypub.forEach(pub => {
+            amenitiesDiv.append('div')
+            
+                
+                const pubName = amenitiesDiv.append('p').text(`Gym  Name: ${pub.pub_name}`);
+        });
+    } else {
+        amenitiesDiv.append('div')
+            .text('No Public Transport found.');
         
     }
     })

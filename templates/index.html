@@ -32,7 +32,14 @@ crossorigin=""></script>
 <body>
     <div class=" container">
         <nav>
+            
             <div class="search-container">
+                <script>
+                    function openAPI(apiUrl) {
+                      window.open(apiUrl, '_blank');
+                    }
+                  </script>
+                <button onclick="openAPI('/api.html')">List of Api's</button>
              <!-- Bedrooms Selector -->
             <label for="bedrooms">Select Bedrooms:</label>
             <select id="bedrooms">
@@ -53,20 +60,25 @@ crossorigin=""></script>
             <!-- <div id="salePriceChart" style="height: 300px; width: 400px;"></div> Div for the chart -->
         </div>
         <div id="amenities">
-            <div class="titles"><h5>Parks</h5>
-                <div id="parkList"></div>
-            </div>
-            <div class="titles"><h5>Schools</h5>
-                <div id="schoolList"></div>
-            </div>
-            <div class="titles"><h5>Grocery Stores</h5>
-                <div id="groceryList"></div>
-            </div>
-            <div class="titles"><h5>Restuarants</h5>
-                <div id="RestuList"></div>
-            </div>
-            <div class="titles"><h5>Gyms</h5>
-                <div id="GymList"></div>
+            <div id=""amenties-container">
+                <div class="titles"><h5>Parks</h5>
+                    <div id="parkList"></div>
+                </div>
+                <div class="titles"><h5>Schools</h5>
+                    <div id="schoolList"></div>
+                </div>
+                <div class="titles"><h5>Grocery Stores</h5>
+                    <div id="groceryList"></div>
+                </div>
+                <div class="titles"><h5>Restuarants</h5>
+                    <div id="RestuList"></div>
+                </div>
+                <div class="titles"><h5>Gyms</h5>
+                    <div id="GymList"></div>
+                </div>
+                <div class="titles"><h5>Public Transport</h5>
+                    <div id="TransportList"></div>
+                </div>
             </div>
         </div>
         <div id="map">Area Map</div>

@@ -1,0 +1,19 @@
+publictransport_id,publictransport_name,publictransport_address,publictransport_ratings,latitude,longitude,Zipcode
+1,Capital Metro,"209 W 9th St, Ste 100, Austin, TX 78701",2.0,30.2713915350908,-97.7440630452746,78701
+2,North Lamar Transit Center,"N Lamar Blvd And Research Blvd, Austin, TX 78758",2.0,30.34838,-97.71251,78758
+3,MetroRail - Leander Station,"800 N US Hwy 183, Leander, TX 78641",5.0,30.58769,-97.8559,78641
+4,Metrobike Austin,"1000 Brazos St, Ste 100, Austin, TX 78701",2.0,30.2715418,-97.7401939,78701
+5,Highland Metrorail Station,"6400 Airport Blvd, Austin, TX 78752",3.0,30.3286986922504,-97.7161833335162,78752
+6,Carts,"2010 E 6th St, Austin, TX 78702",1.0,30.26136,-97.72037,78702
+7,MetroRail Kramer Station,"2427 1/2 Kramer Ln, Austin, TX 78758",2.5,30.3929347994597,-97.7164863827032,78758
+8,Central Texas Regional Mobility Authority,"301 Congress Ave, Ste 650, Austin, TX 78701",1.0,30.2654552459717,-97.7428894042969,78701
+9,Star Shuttle & Charter,"1343 Hallmark Dr, San Antonio, TX 78216",3.0,29.516201,-98.473058,78216
+10,Capital Metropolitan Transportation Authority,"2910 E 5th St, Austin, TX 78702",2.5,30.25653,-97.70975,78702
+11,Amtrak,"118 E 1st St, Taylor, TX 76574",2.5,30.5675907,-97.4083176,76574
+12,CapMetro - Museum Northbound,"1699 Lavaca St, Austin, TX 78701",4.0,30.2792236700471,-97.7412045747042,78701
+13,CapMetro Bus Stop,"500 W 34th St, Austin, TX 78705",1.5,30.30006,-97.73875,78705
+14,CapMetro - Capitol NB,"1228 Lavaca St, Austin, TX 78701",2.0,30.2755904895609,-97.7425691485405,78701
+15,Kerrville Bus Company,"Austin, TX 78701",1.0,30.266944,-97.742778,78701
+16,SH-45 Toll Road,"SH-45 N, Austin, TX 78798",4.0,30.266944,-97.742778,78798
+17,Transportes Tejanos,"2007 E Riverside Dr, Austin, TX 78741",1.0,30.240477,-97.728196,78741
+18,Roy's Limousine Service,"4810 Hale Dr, Austin, TX 78749",1.0,30.20874,-97.85653,78749
