@@ -73,6 +73,8 @@ Data visualizations are seamlessly integrated. These visualizations weave a comp
 - improved CSS design
 - added amenities which were having issues of loading.
 - new flask routes and table information amended to fetch amenities data.
+- flask api created by using schema
+- list of api button added in index.html
 - flask Routes
 - /properties
 - /parks
