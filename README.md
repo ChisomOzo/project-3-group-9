@@ -19,7 +19,7 @@ Welcome to the Housing Market Analysis Project! This comprehensive project offer
 ## Project Structure
 The project is structured as follows:
 
-- `flask_app.py`: Contains the Flask API implementation.
+- `app.py`: Contains the Flask API implementation.
 - `index.html`: For HTML templates.
 - `logic.js`: For JavaScript.
 - `properties_analysis`, `amenities_analysis`: Jupyter notebooks for data exploration and analysis.
