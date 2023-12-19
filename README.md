@@ -11,6 +11,7 @@
 - [Data Visualization](#data-visualization)
 - [Contributors](#contributors)
 - [References](#references)
+- [ChangeLog](#ChangeLog)
 
 ## Project Overview
 Welcome to the Housing Market Analysis Project! This comprehensive project offers insights into the housing market by analyzing housing prices, amenities, and surrounding features. Leveraging a Flask API to serve data to the frontend, the project's user interface is developed using HTML, CSS, and JavaScript. Rich data visualizations are integrated to highlight trends in housing prices and amenity patterns.
@@ -66,3 +67,16 @@ Data visualizations are seamlessly integrated. These visualizations weave a comp
 - [QuickDBD for Schema Design](https://www.quickdatabasediagrams.com/)
 - [Yelp API](https://www.yelp.com/developers/documentation/v3)
 - [ATTOM Real Estate API](https://api.developer.attomdata.com/docs)
+## ChangeLog
+- d3 java is mainly used.
+- Use of chart.js for generating interactive bar charts.(New library Chart.js is used)
+- improved CSS design
+- added amenities which were having issues of loading.
+- new flask routes and table information amended to fetch amenities data.
+- flask Routes
+- /properties
+- /parks
+- /gyms
+- /restaurants
+- /grocery
+- /schools
