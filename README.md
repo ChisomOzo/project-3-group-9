@@ -45,7 +45,7 @@ The project utilizes data from the following sources:
 Data cleanup and analysis are performed in Jupyter notebooks 'properties_analysis' and 'amenities_analysis'. Explore, clean, and reformat data to prepare it for analysis. Detailed steps are documented in the notebooks.
 
 ## Flask API
-The Flask API (`flask_apps.py`) serves as the backend for the project. It handles data retrieval and user-driven interactions. 
+The Flask API (`app.py`) serves as the backend for the project. It handles data retrieval and user-driven interactions. 
 
 ## Frontend Development
 The frontend is built using HTML, and JavaScript. User-driven interactions are implemented using a JS library. 
